@@ -412,12 +412,12 @@
       ]
     },
     {
-      "audio": "07-booking-and-points.mp3",
-      "title": "Air booking: channels & timing",
-      "source": "DoE air booking OM 16 Jun 2022 · DoPT LTC exception 10 Aug 2023",
+      "title": "Official-tour air booking: rules and clocks",
+      "source": "DoE OM 19024/03/2021-E.IV · 16 Jun 2022",
+      "audio": "ta-tour-air-booking.mp3",
       "beats": [
         {
-          "heading": "07A  |  Government-account air booking",
+          "heading": "TOUR TA  /  GOVERNMENT-ACCOUNT BOOKING",
           "cards": [
             [
               "BLCL",
@@ -432,52 +432,450 @@
               "Authorised agent"
             ],
             [
-              "SCOPE",
-              "Air passage"
+              "FARE",
+              "Fixed 3-hour slot"
             ]
           ],
-          "rule": "Government-funded air booking follows the DoE OM; later LTC exceptions may apply.",
-          "example": "A Level 7 air-entitled officer must still check booking and sanction rules.",
-          "trap": "Ordinary LTC has a later exception for non-air-entitled employees; special dispensations differ.",
-          "key": "Best fare uses fixed 3-hour slots: 10:00 falls in 09:00–12:00.",
+          "rule": "For the official-tour air booking described in the 2022 OM, check the authorised agent and entitled-class best available fare.",
+          "example": "For a 10 am departure, compare fares in the 09:00–12:00 slot, with the stated 10% band.",
+          "trap": "Unauthorised booking is not automatically regularised; the OM specifies a limited relaxation authority.",
+          "key": "Sanction and tour purpose matter; this instruction is about air passage, not every rail ticket.",
           "lines": [
-            "Government account से air ticket book करनी हो तो इस order में तीन approved agents हैं: Balmer Lawrie, Ashok Travels and Tours, और आई आर सी टी सी।",
-            "Example: Level Seven employee air travel के लिए eligible हो सकता है, लेकिन ticket booking और tour approval भी check होंगे।",
-            "Best Available Fare अपने entitled class और fixed three hour slot में check करें; convenience के लिए order का ten percent price band भी देखें।",
-            "Example: ten A M flight के लिए nine to twelve वाला slot देखें, कोई rolling window नहीं।",
-            "ये air ticket rule है; इसे हर rail ticket पर automatically मत लगाएं। Unavoidable case में limited relaxation का process guide में है।"
+            "Official tour पर Government account से air ticket के लिए twenty twenty two order तीन authorised agents बताता है: Balmer Lawrie, Ashok Travels and Tours, और आई आर सी टी सी।",
+            "Entitled class में Best Available Fare fixed three hour slot से check करें; convenience के लिए stated ten percent band भी देखें। Example: ten A M departure का slot nine से twelve है, rolling window नहीं।",
+            "ये air booking rule हर rail ticket पर नहीं लगता। Unauthorised booking में limited relaxation के लिए competent authority की conditions check करें।"
           ]
         },
         {
-          "heading": "07B  |  21 days, 72 hours & points",
+          "heading": "TOUR TA  /  21 DAYS AND TWO 72-HOUR CLOCKS",
           "cards": [
             [
               "21 DAYS",
-              "Encouraged"
+              "Advance booking encouraged"
             ],
             [
-              "<72 HOURS",
-              "Tour justification"
+              "UNDER 72H",
+              "Tour booking reason"
+            ],
+            [
+              "AFTER TRIP",
+              "72h completion certificate"
             ],
             [
               "POINTS",
-              "No air points"
-            ],
-            [
-              "AFTER JOURNEY",
-              "72h certificate"
+              "No mileage points"
             ]
           ],
-          "rule": "Advance booking is encouraged; tour bookings under 72 hours need self-justification.",
-          "example": "Booked 2 days ahead: give a reason; after travel, file the 72-hour certificate.",
-          "trap": "Do not turn the 21-day encouragement into an automatic forfeiture rule.",
-          "key": "2022 OM: no mileage points generated for Government-account air travel.",
+          "rule": "The OM encourages booking 21 days ahead, requires a reason for tour booking under 72 hours, and a separate post-journey certificate.",
+          "example": "An urgent tour booked 2 days ahead needs the stated justification; completion certification is a separate step.",
+          "trap": "The 21-day encouragement is not a universal automatic forfeiture rule.",
+          "key": "The two 72-hour requirements start from different events.",
           "lines": [
-            "Tour और एल टी सी के लिए twenty one days पहले flight book करना encouraged है; इसे हर case में mandatory deadline मत मानिए।",
-            "Tour booking departure से less than seventy two hours पहले हो, तो employee को अपना reason देना होता है।",
-            "Example: urgent tour की ticket दो दिन पहले book हुई, तो self declared reason ready रखें।",
-            "उसी trip के बाद seventy two hours के अंदर required journey completion certificate दें; ये booking reason से अलग है।",
-            "Government account के air travel पर mileage points generate नहीं होने चाहिए।"
+            "Twenty one days पहले booking encouraged है, लेकिन इसे हर case में mandatory deadline मत मानिए। Tour ticket departure से less than seventy two hours पहले book हो तो self declared reason देना होगा।",
+            "Example: urgent tour की ticket दो दिन पहले book हुई, तो reason तैयार रखें। Journey complete होने के बाद seventy two hours के अंदर prescribed completion certificate भी देना है। दोनों clocks अलग हैं।",
+            "Government account की air travel पर mileage points generate नहीं होने चाहिए।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Daily allowance on tour: three heads",
+      "source": "DoE 2017 OM Annex 2.E · DoE DA order 12 Mar 2024",
+      "audio": "ta-daily-heads.mp3",
+      "beats": [
+        {
+          "heading": "TOUR TA  /  THE THREE COMPONENTS",
+          "cards": [
+            [
+              "HOTEL",
+              "Eligible stay"
+            ],
+            [
+              "CITY TRAVEL",
+              "Actual eligible expense"
+            ],
+            [
+              "FOOD",
+              "Time-based lump sum"
+            ],
+            [
+              "FARE",
+              "Separate journey claim"
+            ]
+          ],
+          "rule": "Tour daily allowance has separate accommodation, local-travel and food components.",
+          "example": "A train ticket is a journey expense; hotel, eligible city travel and food have separate rules.",
+          "trap": "Daily Allowance on tour is not the monthly Dearness Allowance percentage.",
+          "key": "Identify the journey and each tour-allowance component separately.",
+          "lines": [
+            "अब official tour की Daily Allowance समझते हैं। इसमें तीन अलग components हैं: eligible hotel stay, city के अंदर travel, और food का lump sum।",
+            "Example: किसी employee की train ticket journey fare है। Hotel, local travel और food को अलग rules से check किया जाता है।",
+            "यहाँ Daily Allowance को salary वाले Dearness Allowance के साथ confuse मत करिए।"
+          ]
+        },
+        {
+          "heading": "TOUR TA  /  DEARNESS-LINKED INCREASE",
+          "cards": [
+            [
+              "2017",
+              "Base amounts"
+            ],
+            [
+              "2024",
+              "DA reached 50%"
+            ],
+            [
+              "CHANGE",
+              "+25% where specified"
+            ],
+            [
+              "CHECK",
+              "Later orders"
+            ]
+          ],
+          "rule": "The listed ceilings or lump sums rise 25% when Dearness Allowance increases by 50%, as each clause specifies.",
+          "example": "Level 7 food base Rs 800 becomes Rs 1,000 after the first 25% increase.",
+          "trap": "A move from 50% to 60% Dearness Allowance is not itself another 50-point increase.",
+          "key": "Use the journey date and the specific component's escalation clause.",
+          "lines": [
+            "Twenty seventeen order में listed hotel, food और कुछ travel ceilings, Dearness Allowance के fifty percent increase पर twenty five percent बढ़ते हैं।",
+            "January twenty twenty four से Dearness Allowance fifty percent हुआ। Example: Level Seven का food base eight hundred rupees था, first increase के बाद one thousand rupees बनता है।",
+            "Fifty से sixty percent जाने पर अपने आप एक और twenty five percent increase मत जोड़िए। Journey date और latest order check करें।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hotel ceiling, self-certification and GST",
+      "source": "DoE 2017 Annex 2.E(ii) · DoE GST OM 29 Jun 2018",
+      "audio": "ta-hotel-proof.mp3",
+      "beats": [
+        {
+          "heading": "TOUR TA  /  HOTEL: UPDATED GENERAL CEILINGS",
+          "cards": [
+            [
+              "L14+",
+              "Rs 9,375 / day"
+            ],
+            [
+              "L12–13A",
+              "Rs 5,625 / day"
+            ],
+            [
+              "L9–11",
+              "Rs 2,812.50 / day"
+            ],
+            [
+              "L6–8 / L5-",
+              "Rs 937.50 / 562.50"
+            ]
+          ],
+          "rule": "The table applies the first 25% increase to the 2017 hotel ceilings; admissible actual stay is reimbursed up to the applicable ceiling.",
+          "example": "Level 9: an eligible Rs 2,000 room charge is not automatically the Rs 2,812.50 ceiling.",
+          "trap": "A ceiling is a maximum, not an automatic daily cash payment.",
+          "key": "Separate the room charge, admissible ceiling, tax and evidence.",
+          "lines": [
+            "First increase के बाद general hotel ceilings per day हैं: Level Fourteen और ऊपर nine thousand three hundred seventy five rupees; Level Twelve से Thirteen A five thousand six hundred twenty five।",
+            "Level Nine से Eleven two thousand eight hundred twelve rupees fifty paise; Level Six से Eight nine hundred thirty seven rupees fifty paise; Level Five और नीचे five hundred sixty two rupees fifty paise।",
+            "Example: Level Nine का eligible room charge two thousand rupees है, तो सिर्फ ceiling बड़ी होने से पूरा ceiling amount नहीं मिलता। Tax और proof अलग check करें।"
+          ]
+        },
+        {
+          "heading": "TOUR TA  /  HOTEL PROOF AND TAX",
+          "cards": [
+            [
+              "LEVEL ≤8",
+              "Normal self-certification"
+            ],
+            [
+              "X CITY",
+              "Special ceiling + voucher"
+            ],
+            [
+              "GST",
+              "Check actual eligible charge"
+            ],
+            [
+              "DOCUMENTS",
+              "Stay period + place"
+            ]
+          ],
+          "rule": "Up to Level 8, normal hotel claims may be self-certified; the special Class X-city ceiling requires relevant vouchers.",
+          "example": "For a qualifying Level 7 Class X-city stay, check the Rs 1,250 escalated ceiling and produce the voucher.",
+          "trap": "The special voucher rule and GST proof cannot be assumed away by general self-certification.",
+          "key": "2018 DoE OM: admissible taxes/GST are above the ceiling, on the eligible room charge.",
+          "lines": [
+            "Level Eight और नीचे general hotel claim में, stated conditions पर self certification possible है। Stay period और place जैसी details दीजिए।",
+            "Class X city में इन levels के लिए special ceiling का twenty seventeen base one thousand था, जो first increase के बाद one thousand two hundred fifty rupees बनता है। इस special ceiling के लिए relevant voucher चाहिए।",
+            "Example: Level Seven का eligible Class X stay voucher के साथ इस ceiling पर check होगा। Twenty eighteen order में tax और GST ceiling से अलग हैं, लेकिन GST eligible actual room charge पर calculate होगा।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Food lump sum: time and midnight",
+      "source": "DoE 2017 Annex 2.E(iv)–(v) · 2024 DA order",
+      "audio": "ta-food-midnight.mp3",
+      "beats": [
+        {
+          "heading": "TOUR TA  /  FOOD AMOUNTS BY LEVEL",
+          "cards": [
+            [
+              "L14+",
+              "Rs 1,500"
+            ],
+            [
+              "L12–13A",
+              "Rs 1,250"
+            ],
+            [
+              "L9–11",
+              "Rs 1,125"
+            ],
+            [
+              "L6–8 / L5-",
+              "Rs 1,000 / 625"
+            ]
+          ],
+          "rule": "Food is a time-adjusted lump sum, not a separate food-bill reimbursement.",
+          "example": "For an eligible Level 7 tour, the full-day food reference amount is Rs 1,000 after the first increase.",
+          "trap": "Free boarding/lodging and other specific conditions must be checked separately.",
+          "key": "The table is a reference amount; the payable percentage depends on absence.",
+          "lines": [
+            "Food के लिए अलग bill reimbursement नहीं है; eligible tour पर time के हिसाब से lump sum लगता है। Food voucher की जरूरत नहीं है।",
+            "First increase के बाद full day reference amounts: Level Fourteen और ऊपर fifteen hundred, Level Twelve से Thirteen A twelve fifty, Level Nine से Eleven eleven twenty five, Level Six से Eight one thousand, और Level Five और नीचे six hundred twenty five rupees।",
+            "Example: Level Seven के लिए reference one thousand rupees है, लेकिन कितना मिलेगा ये उसी day की eligible absence पर depend करेगा।"
+          ]
+        },
+        {
+          "heading": "TOUR TA  /  CALCULATE EACH CALENDAR DAY",
+          "cards": [
+            [
+              "UNDER 6H",
+              "30%"
+            ],
+            [
+              "6–12H",
+              "70%"
+            ],
+            [
+              "OVER 12H",
+              "100%"
+            ],
+            [
+              "DAY",
+              "Midnight to midnight"
+            ]
+          ],
+          "rule": "For each midnight-to-midnight day: under 6 hours = 30%, 6–12 = 70%, over 12 = 100%.",
+          "example": "Level 7: 8 pm departure and 5 am return next day = 4h + 5h; Rs 300 + Rs 300.",
+          "trap": "Do not add hours across midnight and apply one slab to the whole trip.",
+          "key": "Apply the percentage to each eligible day, subject to applicable conditions.",
+          "lines": [
+            "हर midnight to midnight day पर absence अलग count होती है। Six hours से कम पर thirty percent, six से twelve hours पर seventy percent, और twelve hours से ज्यादा पर hundred percent।",
+            "Example: Level Seven eligible tour के लिए रात eight बजे निकला और अगली सुबह five बजे वापस आया। पहले day four hours और दूसरे day five hours हैं।",
+            "दोनों days thirty percent हैं। पहले day three hundred rupees और दूसरे day three hundred rupees, total six hundred rupees food amount check होगा। Free meals और बाकी conditions भी check करें।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "City travel on tour: limits and evidence",
+      "source": "DoE 2017 Annex 2.E(i),(iii) · DoE 22 Dec 2020",
+      "audio": "ta-city-limits.mp3",
+      "beats": [
+        {
+          "heading": "TOUR TA  /  LOCAL TRAVEL BY PAY LEVEL",
+          "cards": [
+            [
+              "L14+",
+              "Actual AC, official need"
+            ],
+            [
+              "L12–13A",
+              "AC up to 50 km/day"
+            ],
+            [
+              "L9–11",
+              "Non-AC up to Rs 422.50"
+            ],
+            [
+              "L6–8 / L5-",
+              "Up to Rs 281.25 / 141.25"
+            ]
+          ],
+          "rule": "City-travel limits differ by level and mode; the amount is for eligible actual travel.",
+          "example": "Level 9 incurs Rs 300 eligible non-AC city travel; the Rs 422.50 ceiling is not a flat payment.",
+          "trap": "Do not apply the per-day city cap as an intercity per-kilometre road mileage rate.",
+          "key": "The Level 11-and-below rupee ceilings shown include the first 25% increase.",
+          "lines": [
+            "Tour city travel में Level Fourteen और ऊपर official need के हिसाब से actual eligible ए सी taxi। Level Twelve से Thirteen A के लिए ए सी taxi up to fifty kilometres per day।",
+            "First increase के बाद non ए सी daily ceilings: Level Nine से Eleven four hundred twenty two rupees fifty paise; Level Six से Eight two hundred eighty one rupees twenty five paise; Level Five और नीचे one hundred forty one rupees twenty five paise।",
+            "Example: Level Nine का eligible city taxi expense three hundred rupees है, तो cap four twenty two fifty होने से वो automatic flat amount नहीं बनता।"
+          ]
+        },
+        {
+          "heading": "TOUR TA  /  ACTUAL EXPENSE AND SELF-CERTIFICATION",
+          "cards": [
+            [
+              "L9–11",
+              "2020 relaxation"
+            ],
+            [
+              "L8 AND BELOW",
+              "2017 provision"
+            ],
+            [
+              "RECORD",
+              "Period, vehicle number"
+            ],
+            [
+              "FREE CAR",
+              "No taxi cost incurred"
+            ]
+          ],
+          "rule": "For qualifying city travel, Levels 9–11 may self-certify under the 2020 OM; Level 8 and below has the earlier provision.",
+          "example": "Level 10 records the correct amount, travel period and vehicle number for an eligible cab.",
+          "trap": "A free government vehicle is not a paid taxi expense, and the relaxation is not for hotel proof.",
+          "key": "Eligibility, actual expense, cap and the correct proof must all match.",
+          "lines": [
+            "Level Nine से Eleven के eligible city travel पर twenty twenty order ने voucher की condition हटाई, लेकिन self certification में travel period और vehicle number जैसी details जरूरी हैं।",
+            "Level Eight और नीचे पहले वाले self certification rule को check करें। Example: Level Ten employee actual eligible cab cost और vehicle number सही record करता है।",
+            "Government की free car मिली हो तो उसका paid taxi expense नहीं बना। ये city travel relaxation, hotel proof को automatically replace नहीं करती।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tour local travel: evidence and actual expense",
+      "source": "DoE 22 Dec 2020 · DoE 1 Feb 2018 · 2017 Annex 2.E",
+      "audio": "11-local-travel-proof.mp3",
+      "beats": [
+        {
+          "heading": "OFFICIAL UPDATE  /  LOCAL TRAVEL ON TOUR",
+          "cards": [
+            [
+              "Who",
+              "Pay Levels 9 to 11"
+            ],
+            [
+              "For",
+              "City travel on tour"
+            ],
+            [
+              "Evidence",
+              "Self-certification"
+            ],
+            [
+              "Details",
+              "Period and vehicle number"
+            ]
+          ],
+          "rule": "The 2020 OM removes the voucher condition for eligible Level 9–11 city-travel claims on tour, with self-certification.",
+          "example": "Level 10 employee states the travel period and vehicle number for official local visits.",
+          "trap": "The entitlement, applicable ceiling and other conditions still matter.",
+          "key": "Self-certification is not a flat payment or permission for invented expenses.",
+          "lines": [
+            "Official tour पर local travel की reimbursement, actual expense और बाकी conditions पर depend करती है।",
+            "DoE के twenty twenty clarification ने Pay Level Nine से Eleven के लिए city travel vouchers की condition हटाई, लेकिन self certification में travel period और vehicle number जैसी details देनी हैं।",
+            "Example: Level Ten employee official visits के लिए cab लेता है। Receipt नहीं है, तो वो सही expense और vehicle number self certify करता है; applicable limits और बाकी checks अभी भी जरूरी हैं।"
+          ]
+        },
+        {
+          "heading": "OFFICIAL UPDATE  /  FREE BOARDING IS NOT FREE TRAVEL",
+          "cards": [
+            [
+              "Free stay",
+              "No stay expense incurred"
+            ],
+            [
+              "Free meals",
+              "No meal expense incurred"
+            ],
+            [
+              "Local travel",
+              "Actual eligible expense"
+            ],
+            [
+              "Scope",
+              "Tour, not automatic LTC"
+            ]
+          ],
+          "rule": "The 2018 clarification permits eligible incurred local travel despite free boarding and lodging, subject to the rules.",
+          "example": "A trainee receives free hotel and meals but pays for an eligible official local journey.",
+          "trap": "The Level 9–11 voucher relaxation is for tour city travel, not every hotel, food, transfer or LTC claim.",
+          "key": "Identify the component and its own documentation rule.",
+          "lines": [
+            "Free boarding और lodging मिलने पर भी, tour के लिए genuinely incurred local travel applicable rules के हिसाब से claim हो सकता है।",
+            "Example: trainee को free hotel और meals मिले, लेकिन official local trip का allowed खर्च खुद दिया। वो उस खर्च को rules और evidence के साथ check करेगा।",
+            "Level Nine से Eleven की ये voucher relaxation hotel, food, transfer या एल टी सी के हर claim पर automatically लागू नहीं होती।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Road mileage: prescribed and fallback rates",
+      "source": "DoE 2017 Annex 2.D(i)–(ii) · DA order 12 Mar 2024",
+      "audio": "ta-road-mileage.mp3",
+      "beats": [
+        {
+          "heading": "ROAD TA  /  FIRST CHECK PRESCRIBED RATES",
+          "cards": [
+            [
+              "JOURNEY",
+              "Road between places"
+            ],
+            [
+              "RATE",
+              "State transport authority"
+            ],
+            [
+              "MODE",
+              "Level + vehicle"
+            ],
+            [
+              "CAP",
+              "Rail-connected rule"
+            ]
+          ],
+          "rule": "Where rates are prescribed, use the applicable Directorate of Transport rates and the employee's mode entitlement.",
+          "example": "An officer checks whether the journey is rail-connected and whether the chosen road mode is eligible.",
+          "trap": "A taxi can be available without being an entitled mode for every pay level.",
+          "key": "Road mileage is distinct from daily local travel at the tour station.",
+          "lines": [
+            "Intercity road journey में पहले check करें कि concerned State या neighbouring State की Transport Directorate ने specific rates prescribe किए हैं या नहीं।",
+            "Prescribed rates हों तो applicable mode और Pay Level की conditions देखें। Example: employee अपनी road journey पर vehicle entitlement और rail connected route की fare condition दोनों check करता है।",
+            "Available taxi का मतलब हर Pay Level को हर taxi class की entitlement नहीं है। इसे tour city travel वाली daily ceiling से mix मत करिए।"
+          ]
+        },
+        {
+          "heading": "ROAD TA  /  FALLBACK WHEN NO RATE EXISTS",
+          "cards": [
+            [
+              "2017 BASE",
+              "Car/taxi Rs 24 per km"
+            ],
+            [
+              "2017 BASE",
+              "Auto/scooter Rs 12 per km"
+            ],
+            [
+              "FIRST RISE",
+              "Rs 30 / Rs 15"
+            ],
+            [
+              "SUBJECT TO",
+              "Mode + other rules"
+            ]
+          ],
+          "rule": "Where neither relevant Directorate has prescribed rates, the 2017 fallback rates are Rs 24 / 12 per km; the first 25% increase makes them Rs 30 / 15.",
+          "example": "An otherwise eligible, authorised 40 km own-car journey at the Rs 30 fallback gives Rs 1,200 before other checks.",
+          "trap": "Fallback rates do not override mode entitlement, route restrictions or duplicate-reimbursement rules.",
+          "key": "These are calculated fallback rates, not a universal taxi permission.",
+          "lines": [
+            "जहाँ दोनों relevant Transport Directorates ने rates prescribe नहीं किए, twenty seventeen fallback own car या taxi के लिए twenty four और auto या own scooter के लिए twelve rupees per kilometre था।",
+            "First twenty five percent increase के बाद ये thirty और fifteen rupees बनते हैं। Example: otherwise eligible और approved own car journey forty kilometres है, तो thirty से multiply करने पर one thousand two hundred rupees का starting calculation बनेगा।",
+            "ये calculation vehicle entitlement, route rules और बाकी conditions को override नहीं करता।"
           ]
         }
       ]
@@ -686,337 +1084,68 @@
       ]
     },
     {
-      "title": "Tour local travel: evidence and actual expense",
-      "source": "DoE 22 Dec 2020 · DoE 1 Feb 2018 · 2017 Annex 2.E",
-      "audio": "11-local-travel-proof.mp3",
+      "title": "Transfer TA: components and transfer grant",
+      "source": "DoE 2017 Annex 3(i)–(iv) · SR 114/116 · 2022 amendments",
+      "audio": "ta-transfer-overview.mp3",
       "beats": [
         {
-          "heading": "OFFICIAL UPDATE  /  LOCAL TRAVEL ON TOUR",
+          "heading": "TRANSFER TA  /  FOUR DIFFERENT HEADS",
           "cards": [
             [
-              "Who",
-              "Pay Levels 9 to 11"
+              "JOURNEY",
+              "Employee + eligible family"
             ],
             [
-              "For",
-              "City travel on tour"
+              "CTG",
+              "Composite transfer grant"
             ],
             [
-              "Evidence",
-              "Self-certification"
+              "EFFECTS",
+              "Personal belongings"
             ],
             [
-              "Details",
-              "Period and vehicle number"
+              "VEHICLE",
+              "Conveyance"
             ]
           ],
-          "rule": "The 2020 OM removes the voucher condition for eligible Level 9–11 city-travel claims on tour, with self-certification.",
-          "example": "Level 10 employee states the travel period and vehicle number for official local visits.",
-          "trap": "The entitlement, applicable ceiling and other conditions still matter.",
-          "key": "Self-certification is not a flat payment or permission for invented expenses.",
+          "rule": "Transfer TA has four components: travel, CTG, eligible personal effects and eligible conveyance.",
+          "example": "On an eligible public-interest transfer, list the employee journey, family journey, effects and vehicle separately.",
+          "trap": "One component being admissible does not automatically sanction the other three.",
+          "key": "Transfer, retirement and tour have different conditions.",
           "lines": [
-            "Official tour पर local travel की reimbursement, actual expense और बाकी conditions पर depend करती है।",
-            "DoE के twenty twenty clarification ने Pay Level Nine से Eleven के लिए city travel vouchers की condition हटाई, लेकिन self certification में travel period और vehicle number जैसी details देनी हैं।",
-            "Example: Level Ten employee official visits के लिए cab लेता है। Receipt नहीं है, तो वो सही expense और vehicle number self certify करता है; applicable limits और बाकी checks अभी भी जरूरी हैं।"
+            "Transfer टी ए में चार अलग heads हैं: employee और eligible family की journey, Composite Transfer Grant यानी सी टी जी, personal effects, और eligible conveyance की transport।",
+            "Example: public interest में approved transfer पर employee अपने और family travel, सामान और vehicle को अलग rows में check करता है।",
+            "एक head approve होने से बाकी तीन heads automatically approve नहीं होते।"
           ]
         },
         {
-          "heading": "OFFICIAL UPDATE  /  FREE BOARDING IS NOT FREE TRAVEL",
+          "heading": "TRANSFER TA  /  CTG IS NOT RETIREMENT CTG",
           "cards": [
             [
-              "Free stay",
-              "No stay expense incurred"
+              "20 KM+",
+              "80% last basic pay"
             ],
             [
-              "Free meals",
-              "No meal expense incurred"
+              "UNDER 20 KM",
+              "One-third, if residence changes"
             ],
             [
-              "Local travel",
-              "Actual eligible expense"
+              "ISLANDS",
+              "Specified cases: 100%"
             ],
             [
-              "Scope",
-              "Tour, not automatic LTC"
+              "TEST",
+              "Public interest + conditions"
             ]
           ],
-          "rule": "The 2018 clarification permits eligible incurred local travel despite free boarding and lodging, subject to the rules.",
-          "example": "A trainee receives free hotel and meals but pays for an eligible official local journey.",
-          "trap": "The Level 9–11 voucher relaxation is for tour city travel, not every hotel, food, transfer or LTC claim.",
-          "key": "Identify the component and its own documentation rule.",
+          "rule": "For transfer, the 2017 OM specifies 80% for a change of station at least 20 km apart; closer/same-city cases have a conditional one-third rule.",
+          "example": "Eligible transfer 20 km or more away; last basic Rs 50,000 → 80% CTG is Rs 40,000.",
+          "trap": "Own-request restrictions, spouse cases and 2022 retirement CTG have separate conditions.",
+          "key": "Check transfer purpose, distance, residence and special-region orders.",
           "lines": [
-            "Free boarding और lodging मिलने पर भी, tour के लिए genuinely incurred local travel applicable rules के हिसाब से claim हो सकता है।",
-            "Example: trainee को free hotel और meals मिले, लेकिन official local trip का allowed खर्च खुद दिया। वो उस खर्च को rules और evidence के साथ check करेगा।",
-            "Level Nine से Eleven की ये voucher relaxation hotel, food, transfer या एल टी सी के हर claim पर automatically लागू नहीं होती।"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "DoPT FAQ: LTC is not official tour TA",
-      "source": "DoPT LTC FAQ 1 Jul 2025 · questions 6, 26, 27, 37–38",
-      "audio": "12-ltc-faq-basics.mp3",
-      "beats": [
-        {
-          "heading": "DOPT FAQ  /  FAMILY, LEAVE AND LTC",
-          "cards": [
-            [
-              "Family",
-              "May travel separately"
-            ],
-            [
-              "Employee LTC",
-              "Admissible leave needed"
-            ],
-            [
-              "Family only",
-              "No employee leave needed"
-            ],
-            [
-              "Different",
-              "Tour TA is separate"
-            ]
-          ],
-          "rule": "DoPT's LTC FAQ distinguishes employee travel on leave from a journey by family alone.",
-          "example": "When only eligible family members use LTC, the employee need not take leave just for that journey.",
-          "trap": "For an employee's own LTC, weekends or holidays alone are not enough under the FAQ.",
-          "key": "These are LTC answers, not automatic rules for official tour TA.",
-          "lines": [
-            "अब DoPT की one July twenty twenty five वाली एल टी सी FAQ से कुछ important differences। Eligible family members अलग travel कर सकते हैं।",
-            "अगर सिर्फ family एल टी सी पर जा रही है, employee को सिर्फ उस वजह से leave लेने की जरूरत नहीं है।",
-            "Example: employee office में काम करता है और eligible family member approved एल टी सी पर जाता है।",
-            "लेकिन employee खुद एल टी सी ले तो admissible leave जरूरी है; सिर्फ weekend या holiday काफी नहीं है। ये official tour टी ए का rule नहीं है।"
-          ]
-        },
-        {
-          "heading": "DOPT FAQ  /  INCIDENTAL AND LOCAL COSTS",
-          "cards": [
-            [
-              "LTC",
-              "Point-to-point journey"
-            ],
-            [
-              "Local taxi",
-              "Not under LTC Rule 13"
-            ],
-            [
-              "Tour TA",
-              "Different rules"
-            ],
-            [
-              "Check",
-              "Purpose and sanction"
-            ]
-          ],
-          "rule": "LTC does not reimburse incidental or local journeys, including home-to-airport taxi, under the cited FAQ.",
-          "example": "A taxi from home to the airport for an LTC trip is not a reimbursable LTC local fare.",
-          "trap": "Do not copy this LTC answer into every sanctioned official-tour local-travel claim.",
-          "key": "LTC and tour may have different components, evidence and deadlines.",
-          "lines": [
-            "DoPT FAQ के मुताबिक एल टी सी में incidental और local journey खर्च cover नहीं होते; घर से airport का local taxi fare भी एल टी सी में नहीं है।",
-            "Example: family holiday के लिए घर से airport जाने की cab, उस एल टी सी claim में मत जोड़िए।",
-            "Official tour पर local travel की अलग conditions हो सकती हैं; दोनों systems को mix मत करिए।"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "DoPT FAQ: trains, booking and obsolete fares",
-      "source": "DoPT LTC FAQ 1 Jul 2025 · questions 33, 45–48",
-      "audio": "13-ltc-faq-booking.mp3",
-      "beats": [
-        {
-          "heading": "DOPT FAQ  /  PREMIUM TRAINS AND BOOKING",
-          "cards": [
-            [
-              "Trains",
-              "Tejas / Vande / Humsafar"
-            ],
-            [
-              "LTC",
-              "Subject to entitlement"
-            ],
-            [
-              "21 days",
-              "Booking encouraged"
-            ],
-            [
-              "Check",
-              "Journey purpose and class"
-            ]
-          ],
-          "rule": "The 2025 FAQ permits listed premium trains for LTC as per entitlement; it encourages advance air booking.",
-          "example": "An employee checks their LTC class before booking a Vande Bharat journey.",
-          "trap": "Twenty-one days is encouraged in the cited FAQ, not a universal automatic-forfeiture rule.",
-          "key": "LTC train entitlement and official-tour entitlement have separate source orders.",
-          "lines": [
-            "DoPT की twenty twenty five FAQ के अनुसार, Tejas, Vande Bharat और Humsafar से एल टी सी travel entitlement के हिसाब से allowed है।",
-            "Example: employee पहले एल टी सी की entitled class check करता है, सिर्फ train के नाम से Executive class assume नहीं करता।",
-            "Flight को twenty one days पहले book करना encouraged है; FAQ इसे हर case की automatic forfeiture deadline नहीं बनाती।"
-          ]
-        },
-        {
-          "heading": "DOPT FAQ  /  EMAIL EXCEPTION AND OLD FARE",
-          "cards": [
-            [
-              "No official email",
-              "LTC office support"
-            ],
-            [
-              "Office",
-              "Send employee details"
-            ],
-            [
-              "Agents",
-              "Check later exception"
-            ],
-            [
-              "LTC-80",
-              "Old scheme ended"
-            ]
-          ],
-          "rule": "For LTC, the FAQ describes agent registration when no official email exists and states LTC-80 is no longer in existence.",
-          "example": "The office sends required employee and private-email details to an authorized agent for LTC registration.",
-          "trap": "This FAQ exception concerns LTC; check the relevant rules for other journey purposes.",
-          "key": "Do not present old LTC-80 or an expired special dispensation as current.",
-          "lines": [
-            "अगर official email नहीं है, तो एल टी सी के लिए FAQ में office के through details authorized agent को भेजकर registration का रास्ता दिया है।",
-            "Example: office employee की required details और private email agent को देता है। ये specific answer एल टी सी के लिए है; tour के rules अलग check करें।",
-            "FAQ ये भी बताती है कि पुराना एल टी सी eighty fare scheme अब मौजूद नहीं है। किसी special relaxation की validity भी booking से पहले verify करें।"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "LTC air booking: non-entitled exception",
-      "source": "DoPT LTC guidelines 3 Sep 2025 · DoPT OM 10 Aug 2023",
-      "audio": "13b-ltc-agent-exception.mp3",
-      "beats": [
-        {
-          "heading": "IMPORTANT CORRECTION  /  LTC AIR BOOKING",
-          "cards": [
-            [
-              "Journey",
-              "Ordinary LTC"
-            ],
-            [
-              "Employee",
-              "Not entitled to fly"
-            ],
-            [
-              "Choice",
-              "Voluntary air travel"
-            ],
-            [
-              "Agents",
-              "Three-agent mandate relaxed"
-            ]
-          ],
-          "rule": "A non-air-entitled employee choosing air on ordinary LTC need not mandatorily book through the three agents, subject to the stated exception.",
-          "example": "A Level 7 employee choosing a flight on ordinary LTC checks this DoPT exception.",
-          "trap": "The exception does not automatically apply to an LTC special-dispensation journey or official tour.",
-          "key": "DoPT's later LTC-specific exception narrows the earlier three-agent summary.",
-          "lines": [
-            "Important correction: एल टी सी के हर air ticket पर three agents की requirement एक जैसी नहीं है। DoPT की twenty twenty three instruction, twenty twenty five guidelines में भी दी गई है।",
-            "जो employee ordinary एल टी सी में air entitled नहीं है, फिर भी अपनी मर्जी से flight ले, और special dispensation use नहीं करता, उसके लिए तीन agents से ही ticket लेना mandatory नहीं है।",
-            "Example: Level Seven employee ordinary एल टी सी पर flight चुनता है, तो इस specific exception को check करें।"
-          ]
-        },
-        {
-          "heading": "IMPORTANT CORRECTION  /  REIMBURSEMENT CAP",
-          "cards": [
-            [
-              "Compare",
-              "Actual airfare"
-            ],
-            [
-              "With",
-              "Entitled rail / bus"
-            ],
-            [
-              "Shortest route",
-              "Apply stated cap"
-            ],
-            [
-              "Special scheme",
-              "Separate rules"
-            ]
-          ],
-          "rule": "The ordinary-LTC reimbursement is limited to actual airfare or the entitled train/bus fare by the shortest route, whichever is less.",
-          "example": "Rs 8,000 airfare and Rs 5,000 eligible rail fare: check a Rs 5,000 ceiling, subject to other conditions.",
-          "trap": "Non-entitled air travel under a valid special dispensation has its own authorized-agent and other conditions.",
-          "key": "Check the purpose, scheme validity, cancellation terms and actual entitlement.",
-          "lines": [
-            "Reimbursement actual air fare और shortest route की entitled train या bus fare में जो कम हो, उस तक limited है।",
-            "Example: flight eight thousand rupees और eligible rail fare five thousand हो, तो five thousand की ceiling check होगी; बाकी conditions अलग check करें।",
-            "Valid special dispensation के तहत non-air-entitled flight के लिए authorized agents की अलग requirement है। Scheme की current validity और cancellation rules भी पहले verify करें।"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "LTC claim clocks and delegated relaxation",
-      "source": "DoPT LTC FAQ 1 Jul 2025 · question 35; 21 Dec 2023 OM",
-      "audio": "14-ltc-claim-clocks.mp3",
-      "beats": [
-        {
-          "heading": "DOPT FAQ  /  LTC CLAIM DEADLINES",
-          "cards": [
-            [
-              "No advance",
-              "Within 3 months"
-            ],
-            [
-              "Advance drawn",
-              "Within 1 month"
-            ],
-            [
-              "Clock",
-              "After return journey"
-            ],
-            [
-              "Not",
-              "Tour TA's 60 days"
-            ]
-          ],
-          "rule": "The FAQ states one month after return when an LTC advance is drawn and three months when none is drawn.",
-          "example": "An employee without an LTC advance submits the claim within three months of the return journey.",
-          "trap": "These LTC clocks are separate from the general 60-day tour/transfer/training TA rule.",
-          "key": "Record whether an advance was drawn and the actual return date.",
-          "lines": [
-            "एल टी सी claim की clock official tour टी ए से अलग है। DoPT FAQ के मुताबिक advance लिया हो तो return journey के बाद एक महीने के अंदर claim दें।",
-            "Advance नहीं लिया हो तो return journey के बाद तीन महीने के अंदर claim दें।",
-            "Example: बिना advance वाला employee return की date note करके तीन महीने में एल टी सी bill submit करता है। इसे tour टी ए के sixty days से confuse मत करिए।"
-          ]
-        },
-        {
-          "heading": "DOPT FAQ  /  LATE CLAIM IS NOT AUTOMATIC",
-          "cards": [
-            [
-              "No advance",
-              "Delegated up to 6 months"
-            ],
-            [
-              "Advance",
-              "Delegated up to 3 months"
-            ],
-            [
-              "With advance",
-              "Refund + penal interest"
-            ],
-            [
-              "Approval",
-              "Financial adviser concurrence"
-            ]
-          ],
-          "rule": "The FAQ gives limited delegated relaxation with financial-adviser concurrence and extra conditions where an advance was drawn.",
-          "example": "A late LTC claimant asks the department for the applicable relaxation rather than assuming approval.",
-          "trap": "Where an advance was drawn, the FAQ requires refund of the entire advance with penal interest as specified.",
-          "key": "Late claims require the prescribed authority, time limits and conditions.",
-          "lines": [
-            "Late एल टी सी claim automatically approve नहीं होता। FAQ में department और Financial Adviser की concurrence से limited relaxation दी गई है।",
-            "Without advance वाले case में six months तक, और advance वाले case में three months तक की stated limits हैं। Advance वाले case में पूरा advance और prescribed penal interest refund की condition भी है।",
-            "Example: late claim में employee reason और documents देता है और competent authority से decision मांगता है; extra time को automatic right नहीं समझता।"
+            "Transfer वाले twenty seventeen order में, stations के बीच twenty kilometres या ज्यादा दूरी हो तो stated conditions पर सी टी जी last basic pay का eighty percent है।",
+            "Example: eligible transfer में last basic fifty thousand rupees है, तो eighty percent यानी forty thousand rupees का सी टी जी check होगा।",
+            "Same city या twenty kilometres से कम distance पर actual residence change हो तो stated one third rule देखें। Own request और spouse transfer की restrictions अलग हैं; retirement का twenty twenty two amendment अलग है।"
           ]
         }
       ]
@@ -1156,69 +1285,68 @@
       ]
     },
     {
-      "audio": "17-delay-and-wrap.mp3",
-      "title": "Delayed claims & next steps",
-      "source": "DoE 2018 claim OM · para 5; Batch 1 ledger",
+      "title": "Worked tour claim and next steps",
+      "source": "DoE 2017 Annex 2.A, 2.E · DoE 2020 · DoE 2018 claim OM",
+      "audio": "ta-case-and-wrap.mp3",
       "beats": [
         {
-          "heading": "18A  |  Claims kept in abeyance",
+          "heading": "WORKED EXAMPLE  /  ONE ELIGIBLE TOUR DAY",
           "cards": [
             [
-              "> 1 YEAR",
-              "HoD investigates"
+              "LEVEL 9",
+              "8 am to 5 pm"
             ],
             [
-              "GENUINE",
-              "Support documents"
+              "TRAIN",
+              "Rs 1,200"
             ],
             [
-              "REASONS",
-              "Delay explained"
+              "CITY TAXI",
+              "Rs 300 actual"
             ],
             [
-              "PAYMENT",
-              "Usual checks"
+              "FOOD",
+              "Rs 1,125 × 70%"
             ]
           ],
-          "rule": "A claim in abeyance over one year is investigated by the Head of Department.",
-          "example": "A long-pending claim goes with supporting papers for genuineness and delay review.",
-          "trap": "This is not automatic condonation of every late claim.",
-          "key": "Genuineness + valid reasons + usual checks are all important.",
+          "rule": "For this eligible 9-hour day, food = Rs 787.50; eligible fare and actual city travel are separate.",
+          "example": "Rs 1,200 train + Rs 300 city taxi + Rs 787.50 food = Rs 2,287.50 before case-specific checks.",
+          "trap": "No overnight hotel cost is assumed; no free boarding or duplicate claim is assumed.",
+          "key": "Hypothetical calculation: sanction, entitlement, documents and current orders still apply.",
           "lines": [
-            "अगर टी ए claim एक साल से ज्यादा abeyance, यानी pending, रखा गया है, Head of Department को इसे investigate करना चाहिए।",
-            "Example: long pending claim में tickets, papers और delay का reason दें; department genuineness और valid reasons check करके बाकी formal checks करेगा।",
-            "इसका मतलब हर late claim automatically approve होगा, ऐसा नहीं है।"
+            "अब पूरा practical case। Level Nine employee eligible official tour पर उसी day सुबह eight से शाम five तक बाहर है। Eligible train fare twelve hundred और actual non ए सी city taxi three hundred rupees है। Free meals या duplicate claim assume नहीं किए हैं।",
+            "Nine hours के लिए food reference eleven hundred twenty five का seventy percent, यानी seven hundred eighty seven rupees fifty paise। Hotel stay नहीं है।",
+            "Example total: twelve hundred plus three hundred plus seven hundred eighty seven fifty, यानी two thousand two hundred eighty seven rupees fifty paise, बाकी sanction और checks के subject पर।"
           ]
         },
         {
-          "heading": "18B  |  What this batch does—and does not—cover",
+          "heading": "WORKED EXAMPLE  /  FILE AND CHECK",
           "cards": [
             [
-              "BATCH 01",
-              "Foundations + claims"
+              "PROOF",
+              "Tickets + city certificate"
             ],
             [
-              "NEXT",
-              "Daily allowance"
+              "DATE",
+              "Return journey complete"
             ],
             [
-              "LATER",
-              "Transfer / retirement"
+              "TOUR",
+              "Usually 60 days"
             ],
             [
-              "VERIFY",
-              "Latest orders"
+              "ROADMAP",
+              "Further batches pending"
             ]
           ],
-          "rule": "Batch 1 introduces foundations, domestic travel, claims and selected official FAQs and amendments.",
-          "example": "A Level 7 trainee checks air entitlement, booking, certification and claim date.",
-          "trap": "Full Daily Allowance and road tables and detailed transfer conditions remain pending.",
-          "key": "Hypothetical examples • further batches require source-by-source audit.",
+          "rule": "Submit the eligible tour claim with the required evidence, generally within 60 days after journey completion.",
+          "example": "The Level 9 traveller records the return date and submits tickets and the prescribed city-travel self-certification.",
+          "trap": "Later batches must still audit remaining TA rules, exceptions and amendments.",
+          "key": "LTC has separate rules; it is not the focus of this TA batch.",
           "lines": [
-            "Batch One में हमने basics, domestic travel, booking, claim deadlines और कुछ verified FAQ और amendments देखे।",
-            "Example: Level Seven का trainee flight लेने से पहले entitlement और booking check करेगा, और trip के बाद certificate और claim की deadline।",
-            "Daily Allowance और road rates के full tables, transfer, retirement और technical resignation की बाकी conditions आगे के batches में आएंगी; complete course अभी finish नहीं हुआ है।",
-            "Detailed examples और official source links साथ वाले guide में हैं। Thanks for watching!"
+            "इस case में return date note करें, ticket और city travel की prescribed self certification रखें, और normally journey के बाद sixty days में claim submit करें।",
+            "Example: employee अपनी train proof, actual taxi details और food calculation office को देता है। Late claim automatic approve नहीं होता।",
+            "इस batch का main focus official Travelling Allowance है। एल टी सी का अलग reference guide में है। बाकी transfer, retirement और special cases की पूरी audit आगे जारी रहेगी।"
           ]
         }
       ]

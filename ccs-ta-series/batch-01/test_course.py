@@ -56,20 +56,23 @@ class LessonTests(unittest.TestCase):
         broken['sections'][0]['beats'][0]['example'] = ''
         with self.assertRaises(SystemExit):
             lecture.audit(broken)
-        self.assertEqual(len(data['sections']), 18)
-        self.assertEqual(sum(len(section['beats']) for section in data['sections']), 36)
+        self.assertEqual(len(data['sections']), 20)
+        self.assertEqual(sum(len(section['beats']) for section in data['sections']), 40)
 
-    def test_2023_train_update_and_later_ltc_exception(self):
+    def test_2023_train_update_and_ta_air_booking(self):
         data = lecture.load_data()
         beat = data['sections'][4]['beats'][1]
         self.assertIn('VANDE BHARAT', str(beat['cards']))
         self.assertIn('HUMSAFAR', str(beat['cards']))
         self.assertIn('Rajdhani', beat['rule'])
         self.assertIn('Vande Bharat', beat['example'])
-        exception = next(s for s in data['sections'] if s['audio'] == '13b-ltc-agent-exception.mp3')
-        self.assertIn('10 Aug 2023', exception['source'])
-        self.assertIn('special dispensation', lecture.section_tts_text(exception))
-        self.assertIn('exception', data['sections'][6]['beats'][0]['trap'].lower())
+        air = next(s for s in data['sections'] if s['audio'] == 'ta-tour-air-booking.mp3')
+        self.assertIn('16 Jun 2022', air['source'])
+        self.assertIn('Official tour', lecture.section_tts_text(air))
+        self.assertIn('seventy two hours', lecture.section_tts_text(air))
+        # The comparison material remains in the guide, not the TA-focused lecture.
+        self.assertFalse(any('ltc-faq' in s['audio'] for s in data['sections']))
+        self.assertTrue(any('ta-food' in s['audio'] for s in data['sections']))
 
     def test_city_hinglish_script_is_preserved(self):
         data = lecture.load_data()
@@ -87,9 +90,9 @@ class LessonTests(unittest.TestCase):
         alignment = lecture.load_alignment()
         durations = [chapter['duration'] for chapter in alignment['sections']]
         timeline, captions, total = lecture.build_timeline(data, durations, alignment)
-        self.assertEqual(len(timeline), 36)
-        self.assertEqual(len(captions), 256)
-        self.assertAlmostEqual(total, 935.16, places=2)
+        self.assertEqual(len(timeline), 40)
+        self.assertEqual(len(captions), 297)
+        self.assertAlmostEqual(total, 1090.84, places=2)
         self.assertLessEqual(captions[-1][1], total)
         for left, right in zip(captions, captions[1:]):
             self.assertLessEqual(left[1], right[0] + .001)
@@ -122,7 +125,8 @@ class LessonTests(unittest.TestCase):
                 self.assertEqual(roman[i][:2], expected_times)
                 self.assertEqual(en[i][3], translated)
                 self.assertEqual(roman[i][3], lecture.romanize_hinglish(source, dictionary))
-                self.assertIn('line:5%', roman[i][2])
+                self.assertIn('line:5%', en[i][2])
+                self.assertNotIn('line:5%', roman[i][2])
 
     def test_stale_alignment_and_translation_are_rejected(self):
         data = lecture.load_data()
@@ -163,7 +167,9 @@ class LessonTests(unittest.TestCase):
         self.assertIn('new table', recognized('02-dates-and-safeguard.mp3'))
         self.assertIn('technical resignation', recognized('15-technical-resignation.mp3'))
         whole = json.loads((ROOT / 'notes' / 'whole-audio-review.json').read_text(encoding='utf-8'))
-        self.assertEqual(len(whole['sections']), 8)
+        whole_names = {entry['audio'] for entry in whole['sections']}
+        self.assertTrue({s['audio'] for s in data['sections'] if s['audio'].startswith('ta-')} <= whole_names)
+        self.assertTrue(whole_names <= {s['audio'] for s in data['sections']})
         for entry in whole['sections']:
             self.assertEqual(entry['audio_sha256'], hashlib.sha256((ROOT / 'audio' / entry['audio']).read_bytes()).hexdigest())
 
@@ -171,20 +177,29 @@ class LessonTests(unittest.TestCase):
         text = (ROOT / 'Batch-01-Guide.md').read_text(encoding='utf-8')
         parts = re.split(r'(?m)^### (\d+)\. [^\n]+\n', text)
         units = {int(parts[i]): parts[i + 1] for i in range(1, len(parts), 2)}
-        self.assertEqual(sorted(units), list(range(1, 51)))
+        self.assertEqual(sorted(units), list(range(1, 72)))
         for number, unit in units.items():
             with self.subTest(unit=number):
                 self.assertIn('**Source:**', unit)
                 self.assertTrue('**Example' in unit or '| Example |' in unit)
                 self.assertIn('**Trap.', unit)
-        self.assertIn('shortest route', units[34])
-        self.assertIn('not entitled to air travel', units[34])
-        self.assertIn('not below Joint Secretary', units[35])
-        self.assertIn('FAQ 71', units[35])
-        self.assertIn('14 January 2025', units[47])
-        self.assertIn('100 km each way', units[48])
-        self.assertIn('medical certificate', units[49])
-        self.assertIn('no fare reimbursement is claimed for the entire LTC journey', units[50])
+        self.assertIn('₹2,812.50', units[32])
+        self.assertIn('₹1,250', units[33])
+        self.assertIn('₹422.50', units[35])
+        self.assertIn('exactly twelve hours', units[39])
+        self.assertIn('₹600', units[40])
+        self.assertIn('₹30/km and ₹15/km', units[43])
+        self.assertIn('₹40,000', units[46])
+        self.assertIn('receipts/vouchers', units[48])
+        self.assertIn('₹2,287.50', units[50])
+        self.assertIn('shortest route', units[57])
+        self.assertIn('not entitled to air travel', units[57])
+        self.assertIn('not below Joint Secretary', units[58])
+        self.assertIn('FAQ 71', units[58])
+        self.assertIn('14 January 2025', units[68])
+        self.assertIn('100 km each way', units[69])
+        self.assertIn('medical certificate', units[70])
+        self.assertIn('no fare reimbursement is claimed for the entire LTC journey', units[71])
         self.assertIn('not yet', text.lower())
 
     def test_caption_limits_and_optional_track_are_disclosed(self):
@@ -196,7 +211,8 @@ class LessonTests(unittest.TestCase):
                 self.assertIn('automatic', text.lower())
                 self.assertIn('human', text.lower())
                 self.assertIn('verbatim', text.lower())
-        self.assertIn('burned-in English', html)
+        self.assertIn('burned-in Roman-Hinglish', html)
+        self.assertIn('Captions-en.vtt', html)
         self.assertIn('Captions-roman.vtt', html)
         self.assertNotIn('Captions-hi.vtt', html)
 

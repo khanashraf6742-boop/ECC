@@ -80,7 +80,7 @@ page = r'''<!doctype html>
   <div class="topline"><span class="badge">Batch 01 / Study series</span><span>Central Government civilian context</span><span>Research: 27 Oct 2026</span></div>
   <div class="hero"><span style="color:var(--teal);font-weight:700;letter-spacing:.1em;font-size:.8rem">TRAVEL. RULES. REAL-LIFE APPLICATION.</span>
     <h1>Travelling Allowance,<br>made practical.</h1>
-    <p>Foundations, domestic travel, claim deadlines and selected official FAQs and amendments — with everyday city-Hinglish narration, hypothetical examples and links to official sources.</p>
+    <p>Official tours, Daily Allowance, hotel, food, city travel, road mileage and claims — with city-Hinglish narration, practical examples and links to official sources. LTC is a separate reference appendix.</p>
     <div class="chips"><span class="chip">__BEATS__ illustrated teaching beats</span><span class="chip">Source-linked guide</span><span class="chip">City-Hinglish narration</span><span class="chip">Later batches pending</span></div>
   </div>
 </div></header>
@@ -89,10 +89,10 @@ page = r'''<!doctype html>
     <div class="player-heading"><h2 id="watch-title">Watch the Batch 1 lecture</h2><span>CITY HINGLISH · AUDIO-ALIGNED CAPTIONS</span></div>
     <video controls preload="metadata" aria-label="Batch 1 narrated Travelling Allowance lecture">
       <source src="Batch-01-Lecture.mp4" type="video/mp4">
-      <track src="Captions-roman.vtt" kind="subtitles" srclang="hi-Latn" label="Roman Hinglish (automatic, optional)">
+      <track src="Captions-en.vtt" kind="subtitles" srclang="en" label="English translation (automatic, optional)">
       Your browser cannot play this video. <a href="Batch-01-Lecture.mp4">Download the MP4</a> or read the detailed guide below.
     </video>
-    <p><strong>Subtitle check:</strong> The video has a burned-in English translation, not a word-for-word transcript. The optional Roman-Hinglish track is positioned near the top to avoid the burned-in subtitles; placement may vary by player. Both tracks are automatically audio-aligned, and an independent automatic recognition pass checked the recording. Neither wording nor timing has been human-verified. <a href="Caption-Check.md">How the check was done</a> · <a href="Narration-hi.txt">Read synthesis input</a> · <a href="Captions-en.vtt">English subtitles</a> · <a href="Captions-roman.vtt">Roman-Hinglish subtitles</a> · <a href="Batch-01-Audio.mp3">Download audio</a> · <a href="Batch-01-Lecture.mp4">Download video</a></p>
+    <p><strong>Subtitle check:</strong> The video has burned-in Roman-Hinglish, transliterated from the synthesis input. The optional English translation appears near the top to avoid the burned-in captions; placement may vary by player. Both tracks are automatically audio-aligned, and a separate automatic recognition pass checked the recording. Neither wording nor timing has been human-verified as verbatim. <a href="Caption-Check.md">How the check was done</a> · <a href="Narration-hi.txt">Read synthesis input</a> · <a href="Captions-en.vtt">English subtitles</a> · <a href="Captions-roman.vtt">Roman-Hinglish subtitles</a> · <a href="Batch-01-Audio.mp3">Download audio</a> · <a href="Batch-01-Lecture.mp4">Download video</a></p>
   </section>
   <article id="guide" tabindex="-1">__BODY__</article>
 </main>

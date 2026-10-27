@@ -1,16 +1,16 @@
 # CCS Travelling Allowance • Batch 01
 
-## Foundations, domestic travel and claim deadlines
+## Official tour, Daily Allowance and claims
 
 **Prepared 27 October 2026 · Central Government civilian context · City-Hinglish lecture and teaching notes**
 
-This is **Batch 1**, not the whole course or a certified consolidation. It explains selected foundations, domestic entitlements, air booking and claim deadlines, and introduces selected later official FAQs, Government decisions and DoE/DoPT orders. The video is a shorter narrated introduction; this guide includes further examples, sources, unresolved issues and a coverage ledger. **All examples are hypothetical teaching examples**, not judgments, actual claims or past examination questions. “DA” may mean *Daily Allowance* or *Dearness Allowance*; the full term is used whenever the distinction matters.
+This is **Batch 1**, not the whole course or a certified consolidation. It primarily explains official-tour Travelling Allowance: domestic entitlements, air booking, hotel, food, city travel, road mileage and claims, with a transfer/retirement overview. Selected DoPT LTC FAQs remain in a clearly separate reference appendix. The video is a shorter narrated introduction; this guide includes further examples, sources, unresolved issues and a coverage ledger. **All examples are hypothetical teaching examples**, not judgments, actual claims or past examination questions. “DA” may mean *Daily Allowance* or *Dearness Allowance*; the full term is used whenever the distinction matters.
 
 **Authority and limits.** Start with the order applicable to the employee, journey, destination and date; obtain the relevant sanction and check the latest departmental orders before a claim. Sources checked for this batch are linked below. A complete search for every amendment or every rule in the attached master guide is **not yet complete**. Later topics, doubtful claims and rates are in the [coverage ledger](#coverage-ledger); do not apply them on the strength of the attached guide alone.
 
-**How to use:** watch the video, then study each “Samjho → Example → Trap” unit and consult the numbered primary sources. **Subtitle limitation:** The burned-in English is a translation, not verbatim narration. A separate Roman-script Hinglish caption file transliterates the recorded synthesis input. Both are automatically audio-aligned; a separate automatic recognition pass checked the recording, but neither timing nor wording has been human-verified. [See how the check was done](Caption-Check.md). Use this guide for the detailed written account.
+**How to use:** watch the video, then study each “Samjho → Example → Trap” unit and consult the numbered primary sources. **Subtitle limitation:** The burned-in Roman-script Hinglish transliterates the recorded synthesis input; an optional English track is a translation, not a verbatim transcript. Both are automatically audio-aligned; a separate automatic recognition pass checked the recording, but neither timing nor wording has been human-verified. [See how the check was done](Caption-Check.md). Use this guide for the detailed written account.
 
-**Jump to:** [Foundations](#foundations) · [Dates & pay](#dates-pay) · [Domestic entitlement](#domestic-entitlement) · [Air booking](#air-booking) · [Claim deadlines](#claim-deadlines) · [Official FAQ and order update](#selected-official-faqs-decisions-and-later-orders) · [Source-guide corrections](#source-guide-corrections) · [Coverage ledger](#coverage-ledger) · [Sources](#official-sources)
+**Jump to:** [Foundations](#foundations) · [Dates & pay](#dates-pay) · [Domestic entitlement](#domestic-entitlement) · [Air booking](#air-booking) · [Claim deadlines](#claim-deadlines) · [Tour Daily Allowance](#tour-daily-allowance-components-and-increases) · [Road mileage](#road-mileage-for-journeys-between-places) · [Transfer TA](#transfer-ta-components-grant-and-effects) · [LTC appendix](#ltc-reference-appendix-separate-from-official-ta) · [Source-guide corrections](#source-guide-corrections) · [Coverage ledger](#coverage-ledger) · [Sources](#official-sources)
 
 ---
 
@@ -186,7 +186,7 @@ This is **Batch 1**, not the whole course or a certified consolidation. It expla
 
 **Example.** A ministry organising one inspection tour for three staff chooses one authorised agent for that tour; each ticket must still meet the traveller's entitlement and the fare conditions.
 
-**Trap.** This is an **air-ticket** instruction, not a rail-ticket rule. The later DoPT instruction in [unit 34](#34-important-exception-non-air-entitled-ordinary-ltc) creates a specific non-air-entitled ordinary-LTC exception; do not state that every LTC flight must use the three agents.
+**Trap.** This is an **air-ticket** instruction, not a rail-ticket rule. The later DoPT instruction in [unit 57](#57-important-exception-non-air-entitled-ordinary-ltc) creates a specific non-air-entitled ordinary-LTC exception; do not state that every LTC flight must use the three agents.
 
 ### 16. Best Available Fare and fixed three-hour bands
 
@@ -212,7 +212,7 @@ This is **Batch 1**, not the whole course or a certified consolidation. It expla
 
 **Source:** [S8](#source-s8), paras 7 and 8(a)–(b).
 
-**Samjho.** Prefer one ticket per leg; holding more than one is ordinarily not allowed. In special exigencies/exceptional circumstances, a maximum of two alternate flights in different time slots for the same leg may be booked with self-declared justification. The office may arrange tickets, or employees are encouraged to use the three authorised agents' digital self-booking tools; the 2022 OM calls for registration of official Government email for digital booking. For the later LTC-specific no-official-email procedure, see [unit 32](#32-ltc-trains-flight-booking-and-the-no-email-procedure).
+**Samjho.** Prefer one ticket per leg; holding more than one is ordinarily not allowed. In special exigencies/exceptional circumstances, a maximum of two alternate flights in different time slots for the same leg may be booked with self-declared justification. The office may arrange tickets, or employees are encouraged to use the three authorised agents' digital self-booking tools; the 2022 OM calls for registration of official Government email for digital booking. For the later LTC-specific no-official-email procedure, see [unit 55](#55-ltc-trains-flight-booking-and-the-no-email-procedure).
 
 **Example.** If an uncertain official meeting time creates an exceptional need for two alternatives, the employee records the justification and does not hold a third ticket for that leg.
 
@@ -226,7 +226,7 @@ This is **Batch 1**, not the whole course or a certified consolidation. It expla
 
 **Example.** After an unavoidable emergency booking outside the approved channels, the employee documents the circumstances and requests a decision from the competent authority before assuming reimbursement.
 
-**Trap.** “Every unauthorised booking is automatically and permanently 100% forfeited” ignores the express relaxation power. Conversely, “direct airline booking is always allowed if cheaper” ignores the authorised-channel rule. The specific later ordinary-LTC exception in [unit 34](#34-important-exception-non-air-entitled-ordinary-ltc) must also be checked.
+**Trap.** “Every unauthorised booking is automatically and permanently 100% forfeited” ignores the express relaxation power. Conversely, “direct airline booking is always allowed if cheaper” ignores the authorised-channel rule. The specific later ordinary-LTC exception in [unit 57](#57-important-exception-non-air-entitled-ordinary-ltc) must also be checked.
 
 ### 20. Journey certification, agency payment and no points
 
@@ -314,9 +314,7 @@ This is **Batch 1**, not the whole course or a certified consolidation. It expla
 
 ---
 
-## Selected official FAQs, decisions and later orders
-
-These additional units are a **targeted Batch 1 update**, not a claim that all Government of India Decisions (GIDs), FAQs or OMs have been exhausted. The DoPT FAQ deals with **LTC**; do not apply its answers automatically to official tour or transfer TA. Later batches must audit the remaining clauses and later orders.
+## Tour evidence and free facilities
 
 ### 28. Missing boarding pass on an official tour
 
@@ -338,67 +336,269 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** The Level 9–11 relaxation is for the specified **city-travel-on-tour component**, not a general waiver for hotels, food, transfer, LTC or invented expenses. The full current rate and documentation table remains a later-batch audit.
 
-### 30. LTC family travel and leave
 
-**Source:** [S19](#source-s19), DoPT FAQ 1 July 2025, questions 6, 25–27.
+## Tour Daily Allowance: components and increases
 
-**Samjho.** Eligible family members may travel separately for LTC. When only family members travel on LTC, the employee need not take leave merely for that reason. When the employee personally avails LTC, admissible leave is necessary; weekends/holidays alone do not satisfy the FAQ. The FAQ lists several eligible types of leave.
+### 30. Separate the three Daily Allowance components
 
-**Example.** An employee remains on duty while an eligible family member undertakes approved LTC. For the employee's own LTC later, the employee takes an admissible kind of leave rather than relying on a weekend alone.
+**Source:** [S3](#source-s3), Annexure 2.E(i)–(v); [S29](#source-s29).
 
-**Trap.** These answers are **LTC-specific**; they are not a classification of an official tour or a transfer-TA family entitlement.
+**Samjho.** On an eligible official tour, Daily Allowance has three distinct components: reimbursement for eligible accommodation, reimbursement for eligible city travel and a time-adjusted food lump sum. The journey fare to and from the station is a separate TA head. “Daily Allowance” is not the monthly salary-related “Dearness Allowance”, even though the latter is used in certain escalation clauses.
 
-### 31. LTC local expenses are not tour Daily Allowance
+**Example.** An employee takes an eligible train to an inspection, pays for a hotel and local taxi and is away for nine hours. The train fare, hotel, taxi and food are checked under their respective rules; none is an undifferentiated flat daily payment.
 
-**Source:** [S19](#source-s19), FAQ 37–38; [S20](#source-s20), CCS (LTC) Rule 13 and the 2025 guidelines.
+**Trap.** A sanction to travel does not remove the component-specific ceilings, proof or other eligibility conditions.
 
-**Samjho.** The FAQ says incidental and local-journey expenses, including travel from residence to an airport/railway station/bus depot, are not reimbursed under LTC. LTC journey reimbursement follows its own point-to-point and route rules. Official-tour local expenses are a different component and may be eligible under their own conditions.
+### 31. How to use the Dearness Allowance escalation
 
-**Example.** An employee does not add the home-to-airport cab for an LTC holiday to the LTC claim. On a different authorised official tour, eligible incurred city travel is checked under the tour rules.
+**Source:** [S3](#source-s3), Annexure 2.D(ii), 2.E(ii)–(iv), 3(iii); [S14](#source-s14); [S15](#source-s15); [S32](#source-s32).
 
-**Trap.** A “tour package” in the LTC FAQ is not the same thing as an official-duty tour. Some specific package/fare exceptions in FAQ 36 and 44 remain subject to their stated conditions.
+**Samjho.** The 2017 order contains separate “25% whenever DA increases by 50%” clauses for specified hotel ceilings, city-travel ceilings for Level 11 and below, food, foot travel, no-prescribed-rate road mileage and personal-effects road rates. Dearness Allowance reached 50% from 1 January 2024. The “first increase” tables below apply 2017 base × 1.25; at the research date, the latest 7th-CPC order found in the DoE DA index is 60% from 1 January 2026. **60% is not itself a second 50-percentage-point increase.** [S32](#source-s32) is a Ladakh local Finance Department table corroborating the arithmetic, not a central order binding every employee.
 
-### 32. LTC trains, flight booking and the no-email procedure
+**Example.** Level 7 food: ₹800 × 1.25 = ₹1,000. A ₹338 Level 9 city cap becomes ₹422.50 before any applicable office rounding convention.
 
-**Source:** [S19](#source-s19), FAQ 33, 45–47; [S20](#source-s20), the 2025 consolidation citing DoPT OMs 14 January 2025 and 20 October 2023.
+**Trap.** Apply only the specific escalator in the relevant clause; do not raise unrelated fares, Level 12+ city kilometre limits or CTG by 25% automatically. These are calculations, not a substitute for an updated central circular; verify the date, rounding and any later order with the accounts office.
 
-**Samjho.** Tejas, Vande Bharat and Humsafar are allowed on LTC **as per entitlement**. The FAQ encourages 21-day advance flight booking, rather than declaring every shorter booking automatically forfeited. For LTC applicants without official email, the FAQ describes registration with the authorised agents when the administrative office supplies the required employee details, including private email/mobile details.
+---
 
-**Example.** Before buying a Vande Bharat LTC ticket, an employee checks the applicable LTC class. A different employee without official email asks their office to provide the required details to the agent for LTC registration.
+## Hotel accommodation and tax
 
-**Trap.** This no-email clarification is for **LTC**; do not automatically apply it to unrelated official-tour requirements. The separate non-air-entitled exception below also matters.
+### 32. Hotel ceilings: base and first increase
 
-### 33. Old LTC-80 and time-limited dispensations
+**Source:** [S3](#source-s3), Annexure 2.E(i)–(ii); [S5](#source-s5); [S14](#source-s14).
 
-**Source:** [S19](#source-s19), FAQ 48 and 55–63; [S20](#source-s20), Rule 12 notes.
+**Samjho.** The following are general per-day room ceilings, excluding admissible tax as explained separately. They are maxima for qualifying reimbursement, not flat payments. Level 13A follows Level 13.
 
-**Samjho.** The 2025 FAQ states that the former Air India **LTC-80** fare scheme no longer exists. The FAQ describes a special air dispensation for certain regions only through **25 September 2026**; that is a historical limit in that source, not proof that the concession ended or continued afterward. Third-party sources reproduce a purported DoPT OM dated 9 September 2026 extending it to 25 September 2028, but an official-hosted copy of that later OM could not be verified in this research. Treat that reported extension as **unverified** and obtain the operative official order before relying on it. [Unverified third-party reproduction](https://dtf.in/wp-content/files/DoPT_O.M._dated_09.09.2026_-_CCS_LTC_Rules_-_Relaxation_to_travel_by_air_to_visit_NER_JK_Ladakh_and_AN_Islands_-_extension_for_2_years_beyond_25.09.2026.pdf).
+| Pay Level | 2017 base | First 25% increase, calculated |
+|---|---:|---:|
+| 14 and above | ₹7,500 | ₹9,375 |
+| 12–13A | ₹4,500 | ₹5,625 |
+| 9–11 | ₹2,250 | ₹2,812.50 |
+| 6–8 | ₹750 | ₹937.50 |
+| 5 and below | ₹450 | ₹562.50 |
 
-**Example.** An employee planning a November 2026 LTC journey does not assume that the 2025 FAQ by itself authorises the earlier special scheme; the employee checks whether a later valid order applies.
+**Example.** Level 9 incurs an eligible room charge of ₹2,000: the ₹2,812.50 ceiling is not an automatic payment. Tax and proof are assessed separately.
 
-**Trap.** A time-limited special dispensation is not ordinary tour air entitlement, and its separate routes, fares and authorised-agent conditions cannot be inferred from the general rule.
+**Trap.** A room bill over the ceiling does not make the entire room charge reimbursable. This table does not by itself decide whether a particular stay is admissible.
 
-### 34. Important exception: non-air-entitled ordinary LTC
+### 33. Low-level self-certification and the Class X exception
 
-**Source:** [S20](#source-s20), Rule 12 note 7, reproducing DoPT OM 31011/17/2023-Estt.A-IV of 10 August 2023.
+**Source:** [S3](#source-s3), Annexure 2.E(ii); [S14](#source-s14).
 
-**Samjho.** The later DoPT instruction states that an employee **not entitled to air travel** who nevertheless chooses air for ordinary LTC is no longer required to book mandatorily through the three authorised agents; reimbursement is restricted to the **actual airfare or entitled train/bus fare by the shortest route, whichever is less**. The same instruction says cancellation charges for that non-entitled voluntary-air case are borne by the employee. For a non-air-entitled employee travelling by air under a **valid special dispensation**, the specific three-agent condition continues in the cited instruction. Check current special-scheme validity and the interaction with the official-exigency provision separately; see unit 46.
+**Samjho.** At Level 8 and below, the normal accommodation claim up to the applicable ceiling may be paid without vouchers on self-certification stating the period of stay, the name of the dwelling and other relevant details. For Class X cities, the 2017 order provides a higher ₹1,000 base ceiling for employees up to Level 8 **only as reimbursement on production of relevant vouchers**; applying the first escalation gives ₹1,250, subject to current instructions.
 
-**Example.** A Level 7 employee who is not ordinarily air-entitled for LTC chooses a flight costing Rs 8,000; if the eligible shortest-route train fare is Rs 5,000, the relevant ceiling is Rs 5,000, subject to all other applicable conditions. The cited ordinary-LTC exception means the three-agent mandate is not applied automatically to this case.
+**Example.** A Level 7 employee claims an eligible Class X-city hotel stay with the relevant voucher and checks the calculated ₹1,250 special ceiling. Without that voucher the employee must not assume the special ceiling applies.
 
-**Trap.** This is a **specific LTC exception**, not a blanket permission for all Government-account official-tour bookings or all special-dispensation flights. It corrects an over-broad reading of the earlier three-agent summary in this course.
+**Trap.** The ordinary self-certification relaxation does not waive the express Class X special-ceiling voucher requirement, or any separately applicable tax documentation.
 
-### 35. LTC deadlines and limited late-claim relaxation
+### 34. GST is not an addition to the whole excess room bill
 
-**Source:** [S19](#source-s19), FAQ 35 and 71; [S20](#source-s20), Rules 14–15; and [S25](#source-s25), DoPT OM 21 December 2023.
+**Source:** [S31](#source-s31), DoE OM 29 June 2018, as indexed; [S3](#source-s3), Annexure 2.E(ii).
 
-**Samjho.** The FAQ states the ordinary LTC claim deadline as **one month after completion of the return journey where an advance was drawn**, or **three months where no advance was drawn**. The 2023 OM delegates limited relaxation to Ministries/Departments with Financial Adviser concurrence, and to subordinate/attached offices with concurrence of a Head of Department not below Joint Secretary rank, where satisfied that the delay was beyond the employee's control: within **six months** without advance, or within **three months** with advance, subject to the stated conditions. For the latter, the entire advance must be returned in one lump sum within three months, with interest on the entire amount from drawal to recovery; the FAQ calls this penal interest. Do not treat delegated relaxation as automatic approval.
+**Samjho.** The indexed DoE clarification states that the prescribed accommodation entitlement is exclusive of admissible taxes/GST, which can be reimbursed above the entitlement, and that GST is calculated on the actual charges paid **within** the prescribed entitlement. Keep the tax invoice and apply the actual applicable tax law and office evidence rules; no universal GST percentage is assumed here. The official PDF could not be retrieved directly during this research, so its searchable official extract and a reproduction are linked in [S31](#source-s31) and the full text should be rechecked before sanction.
 
-**Example.** An employee who drew no LTC advance records the return date and submits within three months. If a claim is late, they provide reasons and documents and request a decision by the competent authority rather than assuming an extension.
+**Example.** If an eligible room charge is ₹2,000, within a ₹2,812.50 ceiling, and a valid invoice shows ₹100 admissible tax, the illustrative total is ₹2,100. If the room costs more than the ceiling, calculate eligible tax only on the eligible portion under the applicable rules.
 
-**Trap.** These are **LTC** clocks; the tour/transfer/training TA claim clock is generally 60 days under [S11](#source-s11). An LTC advance and a tour advance have separate adjustment rules. FAQ 71 states forfeiture with no relaxation for a no-advance claim after three months, while FAQ 35 and the 2023 OM describe a limited delegated relaxation. Do not silently erase either wording: the competent office must apply the governing order and conditions to the case.
+**Trap.** Do not add GST on an ineligible excess as if the whole invoice were within entitlement; tax-rate illustrations in old orders are not a current GST-rate table.
 
-### 36. Technical resignation and a specific transfer-TA exception
+---
+
+## City travel, foot travel and special tours
+
+### 35. City travel is actual eligible expense, not a flat cap
+
+**Source:** [S3](#source-s3), Annexure 2.E(i), (iii); [S5](#source-s5); [S14](#source-s14).
+
+**Samjho.** These are the 2017 tour-station limits, with the first 25% increase calculated only for the Level 11-and-below monetary ceilings. Level 13A follows Level 13.
+
+| Pay Level | City-travel rule | First-increase monetary ceiling |
+|---|---|---:|
+| 14 and above | AC taxi, actual expense commensurate with official engagements | No fixed monetary amount in this row |
+| 12–13A | AC taxi, up to 50 km per day | 50 km/day, not ₹50/day |
+| 9–11 | Non-AC taxi, up to ₹338/day base | ₹422.50/day |
+| 6–8 | Non-AC taxi, up to ₹225/day base | ₹281.25/day |
+| 5 and below | Non-AC taxi, up to ₹113/day base | ₹141.25/day |
+
+**Example.** A Level 9 employee has ₹300 of eligible non-AC city taxi expense. The ₹422.50 ceiling limits reimbursement; it does not turn the ₹300 expense into ₹422.50.
+
+**Trap.** Check official purpose and actual expense. If a free Government car is supplied, there is no paid taxi cost to claim for that car. City-travel caps are not intercity road mileage rates.
+
+### 36. City travel: which voucher relaxation applies?
+
+**Source:** [S3](#source-s3), Annexure 2.E(iii); [S29](#source-s29), DoE OM 22 December 2020.
+
+**Samjho.** The 2017 text permits Levels 8 and below to self-certify an eligible claim up to the ceiling, stating period of travel, vehicle number and relevant details. The 2020 OM dispenses with receipts/vouchers for **Levels 9–11** for this city-travel component, subject to self-certification containing period and vehicle number. The 2020 OM does not turn Level 12+ into a self-certified category or change hotel proof.
+
+**Example.** A Level 10 traveller records the relevant dates, vehicle number and eligible amount for city travel and submits the prescribed self-certification.
+
+**Trap.** No receipt requirement in the specified case does not mean no actual expense, no ceiling, no record or no accountability.
+
+### 37. Walking allowance and scientific/remote exceptions
+
+**Source:** [S3](#source-s3), Annexure 2.E(iii), (vi); [S14](#source-s14).
+
+**Samjho.** The 2017 order provides an additional ₹12 per km for journeys on foot, with a 25% increase when Dearness Allowance increases by 50%; the first calculated rate is ₹15/km. Separately, for specified Government ships/boats and remote foot/mule journeys for scientific/data collection, it provides Daily Allowance equivalent to the food-reimbursement rate irrespective of actual expense, with Head of Department/controlling-officer approval.
+
+**Example.** An eligible 4 km walking segment at the first increased rate gives ₹60, subject to the circumstances and other rules. A qualifying survey in a remote area must also satisfy the separate approval and purpose in clause (vi).
+
+**Trap.** Do not replace a normal taxi cap with the foot rate, or treat every remote trip as the scientific exception without the specified facts and approval.
+
+---
+
+## Food lump sum and midnight-to-midnight calculation
+
+### 38. Food: the full-day reference amounts
+
+**Source:** [S3](#source-s3), Annexure 2.E(i), (iv)–(v); [S5](#source-s5); [S14](#source-s14).
+
+**Samjho.** Food is a **lump sum**: no separate food-bill reimbursement or food voucher is required under the 2017 rule. The table gives the full reference amount before the time fraction and other conditions.
+
+| Pay Level | 2017 base | First 25% increase, calculated |
+|---|---:|---:|
+| 14 and above | ₹1,200 | ₹1,500 |
+| 12–13A | ₹1,000 | ₹1,250 |
+| 9–11 | ₹900 | ₹1,125 |
+| 6–8 | ₹800 | ₹1,000 |
+| 5 and below | ₹500 | ₹625 |
+
+**Example.** A Level 7 traveller uses ₹1,000 as the full-day reference after the first increase; an eligible nine-hour absence would normally use 70% of that amount.
+
+**Trap.** The table does not automatically award the full amount for a short absence, and the distinct both-free-boarding-and-lodging rule must be checked.
+
+### 39. The three time bands, including boundaries
+
+**Source:** [S3](#source-s3), Annexure 2.E(v).
+
+**Samjho.** For each eligible midnight-to-midnight day, an absence from headquarters of **under six hours** attracts 30% of the food reference; **six to twelve hours** attracts 70%; **over twelve hours** attracts 100%. The wording places exactly six and exactly twelve hours in the middle band. Check the precise recorded departure and return times and other applicable conditions.
+
+**Example.** For Level 9, an eligible absence of exactly 12 hours gives ₹1,125 × 70% = ₹787.50; 12 hours and one minute falls in the over-12-hours band, subject to actual timing and the office's rules.
+
+**Trap.** “12 hours or more = 100%” misstates the 2017 table's strict “greater than 12 hours” boundary.
+
+### 40. A tour crossing midnight is two calendar-day calculations
+
+**Source:** [S3](#source-s3), Annexure 2.E(v); [S14](#source-s14).
+
+**Samjho.** Absence is reckoned separately for each day from midnight to midnight, not as one continuous total for a trip crossing midnight.
+
+**Example.** An otherwise eligible Level 7 tour from 20:00 to 05:00 next morning has 4 hours on day one and 5 hours on day two. Each day is under six hours, so ₹1,000 × 30% + ₹1,000 × 30% = **₹600**, subject to applicable conditions.
+
+**Trap.** Applying the nine-hour 70% band once to the whole overnight trip gives a different and unsupported result under this per-day method.
+
+### 41. Free boarding AND lodging: read the actual clarification
+
+**Source:** [S30](#source-s30), DoE OM 1 February 2018; [S3](#source-s3), Annexure 2.E(i), (iii).
+
+**Samjho.** In the specific case of **both** free boarding and free lodging, the 2018 clarification permits a claim for eligible local travel expense actually incurred under the cited tour rules. It discontinues the earlier 25%-of-DA practice and the old 5th-CPC DA-rate option. Its wording should not be silently expanded to decide every partial-meal or partially subsidised case.
+
+**Example.** An employee has free room and meals but pays an otherwise eligible ₹200 for local official travel; the office can assess ₹200 under the local-travel conditions. A free Government car does not create such a paid expense.
+
+**Trap.** Do not automatically add the old 25% Daily Allowance, or assert a universal answer for a trip with only one meal provided; check the exact facts and later applicable order.
+
+---
+
+## Road mileage for journeys between places
+
+### 42. Prescribed road rates: entitlement depends on level and mode
+
+**Source:** [S3](#source-s3), Annexure 2.D(i), and 2.A(iii)(b); [S5](#source-s5).
+
+**Samjho.** When the relevant transport authority prescribes rates, the 2017 table distinguishes levels. Level 14+ may use the specified public bus, AC taxi or auto-rate alternatives; Levels 6–13 have the same table except AC taxi is not permissible; Levels 4–5 use the specified non-AC-bus or auto-rate alternatives; Level 3 and below has the ordinary-bus/auto and specified personal-two-wheeler alternatives. Own-car mileage is regulated by the table rather than a promise of an AC-taxi rate. Level 13A follows Level 13.
+
+**Example.** A Level 7 officer checking an eligible road journey uses the prescribed-rate row and does not assume that a paid AC taxi is allowed merely because Level 14 can use it.
+
+**Trap.** The type of vehicle actually used, the place's rate and rail-connected route conditions all matter; local tour-station daily caps are a different rule.
+
+### 43. No prescribed road rate: first-increase fallback
+
+**Source:** [S3](#source-s3), Annexure 2.D(ii); [S14](#source-s14).
+
+**Samjho.** Where neither the concerned nor neighbouring State Directorate of Transport has prescribed specific rates, the 2017 fallback is ₹24/km for own car/taxi and ₹12/km for auto-rickshaw/own scooter etc. The first 25% increase calculates to **₹30/km and ₹15/km** respectively. Apply mode entitlement and all other conditions separately.
+
+**Example.** For an otherwise eligible, approved 40 km own-car journey, ₹30 × 40 = ₹1,200 as a starting calculation, subject to route, evidence and applicable sanction.
+
+**Trap.** A fallback figure is not a universal taxi entitlement, nor does it waive other fare caps or prohibit an authority from checking actual facts.
+
+### 44. Rail-connected road travel is a separate limitation
+
+**Source:** [S3](#source-s3), Annexure 2.A(iii)(a)–(b), 2.D.
+
+**Samjho.** For places connected by rail, the 2017 order allows travel by any means of public transport, provided the total fare does not exceed the entitled-class train fare. For places not connected by rail, the bus-class distinction is different. These provisions must be read with the actual mode and road-mileage conditions, not used as a blanket rule for all private vehicles.
+
+**Example.** An authorised public-bus trip between rail-connected places costs ₹900; if the applicable entitled train fare is ₹800, the public-transport clause's train-fare limitation must be considered.
+
+**Trap.** Do not use the public-transport clause to declare every private vehicle journey automatically permissible or automatically prohibited without the governing facts.
+
+---
+
+## Transfer TA: components, grant and effects
+
+### 45. Transfer TA has four separately governed components
+
+**Source:** [S3](#source-s3), Annexure 3(i)–(iv), including SR 114/116 references.
+
+**Samjho.** Transfer TA comprises (1) travel entitlement for self and eligible family, (2) Composite Transfer and Packing Grant (CTG), (3) transport of personal effects and (4) transport of conveyance. Tour travel entitlements generally apply except international travel; SR 114, the continuing small-family norms and other general conditions are expressly retained.
+
+**Example.** On an eligible public-interest transfer, an employee separately records their own journey, eligible family journey, effects and vehicle. Each component is assessed against its own conditions.
+
+**Trap.** A transfer order or a CTG payment does not automatically establish admissibility of every family member, effect or vehicle.
+
+### 46. Transfer CTG: distance, islands and residence
+
+**Source:** [S3](#source-s3), Annexure 3(ii)(a)–(b).
+
+**Samjho.** The 2017 transfer rule gives CTG at 80% of last month's basic pay for a change of station at least 20 km apart, subject to the applicable conditions. Specified transfers to/from the Andaman, Nicobar and Lakshadweep island territories receive 100%. For stations less than 20 km apart or within the same city, one-third of the CTG is admissible only if a change of residence is actually involved. NPA and MSP are excluded from basic pay for CTG.
+
+**Example.** For an otherwise eligible transfer at least 20 km away, last basic pay of ₹50,000 yields ₹40,000 at 80%. A same-city case needs the stated actual residence-change check.
+
+**Trap.** This is the **transfer** rule; do not import the pre-2022 retirement distance condition into the amended retirement CTG in unit 52.
+
+### 47. Spouses, own request and the 60-day distinction
+
+**Source:** [S3](#source-s3), Annexure 3(ii)(c).
+
+**Samjho.** The 2017 transfer clause gives 50% of the transfer grant to the spouse transferred later when the transfers take place within six months but after 60 days, and no transfer grant to the later spouse if both transfers are ordered within 60 days. Existing provisions apply for transfers after six months or more. The own-request/not-in-public-interest restrictions continue. The order uses different formulations—“takes place” and “ordered”—so check the actual dates and any later clarification rather than flattening them.
+
+**Example.** If both spouses' qualifying transfers occur 90 days apart and otherwise satisfy the clause, the later spouse's grant is assessed at 50%, not assumed to be a full second grant.
+
+**Trap.** Do not treat the 60-day spouse threshold as the separate 60-day **claim-submission** deadline; check the exact six-month boundary and public-interest conditions.
+
+### 48. Personal effects: weight, road rates and vouchers
+
+**Source:** [S3](#source-s3), Annexure 3(iii); [S14](#source-s14).
+
+**Samjho.** The 2017 effects table lists 6,000 kg for Levels 6 and above, 3,000 kg for Level 5 and 1,500 kg for Level 4 and below, with distinct wagon/container alternatives for higher levels. Its road rates are ₹50, ₹50, ₹25 and ₹15 per km respectively; the first 25% increase calculates to ₹62.50, ₹62.50, ₹31.25 and ₹18.75. It requires actual receipts/vouchers, including for specified North-Eastern and island transfer cases. Classification of cities for effects transport was removed in that clause.
+
+**Example.** A Level 7 employee transporting eligible effects 100 km checks the ₹62.50/km calculated rate and ₹6,250 starting amount against the actual receipts, entitlement, conditions and current instructions.
+
+**Trap.** The weight table is not a cash grant payable without transport or receipts, and the road amount is not a city-taxi cap. Check container/steamer terms, rounding and later rules.
+
+### 49. Transport of conveyance is a separate head
+
+**Source:** [S3](#source-s3), Annexure 3(iv), referring to SR 116.
+
+**Samjho.** The 2017 transfer table permits the stated reimbursement for one motor car etc. or one motorcycle/scooter for Level 6 and above; Level 5 and below has the stated one motorcycle/scooter/moped/bicycle category. General SR 116 conditions continue. This is not the same as using a personal car to travel on tour.
+
+**Example.** A Level 7 employee transferring an eligible motor car checks transport evidence and the applicable SR 116 conditions separately from family fares and effects.
+
+**Trap.** The table does not reimburse both a car and a motorcycle just because both exist, or cover a vehicle without the applicable conditions.
+
+### 50. One-day tour: full claim calculation
+
+**Source:** [S3](#source-s3), Annexure 2.A and 2.E; [S14](#source-s14); [S29](#source-s29); [S11](#source-s11).
+
+**Samjho.** Assume a properly sanctioned, otherwise eligible Level 9 official tour, 08:00–17:00 on one calendar day. There is no hotel, no free meals or lodging, no advance or duplicate claim. The eligible train fare is ₹1,200 and actual eligible non-AC city taxi is ₹300, below ₹422.50. Nine hours falls in the 70% food band.
+
+**Example.** Food = ₹1,125 × 70% = **₹787.50**. Claim calculation = ₹1,200 train + ₹300 actual city taxi + ₹787.50 food = **₹2,287.50**. Retain rail evidence, record the city-travel self-certification details and normally submit within 60 days after the return journey, subject to the applicable rules.
+
+**Trap.** This is a teaching calculation, not an approval. A free taxi, ineligible fare, free boarding-and-lodging, omitted proof, different dates, later orders or a different pay level can change it.
+
+---
+
+## Specific transfer and retirement updates
+
+
+### 51. Technical resignation and a specific transfer-TA exception
 
 **Source:** [S21](#source-s21), DoPT OM 24 November 2022, paras 2.1 and 3.6.1–3.6.3.
 
@@ -408,7 +608,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** “Technical resignation always gives transfer TA” and “technical resignation never gives transfer TA” are both over-broad. Detailed joining-time, lien, pay and liability issues remain for a later batch.
 
-### 37. Retirement CTG after the 2022 amendment
+### 52. Retirement CTG after the 2022 amendment
 
 **Source:** [S22](#source-s22), DoE OM 6 January 2022, paras 2–5 and annexure; [S12](#source-s12), retirement claim submission.
 
@@ -418,7 +618,74 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** The 180-day retirement **claim-filing** clock is not the same as the period allowed to undertake a settlement journey. Do not apply the earlier one-third rule as an unqualified current retirement CTG rate.
 
-### 38. Government decision: longer LTC route and mixed rail classes
+
+---
+
+## LTC reference appendix — separate from official TA
+
+This appendix preserves selected DoPT LTC FAQs and Government decisions for comparison. It is not part of the TA-focused lecture and is not a complete LTC manual.
+
+### 53. LTC family travel and leave
+
+**Source:** [S19](#source-s19), DoPT FAQ 1 July 2025, questions 6, 25–27.
+
+**Samjho.** Eligible family members may travel separately for LTC. When only family members travel on LTC, the employee need not take leave merely for that reason. When the employee personally avails LTC, admissible leave is necessary; weekends/holidays alone do not satisfy the FAQ. The FAQ lists several eligible types of leave.
+
+**Example.** An employee remains on duty while an eligible family member undertakes approved LTC. For the employee's own LTC later, the employee takes an admissible kind of leave rather than relying on a weekend alone.
+
+**Trap.** These answers are **LTC-specific**; they are not a classification of an official tour or a transfer-TA family entitlement.
+
+### 54. LTC local expenses are not tour Daily Allowance
+
+**Source:** [S19](#source-s19), FAQ 37–38; [S20](#source-s20), CCS (LTC) Rule 13 and the 2025 guidelines.
+
+**Samjho.** The FAQ says incidental and local-journey expenses, including travel from residence to an airport/railway station/bus depot, are not reimbursed under LTC. LTC journey reimbursement follows its own point-to-point and route rules. Official-tour local expenses are a different component and may be eligible under their own conditions.
+
+**Example.** An employee does not add the home-to-airport cab for an LTC holiday to the LTC claim. On a different authorised official tour, eligible incurred city travel is checked under the tour rules.
+
+**Trap.** A “tour package” in the LTC FAQ is not the same thing as an official-duty tour. Some specific package/fare exceptions in FAQ 36 and 44 remain subject to their stated conditions.
+
+### 55. LTC trains, flight booking and the no-email procedure
+
+**Source:** [S19](#source-s19), FAQ 33, 45–47; [S20](#source-s20), the 2025 consolidation citing DoPT OMs 14 January 2025 and 20 October 2023.
+
+**Samjho.** Tejas, Vande Bharat and Humsafar are allowed on LTC **as per entitlement**. The FAQ encourages 21-day advance flight booking, rather than declaring every shorter booking automatically forfeited. For LTC applicants without official email, the FAQ describes registration with the authorised agents when the administrative office supplies the required employee details, including private email/mobile details.
+
+**Example.** Before buying a Vande Bharat LTC ticket, an employee checks the applicable LTC class. A different employee without official email asks their office to provide the required details to the agent for LTC registration.
+
+**Trap.** This no-email clarification is for **LTC**; do not automatically apply it to unrelated official-tour requirements. The separate non-air-entitled exception below also matters.
+
+### 56. Old LTC-80 and time-limited dispensations
+
+**Source:** [S19](#source-s19), FAQ 48 and 55–63; [S20](#source-s20), Rule 12 notes.
+
+**Samjho.** The 2025 FAQ states that the former Air India **LTC-80** fare scheme no longer exists. The FAQ describes a special air dispensation for certain regions only through **25 September 2026**; that is a historical limit in that source, not proof that the concession ended or continued afterward. Third-party sources reproduce a purported DoPT OM dated 9 September 2026 extending it to 25 September 2028, but an official-hosted copy of that later OM could not be verified in this research. Treat that reported extension as **unverified** and obtain the operative official order before relying on it. [Unverified third-party reproduction](https://dtf.in/wp-content/files/DoPT_O.M._dated_09.09.2026_-_CCS_LTC_Rules_-_Relaxation_to_travel_by_air_to_visit_NER_JK_Ladakh_and_AN_Islands_-_extension_for_2_years_beyond_25.09.2026.pdf).
+
+**Example.** An employee planning a November 2026 LTC journey does not assume that the 2025 FAQ by itself authorises the earlier special scheme; the employee checks whether a later valid order applies.
+
+**Trap.** A time-limited special dispensation is not ordinary tour air entitlement, and its separate routes, fares and authorised-agent conditions cannot be inferred from the general rule.
+
+### 57. Important exception: non-air-entitled ordinary LTC
+
+**Source:** [S20](#source-s20), Rule 12 note 7, reproducing DoPT OM 31011/17/2023-Estt.A-IV of 10 August 2023.
+
+**Samjho.** The later DoPT instruction states that an employee **not entitled to air travel** who nevertheless chooses air for ordinary LTC is no longer required to book mandatorily through the three authorised agents; reimbursement is restricted to the **actual airfare or entitled train/bus fare by the shortest route, whichever is less**. The same instruction says cancellation charges for that non-entitled voluntary-air case are borne by the employee. For a non-air-entitled employee travelling by air under a **valid special dispensation**, the specific three-agent condition continues in the cited instruction. Check current special-scheme validity and the interaction with the official-exigency provision separately; see unit 67.
+
+**Example.** A Level 7 employee who is not ordinarily air-entitled for LTC chooses a flight costing Rs 8,000; if the eligible shortest-route train fare is Rs 5,000, the relevant ceiling is Rs 5,000, subject to all other applicable conditions. The cited ordinary-LTC exception means the three-agent mandate is not applied automatically to this case.
+
+**Trap.** This is a **specific LTC exception**, not a blanket permission for all Government-account official-tour bookings or all special-dispensation flights. It corrects an over-broad reading of the earlier three-agent summary in this course.
+
+### 58. LTC deadlines and limited late-claim relaxation
+
+**Source:** [S19](#source-s19), FAQ 35 and 71; [S20](#source-s20), Rules 14–15; and [S25](#source-s25), DoPT OM 21 December 2023.
+
+**Samjho.** The FAQ states the ordinary LTC claim deadline as **one month after completion of the return journey where an advance was drawn**, or **three months where no advance was drawn**. The 2023 OM delegates limited relaxation to Ministries/Departments with Financial Adviser concurrence, and to subordinate/attached offices with concurrence of a Head of Department not below Joint Secretary rank, where satisfied that the delay was beyond the employee's control: within **six months** without advance, or within **three months** with advance, subject to the stated conditions. For the latter, the entire advance must be returned in one lump sum within three months, with interest on the entire amount from drawal to recovery; the FAQ calls this penal interest. Do not treat delegated relaxation as automatic approval.
+
+**Example.** An employee who drew no LTC advance records the return date and submits within three months. If a claim is late, they provide reasons and documents and request a decision by the competent authority rather than assuming an extension.
+
+**Trap.** These are **LTC** clocks; the tour/transfer/training TA claim clock is generally 60 days under [S11](#source-s11). An LTC advance and a tour advance have separate adjustment rules. FAQ 71 states forfeiture with no relaxation for a no-advance claim after three months, while FAQ 35 and the 2023 OM describe a limited delegated relaxation. Do not silently erase either wording: the competent office must apply the governing order and conditions to the case.
+
+### 59. Government decision: longer LTC route and mixed rail classes
 
 **Source:** [S23](#source-s23), a Government-hosted CCS (LTC) rules reproduction, Government of India Decision under Rule 13; [S20](#source-s20), Rule 13 note 1, which repeats the decision and cites OM 43/10/58-Ests.(A), 11 April 1958.
 
@@ -428,7 +695,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** This is an LTC decision under Rule 13; do not silently substitute it for all tour/transfer mileage rules. Check the current original instructions and case facts.
 
-### 39. Government decisions combining LTC with tour or transfer
+### 60. Government decisions combining LTC with tour or transfer
 
 **Source:** [S20](#source-s20), Rule 7 note 8, citing OMs 43/15/59-Ests.(A), 19 July 1960, and 31011/3/2006, 7 February 2007; [S24](#source-s24), DoPT's published CCS decisions.
 
@@ -438,7 +705,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** The existence of a combined-journey decision is not blanket permission for duplicate reimbursement or a substitute for the decision's detailed conditions.
 
-### 40. Source conflict: headquarters during training
+### 61. Source conflict: headquarters during training
 
 **Source:** [S20](#source-s20), Rule 7 note 9; [S23](#source-s23) and [S24](#source-s24), published Government decisions on LTC during training.
 
@@ -448,7 +715,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** A consolidation explicitly says the underlying OMs/orders prevail if there is imprecision; neither a conflicting summary nor this lesson is individual sanction authority.
 
-### 41. The FAQ's historical block labels are not today's labels
+### 62. The FAQ's historical block labels are not today's labels
 
 **Source:** [S19](#source-s19), FAQ 13–18 and the fresh-recruit tables; [S20](#source-s20), Rule 9–10.
 
@@ -459,7 +726,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 **Trap.** Do not present the source's historical “current block” label as automatically current forever or generalise normal-block rules to every fresh recruit.
 
 
-### 42. LTC circular rail tickets and declared destinations
+### 63. LTC circular rail tickets and declared destinations
 
 **Source:** [S19](#source-s19), FAQ 39–40; [S20](#source-s20), Rule 13.
 
@@ -469,7 +736,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** Permission to use a circular ticket does not convert local sightseeing or an extra route into reimbursable LTC travel. Verify the ticket and applicable route conditions.
 
-### 43. LTC tour packages: limited transport-only exceptions
+### 64. LTC tour packages: limited transport-only exceptions
 
 **Source:** [S19](#source-s19), FAQ 36 and 44; the cited DoPT OMs of 30 July 2002, 26 March 2008 and 11 October 2018.
 
@@ -479,7 +746,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** A private-agent holiday package does not become reimbursable merely because an employee holds LTC approval; the FAQ's specific operator and certification conditions matter.
 
-### 44. LTC rail booking, catering and Government levies
+### 65. LTC rail booking, catering and Government levies
 
 **Source:** [S19](#source-s19), FAQ 41–43, citing DoPT OM 10 August 2023 and DoE OM 18 July 2007.
 
@@ -489,7 +756,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** This FAQ is about LTC and specified booking channels and trains; it does not authorise unrelated meals, hotel costs or every third-party service fee.
 
-### 45. Fresh recruits: eight LTC occasions
+### 66. Fresh recruits: eight LTC occasions
 
 **Source:** [S19](#source-s19), FAQ 64–67 and Table 5; [S20](#source-s20), Rule 7 and the cited fresh-recruit instructions.
 
@@ -499,7 +766,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** The employee's individual fresh-recruit cycle is not automatically the normal 2026–2029 block. The transition, changes of job and exceptional dates require the FAQ's detailed tables.
 
-### 46. LTC cancellation charges: distinguish the payer and source
+### 67. LTC cancellation charges: distinguish the payer and source
 
 **Source:** [S19](#source-s19), FAQ 49 and 54; [S26](#source-s26), DoPT OM 10 August 2023, paras 2(ii)–(iii); [S8](#source-s8), para 6.
 
@@ -509,7 +776,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** An airline charging a cancellation fee is not, by itself, a decision that the Government must reimburse it. Nor should the two FAQ answers be silently treated as identical.
 
-### 47. Premium trains under LTC: use the 2025 DoPT table
+### 68. Premium trains under LTC: use the 2025 DoPT table
 
 **Source:** [S27](#source-s27), paras 3–4; [S19](#source-s19), FAQ 33.
 
@@ -519,7 +786,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** This is the **LTC-specific** table, not a universal entitlement to every class on every journey. Use the later 2025 order rather than relying on an older restriction in isolation; check the actual train type and later amendments.
 
-### 48. LTC last-mile travel by personal or private vehicle
+### 69. LTC last-mile travel by personal or private vehicle
 
 **Source:** [S19](#source-s19), FAQ 31; [S20](#source-s20), Rule 13; [S28](#source-s28), para 3(ii).
 
@@ -529,7 +796,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** The 200 km total in the FAQ means **100 km each way**, not 200 km in either direction. This special LTC last-mile provision is not a blanket rule for private travel throughout a journey.
 
-### 49. LTC disability-related vehicle exception
+### 70. LTC disability-related vehicle exception
 
 **Source:** [S19](#source-s19), FAQ 30; [S28](#source-s28), para 3(iii).
 
@@ -539,7 +806,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 **Trap.** The exception is conditional and relates to **LTC**; it does not establish an unlimited taxi entitlement for all travellers or all forms of TA.
 
-### 50. LTC leave encashment when the fare claim is nil
+### 71. LTC leave encashment when the fare claim is nil
 
 **Source:** [S28](#source-s28), paras 1–4; [S19](#source-s19), FAQs 21–23.
 
@@ -552,6 +819,7 @@ These additional units are a **targeted Batch 1 update**, not a claim that all G
 
 ---
 
+
 ## Source-guide corrections
 
 The user's attached guide is useful as a topic inventory, not an authoritative legal compilation. The examples below explain how the corrections change an application.
@@ -561,14 +829,14 @@ The user's attached guide is useful as a topic inventory, not an authoritative l
 | “2008 order is of no use” | Incorrect as an absolute statement: [S3](#source-s3) preserves the relevant historical and higher-entitlement situations. | A June 2017 journey may need the 2008 regime. |
 | “Four kinds of TA” | The attachment mixes **tour, transfer and retirement contexts** with permanent/fixed TA and mileage; this is not the five-form classification listed in [S2](#source-s2). | A sanctioned permanent TA is a form of allowance, while transfer is a journey context. |
 | 10:00 flight belongs to a rolling 08:30–11:30 band | [S8](#source-s8) uses fixed bands; 10:00 falls in 09:00–12:00. | Compare entitled-class fares in 09:00–12:00. |
-| All air **and rail** tickets must use the three air agents; direct airline site is always permissible if cheaper | [S8](#source-s8) is an air instruction, not a rail instruction. The later DoPT rule [S20](#source-s20) has a specific non-air-entitled ordinary-LTC exception; it is not a blanket tour exception. | A Level 7 ordinary-LTC flight may fall within unit 34; an official-tour booking requires its own applicable channel/relaxation check. |
+| All air **and rail** tickets must use the three air agents; direct airline site is always permissible if cheaper | [S8](#source-s8) is an air instruction, not a rail instruction. The later DoPT rule [S20](#source-s20) has a specific non-air-entitled ordinary-LTC exception; it is not a blanket tour exception. | A Level 7 ordinary-LTC flight may fall within unit 57; an official-tour booking requires its own applicable channel/relaxation check. |
 | Some passages treat non-authorised booking as automatic 100% forfeiture; another mentions relaxation | [S8](#source-s8) para 10 has a limited relaxation authority in unavoidable circumstances; no automatic approval. | An emergency case can be placed before the specified authority with reasons. |
 | July 2026 makes 21-day booking mandatory for all | [S8](#source-s8) says “encouraged”; [S10](#source-s10) is an LTC advisory to DoPT personnel, “as far as possible”. | An urgent tour booked 10 days before is not automatically invalid under the 21-day wording alone. |
 | 2024 Dearness Allowance order dated 12 January 2024 | The official copy in [S14](#source-s14) is dated **12 March 2024**, with 50% effective **1 January 2024**. Date and effect are different. | A chronology should cite the March issue date, not invent a January issue date. |
 | Tejas listed without Vande Bharat/Humsafar update | [S7](#source-s7) adds Vande Bharat = Shatabdi and Humsafar = Rajdhani for the stated TA purposes. | A 2026 authorised Vande Bharat training journey must be checked against the 2023 OM. |
 | “Level 7 economy air on tour” | **Retained:** [S3](#source-s3) supports it. Ordinary LTC differs under [S4](#source-s4). | A Level 7 officer may be economy-air entitled on official tour while ordinary LTC follows the separate restriction. |
 
-**Unresolved, not taught as settled:** the attachment's universal “first kilometre dead” claim, universal 180-day stoppage/automatic tour-to-transfer rule, detailed current Daily Allowance and road-rate tables, and the remaining technical-resignation cases need a clause-by-clause primary-source audit. Unit 36 explains one verified, specifically limited technical-resignation transfer-TA case. [S15](#source-s15) confirms Dearness Allowance was enhanced to 60% effective 1 January 2026; it does **not**, by itself, establish every claimed 2026 TA ceiling or the absence of later revisions. See the ledger below.
+**Unresolved, not taught as settled:** the attachment's universal “first kilometre dead” claim, universal 180-day stoppage/automatic tour-to-transfer rule, other Daily Allowance exceptions and rounding, and the remaining technical-resignation cases need a clause-by-clause primary-source audit. Unit 51 explains one verified, specifically limited technical-resignation transfer-TA case. [S15](#source-s15) confirms Dearness Allowance was enhanced to 60% effective 1 January 2026; it does **not**, by itself, establish the absence of later revisions. The first-increase tables above are calculations from the 2017 clauses, not an independently located central consolidation of all 2026 ceilings. See the ledger below.
 
 ---
 
@@ -579,7 +847,7 @@ The user's attached guide is useful as a topic inventory, not an authoritative l
 1. **Identify the context:** official training, not LTC. Under [S3](#source-s3) Level 6–11 domestic TA includes Economy air, subject to sanction and other requirements.
 2. **Check the booking:** [S8](#source-s8) gives authorised agents and the fixed three-hour fare-slot rule. Ten days is less than the encouraged 21 days, but is **not** less than 72 hours; on these facts the special under-72-hour booking justification is not triggered. This does not rule out other departmental instructions.
 3. **After the trip:** provide the prescribed journey-completion certificate within 72 hours where the OM applies, and retain the evidence required by the office.
-4. **Claim deadline:** count 2 October as day 1; day 60 is 30 November 2026. Submit to the proper authority with proof. Do not insert numerical hotel/food caps from the attachment until the relevant rate-and-condition audit is complete.
+4. **Claim deadline:** count 2 October as day 1; day 60 is 30 November 2026. Submit to the proper authority with proof. For hotel, food and local travel, use the component-specific examples above and check eligibility, evidence and applicable current orders.
 
 **Takeaway.** Entitlement, booking compliance, 72-hour certification and the 60-day claim period are four separate checks. Each can matter independently.
 
@@ -593,8 +861,9 @@ The user's attached guide is useful as a topic inventory, not an authoritative l
 | 2017 Annexure 2.A(i)–(iii)(a)–(d); 13A; Tejas; Vande Bharat/Humsafar | **01** | Explained with examples and linked official text. Other rail-specific and special-category orders still need a complete search. |
 | Air booking OM 16.06.2022, boarding-pass OM 2020, and selected LTC changes 2023–25 | **01** | Principal provisions plus the non-air-entitled ordinary-LTC exception, lost-pass and no-email procedures explained. Remaining later instructions require further audit. |
 | GFR 290 as referenced by 2018 OM; 2018 claim OM; 2021 retirement-claim amendment | **01** | Explained with examples. GFR compilation chronology, relaxation powers and advance adjustment require further targeted review. |
-| Annexure 2.B international; 2.C sea/river; 2.D road; 2.E tour Daily Allowance | **02–03 planned** | **Not audited.** Verify current official revisions, vouchers, free facilities, foot travel, timing, rounding and DA-linked thresholds before teaching rates. |
-| Transfer, CTG, family/effects/conveyance, special-region orders | **04 planned** | **Not audited.** Verify SR 114/116, later orders, spouse cases, request vs public interest and exceptions. |
+| Annexure 2.D road and 2.E tour Daily Allowance | **01 substantial introduction / 02–03 planned** | 2017 tables, first-increase calculations, vouchers, foot travel, midnight food and both-free-facilities clarification explained with examples. Rounding, special cases, other GIDs and later amendments are **not fully audited**. |
+| Annexure 2.B international and 2.C sea/river | **02–03 planned** | **Not yet audited.** Check latest international, sea, island and special-category provisions. |
+| Transfer, CTG, family/effects/conveyance, special-region orders | **01 introduction / 04 planned** | Four heads, 2017 CTG, spouse condition, effects and conveyance overview introduced. The full SR 114/116, all family, travel, region and later-order exceptions remain **not yet audited**. |
 | Retirement, death, re-employment, settlement journey and CTG | **01 overview / 05 planned** | Retirement CTG amendment and submission limit introduced. Death, re-employment, journey eligibility and detailed conditions remain unaudited. |
 | Training/long halt, disability, medical/court/exam, deputation, foreign service and special cases | **06 planned** | **Not audited.** Verify each SR/OM, proviso, exception, competent authority and cross-service scope; investigate the attachment's broad 180-day assertions. |
 | Technical resignation, proper channel, joining time/pay and transfer-TA liability; case studies | **01 overview / 07 planned** | One DoPT open-competition case and under-three-year exclusion introduced. Other cases, joining-time/pay and which office bears cost remain unaudited. |
@@ -607,18 +876,18 @@ The [2025 FAQ](#source-s19) itself skips question number 28. “Pending” means
 
 | Source or question group | Status in this batch | Still to audit |
 |---|---|---|
-| FAQ 1–12, family and eligibility | Q6 covered in unit 30 | Definitions, dependency, children, suspension and special exceptions pending; LTC family definitions must not be assumed for transfer TA. |
-| FAQ 13–20, normal blocks and carry-over | Normal 2026–2029 label introduced in unit 41 | Detailed carry-over, home-town and individual entitlement pending. |
-| FAQ 21–24, leave encashment | Q22 and 2023 nil-claim order in unit 50 | Remaining conditions, limits and later amendments require audit. |
+| FAQ 1–12, family and eligibility | Q6 covered in unit 53 | Definitions, dependency, children, suspension and special exceptions pending; LTC family definitions must not be assumed for transfer TA. |
+| FAQ 13–20, normal blocks and carry-over | Normal 2026–2029 label introduced in unit 62 | Detailed carry-over, home-town and individual entitlement pending. |
+| FAQ 21–24, leave encashment | Q22 and 2023 nil-claim order in unit 71 | Remaining conditions, limits and later amendments require audit. |
 | FAQ 25–27, leave | Q26–27 covered; Q25 identified | Full leave interaction and special situations pending. |
 | FAQ 29–45, road/rail/sea, claims and costs | Q30–31, 33, 35–45 covered in selected units | Q29, 32, 34 and further route/disability cases pending; operators and later amendments need deeper audit. |
-| FAQ 46–54, LTC air | Q46–48 covered; 2023 agent exception in unit 34; underlying cancellation order and interaction in unit 46 | Q50–53 and cancellation special cases need detailed audit. |
+| FAQ 46–54, LTC air | Q46–48 covered; 2023 agent exception in unit 57; underlying cancellation order and interaction in unit 67 | Q50–53 and cancellation special cases need detailed audit. |
 | FAQ 55–63, special dispensation | Historical validity warning only | A 2026 extension is reported by third parties but not verified from an official host; current applicability and detailed conditions remain open. |
-| FAQ 64–70, fresh recruits | Q64–67 explained with example; block warning in unit 41 | Q68–70, transition and exceptional individual cases require deeper audit. |
-| FAQ 71–75, relaxations and family away | Q71 wording and its tension with Q35 and the 2023 order flagged in unit 35 | Q72–75 and overlapping tour/transfer rules pending. |
-| Published GID, LTC Rule 13 longer/mixed route | Unit 38; also reproduced in the 2025 consolidation | Other GIDs and later amendments require a clause-by-clause review. |
-| Published GIDs/OMs combining LTC with tour or transfer | Unit 39 identifies the interaction only | Original leg-by-leg formula, later amendments and exceptions pending. |
-| Training headquarters: conflicting summaries | Unit 40 flags conflict | Resolve against SR 59 and the underlying current OMs before teaching a definitive rule. |
+| FAQ 64–70, fresh recruits | Q64–67 explained with example; block warning in unit 62 | Q68–70, transition and exceptional individual cases require deeper audit. |
+| FAQ 71–75, relaxations and family away | Q71 wording and its tension with Q35 and the 2023 order flagged in unit 58 | Q72–75 and overlapping tour/transfer rules pending. |
+| Published GID, LTC Rule 13 longer/mixed route | Unit 59; also reproduced in the 2025 consolidation | Other GIDs and later amendments require a clause-by-clause review. |
+| Published GIDs/OMs combining LTC with tour or transfer | Unit 60 identifies the interaction only | Original leg-by-leg formula, later amendments and exceptions pending. |
+| Training headquarters: conflicting summaries | Unit 61 flags conflict | Resolve against SR 59 and the underlying current OMs before teaching a definitive rule. |
 
 The planned batch numbering can change if the primary-source audit reveals a better division. A topic labelled “planned” is not a deliverable completed by this batch.
 
@@ -723,7 +992,7 @@ Sources were inspected during the Batch 1 research on 27 October 2026. An offici
 
 ### Source S24
 
-**DoPT published CCS (LTC) decisions**, including combined LTC/tour/transfer and training headquarters under SR 59. [Open the DoPT decisions page](https://dopt.gov.in/central-civil-services). Historical page: read with later amendments and the conflict noted in unit 40.
+**DoPT published CCS (LTC) decisions**, including combined LTC/tour/transfer and training headquarters under SR 59. [Open the DoPT decisions page](https://dopt.gov.in/central-civil-services). Historical page: read with later amendments and the conflict noted in unit 61.
 
 ### Source S25
 
@@ -740,6 +1009,22 @@ Sources were inspected during the Batch 1 research on 27 October 2026. An offici
 ### Source S28
 
 **DoPT OM 31011/06/2023-Estt.(A-IV)**, 29 March 2023, LTC procedural requirements and nil-claim leave encashment; CSIR reproduction. [Open the government-institution-hosted order](https://www.csir.res.in/sites/default/files/2023-08/CSIR-LTC-10-04-2023%20%281%29.pdf).
+
+### Source S29
+
+**DoE OM 22 December 2020**, Level 9–11 city-travel self-certification on tour. [Open official order](https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf).
+
+### Source S30
+
+**DoE OM 1 February 2018**, clarification for free boarding **and** lodging, local travel and discontinued 25% practice. [Open official order](https://doe.gov.in/files/cenetral-pay_document/OM_dt_01_02_18_Eng_0.pdf).
+
+### Source S31
+
+**DoE OM 29 June 2018**, hotel taxes/GST above the prescribed entitlement and calculation on eligible actual charges. The [official PDF link](https://doe.gov.in/files/whats_new_documents/DoE_OM_dated_29.06.2018_Eng.pdf) was indexed with this text but could not be opened directly during this research; [a non-official reproduction](https://employee435.rssing.com/chan-8433081/article7356.html) also displays the order. Verify the official full text and current GST rules before sanction.
+
+### Source S32
+
+**Ladakh Finance Department Order 231-F of 2024**, a regional table corroborating the first-increase arithmetic. [Open official regional order](https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2024/05/202405061031185669.pdf). This is not itself a universal Central Government order.
 
 ### Useful official indices
 

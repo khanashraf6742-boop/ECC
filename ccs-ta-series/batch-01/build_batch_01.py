@@ -193,7 +193,7 @@ def slide(section: dict, beat: dict, chapter_num: int, beat_num: int, dest: Path
     # Dark subtitle band matches the screenshot; libass renders speech later.
     d.rounded_rectangle((45, 882, 1875, 1056), radius=20,
                         fill='#030712', outline='#2d3956', width=2)
-    d.text((66, 892), 'ENGLISH SUBTITLES  /  TRANSLATION • AUTOMATICALLY ALIGNED • NOT HUMAN-VERIFIED',
+    d.text((66, 892), 'ROMAN HINGLISH  /  AUTOMATICALLY ALIGNED • NOT HUMAN-VERIFIED',
            font=font(18, True), fill='#7a8da8')
     progress = ((chapter_num - 1) * 2 + beat_num) / (total_chapters * 2)
     d.rounded_rectangle((47, 1064, 1873, 1074), radius=5, fill='#1b2940')
@@ -327,11 +327,13 @@ def make_subtitles(captions, english: list[str], temp: Path, publish: bool = Tru
     ]
     for i, ((start, end, source), translated) in enumerate(zip(captions, english), 1):
         roman = romanize_hinglish(source, dictionary)
-        for dest, text, setting in ((en_vtt, translated, ''),
-                                    (roman_vtt, roman, ' line:5% position:50% align:center')):
+        for dest, text, setting in ((en_vtt, translated, ' line:5% position:50% align:center'),
+                                    (roman_vtt, roman, '')):
             lines = textwrap.wrap(text, width=62, break_long_words=False, break_on_hyphens=False)
             dest += [str(i), f'{stamp(start)} --> {stamp(end)}{setting}', '\n'.join(lines), '']
-        clean = translated.replace('\\', '').replace('{', '(').replace('}', ')')
+        # Burn the transcript-like Roman transliteration rather than the English
+        # translation. The separately selectable English track sits at the top.
+        clean = roman.replace('\\', '').replace('{', '(').replace('}', ')')
         ass.append(f'Dialogue: 0,{ass_stamp(start)},{ass_stamp(end)},Default,,0,0,0,,{clean}')
     for name, lines in (('Captions-en.vtt', en_vtt), ('Captions-roman.vtt', roman_vtt)):
         path = temp / name
@@ -373,8 +375,8 @@ def make_build(data: dict, ff: str, preview_only=False):
         if preview_only:
             image = temp / 'preview.png'
             slide(data['sections'][3], data['sections'][3]['beats'][1], 4, 2, image, len(data['sections']))
-            # A synthetic English caption checks subtitle placement in the preview.
-            sample = 'Example: Level Seven can check economy entitlement on an official tour.'
+            # A synthetic Roman-Hinglish caption checks placement in the preview.
+            sample = 'Example: Level Seven official tour par economy entitlement check karein.'
             make_subtitles([(0, 5, sample)], [sample], temp, publish=False)
             dest = Path('/tmp/ccs-ta-batch01-preview.png')
             filt = f"ass=filename='{ff_filter_path(temp / 'captions.ass')}':fontsdir='{ff_filter_path(ASSETS)}'"
