@@ -7,184 +7,288 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Noto Sans Devanagari,52,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,0,0,0,0,100,100,0,0,1,1,0,2,110,110,12,1
+Style: Default,Atkinson Hyperlegible,40,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,0,0,0,0,100,100,0,0,1,1,0,2,110,110,12,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.52,Default,,0,0,0,,Sir, इस updated Batch one में हर rule\Nऔर clause का exact reference पहले बोलो,
-Dialogue: 0,0:00:05.52,0:00:09.46,Default,,0,0,0,,फिर simple city Hinglish\Nexplanation और उसके बाद example दो.
-Dialogue: 0,0:00:09.46,0:00:13.76,Default,,0,0,0,,Roman one, two, three, four का मतलब\Nbracket वाले Roman numerals है.
-Dialogue: 0,0:00:13.76,0:00:18.30,Default,,0,0,0,,Rule two, sub rule one की conditions\Nको made up clause letters मत देना.
-Dialogue: 0,0:00:18.30,0:00:20.32,Default,,0,0,0,,Rule one, sub rule one.
-Dialogue: 0,0:00:20.32,0:00:24.84,Default,,0,0,0,,Official name है Central Civil\NServices, Leave Travel Concession Rules,
-Dialogue: 0,0:00:24.84,0:00:26.12,Default,,0,0,0,,nineteen eighty eight.
-Dialogue: 0,0:00:26.12,0:00:31.08,Default,,0,0,0,,Example, Asha की family LTC application\Nके लिए LTC rules check होंगे,
-Dialogue: 0,0:00:31.08,0:00:32.40,Default,,0,0,0,,pension rules नहीं.
-Dialogue: 0,0:00:32.40,0:00:34.94,Default,,0,0,0,,Rule one, sub rule two.
-Dialogue: 0,0:00:34.94,0:00:39.12,Default,,0,0,0,,Rules Gazette में publication की date\Nसे start होते हैं, signing date से नहीं.
-Dialogue: 0,0:00:39.12,0:00:43.91,Default,,0,0,0,,Example, Notification May third को\Nsign और May twenty first को publish हो,
-Dialogue: 0,0:00:43.91,0:00:45.84,Default,,0,0,0,,तो publication वाली date count होगी.
-Dialogue: 0,0:00:45.84,0:00:48.00,Default,,0,0,0,,ये dates सिर्फ example हैं.
-Dialogue: 0,0:00:48.00,0:00:51.46,Default,,0,0,0,,Actual nineteen eighty eight Gazette\Nकी exact date original copy से confirm
-Dialogue: 0,0:00:51.46,0:00:52.28,Default,,0,0,0,,नहीं हुई है.
-Dialogue: 0,0:00:52.28,0:00:55.07,Default,,0,0,0,,Rule one, sub rule three, opening words.
-Dialogue: 0,0:00:55.07,0:00:59.44,Default,,0,0,0,,Coverage, Rule one, sub rule\Nfour के exclusions के subject है.
-Dialogue: 0,0:00:59.44,0:01:02.08,Default,,0,0,0,,Covered होना automatic approval नहीं है.
-Dialogue: 0,0:01:02.08,0:01:05.15,Default,,0,0,0,,Example, Union civil post\Nवाला employee part time है,
-Dialogue: 0,0:01:05.15,0:01:07.00,Default,,0,0,0,,तो exclusion भी check करना होगा.
-Dialogue: 0,0:01:07.00,0:01:10.38,Default,,0,0,0,,Rule one, sub rule three, clause Roman one.
-Dialogue: 0,0:01:10.38,0:01:13.99,Default,,0,0,0,,Union civil services और posts covered हैं.
-Dialogue: 0,0:01:13.99,0:01:17.92,Default,,0,0,0,,Defence Services के civilian\NGovernment employees भी included हैं.
-Dialogue: 0,0:01:17.92,0:01:20.80,Default,,0,0,0,,Example, Meera Defence\Noffice में civilian clerk है.
-Dialogue: 0,0:01:20.80,0:01:24.14,Default,,0,0,0,,सिर्फ Defence में काम करने की\Nवजह से उसे exclude नहीं करेंगे.
-Dialogue: 0,0:01:24.14,0:01:27.34,Default,,0,0,0,,Rule one, sub rule three, clause Roman two.
-Dialogue: 0,0:01:27.34,0:01:31.88,Default,,0,0,0,,State Government employee Central Government\Nमें deputation पर आए, तो coverage है.
-Dialogue: 0,0:01:31.88,0:01:35.80,Default,,0,0,0,,Example, Raghav State cadre से Central\NMinistry में deputation पर आया.
-Dialogue: 0,0:01:35.80,0:01:38.74,Default,,0,0,0,,Coverage के बाद Rule two की\Nconditions भी check होंगी.
-Dialogue: 0,0:01:38.74,0:01:41.90,Default,,0,0,0,,Rule one, sub rule three, clause Roman three.
-Dialogue: 0,0:01:41.90,0:01:45.36,Default,,0,0,0,,Contract basis पर Government\Nappointments included हैं.
-Dialogue: 0,0:01:45.36,0:01:48.24,Default,,0,0,0,,Example, Neha को direct\NGovernment contract मिला.
-Dialogue: 0,0:01:48.24,0:01:51.45,Default,,0,0,0,,सिर्फ contract job होने से\Nउसे exclude नहीं करेंगे.
-Dialogue: 0,0:01:51.45,0:01:55.25,Default,,0,0,0,,Vendor employee को Ministry में काम करने\Nसे automatically यही status नहीं मिलता.
-Dialogue: 0,0:01:55.25,0:01:58.00,Default,,0,0,0,,Rule one, sub rule three, clause Roman four.
-Dialogue: 0,0:01:58.00,0:02:01.70,Default,,0,0,0,,Retirement के बाद re employed\Npersons included हैं.
-Dialogue: 0,0:02:01.70,0:02:05.20,Default,,0,0,0,,Example, Dev को actual Government\Nre employment appointment मिला.
-Dialogue: 0,0:02:05.20,0:02:06.56,Default,,0,0,0,,उसका case check होगा.
-Dialogue: 0,0:02:06.56,0:02:09.90,Default,,0,0,0,,सिर्फ pension मिलने से हर\Nretiree को LTC नहीं मिलती.
-Dialogue: 0,0:02:09.90,0:02:13.62,Default,,0,0,0,,Rule one, sub rule four, clause A.
-Dialogue: 0,0:02:13.62,0:02:16.66,Default,,0,0,0,,Non whole time Government\Nemployment excluded है.
-Dialogue: 0,0:02:16.66,0:02:21.60,Default,,0,0,0,,Example, Three hours daily की part\Ntime appointment कई years चलने से whole
-Dialogue: 0,0:02:21.60,0:02:22.80,Default,,0,0,0,,time नहीं बनती.
-Dialogue: 0,0:02:22.80,0:02:25.90,Default,,0,0,0,,Rule one, sub rule four, clause B.
-Dialogue: 0,0:02:25.90,0:02:29.30,Default,,0,0,0,,Casual और daily rated employment excluded है.
-Dialogue: 0,0:02:29.30,0:02:31.68,Default,,0,0,0,,Example, Salim daily rated worker है.
-Dialogue: 0,0:02:31.68,0:02:36.30,Default,,0,0,0,,Twelve months complete होने से\Nये exclusion अपने आप नहीं हटता.
-Dialogue: 0,0:02:36.30,0:02:38.58,Default,,0,0,0,,Rule one, sub rule four, clause C.
-Dialogue: 0,0:02:38.58,0:02:41.94,Default,,0,0,0,,Persons paid from contingencies excluded हैं.
-Dialogue: 0,0:02:41.94,0:02:46.68,Default,,0,0,0,,Example, Kavita का actual engagement इसी\Ncategory में है, तो clause apply होगा.
-Dialogue: 0,0:02:46.68,0:02:51.40,Default,,0,0,0,,सिर्फ office में contingency budget होने\Nसे हर employee इस category में नहीं आता.
-Dialogue: 0,0:02:51.40,0:02:54.46,Default,,0,0,0,,Rule one, sub rule four, clause D.
-Dialogue: 0,0:02:54.46,0:02:57.50,Default,,0,0,0,,Railway servants generally excluded हैं.
-Dialogue: 0,0:02:57.50,0:03:02.37,Default,,0,0,0,,अलग later instructions में conditional\NAll India LTC once in a four year block की
-Dialogue: 0,0:03:02.37,0:03:03.42,Default,,0,0,0,,limited window है.
-Dialogue: 0,0:03:03.42,0:03:07.46,Default,,0,0,0,,Example, Railway employee को इस\Nwindow से normal Hometown LTC
-Dialogue: 0,0:03:07.46,0:03:08.73,Default,,0,0,0,,automatically नहीं मिलेगी.
-Dialogue: 0,0:03:08.73,0:03:13.77,Default,,0,0,0,,Pass surrender की complete conditions की\Nprimary order verification pending है.
-Dialogue: 0,0:03:13.77,0:03:16.68,Default,,0,0,0,,Rule one, sub rule four, clause E.
-Dialogue: 0,0:03:16.68,0:03:18.76,Default,,0,0,0,,Armed Forces members excluded हैं.
-Dialogue: 0,0:03:18.76,0:03:23.06,Default,,0,0,0,,Example, Army officer और Defence office\Nकी civilian clerk को same category
-Dialogue: 0,0:03:23.06,0:03:23.85,Default,,0,0,0,,में मत रखो.
-Dialogue: 0,0:03:23.85,0:03:26.10,Default,,0,0,0,,Civilian inclusion अलग है.
-Dialogue: 0,0:03:26.10,0:03:29.03,Default,,0,0,0,,Rule one, sub rule four, clause F.
-Dialogue: 0,0:03:29.03,0:03:32.16,Default,,0,0,0,,Indian Missions abroad के\Nlocal recruits excluded हैं.
-Dialogue: 0,0:03:32.16,0:03:36.44,Default,,0,0,0,,Example, Paris Mission में locally hired\Nemployee और India से posted officer का
-Dialogue: 0,0:03:36.44,0:03:38.51,Default,,0,0,0,,recruitment status अलग है.
-Dialogue: 0,0:03:38.51,0:03:40.85,Default,,0,0,0,,Rule one, sub rule four, clause G.
-Dialogue: 0,0:03:40.85,0:03:45.73,Default,,0,0,0,,किसी दूसरे applicable travel concession की\Neligibility वाला exclusion check करना है.
-Dialogue: 0,0:03:45.73,0:03:48.50,Default,,0,0,0,,Wording eligibility है, सिर्फ actual use नहीं.
-Dialogue: 0,0:03:48.50,0:03:51.54,Default,,0,0,0,,Example, Employee बोले,\Nदूसरा benefit use नहीं किया.
-Dialogue: 0,0:03:51.54,0:03:53.44,Default,,0,0,0,,सिर्फ ये बोलना enough नहीं है.
-Dialogue: 0,0:03:53.44,0:03:56.78,Default,,0,0,0,,हर private sector spouse की\NLTA को blanket ban मत समझो.
-Dialogue: 0,0:03:56.78,0:03:59.20,Default,,0,0,0,,Relevant later instructions भी check करो.
-Dialogue: 0,0:03:59.20,0:04:03.03,Default,,0,0,0,,Rule two, sub rule one, covered categories.
-Dialogue: 0,0:04:03.03,0:04:05.64,Default,,0,0,0,,ये Rule one, sub rule\Nthree के clauses Roman two,
-Dialogue: 0,0:04:05.64,0:04:08.48,Default,,0,0,0,,Roman three और Roman four के लिए है.
-Dialogue: 0,0:04:08.48,0:04:13.54,Default,,0,0,0,,Example, State deputationist, contract\Nofficer और re employed officer के cases में
-Dialogue: 0,0:04:13.54,0:04:14.42,Default,,0,0,0,,ये test देखो.
-Dialogue: 0,0:04:14.42,0:04:18.44,Default,,0,0,0,,Re employment में sub rule\Nthree की continuity भी साथ पढ़ो.
-Dialogue: 0,0:04:18.44,0:04:22.14,Default,,0,0,0,,Rule two, sub rule one,\Ncompleted service condition.
-Dialogue: 0,0:04:22.14,0:04:25.76,Default,,0,0,0,,One year की continuous Central\NGovernment service complete होनी चाहिए.
-Dialogue: 0,0:04:25.76,0:04:30.52,Default,,0,0,0,,Example, Neha four year contract sign\Nकरके six months बाद trip plan करती है.
-Dialogue: 0,0:04:30.52,0:04:33.43,Default,,0,0,0,,Long contract, six months\Nको one year नहीं बना देता.
-Dialogue: 0,0:04:33.43,0:04:36.78,Default,,0,0,0,,Rule two, sub rule one,\Ncertification condition.
-Dialogue: 0,0:04:36.78,0:04:40.72,Default,,0,0,0,,Appropriate administrative authority\Nको required likely service period
-Dialogue: 0,0:04:40.72,0:04:41.80,Default,,0,0,0,,certify करना है.
-Dialogue: 0,0:04:41.80,0:04:44.97,Default,,0,0,0,,Example, Employee खुद four\Nyears रहने का promise करे,
-Dialogue: 0,0:04:44.97,0:04:48.16,Default,,0,0,0,,तो वो authority के certificate\Nका substitute नहीं है.
-Dialogue: 0,0:04:48.16,0:04:51.10,Default,,0,0,0,,Rule two, sub rule one,\NHometown duration condition.
-Dialogue: 0,0:04:51.10,0:04:55.22,Default,,0,0,0,,At least two years की likely Central\Nservice joining date से count होगी,
-Dialogue: 0,0:04:55.22,0:04:56.70,Default,,0,0,0,,trip के बाद two extra years नहीं.
-Dialogue: 0,0:04:56.70,0:05:01.40,Default,,0,0,0,,Example, Contract January first, twenty\Ntwenty six से December thirty first,
-Dialogue: 0,0:05:01.40,0:05:02.72,Default,,0,0,0,,twenty twenty seven तक है.
-Dialogue: 0,0:05:02.72,0:05:06.04,Default,,0,0,0,,February twenty twenty seven में one\Nyear complete है और joining से total
-Dialogue: 0,0:05:06.04,0:05:07.28,Default,,0,0,0,,two years हैं.
-Dialogue: 0,0:05:07.28,0:05:10.62,Default,,0,0,0,,Proper certificate के साथ ये\Nduration condition pass हो सकती है.
-Dialogue: 0,0:05:10.62,0:05:12.60,Default,,0,0,0,,बाकी LTC conditions भी check होंगी.
-Dialogue: 0,0:05:12.60,0:05:17.56,Default,,0,0,0,,Rule two, sub rule one, Any Place\Nin India duration condition.
-Dialogue: 0,0:05:17.56,0:05:22.88,Default,,0,0,0,,At least four years की likely Central\Nservice joining date से count होगी.
-Dialogue: 0,0:05:22.88,0:05:27.30,Default,,0,0,0,,Example, Contract January first, twenty\Ntwenty six से December thirty first,
-Dialogue: 0,0:05:27.30,0:05:29.10,Default,,0,0,0,,twenty twenty nine तक है.
-Dialogue: 0,0:05:29.10,0:05:32.94,Default,,0,0,0,,February twenty twenty seven में one\Nyear complete है और joining से total
-Dialogue: 0,0:05:32.94,0:05:34.12,Default,,0,0,0,,four years हैं.
-Dialogue: 0,0:05:34.12,0:05:36.62,Default,,0,0,0,,Four years trip से फिर count नहीं होंगे.
-Dialogue: 0,0:05:36.62,0:05:39.46,Default,,0,0,0,,ये duration condition है,\Nfinal LTC approval नहीं.
-Dialogue: 0,0:05:39.46,0:05:41.96,Default,,0,0,0,,Rule two, sub rule two.
-Dialogue: 0,0:05:41.96,0:05:44.45,Default,,0,0,0,,Initial one year contract बाद में extend हो,
-Dialogue: 0,0:05:44.45,0:05:48.00,Default,,0,0,0,,तो total contract duration LTC के लिए देखो.
-Dialogue: 0,0:05:48.00,0:05:52.22,Default,,0,0,0,,Example, Neha का twenty twenty six वाला\Ncontract बिना gap twenty twenty nine
-Dialogue: 0,0:05:52.22,0:05:53.06,Default,,0,0,0,,तक extend हुआ.
-Dialogue: 0,0:05:53.06,0:05:56.10,Default,,0,0,0,,सिर्फ first one year\Nletter देखकर reject मत करो.
-Dialogue: 0,0:05:56.10,0:05:58.86,Default,,0,0,0,,Actual extension order चाहिए.
-Dialogue: 0,0:05:58.86,0:06:03.72,Default,,0,0,0,,Rule two, sub rule three, immediate\Nre employment and continuity.
-Dialogue: 0,0:06:03.72,0:06:08.58,Default,,0,0,0,,Retirement के immediately बाद बिना break\Nre employment में old और new service LTC के
-Dialogue: 0,0:06:08.58,0:06:10.43,Default,,0,0,0,,लिए continuous treat होती है.
-Dialogue: 0,0:06:10.43,0:06:14.72,Default,,0,0,0,,Example, Retirement October thirty first\Nके end पर और re employment November
-Dialogue: 0,0:06:14.72,0:06:15.66,Default,,0,0,0,,first से है.
-Dialogue: 0,0:06:15.66,0:06:19.00,Default,,0,0,0,,Fresh one year clock\Nautomatically start मत करो.
-Dialogue: 0,0:06:19.00,0:06:22.80,Default,,0,0,0,,Gap वाले case में ये special treatment\Nautomatically assume नहीं कर सकते.
-Dialogue: 0,0:06:22.80,0:06:28.60,Default,,0,0,0,,Rule two, sub rule three, provided that\Ncondition, also called the proviso.
-Dialogue: 0,0:06:28.60,0:06:32.38,Default,,0,0,0,,Simple test, retire न होते तो ये LTC मिलती?
-Dialogue: 0,0:06:32.38,0:06:35.68,Default,,0,0,0,,Continuity, used benefit refill नहीं करती.
-Dialogue: 0,0:06:35.68,0:06:41.04,Default,,0,0,0,,Example, Sana की relevant All India\Noccasion retirement से पहले use हो चुकी है.
-Dialogue: 0,0:06:41.04,0:06:44.38,Default,,0,0,0,,Next day re employment same\Noccasion दोबारा नहीं देती.
-Dialogue: 0,0:06:44.38,0:06:47.76,Default,,0,0,0,,Rule two, sub rule three,\Nofficial illustration.
-Dialogue: 0,0:06:47.76,0:06:52.66,Default,,0,0,0,,Already used Any Place in India LTC, same\Nfour year block में no break re employment
-Dialogue: 0,0:06:52.66,0:06:54.12,Default,,0,0,0,,से फिर नहीं मिलती.
-Dialogue: 0,0:06:54.12,0:06:57.74,Default,,0,0,0,,Example, Official illustration\Nका updated hypothetical लो.
-Dialogue: 0,0:06:57.74,0:07:01.83,Default,,0,0,0,,Dev ने twenty twenty six to twenty twenty\Nnine की All India occasion August में use
-Dialogue: 0,0:07:01.83,0:07:05.60,Default,,0,0,0,,की, October में retire हुआ\Nऔर next day re employed हुआ.
-Dialogue: 0,0:07:05.60,0:07:08.44,Default,,0,0,0,,Same block में fresh All\NIndia occasion नहीं मिलेगी.
-Dialogue: 0,0:07:08.44,0:07:10.18,Default,,0,0,0,,Rule three, employee coverage.
-Dialogue: 0,0:07:10.18,0:07:13.32,Default,,0,0,0,,Scope में employee और eligible family आते हैं.
-Dialogue: 0,0:07:13.32,0:07:15.88,Default,,0,0,0,,Rule three में अलग numbered\Nsub rules नहीं हैं.
-Dialogue: 0,0:07:15.88,0:07:18.68,Default,,0,0,0,,Example, Eligible employee अकेले trip करता है.
-Dialogue: 0,0:07:18.68,0:07:22.64,Default,,0,0,0,,Family साथ नहीं है, सिर्फ इस वजह\Nसे Rule three उसे reject नहीं करता.
-Dialogue: 0,0:07:22.64,0:07:25.82,Default,,0,0,0,,Rule three, family coverage,\Nread with Rule four, clause D.
-Dialogue: 0,0:07:25.82,0:07:28.22,Default,,0,0,0,,Family का legal meaning check करो.
-Dialogue: 0,0:07:28.22,0:07:30.83,Default,,0,0,0,,Rule four, clause D की full\Ndetail next batch में होगी.
-Dialogue: 0,0:07:30.83,0:07:33.44,Default,,0,0,0,,Example, Spouse और friend साथ travel करते हैं.
-Dialogue: 0,0:07:33.44,0:07:36.90,Default,,0,0,0,,Friend सिर्फ साथ जाने से eligible\NLTC family member नहीं बनता.
-Dialogue: 0,0:07:36.90,0:07:41.62,Default,,0,0,0,,Rule three, cross reference to Rules\Nnine and eleven, and the July first,
-Dialogue: 0,0:07:41.62,0:07:44.30,Default,,0,0,0,,twenty twenty five FAQ, question six.
-Dialogue: 0,0:07:44.30,0:07:49.37,Default,,0,0,0,,Employee और eligible family separate\Ngroups में अलग time पर travel कर सकते हैं.
-Dialogue: 0,0:07:49.37,0:07:51.66,Default,,0,0,0,,ये Rule three का नया sub clause नहीं है.
-Dialogue: 0,0:07:51.66,0:07:56.36,Default,,0,0,0,,Example, Employee June में और eligible\Nfamily October में travel propose करे,
-Dialogue: 0,0:07:56.36,0:07:59.13,Default,,0,0,0,,तो separate dates alone\Nrejection का reason नहीं हैं.
-Dialogue: 0,0:07:59.13,0:08:01.62,Default,,0,0,0,,Person wise block और बाकी\Nconditions check होंगी.
-Dialogue: 0,0:08:01.62,0:08:06.26,Default,,0,0,0,,September third, twenty twenty five\NDoPT Guidelines, applicability Note one.
-Dialogue: 0,0:08:06.26,0:08:10.04,Default,,0,0,0,,Autonomous body officer Central\NGovernment में deputation पर आए,
-Dialogue: 0,0:08:10.04,0:08:14.07,Default,,0,0,0,,तो उस period में temporary Government\Nservant वाला LTC treatment मिलता है.
-Dialogue: 0,0:08:14.07,0:08:16.42,Default,,0,0,0,,ये Rule one का नया numbered clause नहीं है.
-Dialogue: 0,0:08:16.42,0:08:20.92,Default,,0,0,0,,Example, Iqbal को सिर्फ autonomous\Nparent body की वजह से reject नहीं करेंगे.
-Dialogue: 0,0:08:20.92,0:08:24.08,Default,,0,0,0,,Temporary word से हर Rule two\Ncertificate automatically infer मत करो.
-Dialogue: 0,0:08:24.08,0:08:26.72,Default,,0,0,0,,Actual category और deputation terms check करो.
-Dialogue: 0,0:08:26.72,0:08:31.20,Default,,0,0,0,,September third, twenty twenty five\NDoPT Guidelines, applicability Note two.
-Dialogue: 0,0:08:31.20,0:08:35.33,Default,,0,0,0,,Industrial और work charged staff\Nजो regular leave के entitled हैं,
-Dialogue: 0,0:08:35.33,0:08:37.44,Default,,0,0,0,,वो भी normal conditions पर eligible हैं.
-Dialogue: 0,0:08:37.44,0:08:41.62,Default,,0,0,0,,Example, Regular leave वाले work charged\Nemployee को सिर्फ job title से blanket
-Dialogue: 0,0:08:41.62,0:08:42.47,Default,,0,0,0,,reject मत करो.
-Dialogue: 0,0:08:42.47,0:08:46.30,Default,,0,0,0,,First block nineteen sixty to sixty one\Nhistorical है, आज का travel block नहीं.
-Dialogue: 0,0:08:46.30,0:08:51.73,Default,,0,0,0,,September third, twenty twenty five\NDoPT Guidelines, paragraph two.
-Dialogue: 0,0:08:51.73,0:08:55.38,Default,,0,0,0,,Consolidation में conflict\Nया unclear summary हो,
-Dialogue: 0,0:08:55.38,0:08:58.29,Default,,0,0,0,,तो relevant governing OM या order check करो.
-Dialogue: 0,0:08:58.29,0:09:00.42,Default,,0,0,0,,ये Rule two का sub rule नहीं है.
-Dialogue: 0,0:09:00.42,0:09:04.37,Default,,0,0,0,,Example, Summary की unclear\Nline को नया amendment मत मानो.
-Dialogue: 0,0:09:04.37,0:09:07.38,Default,,0,0,0,,Actual applicable order की reference लो.
-Dialogue: 0,0:09:07.38,0:09:10.39,Default,,0,0,0,,Batch one teaching checklist,\Nnot a separate legal rule.
-Dialogue: 0,0:09:10.39,0:09:15.12,Default,,0,0,0,,Category, exclusion, valid exception,\Nspecial service conditions,
-Dialogue: 0,0:09:15.12,0:09:18.34,Default,,0,0,0,,old block history और\Neligible family check करो.
-Dialogue: 0,0:09:18.34,0:09:21.96,Default,,0,0,0,,Example, Contract officer ये\Nstarting checks pass करता है.
-Dialogue: 0,0:09:21.96,0:09:26.08,Default,,0,0,0,,फिर भी payment से पहले family,\Nleave, block, mode, fare,
-Dialogue: 0,0:09:26.08,0:09:29.10,Default,,0,0,0,,booking और claim conditions अलग check होंगी.
-Dialogue: 0,0:09:29.10,0:09:33.38,Default,,0,0,0,,Original Gazette date, detailed Railway\Npass conditions और complete later order
-Dialogue: 0,0:09:33.38,0:09:34.40,Default,,0,0,0,,checks अभी open हैं.
+Dialogue: 0,0:00:00.00,0:00:05.10,Default,,0,0,0,,Rule seven, Government of India\NDecision one, OM dated October eleven,
+Dialogue: 0,0:00:05.10,0:00:06.56,Default,,0,0,0,,nineteen fifty six.
+Dialogue: 0,0:00:06.56,0:00:08.81,Default,,0,0,0,,yeh purana LTC instruction hai.
+Dialogue: 0,0:00:08.81,0:00:13.46,Default,,0,0,0,,Rule nineteen ke hisaab se, purane\Nconsistent instructions sirf old hone se
+Dialogue: 0,0:00:13.46,0:00:14.46,Default,,0,0,0,,obsolete nahi hote.
+Dialogue: 0,0:00:14.46,0:00:17.52,Default,,0,0,0,,Example, aaj ki claim mein purana order dikhe,
+Dialogue: 0,0:00:17.52,0:00:21.46,Default,,0,0,0,,toh later changes check karo;\Nsirf date dekhkar reject mat karo.
+Dialogue: 0,0:00:21.46,0:00:24.42,Default,,0,0,0,,Rule one, sub rule two, nineteen eighty eight.
+Dialogue: 0,0:00:24.42,0:00:27.72,Default,,0,0,0,,Rules ki start date Gazette\Npublication hai, signature date nahi.
+Dialogue: 0,0:00:27.72,0:00:32.58,Default,,0,0,0,,Uploaded master ki May three aur May\Ntwenty one dates original Gazette se abhi
+Dialogue: 0,0:00:32.58,0:00:34.22,Default,,0,0,0,,authenticate nahi hui hain.
+Dialogue: 0,0:00:34.22,0:00:38.48,Default,,0,0,0,,Example, do dates alag hon, toh commencement\Nke liye publication wala record check karo.
+Dialogue: 0,0:00:38.48,0:00:42.86,Default,,0,0,0,,Rule four, family definition, Explanation\None, clauses Roman one and two.
+Dialogue: 0,0:00:42.86,0:00:47.34,Default,,0,0,0,,October twenty, nineteen ninety seven,\Ntwo-child restriction ka cutoff hai.
+Dialogue: 0,0:00:47.34,0:00:51.66,Default,,0,0,0,,Existing larger families aur agle one year\Nmein born children ke exceptions bhi padho.
+Dialogue: 0,0:00:51.66,0:00:54.77,Default,,0,0,0,,Example, Third child nineteen\Nninety six mein born tha?
+Dialogue: 0,0:00:54.77,0:00:57.60,Default,,0,0,0,,Cutoff exception check karo;\Nautomatic rejection nahi.
+Dialogue: 0,0:00:57.60,0:01:02.62,Default,,0,0,0,,Rule twelve, entitlement, orders\Ndated July thirteen and September
+Dialogue: 0,0:01:02.62,0:01:03.64,Default,,0,0,0,,nineteen, twenty seventeen.
+Dialogue: 0,0:01:03.64,0:01:06.52,Default,,0,0,0,,Pay-level based entitlement padho.
+Dialogue: 0,0:01:06.52,0:01:12.48,Default,,0,0,0,,Levels six to eight ki tour air entitlement\Nordinary LTC mein automatically nahi aati.
+Dialogue: 0,0:01:12.48,0:01:17.96,Default,,0,0,0,,Example, Level seven employee ko tour par\Nflight allowed hai; usi wajah se ordinary LTC
+Dialogue: 0,0:01:17.96,0:01:20.12,Default,,0,0,0,,flight manzoor mat maano.
+Dialogue: 0,0:01:20.12,0:01:25.00,Default,,0,0,0,,Rule one, sub rule four, clause D, OM\Ndated March twenty seven, twenty eighteen.
+Dialogue: 0,0:01:25.00,0:01:28.86,Default,,0,0,0,,Railway employees ke liye\Nconditional All India LTC window hai,
+Dialogue: 0,0:01:28.86,0:01:30.64,Default,,0,0,0,,once in four-year block.
+Dialogue: 0,0:01:30.64,0:01:33.37,Default,,0,0,0,,Full pass-surrender procedure\NRailway batch mein aayega.
+Dialogue: 0,0:01:33.37,0:01:38.90,Default,,0,0,0,,Example, Railway employee ko isse ordinary\NHometown LTC automatically nahi milti.
+Dialogue: 0,0:01:38.90,0:01:43.32,Default,,0,0,0,,Air booking OMs dated August twenty\Nnine, twenty twenty two, and August ten,
+Dialogue: 0,0:01:43.32,0:01:44.20,Default,,0,0,0,,twenty twenty three.
+Dialogue: 0,0:01:44.20,0:01:49.22,Default,,0,0,0,,Authorized Travel Agent rules ko\Nlater exception ke saath padho.
+Dialogue: 0,0:01:49.22,0:01:53.44,Default,,0,0,0,,Non-air-entitled ki ordinary LTC aur\NSpecial Dispensation booking alag hain.
+Dialogue: 0,0:01:53.44,0:01:58.00,Default,,0,0,0,,Example, Ordinary LTC wali optional ATA\Nbooking ko special regional air scheme par
+Dialogue: 0,0:01:58.00,0:01:59.10,Default,,0,0,0,,apply mat karo.
+Dialogue: 0,0:01:59.10,0:02:05.28,Default,,0,0,0,,Rule twelve, train entitlement, OM dated\NJanuary fourteen, twenty twenty five.
+Dialogue: 0,0:02:05.28,0:02:10.90,Default,,0,0,0,,Tejas, Vande Bharat aur Humsafar travel,\Nentitlement ke hisaab se allowed hai.
+Dialogue: 0,0:02:10.90,0:02:13.38,Default,,0,0,0,,Example, Vande Bharat mein travel kiya?
+Dialogue: 0,0:02:13.38,0:02:16.28,Default,,0,0,0,,Allowed class aur actual fare dono check karo.
+Dialogue: 0,0:02:16.28,0:02:21.99,Default,,0,0,0,,DoPT FAQ dated July one, and Guidelines\Ndated September three, twenty twenty five.
+Dialogue: 0,0:02:21.99,0:02:24.02,Default,,0,0,0,,yeh important reference dates hain.
+Dialogue: 0,0:02:24.02,0:02:28.58,Default,,0,0,0,,Compilation ka paragraph two, relevant\Ngoverning order check karne ko kehta hai.
+Dialogue: 0,0:02:28.58,0:02:34.38,Default,,0,0,0,,Example, Summary mein unclear line ho, toh\Nexact OM padho; statutory rule ko casually
+Dialogue: 0,0:02:34.38,0:02:35.22,Default,,0,0,0,,override mat karo.
+Dialogue: 0,0:02:35.22,0:02:40.04,Default,,0,0,0,,Special air scheme, OM dated September\Nseventeen, twenty twenty four.
+Dialogue: 0,0:02:40.04,0:02:42.06,Default,,0,0,0,,us order ka window September twenty six,
+Dialogue: 0,0:02:42.06,0:02:45.46,Default,,0,0,0,,twenty twenty four se September\Ntwenty five, twenty twenty six tha.
+Dialogue: 0,0:02:45.46,0:02:50.48,Default,,0,0,0,,Reported twenty twenty eight renewal ka\Nsigned official text abhi verify nahi hua.
+Dialogue: 0,0:02:50.48,0:02:55.52,Default,,0,0,0,,Example, October twenty twenty six booking\Nko purane expiry order se approve ya
+Dialogue: 0,0:02:55.52,0:02:57.70,Default,,0,0,0,,reject mat karo; current signed order chahiye.
+Dialogue: 0,0:02:57.70,0:03:03.06,Default,,0,0,0,,Rules eight and nine, and July twenty\Ntwenty five FAQ thirteen to eighteen.
+Dialogue: 0,0:03:03.06,0:03:07.90,Default,,0,0,0,,Regular four-year block January one,\Ntwenty twenty six se December thirty one,
+Dialogue: 0,0:03:07.90,0:03:09.32,Default,,0,0,0,,twenty twenty nine hai.
+Dialogue: 0,0:03:09.32,0:03:13.92,Default,,0,0,0,,Two-year sub-blocks twenty twenty six to\Ntwenty seven aur twenty twenty eight to
+Dialogue: 0,0:03:13.92,0:03:14.94,Default,,0,0,0,,twenty nine hain.
+Dialogue: 0,0:03:14.94,0:03:20.12,Default,,0,0,0,,Example, Regular employee ki twenty twenty\Nsix journey mein sahi block debit karo,
+Dialogue: 0,0:03:20.12,0:03:22.32,Default,,0,0,0,,twenty twenty two to twenty\Nfive ko current mat bolo.
+Dialogue: 0,0:03:22.32,0:03:26.50,Default,,0,0,0,,Rule ten, carry-forward,\Nand FAQ sixteen to eighteen.
+Dialogue: 0,0:03:26.50,0:03:31.26,Default,,0,0,0,,Eligible unused previous-block LTC, next\Nblock ke first year mein li ja sakti hai.
+Dialogue: 0,0:03:31.26,0:03:33.47,Default,,0,0,0,,Twenty twenty six grace year hai.
+Dialogue: 0,0:03:33.47,0:03:37.70,Default,,0,0,0,,Hometown-entitled employee ki All India\Ncarry-forward par second sub-block wali
+Dialogue: 0,0:03:37.70,0:03:39.00,Default,,0,0,0,,condition bhi hai.
+Dialogue: 0,0:03:39.00,0:03:42.56,Default,,0,0,0,,Example, Unused twenty twenty\Nfour to twenty five occasion ho,
+Dialogue: 0,0:03:42.56,0:03:46.84,Default,,0,0,0,,toh eligibility aur previous usage check\Nkarke twenty twenty six mein charge karo.
+Dialogue: 0,0:03:46.84,0:03:51.54,Default,,0,0,0,,Rule nine, outward journey; fresh-recruit\NFAQ sixty four to sixty nine.
+Dialogue: 0,0:03:51.54,0:03:54.84,Default,,0,0,0,,Block counting mein outward journey\Nki start date dekho, return ki nahi.
+Dialogue: 0,0:03:54.84,0:03:58.86,Default,,0,0,0,,Fresh-recruit annual LTC par regular\None-year carry-forward nahi lagta.
+Dialogue: 0,0:03:58.86,0:04:02.47,Default,,0,0,0,,Example, Eligible grace-year journey\NDecember thirty one ko start,
+Dialogue: 0,0:04:02.47,0:04:05.80,Default,,0,0,0,,January mein return ho, toh sirf\Nreturn date se wrong block mat lagao.
+Dialogue: 0,0:04:05.80,0:04:10.16,Default,,0,0,0,,Booking OM dated August twenty nine,\Ntwenty twenty two, paragraph one,
+Dialogue: 0,0:04:10.16,0:04:14.02,Default,,0,0,0,,clause Roman four; Cash circular\NJuly sixteen, twenty twenty six.
+Dialogue: 0,0:04:14.02,0:04:17.50,Default,,0,0,0,,Twenty one days pehle ticket\Nbooking encouraged hai.
+Dialogue: 0,0:04:17.50,0:04:21.88,Default,,0,0,0,,DoPT staff circular thirty days pehle\Nadvance application plan karne ko kehta hai.
+Dialogue: 0,0:04:21.88,0:04:24.98,Default,,0,0,0,,ise universal automatic\Nclaim forfeiture mat banao.
+Dialogue: 0,0:04:24.98,0:04:27.29,Default,,0,0,0,,Example, Twenty days pehle booking hui?
+Dialogue: 0,0:04:27.29,0:04:30.74,Default,,0,0,0,,sirf one day kam hone se automatic\Nrejection mat karo; applicable
+Dialogue: 0,0:04:30.74,0:04:32.38,Default,,0,0,0,,instructions check karo.
+Dialogue: 0,0:04:32.38,0:04:36.40,Default,,0,0,0,,Rules fourteen and fifteen,\Nclaim deadlines, FAQ thirty five.
+Dialogue: 0,0:04:36.40,0:04:40.78,Default,,0,0,0,,Return journey complete hone ke baad, advance\Nliya tha toh one month mein claim; advance
+Dialogue: 0,0:04:40.78,0:04:42.60,Default,,0,0,0,,nahi tha toh three months mein claim.
+Dialogue: 0,0:04:42.60,0:04:46.81,Default,,0,0,0,,Example, do colleagues same day\Nlaute, lekin ek ne advance liya tha.
+Dialogue: 0,0:04:46.81,0:04:48.92,Default,,0,0,0,,dono ki normal claim limit same nahi hai.
+Dialogue: 0,0:04:48.92,0:04:53.22,Default,,0,0,0,,OM dated December twenty one, twenty twenty\Nthree; FAQ thirty five and seventy one.
+Dialogue: 0,0:04:53.22,0:04:58.39,Default,,0,0,0,,Ministry, Financial Advisor concurrence se\Nlimited delayed claims admit kar sakti hai.
+Dialogue: 0,0:04:58.39,0:05:01.08,Default,,0,0,0,,No advance mein six months tak;\Nadvance mein three months tak,
+Dialogue: 0,0:05:01.08,0:05:04.92,Default,,0,0,0,,full advance plus penal interest one\Nlump sum refund ki condition hai.
+Dialogue: 0,0:05:04.92,0:05:07.90,Default,,0,0,0,,Example, Late claim ko\Nautomatic extension mat samjho.
+Dialogue: 0,0:05:07.90,0:05:11.10,Default,,0,0,0,,Authority, refund aur interest\Nconditions pehle check karo.
+Dialogue: 0,0:05:11.10,0:05:15.10,Default,,0,0,0,,Rule seven, Government of India Decision nine.
+Dialogue: 0,0:05:15.10,0:05:20.18,Default,,0,0,0,,MHA letter forty three slash six\Nslash fifty nine, Establishment A,
+Dialogue: 0,0:05:20.18,0:05:22.52,Default,,0,0,0,,dated July twenty four, nineteen fifty nine.
+Dialogue: 0,0:05:22.52,0:05:27.78,Default,,0,0,0,,Autonomous-body officer, Centre mein deputation\Nke dauraan temporary Government servant
+Dialogue: 0,0:05:27.78,0:05:31.02,Default,,0,0,0,,treat hoga, aur usi hisaab se LTC check hogi.
+Dialogue: 0,0:05:31.02,0:05:34.32,Default,,0,0,0,,yeh permanent Central appointment nahi hai.
+Dialogue: 0,0:05:34.32,0:05:37.01,Default,,0,0,0,,Example, Iqbal institute se\NMinistry mein deputation par aaya.
+Dialogue: 0,0:05:37.01,0:05:41.30,Default,,0,0,0,,Parent body dekhkar reject mat karo;\Ndeputation terms aur applicable service
+Dialogue: 0,0:05:41.30,0:05:42.94,Default,,0,0,0,,conditions check karo.
+Dialogue: 0,0:05:42.94,0:05:45.92,Default,,0,0,0,,Rule seven, Government of India Decision six.
+Dialogue: 0,0:05:45.92,0:05:51.06,Default,,0,0,0,,MHA OM six slash seven slash fifty\Nnine, Establishment A, dated June
+Dialogue: 0,0:05:51.06,0:05:53.08,Default,,0,0,0,,fifteen, nineteen sixty.
+Dialogue: 0,0:05:53.08,0:05:56.80,Default,,0,0,0,,Industrial aur work-charged staff\Nko regular leave entitlement ho,
+Dialogue: 0,0:05:56.80,0:05:59.24,Default,,0,0,0,,toh normal Central employee\Njaisi LTC mil sakti hai.
+Dialogue: 0,0:05:59.24,0:06:03.98,Default,,0,0,0,,First block nineteen sixty to sixty\None, historical starting point hai.
+Dialogue: 0,0:06:03.98,0:06:07.06,Default,,0,0,0,,Example, Work-charged Ravi\Nko regular leave milti hai.
+Dialogue: 0,0:06:07.06,0:06:11.30,Default,,0,0,0,,sirf job label se reject mat karo;\Nbaaki LTC conditions bhi apply hongi.
+Dialogue: 0,0:06:11.30,0:06:16.82,Default,,0,0,0,,Sir, is updated Batch one mein har rule\Naur clause ka exact reference pehle bolo,
+Dialogue: 0,0:06:16.82,0:06:20.79,Default,,0,0,0,,phir simple city Hinglish\Nexplanation aur uske baad example do.
+Dialogue: 0,0:06:20.79,0:06:25.06,Default,,0,0,0,,Roman one, two, three, four ka matlab\Nbracket wale Roman numerals hai.
+Dialogue: 0,0:06:25.06,0:06:29.60,Default,,0,0,0,,Rule two, sub rule one ki conditions\Nko made up clause letters mat dena.
+Dialogue: 0,0:06:29.60,0:06:31.60,Default,,0,0,0,,Rule one, sub rule one.
+Dialogue: 0,0:06:31.60,0:06:36.16,Default,,0,0,0,,Official name hai Central Civil\NServices, Leave Travel Concession Rules,
+Dialogue: 0,0:06:36.16,0:06:37.68,Default,,0,0,0,,nineteen eighty eight.
+Dialogue: 0,0:06:37.68,0:06:42.39,Default,,0,0,0,,Example, Asha ki family LTC application\Nke liye LTC rules check honge,
+Dialogue: 0,0:06:42.39,0:06:43.74,Default,,0,0,0,,pension rules nahi.
+Dialogue: 0,0:06:43.74,0:06:46.24,Default,,0,0,0,,Rule one, sub rule two.
+Dialogue: 0,0:06:46.24,0:06:50.62,Default,,0,0,0,,Rules Gazette mein publication ki date\Nse start hote hain, signing date se nahi.
+Dialogue: 0,0:06:50.62,0:06:55.23,Default,,0,0,0,,Example, Notification May third ko sign\Naur May twenty first ko publish ho,
+Dialogue: 0,0:06:55.23,0:06:57.43,Default,,0,0,0,,toh publication wali date count hogi.
+Dialogue: 0,0:06:57.43,0:06:59.16,Default,,0,0,0,,yeh dates sirf example hain.
+Dialogue: 0,0:06:59.16,0:07:02.78,Default,,0,0,0,,Actual nineteen eighty eight Gazette\Nki exact date original copy se confirm
+Dialogue: 0,0:07:02.78,0:07:04.02,Default,,0,0,0,,nahi hui hai.
+Dialogue: 0,0:07:04.02,0:07:06.38,Default,,0,0,0,,Rule one, sub rule three, opening words.
+Dialogue: 0,0:07:06.38,0:07:10.76,Default,,0,0,0,,Coverage, Rule one, sub rule four\Nke exclusions ke subject hai.
+Dialogue: 0,0:07:10.76,0:07:13.14,Default,,0,0,0,,Covered hona automatic approval nahi hai.
+Dialogue: 0,0:07:13.14,0:07:16.49,Default,,0,0,0,,Example, Union civil post\Nwala employee part time hai,
+Dialogue: 0,0:07:16.49,0:07:18.30,Default,,0,0,0,,toh exclusion bhi check karna hoga.
+Dialogue: 0,0:07:18.30,0:07:21.68,Default,,0,0,0,,Rule one, sub rule three, clause Roman one.
+Dialogue: 0,0:07:21.68,0:07:25.28,Default,,0,0,0,,Union civil services aur posts covered hain.
+Dialogue: 0,0:07:25.28,0:07:29.24,Default,,0,0,0,,Defence Services ke civilian\NGovernment employees bhi included hain.
+Dialogue: 0,0:07:29.24,0:07:32.09,Default,,0,0,0,,Example, Meera Defence office\Nmein civilian clerk hai.
+Dialogue: 0,0:07:32.09,0:07:35.46,Default,,0,0,0,,sirf Defence mein kaam karne ki\Nwajah se use exclude nahi karenge.
+Dialogue: 0,0:07:35.46,0:07:39.10,Default,,0,0,0,,Rule one, sub rule three, clause Roman two.
+Dialogue: 0,0:07:39.10,0:07:43.20,Default,,0,0,0,,State Government employee Central Government\Nmein deputation par aaye, toh coverage hai.
+Dialogue: 0,0:07:43.20,0:07:47.09,Default,,0,0,0,,Example, Raghav State cadre se Central\NMinistry mein deputation par aaya.
+Dialogue: 0,0:07:47.09,0:07:50.06,Default,,0,0,0,,Coverage ke baad Rule two ki\Nconditions bhi check hongi.
+Dialogue: 0,0:07:50.06,0:07:53.23,Default,,0,0,0,,Rule one, sub rule three, clause Roman three.
+Dialogue: 0,0:07:53.23,0:07:57.26,Default,,0,0,0,,Contract basis par Government\Nappointments included hain.
+Dialogue: 0,0:07:57.26,0:07:59.36,Default,,0,0,0,,Example, Neha ko direct\NGovernment contract mila.
+Dialogue: 0,0:07:59.36,0:08:02.77,Default,,0,0,0,,sirf contract job hone se\Nuse exclude nahi karenge.
+Dialogue: 0,0:08:02.77,0:08:06.96,Default,,0,0,0,,Vendor employee ko Ministry mein kaam karne\Nse automatically yahi status nahi milta.
+Dialogue: 0,0:08:06.96,0:08:09.80,Default,,0,0,0,,Rule one, sub rule three, clause Roman four.
+Dialogue: 0,0:08:09.80,0:08:13.24,Default,,0,0,0,,Retirement ke baad re employed\Npersons included hain.
+Dialogue: 0,0:08:13.24,0:08:16.52,Default,,0,0,0,,Example, Dev ko actual Government\Nre employment appointment mila.
+Dialogue: 0,0:08:16.52,0:08:17.98,Default,,0,0,0,,uska case check hoga.
+Dialogue: 0,0:08:17.98,0:08:21.20,Default,,0,0,0,,sirf pension milne se har\Nretiree ko LTC nahi milti.
+Dialogue: 0,0:08:21.20,0:08:24.94,Default,,0,0,0,,Rule one, sub rule four, clause A.
+Dialogue: 0,0:08:24.94,0:08:28.30,Default,,0,0,0,,Non whole time Government\Nemployment excluded hai.
+Dialogue: 0,0:08:28.30,0:08:32.92,Default,,0,0,0,,Example, Three hours daily ki part time\Nappointment kai years chalne se whole
+Dialogue: 0,0:08:32.92,0:08:34.12,Default,,0,0,0,,time nahi banti.
+Dialogue: 0,0:08:34.12,0:08:37.52,Default,,0,0,0,,Rule one, sub rule four, clause B.
+Dialogue: 0,0:08:37.52,0:08:40.60,Default,,0,0,0,,Casual aur daily rated\Nemployment excluded hai.
+Dialogue: 0,0:08:40.60,0:08:43.44,Default,,0,0,0,,Example, Salim daily rated worker hai.
+Dialogue: 0,0:08:43.44,0:08:47.62,Default,,0,0,0,,Twelve months complete hone se\Nyeh exclusion apne aap nahi hatta.
+Dialogue: 0,0:08:47.62,0:08:49.90,Default,,0,0,0,,Rule one, sub rule four, clause C.
+Dialogue: 0,0:08:49.90,0:08:53.20,Default,,0,0,0,,Persons paid from contingencies excluded hain.
+Dialogue: 0,0:08:53.20,0:08:58.44,Default,,0,0,0,,Example, Kavita ka actual engagement isi\Ncategory mein hai, toh clause apply hoga.
+Dialogue: 0,0:08:58.44,0:09:02.70,Default,,0,0,0,,sirf office mein contingency budget hone\Nse har employee is category mein nahi aata.
+Dialogue: 0,0:09:02.70,0:09:05.78,Default,,0,0,0,,Rule one, sub rule four, clause D.
+Dialogue: 0,0:09:05.78,0:09:08.84,Default,,0,0,0,,Railway servants generally excluded hain.
+Dialogue: 0,0:09:08.84,0:09:13.68,Default,,0,0,0,,alag later instructions mein conditional\NAll India LTC once in a four year block ki
+Dialogue: 0,0:09:13.68,0:09:14.74,Default,,0,0,0,,limited window hai.
+Dialogue: 0,0:09:14.74,0:09:18.72,Default,,0,0,0,,Example, Railway employee ko is\Nwindow se normal Hometown LTC
+Dialogue: 0,0:09:18.72,0:09:20.05,Default,,0,0,0,,automatically nahi milegi.
+Dialogue: 0,0:09:20.05,0:09:25.20,Default,,0,0,0,,Pass surrender ki complete conditions ki\Nprimary order verification pending hai.
+Dialogue: 0,0:09:25.20,0:09:27.99,Default,,0,0,0,,Rule one, sub rule four, clause E.
+Dialogue: 0,0:09:27.99,0:09:30.11,Default,,0,0,0,,Armed Forces members excluded hain.
+Dialogue: 0,0:09:30.11,0:09:34.38,Default,,0,0,0,,Example, Army officer aur Defence office\Nki civilian clerk ko same category
+Dialogue: 0,0:09:34.38,0:09:35.17,Default,,0,0,0,,mein mat rakho.
+Dialogue: 0,0:09:35.17,0:09:37.42,Default,,0,0,0,,Civilian inclusion alag hai.
+Dialogue: 0,0:09:37.42,0:09:40.50,Default,,0,0,0,,Rule one, sub rule four, clause F.
+Dialogue: 0,0:09:40.50,0:09:43.82,Default,,0,0,0,,Indian Missions abroad ke\Nlocal recruits excluded hain.
+Dialogue: 0,0:09:43.82,0:09:47.77,Default,,0,0,0,,Example, Paris Mission mein locally hired\Nemployee aur India se posted officer ka
+Dialogue: 0,0:09:47.77,0:09:49.86,Default,,0,0,0,,recruitment status alag hai.
+Dialogue: 0,0:09:49.86,0:09:52.46,Default,,0,0,0,,Rule one, sub rule four, clause G.
+Dialogue: 0,0:09:52.46,0:09:56.99,Default,,0,0,0,,kisi doosre applicable travel concession ki\Neligibility wala exclusion check karna hai.
+Dialogue: 0,0:09:56.99,0:10:00.08,Default,,0,0,0,,Wording eligibility hai, sirf actual use nahi.
+Dialogue: 0,0:10:00.08,0:10:02.86,Default,,0,0,0,,Example, Employee bole,\Ndoosra benefit use nahi kiya.
+Dialogue: 0,0:10:02.86,0:10:04.76,Default,,0,0,0,,sirf yeh bolna enough nahi hai.
+Dialogue: 0,0:10:04.76,0:10:08.08,Default,,0,0,0,,har private sector spouse ki\NLTA ko blanket ban mat samjho.
+Dialogue: 0,0:10:08.08,0:10:10.50,Default,,0,0,0,,Relevant later instructions bhi check karo.
+Dialogue: 0,0:10:10.50,0:10:14.34,Default,,0,0,0,,Rule two, sub rule one, covered categories.
+Dialogue: 0,0:10:14.34,0:10:16.98,Default,,0,0,0,,yeh Rule one, sub rule\Nthree ke clauses Roman two,
+Dialogue: 0,0:10:16.98,0:10:19.62,Default,,0,0,0,,Roman three aur Roman four ke liye hai.
+Dialogue: 0,0:10:19.62,0:10:24.83,Default,,0,0,0,,Example, State deputationist, contract\Nofficer aur re employed officer ke cases mein
+Dialogue: 0,0:10:24.83,0:10:25.75,Default,,0,0,0,,yeh test dekho.
+Dialogue: 0,0:10:25.75,0:10:29.76,Default,,0,0,0,,Re employment mein sub rule three\Nki continuity bhi saath padho.
+Dialogue: 0,0:10:29.76,0:10:33.46,Default,,0,0,0,,Rule two, sub rule one,\Ncompleted service condition.
+Dialogue: 0,0:10:33.46,0:10:37.10,Default,,0,0,0,,One year ki continuous Central\NGovernment service complete honi chahiye.
+Dialogue: 0,0:10:37.10,0:10:41.86,Default,,0,0,0,,Example, Neha four year contract sign\Nkarke six months baad trip plan karti hai.
+Dialogue: 0,0:10:41.86,0:10:44.76,Default,,0,0,0,,Long contract, six months\Nko one year nahi bana deta.
+Dialogue: 0,0:10:44.76,0:10:47.84,Default,,0,0,0,,Rule two, sub rule one,\Ncertification condition.
+Dialogue: 0,0:10:47.84,0:10:52.04,Default,,0,0,0,,Appropriate administrative authority\Nko required likely service period
+Dialogue: 0,0:10:52.04,0:10:53.08,Default,,0,0,0,,certify karna hai.
+Dialogue: 0,0:10:53.08,0:10:56.28,Default,,0,0,0,,Example, Employee khud four\Nyears rehne ka promise kare,
+Dialogue: 0,0:10:56.28,0:10:59.48,Default,,0,0,0,,toh woh authority ke certificate\Nka substitute nahi hai.
+Dialogue: 0,0:10:59.48,0:11:02.40,Default,,0,0,0,,Rule two, sub rule one,\NHometown duration condition.
+Dialogue: 0,0:11:02.40,0:11:06.57,Default,,0,0,0,,At least two years ki likely Central\Nservice joining date se count hogi,
+Dialogue: 0,0:11:06.57,0:11:08.04,Default,,0,0,0,,trip ke baad two extra years nahi.
+Dialogue: 0,0:11:08.04,0:11:12.04,Default,,0,0,0,,Example, Contract January first, twenty\Ntwenty six se December thirty first,
+Dialogue: 0,0:11:12.04,0:11:14.04,Default,,0,0,0,,twenty twenty seven tak hai.
+Dialogue: 0,0:11:14.04,0:11:17.58,Default,,0,0,0,,February twenty twenty seven mein one\Nyear complete hai aur joining se total
+Dialogue: 0,0:11:17.58,0:11:18.60,Default,,0,0,0,,two years hain.
+Dialogue: 0,0:11:18.60,0:11:21.93,Default,,0,0,0,,Proper certificate ke saath yeh\Nduration condition pass ho sakti hai.
+Dialogue: 0,0:11:21.93,0:11:23.90,Default,,0,0,0,,baaki LTC conditions bhi check hongi.
+Dialogue: 0,0:11:23.90,0:11:28.88,Default,,0,0,0,,Rule two, sub rule one, Any Place\Nin India duration condition.
+Dialogue: 0,0:11:28.88,0:11:34.21,Default,,0,0,0,,At least four years ki likely Central\Nservice joining date se count hogi.
+Dialogue: 0,0:11:34.21,0:11:38.56,Default,,0,0,0,,Example, Contract January first, twenty\Ntwenty six se December thirty first,
+Dialogue: 0,0:11:38.56,0:11:40.36,Default,,0,0,0,,twenty twenty nine tak hai.
+Dialogue: 0,0:11:40.36,0:11:44.28,Default,,0,0,0,,February twenty twenty seven mein one\Nyear complete hai aur joining se total
+Dialogue: 0,0:11:44.28,0:11:45.41,Default,,0,0,0,,four years hain.
+Dialogue: 0,0:11:45.41,0:11:47.91,Default,,0,0,0,,Four years trip se phir count nahi honge.
+Dialogue: 0,0:11:47.91,0:11:50.82,Default,,0,0,0,,yeh duration condition hai,\Nfinal LTC approval nahi.
+Dialogue: 0,0:11:50.82,0:11:53.38,Default,,0,0,0,,Rule two, sub rule two.
+Dialogue: 0,0:11:53.38,0:11:55.78,Default,,0,0,0,,Initial one year contract baad mein extend ho,
+Dialogue: 0,0:11:55.78,0:11:59.78,Default,,0,0,0,,toh total contract duration LTC ke liye dekho.
+Dialogue: 0,0:11:59.78,0:12:03.54,Default,,0,0,0,,Example, Neha ka twenty twenty six wala\Ncontract bina gap twenty twenty nine
+Dialogue: 0,0:12:03.54,0:12:04.42,Default,,0,0,0,,tak extend hua.
+Dialogue: 0,0:12:04.42,0:12:07.40,Default,,0,0,0,,sirf first one year letter\Ndekhkar reject mat karo.
+Dialogue: 0,0:12:07.40,0:12:10.18,Default,,0,0,0,,Actual extension order chahiye.
+Dialogue: 0,0:12:10.18,0:12:13.72,Default,,0,0,0,,Rule two, sub rule three, immediate\Nre employment and continuity.
+Dialogue: 0,0:12:13.72,0:12:20.02,Default,,0,0,0,,Retirement ke immediately baad bina break re\Nemployment mein old aur new service LTC ke
+Dialogue: 0,0:12:20.02,0:12:21.44,Default,,0,0,0,,liye continuous treat hoti hai.
+Dialogue: 0,0:12:21.44,0:12:26.04,Default,,0,0,0,,Example, Retirement October thirty first\Nke end par aur re employment November
+Dialogue: 0,0:12:26.04,0:12:26.98,Default,,0,0,0,,first se hai.
+Dialogue: 0,0:12:26.98,0:12:30.24,Default,,0,0,0,,Fresh one year clock\Nautomatically start mat karo.
+Dialogue: 0,0:12:30.24,0:12:34.10,Default,,0,0,0,,Gap wale case mein yeh special treatment\Nautomatically assume nahi kar sakte.
+Dialogue: 0,0:12:34.10,0:12:39.92,Default,,0,0,0,,Rule two, sub rule three, provided that\Ncondition, also called the proviso.
+Dialogue: 0,0:12:39.92,0:12:43.70,Default,,0,0,0,,Simple test, retire na hote toh yeh LTC milti?
+Dialogue: 0,0:12:43.70,0:12:47.28,Default,,0,0,0,,Continuity, used benefit refill nahi karti.
+Dialogue: 0,0:12:47.28,0:12:52.30,Default,,0,0,0,,Example, Sana ki relevant All India occasion\Nretirement se pehle use ho chuki hai.
+Dialogue: 0,0:12:52.30,0:12:55.70,Default,,0,0,0,,Next day re employment same\Noccasion dobara nahi deti.
+Dialogue: 0,0:12:55.70,0:12:59.04,Default,,0,0,0,,Rule two, sub rule three,\Nofficial illustration.
+Dialogue: 0,0:12:59.04,0:13:03.98,Default,,0,0,0,,Already used Any Place in India LTC, same\Nfour year block mein no break re employment
+Dialogue: 0,0:13:03.98,0:13:05.40,Default,,0,0,0,,se phir nahi milti.
+Dialogue: 0,0:13:05.40,0:13:08.70,Default,,0,0,0,,Example, Official illustration\Nka updated hypothetical lo.
+Dialogue: 0,0:13:08.70,0:13:13.15,Default,,0,0,0,,Dev ne twenty twenty six to twenty twenty\Nnine ki All India occasion August mein use
+Dialogue: 0,0:13:13.15,0:13:16.75,Default,,0,0,0,,ki, October mein retire hua\Naur next day re employed hua.
+Dialogue: 0,0:13:16.75,0:13:19.68,Default,,0,0,0,,Same block mein fresh All\NIndia occasion nahi milegi.
+Dialogue: 0,0:13:19.68,0:13:21.50,Default,,0,0,0,,Rule three, employee coverage.
+Dialogue: 0,0:13:21.50,0:13:24.64,Default,,0,0,0,,Scope mein employee aur\Neligible family aate hain.
+Dialogue: 0,0:13:24.64,0:13:27.20,Default,,0,0,0,,Rule three mein alag\Nnumbered sub rules nahi hain.
+Dialogue: 0,0:13:27.20,0:13:29.98,Default,,0,0,0,,Example, Eligible employee\Nakele trip karta hai.
+Dialogue: 0,0:13:29.98,0:13:33.96,Default,,0,0,0,,Family saath nahi hai, sirf is wajah\Nse Rule three use reject nahi karta.
+Dialogue: 0,0:13:33.96,0:13:37.14,Default,,0,0,0,,Rule three, family coverage,\Nread with Rule four, clause D.
+Dialogue: 0,0:13:37.14,0:13:39.54,Default,,0,0,0,,Family ka legal meaning check karo.
+Dialogue: 0,0:13:39.54,0:13:42.14,Default,,0,0,0,,Rule four, clause D ki full\Ndetail next batch mein hogi.
+Dialogue: 0,0:13:42.14,0:13:44.76,Default,,0,0,0,,Example, Spouse aur friend\Nsaath travel karte hain.
+Dialogue: 0,0:13:44.76,0:13:48.20,Default,,0,0,0,,Friend sirf saath jaane se eligible\NLTC family member nahi banta.
+Dialogue: 0,0:13:48.20,0:13:52.94,Default,,0,0,0,,Rule three, cross reference to Rules\Nnine and eleven, and the July first,
+Dialogue: 0,0:13:52.94,0:13:55.68,Default,,0,0,0,,twenty twenty five FAQ, question six.
+Dialogue: 0,0:13:55.68,0:14:00.69,Default,,0,0,0,,Employee aur eligible family separate groups\Nmein alag time par travel kar sakte hain.
+Dialogue: 0,0:14:00.69,0:14:03.12,Default,,0,0,0,,yeh Rule three ka naya sub clause nahi hai.
+Dialogue: 0,0:14:03.12,0:14:07.70,Default,,0,0,0,,Example, Employee June mein aur eligible\Nfamily October mein travel propose kare,
+Dialogue: 0,0:14:07.70,0:14:10.45,Default,,0,0,0,,toh separate dates alone\Nrejection ka reason nahi hain.
+Dialogue: 0,0:14:10.45,0:14:13.06,Default,,0,0,0,,Person wise block aur baaki\Nconditions check hongi.
+Dialogue: 0,0:14:13.06,0:14:17.58,Default,,0,0,0,,September third, twenty twenty five\NDoPT Guidelines, applicability Note one.
+Dialogue: 0,0:14:17.58,0:14:21.47,Default,,0,0,0,,Autonomous body officer Central\NGovernment mein deputation par aaye,
+Dialogue: 0,0:14:21.47,0:14:25.39,Default,,0,0,0,,toh us period mein temporary Government\Nservant wala LTC treatment milta hai.
+Dialogue: 0,0:14:25.39,0:14:27.74,Default,,0,0,0,,yeh Rule one ka naya numbered clause nahi hai.
+Dialogue: 0,0:14:27.74,0:14:32.24,Default,,0,0,0,,Example, Iqbal ko sirf autonomous parent\Nbody ki wajah se reject nahi karenge.
+Dialogue: 0,0:14:32.24,0:14:35.38,Default,,0,0,0,,Temporary word se har Rule two\Ncertificate automatically infer mat karo.
+Dialogue: 0,0:14:35.38,0:14:38.04,Default,,0,0,0,,Actual category aur\Ndeputation terms check karo.
+Dialogue: 0,0:14:38.04,0:14:43.22,Default,,0,0,0,,September third, twenty twenty five\NDoPT Guidelines, applicability Note two.
+Dialogue: 0,0:14:43.22,0:14:46.52,Default,,0,0,0,,Industrial aur work charged staff\Njo regular leave ke entitled hain,
+Dialogue: 0,0:14:46.52,0:14:48.76,Default,,0,0,0,,woh bhi normal conditions par eligible hain.
+Dialogue: 0,0:14:48.76,0:14:52.26,Default,,0,0,0,,Example, Regular leave wale work charged\Nemployee ko sirf job title se blanket
+Dialogue: 0,0:14:52.26,0:14:53.24,Default,,0,0,0,,reject mat karo.
+Dialogue: 0,0:14:53.24,0:14:57.60,Default,,0,0,0,,First block nineteen sixty to sixty one\Nhistorical hai, aaj ka travel block nahi.
+Dialogue: 0,0:14:57.60,0:15:03.00,Default,,0,0,0,,September third, twenty twenty five\NDoPT Guidelines, paragraph two.
+Dialogue: 0,0:15:03.00,0:15:06.73,Default,,0,0,0,,Consolidation mein conflict\Nya unclear summary ho,
+Dialogue: 0,0:15:06.73,0:15:09.34,Default,,0,0,0,,toh relevant governing OM ya order check karo.
+Dialogue: 0,0:15:09.34,0:15:11.74,Default,,0,0,0,,yeh Rule two ka sub rule nahi hai.
+Dialogue: 0,0:15:11.74,0:15:15.60,Default,,0,0,0,,Example, Summary ki unclear line\Nko naya amendment mat maano.
+Dialogue: 0,0:15:15.60,0:15:18.80,Default,,0,0,0,,Actual applicable order ki reference lo.
+Dialogue: 0,0:15:18.80,0:15:21.71,Default,,0,0,0,,Batch one teaching checklist,\Nnot a separate legal rule.
+Dialogue: 0,0:15:21.71,0:15:26.44,Default,,0,0,0,,Category, exclusion, valid exception,\Nspecial service conditions,
+Dialogue: 0,0:15:26.44,0:15:29.66,Default,,0,0,0,,old block history aur\Neligible family check karo.
+Dialogue: 0,0:15:29.66,0:15:33.32,Default,,0,0,0,,Example, Contract officer yeh\Nstarting checks pass karta hai.
+Dialogue: 0,0:15:33.32,0:15:37.43,Default,,0,0,0,,phir bhi payment se pehle\Nfamily, leave, block, mode, fare,
+Dialogue: 0,0:15:37.43,0:15:40.42,Default,,0,0,0,,booking aur claim conditions alag check hongi.
+Dialogue: 0,0:15:40.42,0:15:44.48,Default,,0,0,0,,Original Gazette date, detailed Railway\Npass conditions aur complete later order
+Dialogue: 0,0:15:44.48,0:15:45.70,Default,,0,0,0,,checks abhi open hain.

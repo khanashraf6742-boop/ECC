@@ -1,0 +1,243 @@
+[
+  {
+    "file": "update-dates-01.mp3",
+    "voice": "voice-00",
+    "title": "Important dates | Origins and legal cut-offs",
+    "caution": "Issue date, effective date and historical cut-off are different. Gazette day remains pending.",
+    "text": "Rule seven, Government of India Decision one, OM dated October eleven, nineteen fifty six. ये पुराना LTC instruction है. Rule nineteen के हिसाब से, पुराने consistent instructions सिर्फ old होने से obsolete नहीं होते. Example, आज की claim में पुराना order दिखे, तो later changes check करो; सिर्फ date देखकर reject मत करो. Rule one, sub rule two, nineteen eighty eight. Rules की start date Gazette publication है, signature date नहीं. Uploaded master की May three और May twenty one dates original Gazette से अभी authenticate नहीं हुई हैं. Example, दो dates अलग हों, तो commencement के लिए publication वाला record check करो. Rule four, family definition, Explanation one, clauses Roman one and two. October twenty, nineteen ninety seven, two-child restriction का cutoff है. Existing larger families और अगले one year में born children के exceptions भी पढ़ो. Example, Third child nineteen ninety six में born था? Cutoff exception check करो; automatic rejection नहीं.",
+    "units": [
+      {
+        "card_id": "D1-01",
+        "legal_ref": "Rule 7 GID (1); Rule 19",
+        "spoken_ref": "Rule seven, Government of India Decision one, OM dated October eleven, nineteen fifty six.",
+        "explanation": "ये पुराना LTC instruction है. Rule nineteen के हिसाब से, पुराने consistent instructions सिर्फ old होने से obsolete नहीं होते.",
+        "example": "आज की claim में पुराना order दिखे, तो later changes check करो; सिर्फ date देखकर reject मत करो.",
+        "caution": "",
+        "point": "11 Oct 1956: foundational instruction. Rule 19 preserves consistent older instructions.",
+        "visual_example": "Old date? Check later amendment or cancellation before discarding.",
+        "source": "BASE"
+      },
+      {
+        "card_id": "D1-02",
+        "legal_ref": "Rule 1(2), 1988",
+        "spoken_ref": "Rule one, sub rule two, nineteen eighty eight.",
+        "explanation": "Rules की start date Gazette publication है, signature date नहीं. Uploaded master की May three और May twenty one dates original Gazette से अभी authenticate नहीं हुई हैं.",
+        "example": "दो dates अलग हों, तो commencement के लिए publication वाला record check करो.",
+        "caution": "",
+        "point": "1988 Rules: Gazette publication triggers commencement; exact calendar day not authenticated.",
+        "visual_example": "Do not memorise a reported signing day as the verified effective day.",
+        "source": "BASE"
+      },
+      {
+        "card_id": "D1-03",
+        "legal_ref": "Rule 4(d), Explanation 1(i)-(ii)",
+        "spoken_ref": "Rule four, family definition, Explanation one, clauses Roman one and two.",
+        "explanation": "October twenty, nineteen ninety seven, two-child restriction का cutoff है. Existing larger families और अगले one year में born children के exceptions भी पढ़ो.",
+        "example": "Third child nineteen ninety six में born था? Cutoff exception check करो; automatic rejection नहीं.",
+        "caution": "",
+        "point": "20 Oct 1997: two-child restriction cut-off; protected cases and one-year exception matter.",
+        "visual_example": "Third child born in 1996: examine the protected exception and other family conditions.",
+        "source": "BASE"
+      }
+    ]
+  },
+  {
+    "file": "update-dates-02.mp3",
+    "voice": "voice-00",
+    "title": "Important dates | Entitlement and air booking",
+    "caution": "Dates identify instructions, not automatic entitlement. Detailed conditions follow in topic batches.",
+    "text": "Rule twelve, entitlement, orders dated July thirteen and September nineteen, twenty seventeen. Pay-level based entitlement पढ़ो. Levels six to eight की tour air entitlement ordinary LTC में automatically नहीं आती. Example, Level seven employee को tour पर flight allowed है; उसी वजह से ordinary LTC flight मंजूर मत मानो. Rule one, sub rule four, clause D, OM dated March twenty seven, twenty eighteen. Railway employees के लिए conditional All India LTC window है, once in four-year block. Full pass-surrender procedure Railway batch में आएगा. Example, Railway employee को इससे ordinary Hometown LTC automatically नहीं मिलती. Air booking OMs dated August twenty nine, twenty twenty two, and August ten, twenty twenty three. Authorized Travel Agent rules को later exception के साथ पढ़ो. Non-air-entitled की ordinary LTC और Special Dispensation booking अलग हैं. Example, Ordinary LTC वाली optional ATA booking को special regional air scheme पर apply मत करो.",
+    "units": [
+      {
+        "card_id": "D1-04",
+        "legal_ref": "Rule 12; DoE 13.07.2017; DoPT 19.09.2017",
+        "spoken_ref": "Rule twelve, entitlement, orders dated July thirteen and September nineteen, twenty seventeen.",
+        "explanation": "Pay-level based entitlement पढ़ो. Levels six to eight की tour air entitlement ordinary LTC में automatically नहीं आती.",
+        "example": "Level seven employee को tour पर flight allowed है; उसी वजह से ordinary LTC flight मंजूर मत मानो.",
+        "caution": "",
+        "point": "13 Jul / 19 Sep 2017: pay-level framework; TA air entitlement does not automatically mean LTC air.",
+        "visual_example": "Level 7 tour flight does not by itself establish ordinary LTC air entitlement.",
+        "source": "GUIDE"
+      },
+      {
+        "card_id": "D1-05",
+        "legal_ref": "Rule 1(4)(d); OM 27.03.2018",
+        "spoken_ref": "Rule one, sub rule four, clause D, OM dated March twenty seven, twenty eighteen.",
+        "explanation": "Railway employees के लिए conditional All India LTC window है, once in four-year block. Full pass-surrender procedure Railway batch में आएगा.",
+        "example": "Railway employee को इससे ordinary Hometown LTC automatically नहीं मिलती.",
+        "caution": "",
+        "point": "27 Mar 2018: conditional Railway All India LTC window; not ordinary Hometown LTC.",
+        "visual_example": "Check pass-surrender conditions; do not assume all kinds of Railway passes end.",
+        "source": "GUIDE"
+      },
+      {
+        "card_id": "D1-06",
+        "legal_ref": "OM 29.08.2022; OM 10.08.2023",
+        "spoken_ref": "Air booking OMs dated August twenty nine, twenty twenty two, and August ten, twenty twenty three.",
+        "explanation": "Authorized Travel Agent rules को later exception के साथ पढ़ो. Non-air-entitled की ordinary LTC और Special Dispensation booking अलग हैं.",
+        "example": "Ordinary LTC वाली optional ATA booking को special regional air scheme पर apply मत करो.",
+        "caution": "",
+        "point": "29 Aug 2022 booking rules + 10 Aug 2023 qualification: ordinary and special schemes differ.",
+        "visual_example": "Non-air-entitled ordinary LTC exception does not remove the special-scheme ATA requirement.",
+        "source": "FAQ"
+      }
+    ]
+  },
+  {
+    "file": "update-dates-03.mp3",
+    "voice": "voice-00",
+    "title": "Important dates | Recent references and live evidence holds",
+    "caution": "A 2025 document saying “current block” must be read in its own date context.",
+    "text": "Rule twelve, train entitlement, OM dated January fourteen, twenty twenty five. Tejas, Vande Bharat और Humsafar travel, entitlement के हिसाब से allowed है. Example, Vande Bharat में travel किया? Allowed class और actual fare दोनों check करो. DoPT FAQ dated July one, and Guidelines dated September three, twenty twenty five. ये important reference dates हैं. Compilation का paragraph two, relevant governing order check करने को कहता है. Example, Summary में unclear line हो, तो exact OM पढ़ो; statutory rule को casually override मत करो. Special air scheme, OM dated September seventeen, twenty twenty four. उस order का window September twenty six, twenty twenty four से September twenty five, twenty twenty six था. Reported twenty twenty eight renewal का signed official text अभी verify नहीं हुआ. Example, October twenty twenty six booking को पुराने expiry order से approve या reject मत करो; current signed order चाहिए.",
+    "units": [
+      {
+        "card_id": "D1-07",
+        "legal_ref": "Rule 12; OM 14.01.2025",
+        "spoken_ref": "Rule twelve, train entitlement, OM dated January fourteen, twenty twenty five.",
+        "explanation": "Tejas, Vande Bharat और Humsafar travel, entitlement के हिसाब से allowed है.",
+        "example": "Vande Bharat में travel किया? Allowed class और actual fare दोनों check करो.",
+        "caution": "",
+        "point": "14 Jan 2025: Tejas, Vande Bharat and Humsafar allowed as per entitlement.",
+        "visual_example": "Vande Bharat approval is not permission for any class at any price.",
+        "source": "FAQ"
+      },
+      {
+        "card_id": "D1-08",
+        "legal_ref": "FAQ 01.07.2025; Guidelines 03.09.2025",
+        "spoken_ref": "DoPT FAQ dated July one, and Guidelines dated September three, twenty twenty five.",
+        "explanation": "ये important reference dates हैं. Compilation का paragraph two, relevant governing order check करने को कहता है.",
+        "example": "Summary में unclear line हो, तो exact OM पढ़ो; statutory rule को casually override मत करो.",
+        "caution": "",
+        "point": "1 Jul 2025 FAQs; 3 Sep 2025 consolidation. Check the relevant governing instrument.",
+        "visual_example": "A convenient summary is not proof that every older instruction was superseded.",
+        "source": "GUIDE"
+      },
+      {
+        "card_id": "D1-09",
+        "legal_ref": "Special air scheme: 17.09.2024; 2026 renewal hold",
+        "spoken_ref": "Special air scheme, OM dated September seventeen, twenty twenty four.",
+        "explanation": "उस order का window September twenty six, twenty twenty four से September twenty five, twenty twenty six था. Reported twenty twenty eight renewal का signed official text अभी verify नहीं हुआ.",
+        "example": "October twenty twenty six booking को पुराने expiry order से approve या reject मत करो; current signed order चाहिए.",
+        "caution": "",
+        "point": "Old window: 26 Sep 2024-25 Sep 2026. Reported renewal to 25 Sep 2028 is not authenticated here.",
+        "visual_example": "For an October 2026 journey, obtain the current signed extension before relying on it.",
+        "source": "FAQ"
+      }
+    ]
+  },
+  {
+    "file": "update-dates-04.mp3",
+    "voice": "voice-00",
+    "title": "Important dates | Blocks, carry-forward and outward journey",
+    "caution": "Regular-block carry-forward is conditional. Fresh-recruit annual occasions have different rules.",
+    "text": "Rules eight and nine, and July twenty twenty five FAQ thirteen to eighteen. Regular four-year block January one, twenty twenty six से December thirty one, twenty twenty nine है. Two-year sub-blocks twenty twenty six to twenty seven और twenty twenty eight to twenty nine हैं. Example, Regular employee की twenty twenty six journey में सही block debit करो, twenty twenty two to twenty five को current मत बोलो. Rule ten, carry-forward, and FAQ sixteen to eighteen. Eligible unused previous-block LTC, next block के first year में ली जा सकती है. Twenty twenty six grace year है. Hometown-entitled employee की All India carry-forward पर second sub-block वाली condition भी है. Example, Unused twenty twenty four to twenty five occasion हो, तो eligibility और previous usage check करके twenty twenty six में charge करो. Rule nine, outward journey; fresh-recruit FAQ sixty four to sixty nine. Block counting में outward journey की start date देखो, return की नहीं. Fresh-recruit annual LTC पर regular one-year carry-forward नहीं लगता. Example, Eligible grace-year journey December thirty one को start, January में return हो, तो सिर्फ return date से wrong block मत लगाओ.",
+    "units": [
+      {
+        "card_id": "D1-10",
+        "legal_ref": "Rules 8, 9; FAQ 13-18",
+        "spoken_ref": "Rules eight and nine, and July twenty twenty five FAQ thirteen to eighteen.",
+        "explanation": "Regular four-year block January one, twenty twenty six से December thirty one, twenty twenty nine है. Two-year sub-blocks twenty twenty six to twenty seven और twenty twenty eight to twenty nine हैं.",
+        "example": "Regular employee की twenty twenty six journey में सही block debit करो, twenty twenty two to twenty five को current मत बोलो.",
+        "caution": "",
+        "point": "Regular block: 1 Jan 2026-31 Dec 2029. Sub-blocks: 2026-27 and 2028-29.",
+        "visual_example": "A 2026 journey does not make 2022-25 the current regular block.",
+        "source": "FAQ"
+      },
+      {
+        "card_id": "D1-11",
+        "legal_ref": "Rule 10; FAQ 16-18",
+        "spoken_ref": "Rule ten, carry-forward, and FAQ sixteen to eighteen.",
+        "explanation": "Eligible unused previous-block LTC, next block के first year में ली जा सकती है. Twenty twenty six grace year है. Hometown-entitled employee की All India carry-forward पर second sub-block वाली condition भी है.",
+        "example": "Unused twenty twenty four to twenty five occasion हो, तो eligibility और previous usage check करके twenty twenty six में charge करो.",
+        "caution": "",
+        "point": "31 Dec 2026: regular previous-block grace-year end, subject to Rule 10 conditions.",
+        "visual_example": "Do not assume every unused All India occasion carries over regardless of the second sub-block.",
+        "source": "BASE"
+      },
+      {
+        "card_id": "D1-12",
+        "legal_ref": "Rule 9; FAQ 64-69",
+        "spoken_ref": "Rule nine, outward journey; fresh-recruit FAQ sixty four to sixty nine.",
+        "explanation": "Block counting में outward journey की start date देखो, return की नहीं. Fresh-recruit annual LTC पर regular one-year carry-forward नहीं लगता.",
+        "example": "Eligible grace-year journey December thirty one को start, January में return हो, तो सिर्फ return date से wrong block मत लगाओ.",
+        "caution": "",
+        "point": "Outward commencement fixes the block, including Rule 10 carry-forward. Fresh recruits differ.",
+        "visual_example": "Eligible outward journey starts 31 Dec 2026 and returns in January: apply Rule 9, not a blanket return deadline.",
+        "source": "BASE"
+      }
+    ]
+  },
+  {
+    "file": "update-dates-05.mp3",
+    "voice": "voice-00",
+    "title": "Important dates | Booking guidance and claim deadlines",
+    "caution": "Calendar months are not automatically 30/90/180 days. Relaxation is not an automatic extension.",
+    "text": "Booking OM dated August twenty nine, twenty twenty two, paragraph one, clause Roman four; Cash circular July sixteen, twenty twenty six. Twenty one days पहले ticket booking encouraged है. DoPT staff circular thirty days पहले advance application plan करने को कहता है. इसे universal automatic claim forfeiture मत बनाओ. Example, Twenty days पहले booking हुई? सिर्फ one day कम होने से automatic rejection मत करो; applicable instructions check करो. Rules fourteen and fifteen, claim deadlines, FAQ thirty five. Return journey complete होने के बाद, advance लिया था तो one month में claim; advance नहीं था तो three months में claim. Example, दो colleagues same day लौटे, लेकिन एक ने advance लिया था. दोनों की normal claim limit same नहीं है. OM dated December twenty one, twenty twenty three; FAQ thirty five and seventy one. Ministry, Financial Advisor concurrence से limited delayed claims admit कर सकती है. No advance में six months तक; advance में three months तक, full advance plus penal interest one lump sum refund की condition है. Example, Late claim को automatic extension मत समझो. Authority, refund और interest conditions पहले check करो.",
+    "units": [
+      {
+        "card_id": "D1-13",
+        "legal_ref": "OM 29.08.2022 para 1(iv); Cash circular 16.07.2026",
+        "spoken_ref": "Booking OM dated August twenty nine, twenty twenty two, paragraph one, clause Roman four; Cash circular July sixteen, twenty twenty six.",
+        "explanation": "Twenty one days पहले ticket booking encouraged है. DoPT staff circular thirty days पहले advance application plan करने को कहता है. इसे universal automatic claim forfeiture मत बनाओ.",
+        "example": "Twenty days पहले booking हुई? सिर्फ one day कम होने से automatic rejection मत करो; applicable instructions check करो.",
+        "caution": "",
+        "point": "21-day booking guidance; 30-day advance-application planning in the DoPT-staff circular.",
+        "visual_example": "Booking 20 days before departure is not automatically fatal solely under the 21-day encouragement.",
+        "source": "CASH"
+      },
+      {
+        "card_id": "D1-14",
+        "legal_ref": "Rules 14, 15; FAQ 35",
+        "spoken_ref": "Rules fourteen and fifteen, claim deadlines, FAQ thirty five.",
+        "explanation": "Return journey complete होने के बाद, advance लिया था तो one month में claim; advance नहीं था तो three months में claim.",
+        "example": "दो colleagues same day लौटे, लेकिन एक ने advance लिया था. दोनों की normal claim limit same नहीं है.",
+        "caution": "",
+        "point": "After return: advance drawn = 1 month; no advance = 3 months.",
+        "visual_example": "Same return date, different advance status: normal deadlines differ.",
+        "source": "FAQ"
+      },
+      {
+        "card_id": "D1-15",
+        "legal_ref": "OM 21.12.2023; FAQ 35, 71",
+        "spoken_ref": "OM dated December twenty one, twenty twenty three; FAQ thirty five and seventy one.",
+        "explanation": "Ministry, Financial Advisor concurrence से limited delayed claims admit कर सकती है. No advance में six months तक; advance में three months तक, full advance plus penal interest one lump sum refund की condition है.",
+        "example": "Late claim को automatic extension मत समझो. Authority, refund और interest conditions पहले check करो.",
+        "caution": "",
+        "point": "Limited delegated admission: no advance up to 6 months; advance up to 3 months with conditions.",
+        "visual_example": "FA concurrence and, in advance cases, full lump-sum refund plus penal interest are not optional.",
+        "source": "FAQ"
+      }
+    ]
+  },
+  {
+    "file": "update-gids-01.mp3",
+    "voice": "voice-00",
+    "title": "GIDs | Exact authorities behind Batch 1 applicability notes",
+    "caution": "GID numbering is source-specific. These are Rule 7 cross-references, not invented Rule 1 sub-clauses.",
+    "text": "Rule seven, Government of India Decision nine. MHA letter forty three slash six slash fifty nine, Establishment A, dated July twenty four, nineteen fifty nine. Autonomous-body officer, Centre में deputation के दौरान temporary Government servant treat होगा, और उसी हिसाब से LTC check होगी. ये permanent Central appointment नहीं है. Example, Iqbal institute से Ministry में deputation पर आया. Parent body देखकर reject मत करो; deputation terms और applicable service conditions check करो. Rule seven, Government of India Decision six. MHA OM six slash seven slash fifty nine, Establishment A, dated June fifteen, nineteen sixty. Industrial और work-charged staff को regular leave entitlement हो, तो normal Central employee जैसी LTC मिल सकती है. First block nineteen sixty to sixty one, historical starting point है. Example, Work-charged Ravi को regular leave मिलती है. सिर्फ job label से reject मत करो; बाकी LTC conditions भी apply होंगी.",
+    "units": [
+      {
+        "card_id": "G1-01",
+        "legal_ref": "Rule 7 GID (9); MHA 43/6/59-Ests.(A), 24.07.1959",
+        "spoken_ref": "Rule seven, Government of India Decision nine. MHA letter forty three slash six slash fifty nine, Establishment A, dated July twenty four, nineteen fifty nine.",
+        "explanation": "Autonomous-body officer, Centre में deputation के दौरान temporary Government servant treat होगा, और उसी हिसाब से LTC check होगी. ये permanent Central appointment नहीं है.",
+        "example": "Iqbal institute से Ministry में deputation पर आया. Parent body देखकर reject मत करो; deputation terms और applicable service conditions check करो.",
+        "caution": "",
+        "point": "24 Jul 1959, GID 7(9): temporary-government-servant treatment during Central deputation.",
+        "visual_example": "Iqbal is not permanently converted into a Central employee. Check the actual deputation period and terms.",
+        "source": "BASE"
+      },
+      {
+        "card_id": "G1-02",
+        "legal_ref": "Rule 7 GID (6); MHA 6/7/59-Ests.(A), 15.06.1960",
+        "spoken_ref": "Rule seven, Government of India Decision six. MHA OM six slash seven slash fifty nine, Establishment A, dated June fifteen, nineteen sixty.",
+        "explanation": "Industrial और work-charged staff को regular leave entitlement हो, तो normal Central employee जैसी LTC मिल सकती है. First block nineteen sixty to sixty one, historical starting point है.",
+        "example": "Work-charged Ravi को regular leave मिलती है. सिर्फ job label से reject मत करो; बाकी LTC conditions भी apply होंगी.",
+        "caution": "",
+        "point": "15 Jun 1960, GID 7(6): regular-leave industrial/work-charged staff; first block 1960-61.",
+        "visual_example": "Ravi: regular-leave eligibility matters; one year alone does not override casual/daily-rated exclusions.",
+        "source": "BASE"
+      }
+    ]
+  }
+]

@@ -15,11 +15,14 @@ import shutil
 import subprocess
 from pathlib import Path
 
+from roman_subtitles import caption
+
 ROOT = Path(__file__).resolve().parent
 WORK = ROOT / 'video-work' / 'subtitles'
 VIDEO = ROOT / 'batch-01-video.mp4'
 REPORT = ROOT / 'subtitle-build-report.json'
 STEM = ROOT / 'batch-01-video'
+SCRIPT = ROOT / ('video-narration.json' if (ROOT / 'video-narration.json').exists() else 'narration.json')
 SAMPLE_RATE = 16000
 FRAME_STEP = .02
 
@@ -179,7 +182,7 @@ def write_caption_files(cues):
            'Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, '
            'Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, '
            'Alignment, MarginL, MarginR, MarginV, Encoding',
-           'Style: Default,Noto Sans Devanagari,52,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,'
+           'Style: Default,Atkinson Hyperlegible,40,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,'
            '0,0,0,0,100,100,0,0,1,1,0,2,110,110,12,1', '', '[Events]',
            'Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text']
     for index, cue in enumerate(cues, 1):
@@ -202,7 +205,7 @@ def audio_digest(ffmpeg, video):
 def render(ffmpeg, report):
     target = WORK / 'captioned.mp4'
     (WORK / 'fonts').mkdir(exist_ok=True)
-    shutil.copyfile(ROOT / 'video-fonts' / 'NotoSansDevanagari.ttf', WORK / 'fonts' / 'NotoSansDevanagari.ttf')
+    shutil.copyfile(ROOT / 'video-fonts' / 'AtkinsonHyperlegible-Regular.ttf', WORK / 'fonts' / 'AtkinsonHyperlegible-Regular.ttf')
     # All slides remain visible: scale the entire frame into a 936px-high teaching area.
     # The remaining 144px are an opaque caption band, not an overlay on legal text.
     filters = ('scale=1664:936,pad=1920:1080:128:0:color=0x111b26,'
@@ -210,8 +213,8 @@ def render(ffmpeg, report):
     source_hash = audio_digest(ffmpeg, VIDEO)
     subprocess.run([ffmpeg, '-hide_banner', '-y', '-i', str(VIDEO),
                     '-map', '0:v:0', '-map', '0:a:0', '-map_metadata', '0', '-map_chapters', '0',
-                    '-metadata', 'title=CCS LTC Batch 1 - Subtitled clause-reference edition',
-                    '-metadata', 'comment=City Hinglish; acoustically aligned phrase captions. Original audio unchanged.',
+                    '-metadata', 'title=CCS LTC Batch 1 - Important dates and GIDs - Roman Hinglish',
+                    '-metadata', 'comment=Roman-Hinglish phrase captions. Dates and GID opening; original ten core chapters retained.',
                     '-vf', filters, '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '22',
                     '-pix_fmt', 'yuv420p', '-c:a', 'copy', '-movflags', '+faststart', str(target)], cwd=ROOT, check=True)
     subprocess.run([ffmpeg, '-v', 'error', '-xerror', '-i', str(target), '-map', '0:v:0',
@@ -228,8 +231,8 @@ def render(ffmpeg, report):
     video_report.update({'bytes': VIDEO.stat().st_size, 'subtitles': {
         'burned_in': True, 'embedded_track': None, 'srt': 'batch-01-video.srt',
         'vtt': 'batch-01-video.vtt', 'report': REPORT.name, 'caption_band_height': 144},
-        'note': 'Same approved narration and original AAC audio. Slides fit above a dedicated caption band. '
-                'Phrase captions acoustically aligned within the original ten chapter boundaries.'})
+        'note': 'Dates/GID opening and original core narration; AAC unchanged during caption pass. Roman-Hinglish captions. '
+                'Phrase captions acoustically aligned within sixteen chapter boundaries.'})
     video_report_path.write_text(json.dumps(video_report, ensure_ascii=False, indent=2) + '\n')
 
 
@@ -246,18 +249,19 @@ def main():
     if video_report.get('subtitles', {}).get('burned_in'):
         raise RuntimeError('Video already captioned. Restore the clean pre-caption MP4 and video-build-report.json first.')
     if not args.render_only:
-        segments = json.loads((ROOT / 'narration.json').read_text())
+        segments = json.loads(SCRIPT.read_text())
         chapters = json.loads((ROOT / 'video-build-report.json').read_text())['chapters']
         reference = ReferenceSpeech()
         cues, audit = [], []
         for segment, chapter in zip(segments, chapters, strict=True):
             aligned, metrics = align_chapter(ffmpeg, reference, segment, chapter)
-            cues.extend(aligned)
+            cues.extend(caption(cue) for cue in aligned)
             audit.append(metrics)
             print(f'Chapter {chapter["number"]}: {len(aligned)} acoustic phrase cues', flush=True)
-        report = {'source_script_sha256': hashlib.sha256((ROOT / 'narration.json').read_bytes()).hexdigest(),
+        report = {'source_script_sha256': hashlib.sha256(SCRIPT.read_bytes()).hexdigest(),
                   'alignment': 'chapter-local MFCC / dynamic time warping against eSpeak NG reference speech',
-                  'frame_step_seconds': FRAME_STEP, 'language': 'Hindi-English code-mixed; approved transcript unchanged',
+                  'frame_step_seconds': FRAME_STEP, 'source_script_file': SCRIPT.name,
+                  'language': 'Roman-script city Hinglish; reviewed transliteration, not English translation',
                   'timing_precision_note': 'Automatic phrase-level acoustic alignment, not certified word-level timing.',
                   'full_decode_check': 'not rendered', 'chapters': audit, 'cues': cues}
         write_caption_files(cues)

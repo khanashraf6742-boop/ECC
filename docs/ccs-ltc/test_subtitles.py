@@ -7,6 +7,8 @@ import subprocess
 import sys
 import unittest
 
+from roman_subtitles import romanize
+
 ROOT = Path(__file__).parent
 SPEC = importlib.util.spec_from_file_location('ltc_subtitles', ROOT / 'build_subtitles.py')
 
@@ -14,7 +16,7 @@ SPEC = importlib.util.spec_from_file_location('ltc_subtitles', ROOT / 'build_sub
 class SubtitleTests(unittest.TestCase):
     def test_transcript_is_preserved_and_cues_are_bounded(self):
         report = json.loads((ROOT / 'subtitle-build-report.json').read_text())
-        segments = json.loads((ROOT / 'narration.json').read_text())
+        segments = json.loads((ROOT / 'video-narration.json').read_text())
         chapters = json.loads((ROOT / 'video-build-report.json').read_text())['chapters']
         cues = report['cues']
         self.assertGreater(len(cues), 100)
@@ -24,15 +26,15 @@ class SubtitleTests(unittest.TestCase):
             duration = cue['end'] - cue['start']
             self.assertGreater(duration, .35)
             self.assertLessEqual(duration, 8)
-            self.assertLessEqual(len(cue['text']), 90)
+            self.assertLessEqual(len(cue['text']), 120)
             self.assertLessEqual(len(cue['text']) / duration, 30)
             self.assertLessEqual(cue['end'], chapters[cue['chapter'] - 1]['end_seconds'])
             self.assertGreaterEqual(cue['start'], chapters[cue['chapter'] - 1]['start_seconds'])
             previous_end = cue['end']
         for chapter, segment in enumerate(segments, 1):
             actual = ' '.join(c['text'] for c in cues if c['chapter'] == chapter)
-            self.assertEqual(actual.split(), segment['text'].split())
-        self.assertEqual(report['source_script_sha256'], hashlib.sha256((ROOT / 'narration.json').read_bytes()).hexdigest())
+            self.assertEqual(actual.split(), romanize(segment['text']).split())
+        self.assertEqual(report['source_script_sha256'], hashlib.sha256((ROOT / 'video-narration.json').read_bytes()).hexdigest())
         self.assertEqual(report['alignment'], 'chapter-local MFCC / dynamic time warping against eSpeak NG reference speech')
         self.assertEqual(report['full_decode_check'], 'passed')
         self.assertEqual(report['audio_stream_unchanged'], True)
@@ -47,7 +49,7 @@ class SubtitleTests(unittest.TestCase):
         self.assertEqual(ass.count('Dialogue: '), len(cues))
         self.assertTrue(vtt.startswith('WEBVTT\n'))
         self.assertIn('PlayResY: 1080', ass)
-        self.assertIn('Noto Sans Devanagari', ass)
+        self.assertIn('Atkinson Hyperlegible', ass)
         # Legal references must remain in the delivered captions.
         self.assertIn('clause Roman one.', srt)
         self.assertIn('clause A.', srt)

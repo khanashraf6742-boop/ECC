@@ -1,21 +1,191 @@
 {
   "file": "batch-01-video.mp4",
-  "bytes": 12070382,
+  "bytes": 20466352,
   "width": 1920,
   "height": 1080,
   "fps": 10,
-  "duration_seconds": 574.42,
+  "duration_seconds": 945.74,
   "video_codec": "h264",
   "audio_codec": "aac",
-  "source_script_sha256": "e8a901f95db22fa0f2ef485453f994d96aedd0cf1ec635c83b4ecee1384ea7d5",
-  "note": "Same approved narration and original AAC audio. Slides fit above a dedicated caption band. Phrase captions acoustically aligned within the original ten chapter boundaries.",
+  "source_script_sha256": "1e6dec6ca83ffeb3debdd5e32711edeca174213829f9900a85358ecb3bdb0529",
+  "note": "Dates/GID opening and original core narration; AAC unchanged during caption pass. Roman-Hinglish captions. Phrase captions acoustically aligned within sixteen chapter boundaries.",
   "full_decode_check": "passed",
   "chapters": [
     {
       "number": 1,
-      "title": "Batch 1 | The clause-reference edition",
+      "title": "Important dates | Origins and legal cut-offs",
       "start_seconds": 0.0,
-      "end_seconds": 18.3,
+      "end_seconds": 57.6,
+      "audio_duration": 57.576,
+      "card_ids": [
+        "D1-01",
+        "D1-02",
+        "D1-03"
+      ],
+      "layout": {
+        "canvas": [
+          1920,
+          1080
+        ],
+        "body_font_sizes": [
+          28,
+          30,
+          30,
+          28,
+          30,
+          30,
+          28,
+          30,
+          30
+        ]
+      }
+    },
+    {
+      "number": 2,
+      "title": "Important dates | Entitlement and air booking",
+      "start_seconds": 57.6,
+      "end_seconds": 119.1,
+      "audio_duration": 61.416,
+      "card_ids": [
+        "D1-04",
+        "D1-05",
+        "D1-06"
+      ],
+      "layout": {
+        "canvas": [
+          1920,
+          1080
+        ],
+        "body_font_sizes": [
+          28,
+          30,
+          30,
+          28,
+          30,
+          30,
+          28,
+          30,
+          30
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "title": "Important dates | Recent references and live evidence holds",
+      "start_seconds": 119.1,
+      "end_seconds": 177.7,
+      "audio_duration": 58.584,
+      "card_ids": [
+        "D1-07",
+        "D1-08",
+        "D1-09"
+      ],
+      "layout": {
+        "canvas": [
+          1920,
+          1080
+        ],
+        "body_font_sizes": [
+          28,
+          30,
+          30,
+          28,
+          30,
+          30,
+          28,
+          30,
+          30
+        ]
+      }
+    },
+    {
+      "number": 4,
+      "title": "Important dates | Blocks, carry-forward and outward journey",
+      "start_seconds": 177.7,
+      "end_seconds": 245.8,
+      "audio_duration": 68.088,
+      "card_ids": [
+        "D1-10",
+        "D1-11",
+        "D1-12"
+      ],
+      "layout": {
+        "canvas": [
+          1920,
+          1080
+        ],
+        "body_font_sizes": [
+          28,
+          30,
+          30,
+          28,
+          30,
+          30,
+          28,
+          30,
+          30
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "title": "Important dates | Booking guidance and claim deadlines",
+      "start_seconds": 245.8,
+      "end_seconds": 311.1,
+      "audio_duration": 65.256,
+      "card_ids": [
+        "D1-13",
+        "D1-14",
+        "D1-15"
+      ],
+      "layout": {
+        "canvas": [
+          1920,
+          1080
+        ],
+        "body_font_sizes": [
+          28,
+          30,
+          30,
+          28,
+          30,
+          30,
+          28,
+          30,
+          30
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "title": "GIDs | Exact authorities behind Batch 1 applicability notes",
+      "start_seconds": 311.1,
+      "end_seconds": 371.3,
+      "audio_duration": 60.144,
+      "card_ids": [
+        "G1-01",
+        "G1-02"
+      ],
+      "layout": {
+        "canvas": [
+          1920,
+          1080
+        ],
+        "body_font_sizes": [
+          28,
+          30,
+          30,
+          28,
+          30,
+          30
+        ]
+      }
+    },
+    {
+      "number": 7,
+      "title": "Batch 1 | The clause-reference edition",
+      "start_seconds": 371.3,
+      "end_seconds": 389.6,
       "audio_duration": 18.288,
       "card_ids": [],
       "layout": {
@@ -27,10 +197,10 @@
       }
     },
     {
-      "number": 2,
+      "number": 8,
       "title": "Scheme name, start date & the entry gate",
-      "start_seconds": 18.3,
-      "end_seconds": 67.0,
+      "start_seconds": 389.6,
+      "end_seconds": 438.3,
       "audio_duration": 48.696,
       "card_ids": [
         "B1-01",
@@ -56,10 +226,10 @@
       }
     },
     {
-      "number": 3,
+      "number": 9,
       "title": "Who is included? Four legal categories",
-      "start_seconds": 67.0,
-      "end_seconds": 129.9,
+      "start_seconds": 438.3,
+      "end_seconds": 501.2,
       "audio_duration": 62.856,
       "card_ids": [
         "B1-04",
@@ -89,10 +259,10 @@
       }
     },
     {
-      "number": 4,
+      "number": 10,
       "title": "Who is excluded? Clauses (a) to (c)",
-      "start_seconds": 129.9,
-      "end_seconds": 171.4,
+      "start_seconds": 501.2,
+      "end_seconds": 542.7,
       "audio_duration": 41.448,
       "card_ids": [
         "B1-08",
@@ -118,10 +288,10 @@
       }
     },
     {
-      "number": 5,
+      "number": 11,
       "title": "Who is excluded? Clauses (d) to (g)",
-      "start_seconds": 171.4,
-      "end_seconds": 239.2,
+      "start_seconds": 542.7,
+      "end_seconds": 610.5,
       "audio_duration": 67.776,
       "card_ids": [
         "B1-11",
@@ -151,10 +321,10 @@
       }
     },
     {
-      "number": 6,
+      "number": 12,
       "title": "Rule 2(1) | Service, certificate & hometown",
-      "start_seconds": 239.2,
-      "end_seconds": 312.6,
+      "start_seconds": 610.5,
+      "end_seconds": 683.9,
       "audio_duration": 73.344,
       "card_ids": [
         "B1-15",
@@ -184,10 +354,10 @@
       }
     },
     {
-      "number": 7,
+      "number": 13,
       "title": "Four-year tenure, extension & continuity",
-      "start_seconds": 312.6,
-      "end_seconds": 382.8,
+      "start_seconds": 683.9,
+      "end_seconds": 754.1,
       "audio_duration": 70.128,
       "card_ids": [
         "B1-19",
@@ -213,10 +383,10 @@
       }
     },
     {
-      "number": 8,
+      "number": 14,
       "title": "Re-employment conditions & Rule 3 scope",
-      "start_seconds": 382.8,
-      "end_seconds": 456.9,
+      "start_seconds": 754.1,
+      "end_seconds": 828.2,
       "audio_duration": 74.088,
       "card_ids": [
         "B1-22",
@@ -246,10 +416,10 @@
       }
     },
     {
-      "number": 9,
+      "number": 15,
       "title": "Separate family travel & applicability notes",
-      "start_seconds": 456.9,
-      "end_seconds": 526.3,
+      "start_seconds": 828.2,
+      "end_seconds": 897.6,
       "audio_duration": 69.384,
       "card_ids": [
         "B1-26",
@@ -275,10 +445,10 @@
       }
     },
     {
-      "number": 10,
+      "number": 16,
       "title": "Source hierarchy & the final checklist",
-      "start_seconds": 526.3,
-      "end_seconds": 574.4,
+      "start_seconds": 897.6,
+      "end_seconds": 945.7,
       "audio_duration": 48.096,
       "card_ids": [
         "B1-29",
@@ -300,6 +470,11 @@
       }
     }
   ],
+  "source_script_file": "video-narration.json",
+  "original_narration_sha256": "e8a901f95db22fa0f2ef485453f994d96aedd0cf1ec635c83b4ecee1384ea7d5",
+  "original_video_commit": "f7badf1",
+  "original_aac_sequence_retained": true,
+  "opening_duration_seconds": 371.3,
   "subtitles": {
     "burned_in": true,
     "embedded_track": null,

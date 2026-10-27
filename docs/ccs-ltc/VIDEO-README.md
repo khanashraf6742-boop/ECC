@@ -1,68 +1,73 @@
-# Batch 1 video — subtitled clause-reference edition
+# Batch 1 video — dates, GIDs and Roman-Hinglish captions
 
-**[Download the MP4 video](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.mp4)**
+**[Download the updated MP4](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.mp4)** · [GitHub file page](https://github.com/khanashraf6742-boop/ECC/blob/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.mp4)
 
-**[View the video file on GitHub](https://github.com/khanashraf6742-boop/ECC/blob/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.mp4)**
+**15:46 · 1920 × 1080 · approximately 19.5 MiB · H.264 / AAC stereo · faststart MP4**
 
-Duration: approximately 9 minutes 34 seconds. Resolution: 1920 × 1080. Size: approximately 11.5 MiB. H.264 video, AAC stereo audio, browser-friendly faststart MP4.
+## Changes in this edition
 
-## Included
+- **Important dates at the start:** five narrated chapters covering key historical/legal dates, reference OMs, current regular blocks, conditional carry-forward, outward-journey counting, booking guidance and claim deadlines.
+- **Roman-script city-Hinglish subtitles throughout:** 281 acoustically aligned phrase cues. No Devanagari in the caption files or burned-in captions. This is transliteration, not a change to formal English or a new legal translation.
+- **Exact GID authorities added:** Rule 7 GIDs (9) and (6), behind the autonomous-deputation and industrial/work-charged notes in Batch 1, with full authority/date, explanation and immediate hypothetical example.
+- **Original ten core chapters retained:** their original AAC packet sequence is preserved; six new selected-teacher-voice opening chapters precede them. The old questioner introduction is still the start of the core lesson at 06:11.
+- **Full-series GID checklist:** 112 register entries: 40 historical parent annotations, 62 clause records and 10 modern instruction groups. Remaining topic-batch teaching/currentness checks are **pending**, not presented as complete.
 
-- The approved clause-reference script, newly synthesised using the same selected male teacher and female questioner voices.
-- City Hinglish audio: everyday Hindi + English; rule/clause references spoken before explanations and hypothetical examples.
-- All 30 written cards mapped in order, with readable on-screen references, short points, examples and cautions.
-- Ten embedded chapter markers. Slides change at the original narration-chapter boundaries.
-- **177 synchronized phrase captions**, permanently visible in a separate bottom band. Hindi is displayed in Devanagari alongside the original English words; this is the approved code-mixed transcript, not an English translation.
-- Original video audio preserved bit-for-bit, with no new narration or edits for this subtitle update.
-- The original standalone MP3 remains unchanged. The video uses new takes of the same script, so the total duration is slightly different.
+## Downloads and companion notes
 
-## Subtitle downloads
+- [Roman-Hinglish SRT](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.srt)
+- [Roman-Hinglish WebVTT](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.vtt)
+- [Dates, sources, explanations and examples](DATES-AND-GIDS.md)
+- [Full-series GID coverage register](gid-coverage-register.csv)
 
-- [SRT captions](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.srt)
-- [WebVTT captions](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-01-video.vtt)
-- `batch-01-video.ass` is the styled burn-in source.
-
-No CC button or sidecar file is needed to see the captions: they are already part of the picture. The separate SRT and VTT files are available for editing or accessible-player workflows.
-
-Captions are timed against the **574.42-second video**, not the differently timed standalone MP3. Automatic chapter-local MFCC/dynamic-time-warping alignment uses actual soundtrack audio and Hindi/English eSpeak NG reference speech. Caption boundaries are inferred acoustically, not allocated proportionally by text length. These are phrase-level timings, not certified word-by-word timestamps or a complete manual listening audit.
+Captions are part of the picture: no CC button is required. Sidecar SRT/VTT files are supplied for reuse; enabling an external caption file while watching this already-captioned video can display duplicate text. Captions target this **945.74-second video**, not the unchanged standalone MP3.
 
 ## Chapter index
 
-| Start | Chapter | Written cards |
+| Start | Chapter | Cards |
 |---|---|---|
-| 00:00 | 1. Batch 1 — The clause-reference edition | Introduction |
-| 00:18 | 2. Scheme name, start date & the entry gate | B1-01, B1-02, B1-03 |
-| 01:07 | 3. Who is included? Four legal categories | B1-04, B1-05, B1-06, B1-07 |
-| 02:09 | 4. Who is excluded? Clauses (a) to (c) | B1-08, B1-09, B1-10 |
-| 02:51 | 5. Who is excluded? Clauses (d) to (g) | B1-11, B1-12, B1-13, B1-14 |
-| 03:59 | 6. Rule 2(1) — Service, certificate & hometown | B1-15, B1-16, B1-17, B1-18 |
-| 05:12 | 7. Four-year tenure, extension & continuity | B1-19, B1-20, B1-21 |
-| 06:22 | 8. Re-employment conditions & Rule 3 scope | B1-22, B1-23, B1-24, B1-25 |
-| 07:36 | 9. Separate family travel & applicability notes | B1-26, B1-27, B1-28 |
-| 08:46 | 10. Source hierarchy & the final checklist | B1-29, B1-30 |
+| 00:00 | 1. Important dates — Origins and legal cut-offs | D1-01, D1-02, D1-03 |
+| 00:58 | 2. Important dates — Entitlement and air booking | D1-04, D1-05, D1-06 |
+| 01:59 | 3. Important dates — Recent references and live evidence holds | D1-07, D1-08, D1-09 |
+| 02:58 | 4. Important dates — Blocks, carry-forward and outward journey | D1-10, D1-11, D1-12 |
+| 04:06 | 5. Important dates — Booking guidance and claim deadlines | D1-13, D1-14, D1-15 |
+| 05:11 | 6. GIDs — Exact authorities behind Batch 1 applicability notes | G1-01, G1-02 |
+| 06:11 | 7. Batch 1 — The clause-reference edition | Core introduction |
+| 06:30 | 8. Scheme name, start date & the entry gate | B1-01, B1-02, B1-03 |
+| 07:18 | 9. Who is included? Four legal categories | B1-04, B1-05, B1-06, B1-07 |
+| 08:21 | 10. Who is excluded? Clauses (a) to (c) | B1-08, B1-09, B1-10 |
+| 09:03 | 11. Who is excluded? Clauses (d) to (g) | B1-11, B1-12, B1-13, B1-14 |
+| 10:10 | 12. Rule 2(1) — Service, certificate & hometown | B1-15, B1-16, B1-17, B1-18 |
+| 11:24 | 13. Four-year tenure, extension & continuity | B1-19, B1-20, B1-21 |
+| 12:34 | 14. Re-employment conditions & Rule 3 scope | B1-22, B1-23, B1-24, B1-25 |
+| 13:48 | 15. Separate family travel & applicability notes | B1-26, B1-27, B1-28 |
+| 14:58 | 16. Source hierarchy & the final checklist | B1-29, B1-30 |
 
-## Scope and limitations
+## Scope and evidence limits
 
-This is the narrated summary companion to the detailed Batch 1 PDF and Markdown guide, not a full legal reading or completion of the entire LTC series. Rule 2(1) conditions are not assigned invented clause letters. Guideline notes and FAQ cross-references remain separate from the rules. Exact Gazette publication date, detailed Railway pass conditions and exhaustive later-order checks remain open as described in `REVIEW-NOTES.md`. All application examples are hypotheticals, not claimed real decided cases.
+This is still Batch 1, not a completed video of the entire LTC rulebook. The user selected coverage of all applicable non-obsolete GIDs **across the series, batch by batch**. See the coverage register and planned batches in `DATES-AND-GIDS.md`. The opening previews later topics; a short date reminder is not full coverage of that topic or OM.
 
-## Build and checks
+The 1988 Gazette publication day remains unauthenticated here. A reported 2026–2028 regional-air extension still needs a signed official instrument. Detailed Railway pass-surrender mechanics and later-order reconciliation remain pending. Old instructions are not discarded just for being old; expired one-time windows are not taught as current benefits. All examples are hypotheticals.
 
-See `build_video.py`, `video-requirements.txt`, `video-summaries.json`, `narration.json` and `video-build-report.json`. The build needs the separately generated selected-voice clips in ignored `video-work/audio/`; the script does not silently substitute a different TTS service. Rebuilding without those clips requires a new selected-voice synthesis. The report records actual chapter durations and the script hash.
+The original PDF, HTML reader and standalone MP3 remain the previous editions. `DATES-AND-GIDS.md` is the new opening companion. `narration.json` preserves the original ten-part script; `video-prefix.json` holds the six additions; `video-narration.json` is the full current video script.
 
-Base chapter slides were layout-checked at a body-text floor of 26 px. In the subtitled edition the complete slide is fitted to 1664 × 936 above a 144 px caption band, without cropping or covering any legal text. The final frame remains 1920 × 1080. Noto Sans Devanagari captions use a 52 px ASS font size with a maximum of two lines. Representative final frames were visually inspected. The MP4 passed a full audio/video decode check, actual chapter-table validation and non-silent audio check. Test coverage checks the 30-card sequence and faststart atom order; no claim of a complete manual listening/transcription audit is made.
+## Build and validation
 
-Atkinson Hyperlegible fonts: Google Fonts repository (`google/fonts`, `ofl/atkinsonhyperlegible`), distributed under the included SIL Open Font License in `video-fonts/OFL.txt`.
-
-### Rebuilding the subtitles
-
-Install `subtitle-requirements.txt` in a virtual environment, then run:
+Install `subtitle-requirements.txt` in a virtual environment. Full update build:
 
 ```sh
+python docs/ccs-ltc/extend_video.py
 python docs/ccs-ltc/build_subtitles.py
+python -m unittest discover -s docs/ccs-ltc -p 'test_*.py'
 ```
 
-**Input must be the clean, pre-subtitle video**, together with its matching `video-build-report.json`. Both are available in commit `f7badf1`; alternatively, run `build_video.py` with the original selected-voice chapter clips to recreate them. Do not use the standalone MP3. The builder rejects repeat captioning of an already-captioned video, writes a temporary output, validates a full audio/video decode and the unchanged AAC stream hash, then replaces the MP4. It uses bundled eSpeak NG only to calculate timing; reference speech never goes into the finished video. Existing video chapter audio clips are not needed for caption alignment: audio is extracted directly from the MP4.
+`extend_video.py` needs the six selected-voice MP3s named by `video-prefix.json` under ignored `video-work/audio/`. It never silently substitutes another speech service. It reads the clean pre-caption video and timing report from Git commit `f7badf15704c978b447c1ae5708d13f9bea47313`. A shallow checkout may first need `git fetch origin f7badf15704c978b447c1ae5708d13f9bea47313`. It renders new slides, measures actual audio durations, concatenates without changing the original AAC packet sequence, and writes sixteen chapter markers. No existing captioned frame is used as the base.
 
-Use `--align-only` to create SRT/VTT/ASS and the alignment report without rendering, followed by `--render-only` to render approved timings. The build records all 177 cues and per-chapter acoustic alignment metrics in `subtitle-build-report.json`. Tests check transcript fidelity, ordered non-overlapping timings, chapter bounds, reading load, caption formats, unchanged AAC data and repeat-render protection. A full listening-based timing audit is not claimed.
+`build_subtitles.py` uses eSpeak NG reference speech only for acoustic alignment; reference speech is not in the delivered soundtrack. Chapter-local MFCC/dynamic-time-warping alignment uses 20 ms feature frames. That is processing granularity, **not a claim of 20 ms timing accuracy**. These are automatic phrase timings, not a certified word-level or complete manual listening audit.
 
-Noto Sans Devanagari: Google Fonts repository (`google/fonts`, `ofl/notosansdevanagari`), distributed unmodified under `video-fonts/NotoSansDevanagari-OFL.txt`. FFmpeg/libass uses HarfBuzz shaping for the mixed Hindi/English captions.
+`roman_subtitles.py` applies a reviewed word map only to caption display text. Unknown Hindi words fail rather than being silently guessed or left in Devanagari. Original spoken text remains alongside Roman caption text in the timing report. All English legal terms, dates, years, numbers and punctuation remain unchanged.
+
+`--align-only` creates subtitle files; `--render-only` renders already-approved timings. Input must be clean and the chapter report/script must match. The builder rejects double-captioning of an already-captioned video. Full audio/video decoding and an unchanged AAC hash during the caption pass are checked before replacing the output.
+
+All slides fit above a dedicated 144 px caption band, without covering references/examples. Roman captions use Atkinson Hyperlegible at ASS size 40, at most two lines. Base slide text is layout-checked; representative opening, carry-forward, GID and core frames were inspected. Twenty-two tests pass, covering transcript/transliteration fidelity, absence of Devanagari captions, source/sequence preservation, reading load, formats, chapter bounds, faststart, AAC hash and repeat-render protection. These checks do not certify exhaustive legal verification.
+
+Atkinson Hyperlegible is distributed under `video-fonts/OFL.txt` (Google Fonts: `ofl/atkinsonhyperlegible`). The unused Noto Sans Devanagari font/license is retained for reproducibility of the previous edition, but the current captions use the Latin font.

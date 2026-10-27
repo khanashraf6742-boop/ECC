@@ -35,9 +35,9 @@ class VideoContentTests(unittest.TestCase):
         self.assertLess(report['bytes'], 100 * 1024 * 1024)
         self.assertEqual((report['width'], report['height']), (1920, 1080))
         self.assertEqual(report['full_decode_check'], 'passed')
-        self.assertEqual(report['source_script_sha256'], hashlib.sha256((ROOT / 'narration.json').read_bytes()).hexdigest())
-        self.assertEqual(len(report['chapters']), 10)
-        self.assertEqual([card for chapter in report['chapters'] for card in chapter['card_ids']], [f'B1-{n:02}' for n in range(1, 31)])
+        self.assertEqual(report['source_script_sha256'], hashlib.sha256((ROOT / report.get('source_script_file', 'narration.json')).read_bytes()).hexdigest())
+        self.assertEqual(len(report['chapters']), 16)
+        self.assertEqual([card for chapter in report['chapters'] for card in chapter['card_ids'] if card.startswith('B1-')], [f'B1-{n:02}' for n in range(1, 31)])
         cursor = 0
         for chapter in report['chapters']:
             self.assertAlmostEqual(cursor, chapter['start_seconds'], places=2)
