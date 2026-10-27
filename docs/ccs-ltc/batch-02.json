@@ -1,0 +1,600 @@
+{
+  "title": "CCS LTC Batch 2: Rule 4, family and dependency",
+  "reviewed_on": "2026-10-27",
+  "master_chapters": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "sources": {
+    "G25": {
+      "title": "DoPT DOPT-1752820096240, 03.09.2025; CSIR forwarding 22.09.2025",
+      "url": "https://www.csir.res.in/sites/default/files/2025-09/guidelines_on_ltc.pdf",
+      "use": "Current consolidated Rule 4 and notes; relevant OMs prevail over compilation imprecision."
+    },
+    "F25": {
+      "title": "DoPT 31011/07/2025 PP.A-IV, 01.07.2025, FAQs 1-12 and 74-75",
+      "url": "https://documents.doptcirculars.nic.in/D2/D02est/FAQs%20on%20LTC5hctT.pdf",
+      "use": "Current family clarifications, fares and classification; dated block examples are not the current calendar block."
+    },
+    "H": {
+      "title": "Official historical CCS (LTC) Rules compilation and numbered GIDs",
+      "url": "https://cdnbbsr.s3waas.gov.in/s30f46c64b74a6c964c674853a89796c8e/uploads/2022/11/2022112351.pdf",
+      "use": "GID numbering and operative historical text, reconciled with G25/F25; old Rs.1500 and old parental-residence restriction are not current."
+    },
+    "D08": {
+      "title": "31011/4/2008-Estt.(A), 23.09.2008, reproduced text (secondary corroboration)",
+      "url": "https://www.referencer.in/LTC_Rules/31011_4_2008_Estt.(A).aspx",
+      "use": "Confirms the parent/step-parent and dependency changes originated in 2008, not 2025. Current substance independently confirmed in G25/F25. Standalone primary 2008 PDF was not retrieved; effective-date paragraph is not certified here."
+    }
+  },
+  "cards": [
+    {
+      "ref": "Rule 4(a); Rule 4 GID (3)",
+      "title": "India includes Indian islands",
+      "spoken_ref_roman": "Rule four, clause A, GID three.",
+      "rule": "Any place within Indian territory, mainland or overseas territory, is a place in India. Local restrictions on visits remain the traveller's responsibility; foreign territory is not covered by this definition.",
+      "explanation_roman": "India ki territory mein mainland aur Indian islands dono aate hain; restricted area ki permission khud leni hai.",
+      "example_roman": "Andaman India hai; foreign island sirf paas hone se India nahi banta.",
+      "trap": "Indian territory, not every overseas destination. Local permits still matter.",
+      "source": "G25;H",
+      "id": "B2-01"
+    },
+    {
+      "ref": "Rule 4(b)",
+      "title": "Who is the Controlling Officer?",
+      "spoken_ref_roman": "Rule four, clause B.",
+      "rule": "Controlling Officer means an officer declared as such under Supplementary Rule 191. A line manager is not automatically the designated officer.",
+      "explanation_roman": "Controlling Officer wahi hai jo Supplementary Rule one ninety one ke under declared hai.",
+      "example_roman": "Team leader hona enough nahi; designated officer ka record dekho.",
+      "trap": "Designation under SR 191 matters.",
+      "source": "G25",
+      "id": "B2-02"
+    },
+    {
+      "ref": "Rule 4(c)",
+      "title": "Disciplinary Authority",
+      "spoken_ref_roman": "Rule four, clause C.",
+      "rule": "The meaning is imported from CCS (CCA) Rules, 1965, Rule 2(g). Rule 4(c) does not create a new disciplinary authority.",
+      "explanation_roman": "Disciplinary Authority ka meaning CCS CCA Rules nineteen sixty five, Rule two, clause G se aata hai.",
+      "example_roman": "LTC fraud case mein sirf bill pass karne wala officer automatically disciplinary authority nahi.",
+      "trap": "Definition is cross-referenced; detailed fraud procedure belongs to Rule 16.",
+      "source": "G25",
+      "id": "B2-03"
+    },
+    {
+      "ref": "Rule 4(e)",
+      "title": "Declared AND accepted hometown",
+      "spoken_ref_roman": "Rule four, clause E.",
+      "rule": "Hometown is the town, village or other place declared by the employee and accepted by the Controlling Officer. Rule 5 change/acceptance criteria are reserved for Batch 3.",
+      "explanation_roman": "Town, village ya place ko employee declare kare aur Controlling Officer accept kare, tab hometown hai.",
+      "example_roman": "Ravi ne Jaipur likha, par acceptance pending hai; declaration akela enough nahi.",
+      "trap": "Rule 5 change-of-hometown procedure follows in Batch 3.",
+      "source": "G25",
+      "id": "B2-04"
+    },
+    {
+      "ref": "Rule 4(f)",
+      "title": "Shortest direct route",
+      "spoken_ref_roman": "Rule four, clause F.",
+      "rule": "Shortest direct route has the meaning in Supplementary Rule 30 and orders issued under it from time to time; personal preference does not redefine the reimbursable route.",
+      "explanation_roman": "Shortest direct route ka meaning Supplementary Rule thirty aur uske orders se aata hai.",
+      "example_roman": "Goa ghoomne ka detour khud choose kiya, toh poora detour automatically reimbursable nahi.",
+      "trap": "Definition is not a complete Rule 13 fare calculation.",
+      "source": "G25",
+      "id": "B2-05"
+    },
+    {
+      "ref": "Rule 4(d)(i); Rule 4 Note 2; FAQ 3;",
+      "title": "Spouse: no income or co-residence test",
+      "spoken_ref_roman": "Rule four, clause D, Roman one, Note two; FAQ three.",
+      "rule": "Husband or wife is family without a dependency-income test and need not reside with the employee. This does not give two employee spouses duplicate independent claims.",
+      "explanation_roman": "Spouse par income test nahi; saath rehna bhi zaroori nahi.",
+      "example_roman": "Wife private job mein achha earn karti hai aur Pune rehti hai; spouse eligibility phir bhi hai.",
+      "trap": "Income exemption applies to spouse, not all relatives.",
+      "source": "G25;F25",
+      "id": "B2-06"
+    },
+    {
+      "ref": "Rule 4(d)(i); FAQ 1;",
+      "title": "Two eldest surviving unmarried children",
+      "spoken_ref_roman": "Rule four, clause D, Roman one; FAQ one.",
+      "rule": "The normal category is the two eldest surviving unmarried children, including stepchildren and legally adopted children, wholly dependent, whether co-resident or not. Explanation 1 supplies three exceptions to the numerical restriction.",
+      "explanation_roman": "Normally two eldest surviving unmarried dependent children; step aur legally adopted children included, residence test nahi.",
+      "example_roman": "Three unmarried bachche hain; exception nahi toh youngest ko choose karke eldest ko replace mat karo.",
+      "trap": "Not two children per wife, per trip or per employee spouse.",
+      "source": "G25;F25",
+      "id": "B2-07"
+    },
+    {
+      "ref": "Rule 4(d)(i); FAQ 4;",
+      "title": "Age 25 is not a cut-off",
+      "spoken_ref_roman": "Rule four, clause D, Roman one; FAQ four.",
+      "rule": "An unmarried wholly dependent son or daughter above 25 is not disqualified by age alone; other family and numerical conditions remain.",
+      "explanation_roman": "Unmarried dependent child ke liye twenty five years ka upper age cut off nahi.",
+      "example_roman": "Twenty eight year old unmarried dependent daughter eldest two mein hai; age se reject nahi hogi.",
+      "trap": "Adult child is different from the expressly minor-brother category.",
+      "source": "F25",
+      "id": "B2-08"
+    },
+    {
+      "ref": "Rule 4(d), Explanation 1(i)",
+      "title": "Pre-existing more-than-two children",
+      "spoken_ref_roman": "Rule four D, Explanation one, Roman one.",
+      "rule": "The two-surviving-children restriction does not apply to employees who already had more than two children before 20.10.1997; other eligibility tests continue.",
+      "explanation_roman": "Twenty October nineteen ninety seven se pehle already more than two children the, toh numerical exception hai.",
+      "example_roman": "Nineteen ninety six mein three children the; sirf two child cap se third reject nahi hoga.",
+      "trap": "20.10.1997 is the cut-off, not 20.10.1998.",
+      "source": "G25;H",
+      "id": "B2-09"
+    },
+    {
+      "ref": "Rule 4(d), Explanation 1(ii)",
+      "title": "One-year birth window",
+      "spoken_ref_roman": "Rule four D, Explanation one, Roman two.",
+      "rule": "Children born within one year of the restriction coming into force are protected from its numerical restriction. This is historical grandfathering, not a rolling one-year concession today.",
+      "explanation_roman": "Restriction start hone ke one year ke andar born children ko numerical protection hai; fresh yearly window nahi.",
+      "example_roman": "Third child March nineteen ninety eight mein born hua; historical window check hoga.",
+      "trap": "Use the actual birth date and historical window; do not invent a current grace year.",
+      "source": "G25;H",
+      "id": "B2-10"
+    },
+    {
+      "ref": "Rule 4(d), Explanation 1(iii)",
+      "title": "Second childbirth resulting in multiple births",
+      "spoken_ref_roman": "Rule four D, Explanation one, Roman three.",
+      "rule": "The exception applies where the number exceeds two because the second childbirth results in multiple births. It is not an unrestricted exception for twins at any childbirth.",
+      "explanation_roman": "Second childbirth mein twins ya triplets se total two se badha, toh exception hai.",
+      "example_roman": "First childbirth one baby, second childbirth twins: three children ka numerical exception; third childbirth twins automatically nahi.",
+      "trap": "Second childbirth is an essential qualifier.",
+      "source": "G25;H",
+      "id": "B2-11"
+    },
+    {
+      "ref": "Rule 4(d), Explanation 2",
+      "title": "One wife: narrow express exception",
+      "spoken_ref_roman": "Rule four D, Explanation two.",
+      "rule": "Normally not more than one wife. The express exception requires two legally wedded wives and specific Government permission for the second marriage. General FAQ shorthand does not erase this express exception.",
+      "explanation_roman": "Normally one wife; two legally wedded wives aur second marriage ki specific Government permission ho, tab exception.",
+      "example_roman": "Sirf second marriage certificate enough nahi; specific Government permission bhi chahiye.",
+      "trap": "No claim of automatic permission or automatic lawful second marriage.",
+      "source": "G25;H",
+      "id": "B2-12"
+    },
+    {
+      "ref": "Rule 4(d)(ii); FAQ 1;",
+      "title": "Daughters: all status and residence tests",
+      "spoken_ref_roman": "Rule four, clause D, Roman two; FAQ one.",
+      "rule": "Divorced, abandoned, separated-from-husband or widowed daughters must both reside with and be wholly dependent on the employee. An ordinarily married daughter is not included by this limb. No separate numerical/age ceiling is stated in this limb.",
+      "explanation_roman": "Divorced, abandoned, separated ya widowed daughter ko dependent aur saath rehna dono chahiye.",
+      "example_roman": "Dependent divorced daughter alag flat mein rehti hai, toh residence test fail; maa ke liye rule alag hai.",
+      "trap": "Do not transfer the parents' no-residence test to daughters.",
+      "source": "G25;F25",
+      "id": "B2-13"
+    },
+    {
+      "ref": "Rule 4(d), Explanation 3 (2025) / Explanation 4 (historical); FAQ 1;",
+      "title": "Children of daughters or sisters excluded",
+      "spoken_ref_roman": "Rule four D, current Explanation three; FAQ one.",
+      "rule": "The historical Explanation 4 is current consolidated Explanation 3: children of divorced/abandoned/separated/widowed sisters are excluded. FAQ 1 also expressly excludes children of daughters in those categories. An independently qualifying legal adoption must be assessed as adoption, not as a grandchild entitlement.",
+      "explanation_roman": "Eligible sister ya daughter ke bachche automatically family nahi; current Explanation three, old four tha.",
+      "example_roman": "Widowed daughter eligible hai, par uska son sirf grandson hone se covered nahi.",
+      "trap": "Relative's eligibility does not flow down to her children.",
+      "source": "G25;F25;H",
+      "id": "B2-14"
+    },
+    {
+      "ref": "Rule 4(d)(iii); FAQ 3;",
+      "title": "Parents and both kinds of step-parent",
+      "spoken_ref_roman": "Rule four, clause D, Roman three; FAQ three.",
+      "rule": "Parents and/or step-parents, expressly stepmother and stepfather, must be wholly dependent; co-residence is not required. This is not a new 2025-only liberalisation: the 2008 family instruction already states the change.",
+      "explanation_roman": "Dependent parents, stepmother aur stepfather included; saath rehna zaroori nahi. Yeh sirf twenty twenty five ka naya change nahi.",
+      "example_roman": "Dependent mother Kanpur mein rehti hai, employee Delhi mein; eligibility residence se fail nahi.",
+      "trap": "2008 instruction predates the 2025 restatement; old parental residence wording is not current.",
+      "source": "G25;F25;D08",
+      "id": "B2-15"
+    },
+    {
+      "ref": "Rule 4 Note 1; FAQ 2; OM 31011/4/2008-Estt.(A), 23.09.2008",
+      "title": "Dependency: income from all sources",
+      "spoken_ref_roman": "Rule four, Note one; FAQ two; order twenty three September two thousand eight.",
+      "rule": "Income from all sources, including pension and temporary increase in pension, must not exceed the prescribed minimum family pension plus DR thereon. FAQ 2 quotes Rs.9000 per month as the Seventh CPC minimum; apply the legally applicable minimum and DR for the relevant date. Spouse is exempt.",
+      "explanation_roman": "Income all sources jodo, pension aur temporary increase bhi. Limit minimum family pension plus DR; FAQ base nine thousand hai.",
+      "example_roman": "Parent ki pension, rent aur interest jodkar applicable limit se compare karo.",
+      "trap": "Do not teach old Rs.1500/Rs.3500 or carry old exclusions over without current authority.",
+      "source": "G25;F25",
+      "id": "B2-16"
+    },
+    {
+      "ref": "Rule 4 Note 1; FAQ 2; equality at the ceiling",
+      "title": "Calculation: equality still qualifies",
+      "spoken_ref_roman": "Rule four, Note one; FAQ two, income ceiling.",
+      "rule": "Does not exceed includes equality. Worked arithmetic uses assumed 50% DR, not the actual current DR. Rs.9000 + Rs.4500 = Rs.13500 per month; income Rs.13500 meets the income limb; Rs.13501 exceeds it.",
+      "explanation_roman": "Assumed DR fifty percent, current rate nahi: nine thousand plus forty five hundred equals thirteen thousand five hundred.",
+      "example_roman": "Income thirteen thousand five hundred par pass; one rupee extra par income test fail.",
+      "trap": "50% is deliberately hypothetical. Other relationship conditions still apply.",
+      "source": "F25",
+      "id": "B2-17"
+    },
+    {
+      "ref": "Rule 4(d)(iv); FAQ 1; minor brothers",
+      "title": "Brothers must be unmarried AND minor",
+      "spoken_ref_roman": "Rule four, clause D, Roman four; FAQ one, brothers.",
+      "rule": "An unmarried minor brother must reside with and be wholly dependent on the employee; his parents must be dead or themselves wholly dependent on the employee. An adult unmarried brother is not included by this limb.",
+      "explanation_roman": "Brother unmarried minor ho, saath rahe, dependent ho; parents dead ya khud employee par dependent hon.",
+      "example_roman": "Twenty two year old unmarried dependent brother ko minor brother category se LTC nahi.",
+      "trap": "Every listed condition is cumulative, not optional.",
+      "source": "G25;F25",
+      "id": "B2-18"
+    },
+    {
+      "ref": "Rule 4(d)(iv); FAQ 1; sisters",
+      "title": "Sisters: no minor-only condition",
+      "spoken_ref_roman": "Rule four, clause D, Roman four; FAQ one, sisters.",
+      "rule": "Unmarried, divorced, abandoned, separated-from-husband or widowed sisters must reside with and be wholly dependent on the employee, and their parents must be dead or themselves wholly dependent on the employee. The word minor qualifies brothers, not sisters.",
+      "explanation_roman": "Sister unmarried, divorced, abandoned, separated ya widowed ho; saath aur dependent ho; parents dead ya dependent. Minor test nahi.",
+      "example_roman": "Thirty year old unmarried sister saari conditions meet kare toh age se reject nahi.",
+      "trap": "Parents-status condition applies to sisters too.",
+      "source": "G25;F25",
+      "id": "B2-19"
+    },
+    {
+      "ref": "Rule 4(d); FAQ 5; FAQ 1; excluded relations",
+      "title": "In-laws, grandparents and unlisted relatives",
+      "spoken_ref_roman": "Rule four D; FAQ five and FAQ one, exclusions.",
+      "rule": "Parents-in-law, grandparents and relatives not included in Rule 4(d) do not qualify merely because they are dependent or co-resident. Each government employee spouse may instead claim for their own qualifying parents under the independent-option rules.",
+      "explanation_roman": "Parents in law, grandparents aur unlisted relations sirf dependent hone se family nahi bante.",
+      "example_roman": "Mother in law saath rehti aur dependent hai; employee ki own mother wali category use nahi hogi.",
+      "trap": "Spouse's own independent employee entitlement is a different question.",
+      "source": "F25",
+      "id": "B2-20"
+    },
+    {
+      "ref": "Rule 4 GID (1); Rule 4 Note 3; OM 48/2/65-Ests.(A), 02.04.1965",
+      "title": "New husband after hometown marriage",
+      "spoken_ref_roman": "Rule four, GID one, Note three; order two April nineteen sixty five.",
+      "rule": "If a female government servant travels to her hometown on LTC and marries there, LTC may also be allowed for her husband's journey from that hometown to her headquarters.",
+      "explanation_roman": "Female employee hometown LTC par gayi, wahin shaadi hui; new husband ka hometown se HQ leg allow ho sakta hai.",
+      "example_roman": "Neha Jaipur mein shaadi karti hai; husband Jaipur se uske Delhi HQ aata hai.",
+      "trap": "Specific marriage-linked journey, not a new benefit for every relative.",
+      "source": "G25;H",
+      "id": "B2-21"
+    },
+    {
+      "ref": "Rule 4 GID (2)(i); OM 31011/1/77-Ests.(A), 01.10.1977",
+      "title": "Who may sanction the LTC advance?",
+      "spoken_ref_roman": "Rule four, GID two, clause Roman one.",
+      "rule": "The Head of Office may sanction the LTC advance instead of the Controlling Officer. This is an authority provision, not a waiver of current advance limits, application checks or settlement requirements.",
+      "explanation_roman": "LTC advance Head of Office sanction kar sakta hai; sirf Controlling Officer tak authority limited nahi.",
+      "example_roman": "Employee advance file Head of Office ke paas bhejta hai; amount aur settlement checks phir bhi lagenge.",
+      "trap": "Detailed Rule 15 advance limits and deadlines remain for the advance batch.",
+      "source": "H",
+      "id": "B2-22"
+    },
+    {
+      "ref": "Rule 4 GID (2)(ii); OM 31011/1/77-Ests.(A), 01.10.1977",
+      "title": "Shortest route disrupted",
+      "spoken_ref_roman": "Rule four, GID two, clause Roman two.",
+      "rule": "If the required shortest route is disrupted by accident or other cause, Controlling Authority may exercise the power to permit reimbursement by the actual route travelled, replacing the old central DPAR/Finance referral. It is not automatic reimbursement for a chosen detour.",
+      "explanation_roman": "Shortest route accident ya doosre cause se disrupted ho, Controlling Authority actual route reimbursement approve kar sakti hai.",
+      "example_roman": "Flood se route band hai; alternate route ka proof aur approval lo, personal detour mat jodo.",
+      "trap": "Actual disruption plus competent approval, not unrestricted route choice.",
+      "source": "H",
+      "id": "B2-23"
+    },
+    {
+      "ref": "Rule 4 GID (2)(vi); Rule 4 Note 4; OM 31011/1/77-Ests.(A), 01.10.1977",
+      "title": "LPR: complete the return before leave expires",
+      "spoken_ref_roman": "Rule four, GID two, clause Roman six; Note four.",
+      "rule": "Both directions of admissible hometown LTC in a two-year block or any-place-in-India LTC once in four years may be allowed during leave preparatory to retirement, provided the return journey is completed before that leave expires. These are normal occasions, not additional retirement occasions.",
+      "explanation_roman": "Leave preparatory to retirement mein eligible LTC dono ways hai; return leave expire hone se pehle complete karo.",
+      "example_roman": "LPR thirty September end hoti hai; twenty nine ko return okay, two October return condition fail.",
+      "trap": "Not merely an outward-journey-start test; no extra HT plus AI occasions.",
+      "source": "G25;H",
+      "id": "B2-24"
+    },
+    {
+      "ref": "Rule 4 GID (4); historical Explanation 3; Rule 4 Note 5(i); OM 31011/14/86-Est.(A), 08.05.1987; FAQ 8;",
+      "title": "Family staying away: ordinary ceiling",
+      "spoken_ref_roman": "Rule four, GID four, Note five Roman one; FAQ eight.",
+      "rule": "Spouse and dependent children living away may start from their residence to hometown in the applicable two-year block or an any-place destination in the four-year entitlement. Ordinary reimbursement is limited to actual eligible travel or the HQ-to-destination eligible fare, whichever is less. Read the 2017 HQ-visit exception separately.",
+      "explanation_roman": "Away spouse aur dependent children residence se travel kar sakte hain; ordinary case mein actual ya HQ destination ceiling, jo kam.",
+      "example_roman": "Actual eligible fare four thousand, HQ ceiling six thousand: reimbursement four thousand, extra two thousand nahi.",
+      "trap": "2017 HQ-and-back instruction is a distinct route-specific modification.",
+      "source": "G25;F25;H",
+      "id": "B2-25"
+    },
+    {
+      "ref": "Rule 4 Note 5(ii); OM 31011/5/2015-Estt.(A-IV), 31.10.2017; FAQ 75;",
+      "title": "Family to HQ and back: distinct 2017 instruction",
+      "spoken_ref_roman": "Rule four, Note five Roman two; FAQ seventy five; order thirty one October twenty seventeen.",
+      "rule": "Family members travelling on LTC from any place in India to the employee's headquarters/place of posting and back are allowed full reimbursement as per employee entitlement. FAQ 75 classifies the away-family any-place option, including HQ, as All India LTC. An available valid LTC occasion and ordinary eligibility/booking rules are still needed.",
+      "explanation_roman": "Family residence se HQ aur back aaye toh full entitled reimbursement; HQ to HQ zero ceiling mat lagao. Valid All India occasion chahiye.",
+      "example_roman": "Pune family Mumbai HQ aati aur Pune lautti hai; valid All India LTC par entitled fare check hoga.",
+      "trap": "Not unlimited actual fare, free private commuting or an additional LTC occasion.",
+      "source": "G25;F25",
+      "id": "B2-26"
+    },
+    {
+      "ref": "FAQ 74; family residing at headquarters",
+      "title": "At HQ: HT and All India counting",
+      "spoken_ref_roman": "FAQ seventy four, family at headquarters.",
+      "rule": "A hometown-occasion visit to hometown counts as HT LTC. On an All India occasion the chosen destination may be any place, including hometown, and counts as All India LTC. Destination alone does not override the valid option recorded.",
+      "explanation_roman": "Family HQ par ho: hometown option par hometown trip HT; All India option mein hometown bhi choose kar sakte ho.",
+      "example_roman": "Delhi se Patna, accepted hometown hai; valid All India option declared ho toh counting All India hogi.",
+      "trap": "Do not automatically label every visit to hometown as HT LTC.",
+      "source": "F25",
+      "id": "B2-27"
+    },
+    {
+      "ref": "FAQ 75; family residing away from headquarters",
+      "title": "Away family: count first, calculate second",
+      "spoken_ref_roman": "FAQ seventy five, family away from headquarters.",
+      "rule": "Away-family HT travel has the lesser actual/HQ-to-hometown ceiling. The All India option covers any place, including HQ or hometown. Ordinary non-HQ any-place claims still have normal entitled-fare limits; the FAQ is not an unrestricted removal of all HQ-based ceilings.",
+      "explanation_roman": "Away family ki HT claim par lesser ceiling; All India destination HQ ya hometown bhi ho sakta hai, normal fare limits ke saath.",
+      "example_roman": "Kanpur family Patna HT jaaye: eligible actual three thousand versus HQ ceiling five thousand, claim three thousand.",
+      "trap": "2017 HQ-specific relief does not make all other away-family trips unlimited.",
+      "source": "F25;G25;H",
+      "id": "B2-28"
+    },
+    {
+      "ref": "FAQ 6; Rule 9",
+      "title": "Separate times, groups and places",
+      "spoken_ref_roman": "FAQ six; Rule nine.",
+      "rule": "Employee and family may travel separately or in different groups, at different times and to different destinations within the relevant two/four-year block, subject to available entitlement. This does not create a new block or extra occasion for each departure.",
+      "explanation_roman": "Different groups, times aur destinations allowed; relevant block aur available occasion phir bhi check karo.",
+      "example_roman": "Employee May mein Goa, eligible spouse June mein Kochi jaaye; separate travel se extra block nahi banta.",
+      "trap": "Separate claims/travel do not equal unlimited occasions.",
+      "source": "F25;G25",
+      "id": "B2-29"
+    },
+    {
+      "ref": "FAQ 7; Rule 9",
+      "title": "Mixing HT and All India within the sub-block",
+      "spoken_ref_roman": "FAQ seven; Rule nine.",
+      "rule": "Some family members may use hometown LTC while others use any-place-in-India LTC in the same two-year block. Track each person's valid occasion and the overall scheme, rather than forcing identical family destinations.",
+      "explanation_roman": "Same two year sub block mein kuch members HT aur kuch All India use kar sakte hain.",
+      "example_roman": "Eligible spouse HT Jaipur, employee All India Goa choose kare; individual occasion record clear rakho.",
+      "trap": "Availability must be checked; not a second All India trip for one person.",
+      "source": "F25",
+      "id": "B2-30"
+    },
+    {
+      "ref": "FAQ 9; private-sector spouse",
+      "title": "Private employer LTA is not a blanket bar",
+      "spoken_ref_roman": "FAQ nine, private sector spouse.",
+      "rule": "A private-sector spouse may avail LTA/travel reimbursement from their own employer; there is no blanket LTC prohibition on that basis. This answer does not create permission to submit false declarations or treat the same expense as two genuine out-of-pocket expenses.",
+      "explanation_roman": "Private job wala spouse apne employer ka LTA le sakta hai; blanket ban nahi.",
+      "example_roman": "Wife employer se LTA leti hai; husband ki Government LTC sirf isi wajah se automatically barred nahi.",
+      "trap": "Follow truthful declarations and employer/accounting conditions; no invented universal NOC bar.",
+      "source": "F25",
+      "id": "B2-31"
+    },
+    {
+      "ref": "Rule 7 GID (18); OM 31011/8/89-Est.(A), 08.05.1990",
+      "title": "Both government spouses: independent choice",
+      "spoken_ref_roman": "Rule seven, GID eighteen; order eight May nineteen ninety.",
+      "rule": "Even when residing together, two government employee spouses may opt for separate hometowns and claim under normal rules for their respective qualifying families. The mandatory common-hometown/only-one-claim description is the superseded pre-decision position, not a change first made in 2025. Effective for journeys against blocks 1990-91 onwards.",
+      "explanation_roman": "Dono Government spouses saath rehkar bhi separate hometowns aur respective family claims choose kar sakte hain; option nineteen ninety se hai.",
+      "example_roman": "Husband apne parents, wife apne parents ka eligible claim kare; forced common hometown rule mat lagao.",
+      "trap": "Full spouse/encashment administration is expanded in the later spouse batch.",
+      "source": "H;G25",
+      "id": "B2-32"
+    },
+    {
+      "ref": "Rule 7 GID (18); spouse self-claim and children conditions",
+      "title": "No double self claim; children under one parent",
+      "spoken_ref_roman": "Rule seven, GID eighteen, self and children conditions.",
+      "rule": "A spouse availing LTC as the other's family member is not entitled to an independent self-claim for that occasion. Children may receive the benefit in one particular block as members of one parent's family only. Other normal conditions continue.",
+      "explanation_roman": "Spouse doosre ki family member bankar LTC le toh independent self claim nahi; children particular block mein one parent se only.",
+      "example_roman": "Child ka same block benefit husband aur wife dono offices se claim mat karo.",
+      "trap": "One-unit income exemption does not cancel the independent-choice option or anti-duplication controls.",
+      "source": "H;G25",
+      "id": "B2-33"
+    },
+    {
+      "ref": "FAQ 12; Rule 7 GID (15)",
+      "title": "Suspended employee versus eligible family",
+      "spoken_ref_roman": "FAQ twelve; Rule seven, GID fifteen.",
+      "rule": "The suspended employee cannot avail LTC personally, but eligible family members remain entitled because the employee continues in service. Suspension does not dispense with family eligibility, available blocks or claim requirements.",
+      "explanation_roman": "Suspended employee khud LTC nahi le sakta; eligible family le sakti hai.",
+      "example_roman": "Suspended Ravi ki eligible wife LTC jaaye; Ravi ka personal ticket family claim mein mat jodo.",
+      "trap": "Family eligibility is not personal permission for the suspended employee.",
+      "source": "F25;H",
+      "id": "B2-34"
+    },
+    {
+      "ref": "Rule 7 GID (5), opening principle; OM 43/10/58-Ests.(A), 11.12.1958",
+      "title": "Assess outward and return legs separately",
+      "spoken_ref_roman": "Rule seven, GID five, opening principle; order eleven December nineteen fifty eight.",
+      "rule": "Admissibility of family travel is assessed independently against facts at the forward and return journeys. The following six illustrations are specific single-leg cases; they do not dispense with current fare rules.",
+      "explanation_roman": "Outward aur return journey ki facts separately check karo; family status beech mein badal sakta hai.",
+      "example_roman": "Dependent child jaate waqt eligible tha, return se pehle job mil gayi; dono legs ka answer same mat assume karo.",
+      "trap": "Six illustrations follow; child-age fares must be read with 2016/2018 clarifications.",
+      "source": "H;G25",
+      "id": "B2-35"
+    },
+    {
+      "ref": "Rule 7 GID (5), I(i)",
+      "title": "Outward only: employment, marriage or staying for studies",
+      "spoken_ref_roman": "Rule seven, GID five, part one, Roman one.",
+      "rule": "Outward-only illustration: a dependent son/daughter gets employment or marries after reaching hometown, or remains there for studies. Employment must be assessed with actual dependency facts; the illustration is not a rule that every token receipt destroys dependency.",
+      "explanation_roman": "Dependent son ya daughter hometown ke baad job ya marriage kare, ya studies ke liye wahi rahe: outward only case check karo.",
+      "example_roman": "Daughter eligible hokar gayi, hometown mein shaadi karke wahi rahi; uska return fare claim nahi.",
+      "trap": "Assessment uses actual leg facts, not a fictional return journey.",
+      "source": "H",
+      "id": "B2-36"
+    },
+    {
+      "ref": "Rule 7 GID (5), I(ii)",
+      "title": "Outward only: written surrender of later return",
+      "spoken_ref_roman": "Rule seven, GID five, part one, Roman two.",
+      "rule": "Where family travels to hometown with no intention to complete return travel, outward-only reimbursement is allowed provided the employee foregoes in writing the concession for any return journey later performed by those members.",
+      "explanation_roman": "Family return intend nahi karti, employee later return concession written mein forego kare toh outward only claim.",
+      "example_roman": "Parents hometown settle ho gaye; employee written return surrender deta hai, baad mein wahi return claim nahi.",
+      "trap": "Written relinquishment is an express condition.",
+      "source": "H",
+      "id": "B2-37"
+    },
+    {
+      "ref": "Rule 7 GID (5), II(i); Rule 4 Note 3",
+      "title": "Return only: new wife or wife long at hometown",
+      "spoken_ref_roman": "Rule seven, GID five, part two, Roman one.",
+      "rule": "Return-only illustration: a newly married wife comes from hometown to HQ, or a wife living long at hometown who did not avail LTC for the outward journey comes to HQ. The separate 1965 instruction covers the new husband of a female employee marrying on hometown LTC.",
+      "explanation_roman": "New wife hometown se HQ aaye, ya wife long time hometown par thi aur outward LTC nahi li: return only case.",
+      "example_roman": "Wife hometown par pehle se rehti thi; usne outward LTC nahi li, ab HQ aati hai.",
+      "trap": "Do not invent an outward claim for travel not undertaken or not availed.",
+      "source": "H;G25",
+      "id": "B2-38"
+    },
+    {
+      "ref": "Rule 7 GID (5), II(ii)",
+      "title": "Return only: child studying or living with grandparents",
+      "spoken_ref_roman": "Rule seven, GID five, part two, Roman two.",
+      "rule": "A dependent son/daughter returns with parents or comes alone from hometown where studying or living with grandparents. The child must satisfy the current family conditions; the grandparents do not thereby become eligible family.",
+      "explanation_roman": "Dependent child hometown mein studies ya grandparents ke saath tha; parents ke saath ya alone return case allowed.",
+      "example_roman": "Eligible son grandparents ke ghar padh raha tha, ab HQ aata hai; grandparents ka ticket include nahi.",
+      "trap": "Living with grandparents does not make grandparents eligible.",
+      "source": "H;F25",
+      "id": "B2-39"
+    },
+    {
+      "ref": "Rule 7 GID (5), II(iii)",
+      "title": "Birthday between journeys: 5 or 12",
+      "spoken_ref_roman": "Rule seven, GID five, part two, Roman three.",
+      "rule": "The historical illustration permits the return-leg fare where the child was previously below 5/12 and completes 5/12 by return. Apply current carrier fare and 2016/2018 LTC reimbursement rules to each leg, not an invented automatic full adult fare.",
+      "explanation_roman": "Child return tak five ya twelve complete kare toh us leg ki age aur current fare rule check hoga.",
+      "example_roman": "Outward par four years, return se pehle five complete; eligible return rail fare assess karo.",
+      "trap": "This historic age illustration does not override FAQ 10/11.",
+      "source": "H;F25",
+      "id": "B2-40"
+    },
+    {
+      "ref": "Rule 7 GID (5), II(iv)",
+      "title": "Legal adoption while at hometown",
+      "spoken_ref_roman": "Rule seven, GID five, part two, Roman four.",
+      "rule": "A child legally adopted while the employee is staying at hometown is a return-only illustration; legal adoption, dependency and the applicable child-number restriction/exceptions must be established.",
+      "explanation_roman": "Hometown stay mein child legally adopt kiya toh return leg consider hoga; normal child conditions bhi lagenge.",
+      "example_roman": "Legal adoption Jaipur mein hui; eligible child employee ke Delhi HQ aata hai, imaginary outward fare nahi.",
+      "trap": "Legal adoption, not informal care alone.",
+      "source": "H;F25",
+      "id": "B2-41"
+    },
+    {
+      "ref": "FAQ 10; OM 31011/3/2016-Estt.(A-IV), 16.05.2018",
+      "title": "Under 5: separate train seat is not reimbursed",
+      "spoken_ref_roman": "FAQ ten; order sixteen May twenty eighteen.",
+      "rule": "A child under 5 who travels by train with an optional separately purchased seat/berth is not entitled to LTC reimbursement of that seat/berth fare, even if money was actually paid.",
+      "explanation_roman": "Under five child ki separate train seat ya berth ka paid fare LTC mein reimburse nahi.",
+      "example_roman": "Four year old ke liye extra berth kharidi; payment proof alone reimbursement nahi banata.",
+      "trap": "Actual purchase is not the same as admissibility.",
+      "source": "F25",
+      "id": "B2-42"
+    },
+    {
+      "ref": "FAQ 11; OM 31011/3/2016-Estt.(A-IV), 16.05.2018; air restriction",
+      "title": "Under 5: non-air-entitled employee",
+      "spoken_ref_roman": "FAQ eleven; order sixteen May twenty eighteen, air restriction.",
+      "rule": "No airfare reimbursement for an under-5 child travelling by air with a non-air-entitled employee under the ordinary capped-fare route. The exception applies only to segments where air travel is permitted to such employees/families under the Special Dispensation Scheme.",
+      "explanation_roman": "Non air entitled employee ke under five child ka airfare ordinary route par nahi; allowed Special Dispensation air segments exception hain.",
+      "example_roman": "Airline full fare leti hai, phir bhi ordinary case mein no; scheme segment ki valid permission alag check karo.",
+      "trap": "No blanket exemption just because the destination is in a special region; current scheme validity is separate.",
+      "source": "F25",
+      "id": "B2-43"
+    },
+    {
+      "ref": "FAQ 11; OM 31011/3/2016-Estt.(A.IV), 29.04.2016; rail fare",
+      "title": "Ages 5 to under 12: actual rail fare",
+      "spoken_ref_roman": "FAQ eleven; order twenty nine April twenty sixteen, rail fare.",
+      "rule": "The actual rail fare paid for children aged 5 and under 12 is reimbursable for LTC within the employee's otherwise admissible entitlement. Do not mechanically cap it at an assumed half fare.",
+      "explanation_roman": "Five se under twelve child ka actual paid rail fare eligible entitlement ke andar reimburse hota hai.",
+      "example_roman": "Eight year old ki permitted rail berth ka actual fare paid hai; automatically half fare cut mat karo.",
+      "trap": "Entitled class/route and documentary checks still apply.",
+      "source": "F25",
+      "id": "B2-44"
+    },
+    {
+      "ref": "Rule 7 GID (17)(a), (b)(i)-(ii); OM 31011/1/88-Ests.(A), 30.03.1988",
+      "title": "Study leave: eligibility versus fare anchor",
+      "spoken_ref_roman": "Rule seven, GID seventeen, clauses A, B Roman one and B Roman two.",
+      "rule": "Self may travel from the study-leave place to hometown/any place, capped at actual expenditure or normal HQ-to-destination entitlement, whichever less. Family staying with the employee at the study station uses that cap; family not staying there uses normal LTC terms. Family membership does not change due to study leave.",
+      "explanation_roman": "Study leave par self aur saath wali family ka fare actual ya normal HQ ceiling, jo kam; baaki family normal terms par.",
+      "example_roman": "Chennai HQ, Pune study, Goa destination: actual eight thousand, HQ ceiling six thousand; self aur saath family par six thousand ceiling.",
+      "trap": "Full leave/training administration follows in Batch 4; no fare for a relative making no journey.",
+      "source": "H;G25",
+      "id": "B2-45"
+    },
+    {
+      "ref": "Rule 7 GID (20)(iii); OM 43/10/65-Estt.(A), 07.08.1965; family comparison",
+      "title": "Training abroad: Indian-HQ liability ceiling",
+      "spoken_ref_roman": "Rule seven, GID twenty, clause Roman three, overseas training comparison.",
+      "rule": "For the employee on overseas training, LTC liability is limited to the fare liability from the Indian HQ from which training began, or HQ declared under SR 59, to hometown and back. For family, the HQ from which the employee proceeded on training is the onward starting point. The overseas point does not create an automatic Government-funded international LTC leg. Detailed training conditions follow in Batch 4.",
+      "explanation_roman": "Overseas training se foreign flight LTC mein automatically funded nahi; Indian HQ ya SR fifty nine HQ ceiling relevant hai.",
+      "example_roman": "Mumbai HQ, London training, husband Mumbai mein: London flight ko spouse ke Mumbai LTC claim mein mat jodo.",
+      "trap": "This is a family/anchor comparison, not full coverage of every GID (20) overseas subclause.",
+      "source": "H;G25",
+      "id": "B2-46"
+    }
+  ],
+  "dates": [
+    [
+      "11.12.1958",
+      "OM 43/10/58: independent outward/return facts and six illustrations; new wife to HQ."
+    ],
+    [
+      "02.04.1965",
+      "OM 48/2/65: husband after female employee's hometown-LTC marriage."
+    ],
+    [
+      "01.10.1977",
+      "OM 31011/1/77: advance authority, disrupted route and LPR return condition."
+    ],
+    [
+      "08.05.1987",
+      "OM 31011/14/86: away spouse/children and ordinary reimbursement ceiling."
+    ],
+    [
+      "30.03.1988",
+      "OM 31011/1/88: study-leave calculation; family comparison included here, full leave topic later."
+    ],
+    [
+      "08.05.1990",
+      "OM 31011/8/89: separate-hometown/independent-claim option, including spouses residing together; applies from 1990-91 blocks."
+    ],
+    [
+      "20.10.1997",
+      "Two-child numerical restriction; all three Explanation 1 exceptions must be read."
+    ],
+    [
+      "23.09.2008",
+      "OM 31011/4/2008: parent/step-parent and dependency changes; NOT first introduced in 2025. Standalone primary 2008 effective-date text not retrieved."
+    ],
+    [
+      "29.04.2016 / 16.05.2018",
+      "Child rail-fare instructions / under-5 rail and ordinary non-entitled-air restriction."
+    ],
+    [
+      "31.10.2017",
+      "OM 31011/5/2015: full entitled family journey from residence to HQ and back."
+    ],
+    [
+      "01.07.2025 / 03.09.2025",
+      "FAQ / consolidated instructions: issue dates, not blanket new effective dates for all old rules."
+    ],
+    [
+      "2026-2029",
+      "Current regular four-calendar-year block as at 27.10.2026; sub-blocks 2026-27 and 2028-29. Fresh-recruit personal blocks are a separate scheme."
+    ],
+    [
+      "31.12.2026",
+      "Conditional first-year carryover deadline for eligible unused 2022-25 LTC; not a new entitlement for someone who already exhausted it. Rule 10 block/carryover detail follows later."
+    ],
+    [
+      "LPR leave-end",
+      "Return journey must be completed before LPR expires; the outward block-date principle does not waive this condition."
+    ]
+  ],
+  "status": "Authored and source-reviewed; see media reports for build QA"
+}

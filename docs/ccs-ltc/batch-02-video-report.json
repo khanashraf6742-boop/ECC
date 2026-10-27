@@ -1,0 +1,898 @@
+{
+  "file": "batch-02-video.mp4",
+  "bytes": 17531567,
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 799.74,
+  "fps": 10,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode_check": "passed",
+  "embedded_chapter_check": "passed",
+  "source_script_sha256": "c1f0d1ad34475a2dd3a8e89b05c31c5cd698be4ba6d7d32603f421aaa7910e8c",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Important dates: law and practical blocks",
+      "start_seconds": 0.0,
+      "end_seconds": 44.06,
+      "card_ids": [],
+      "voice_id": "voice-01",
+      "source_clip_file": "b2-01.mp3",
+      "source_text_sha256": "e365316d8ed9bc879824fd55828b6247d75d46e94ab9b7a2492c8806f6fcbb79",
+      "source_clip_sha256": "c581d751bcd4f818e66031cb2f2878647390fd0ce019da1c30b9b119e336159f"
+    },
+    {
+      "number": 2,
+      "title": "Rule 4: the five key terms",
+      "start_seconds": 44.06,
+      "end_seconds": 112.96,
+      "card_ids": [
+        "B2-01",
+        "B2-02",
+        "B2-03",
+        "B2-04",
+        "B2-05"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-02.mp3",
+      "source_text_sha256": "9596fd06efb4617b7684ca059f59eed96d7bb1861a0f3ae72e4ec0182c7c9882",
+      "source_clip_sha256": "a5c3cad4f3bbd27022cbf9b2b4c17b277ff872bbb0778c2d48acd2f40a7a987b"
+    },
+    {
+      "number": 3,
+      "title": "Spouse, children and all three numerical exceptions",
+      "start_seconds": 112.96,
+      "end_seconds": 204.22,
+      "card_ids": [
+        "B2-06",
+        "B2-07",
+        "B2-08",
+        "B2-09",
+        "B2-10",
+        "B2-11"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-03.mp3",
+      "source_text_sha256": "9d664c2cd96da0b8503f6cd43f8e7b9f29894bed4467fbdde3698bc7505a022b",
+      "source_clip_sha256": "2c5b63362cbeb24161757adfabacacf2ee3fb8d65bc282f8b6c0594631e84a8c"
+    },
+    {
+      "number": 4,
+      "title": "Wives, daughters, parents and dependency",
+      "start_seconds": 204.22,
+      "end_seconds": 290.72,
+      "card_ids": [
+        "B2-12",
+        "B2-13",
+        "B2-14",
+        "B2-15",
+        "B2-16"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-04.mp3",
+      "source_text_sha256": "33ac2ddb55b93d841ab1fd6d1bc4c910f7abad7beacc38ea367ba66dc9c7b5e2",
+      "source_clip_sha256": "6f4a8d562f45f07c1146da61bcc3248ff8c0a820b3c982f30a506aad7783dc05"
+    },
+    {
+      "number": 5,
+      "title": "Income arithmetic, siblings, exclusions and marriage",
+      "start_seconds": 290.72,
+      "end_seconds": 374.96,
+      "card_ids": [
+        "B2-17",
+        "B2-18",
+        "B2-19",
+        "B2-20",
+        "B2-21"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-05.mp3",
+      "source_text_sha256": "cc6a8ad5028b9fe3bf3441c9e581974b9ecc60f862729d02fbe2306a0752c201",
+      "source_clip_sha256": "87cc4dae73aa0cea2919a69b6b75a1dc213daed439354a5ff19f011604f8da5a"
+    },
+    {
+      "number": 6,
+      "title": "All operative Rule 4 Task Force clauses and away family",
+      "start_seconds": 374.96,
+      "end_seconds": 463.62,
+      "card_ids": [
+        "B2-22",
+        "B2-23",
+        "B2-24",
+        "B2-25",
+        "B2-26"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-06.mp3",
+      "source_text_sha256": "a9d74508a3048626a8fbb7bb1498b509f41a2d1e3c7d808a3ef2deaae41c7f70",
+      "source_clip_sha256": "1181de380b1f5b3d45eb843a9fbfeb219d6e8b756630b4fa622053153065ea0f"
+    },
+    {
+      "number": 7,
+      "title": "Counting HT/AI, separate travel and private spouse",
+      "start_seconds": 463.62,
+      "end_seconds": 540.48,
+      "card_ids": [
+        "B2-27",
+        "B2-28",
+        "B2-29",
+        "B2-30",
+        "B2-31"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-07.mp3",
+      "source_text_sha256": "5b64879b7b5ba96d4900021f7b84729af5031eca0d1b6368074707d324e6f11b",
+      "source_clip_sha256": "9113ef8f688dc529e5d9d11e54cb646e530d059471499fafe7bdcff2c15b0236"
+    },
+    {
+      "number": 8,
+      "title": "Government spouses, suspension and single-leg facts",
+      "start_seconds": 540.48,
+      "end_seconds": 625.98,
+      "card_ids": [
+        "B2-32",
+        "B2-33",
+        "B2-34",
+        "B2-35",
+        "B2-36"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-08.mp3",
+      "source_text_sha256": "d28e8e85b0bf23d64daeb4294d9c8df74521208e3bceddf529da9b65e4bcd49e",
+      "source_clip_sha256": "552d482b7bd964e4d006fe74bee98c086e3ad8d590ffec8af8ff8127bcaeaa8a"
+    },
+    {
+      "number": 9,
+      "title": "Single-leg illustrations continued: five remaining cases",
+      "start_seconds": 625.98,
+      "end_seconds": 712.04,
+      "card_ids": [
+        "B2-37",
+        "B2-38",
+        "B2-39",
+        "B2-40",
+        "B2-41"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-09.mp3",
+      "source_text_sha256": "bffa3ad4e98b30a225885123df82b22a972979a6fac3f1e6e303f09e558b8dc2",
+      "source_clip_sha256": "e94653f862a0eabe30a6fb24f41a43cf3f1e76750c7afc73a14843707db075f4"
+    },
+    {
+      "number": 10,
+      "title": "Child fares and family during study/training",
+      "start_seconds": 712.04,
+      "end_seconds": 799.74,
+      "card_ids": [
+        "B2-42",
+        "B2-43",
+        "B2-44",
+        "B2-45",
+        "B2-46"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b2-10.mp3",
+      "source_text_sha256": "9c4e99427734aa7988b739766015bd25c0370b23029eb69fd0c59ff1ee5a25fc",
+      "source_clip_sha256": "d8a367229562214dc3a22b2ebc675dabd4682bb4b7002b7e198e43f729bcdd4d"
+    }
+  ],
+  "pages": [
+    {
+      "id": "OPEN-LEGAL",
+      "start_seconds": 0.0,
+      "chapter": 1,
+      "end_seconds": 22.76,
+      "layout": {
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "OPEN-PRACTICAL",
+      "start_seconds": 22.76,
+      "chapter": 1,
+      "end_seconds": 44.06,
+      "layout": {
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-01",
+      "start_seconds": 44.06,
+      "chapter": 2,
+      "end_seconds": 59.28,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-02",
+      "start_seconds": 59.28,
+      "chapter": 2,
+      "end_seconds": 72.28,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-03",
+      "start_seconds": 72.28,
+      "chapter": 2,
+      "end_seconds": 86.95,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-04",
+      "start_seconds": 86.95,
+      "chapter": 2,
+      "end_seconds": 100.63,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-05",
+      "start_seconds": 100.63,
+      "chapter": 2,
+      "end_seconds": 112.96,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-06",
+      "start_seconds": 112.96,
+      "chapter": 3,
+      "end_seconds": 128.12,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-07",
+      "start_seconds": 128.12,
+      "chapter": 3,
+      "end_seconds": 145.68,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-08",
+      "start_seconds": 145.68,
+      "chapter": 3,
+      "end_seconds": 159.45,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-09",
+      "start_seconds": 159.45,
+      "chapter": 3,
+      "end_seconds": 174.8,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-10",
+      "start_seconds": 174.8,
+      "chapter": 3,
+      "end_seconds": 188.85,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-11",
+      "start_seconds": 188.85,
+      "chapter": 3,
+      "end_seconds": 204.22,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-12",
+      "start_seconds": 204.22,
+      "chapter": 4,
+      "end_seconds": 220.98,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-13",
+      "start_seconds": 220.98,
+      "chapter": 4,
+      "end_seconds": 238.16,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-14",
+      "start_seconds": 238.16,
+      "chapter": 4,
+      "end_seconds": 254.6,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-15",
+      "start_seconds": 254.6,
+      "chapter": 4,
+      "end_seconds": 271.33,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-16",
+      "start_seconds": 271.33,
+      "chapter": 4,
+      "end_seconds": 290.72,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-17",
+      "start_seconds": 290.72,
+      "chapter": 5,
+      "end_seconds": 309.22,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-18",
+      "start_seconds": 309.22,
+      "chapter": 5,
+      "end_seconds": 325.08,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-19",
+      "start_seconds": 325.08,
+      "chapter": 5,
+      "end_seconds": 344.48,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-20",
+      "start_seconds": 344.48,
+      "chapter": 5,
+      "end_seconds": 360.84,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-21",
+      "start_seconds": 360.84,
+      "chapter": 5,
+      "end_seconds": 374.96,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-22",
+      "start_seconds": 374.96,
+      "chapter": 6,
+      "end_seconds": 390.75,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-23",
+      "start_seconds": 390.75,
+      "chapter": 6,
+      "end_seconds": 407.4,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-24",
+      "start_seconds": 407.4,
+      "chapter": 6,
+      "end_seconds": 424.5,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-25",
+      "start_seconds": 424.5,
+      "chapter": 6,
+      "end_seconds": 444.34,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-26",
+      "start_seconds": 444.34,
+      "chapter": 6,
+      "end_seconds": 463.62,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-27",
+      "start_seconds": 463.62,
+      "chapter": 7,
+      "end_seconds": 481.4,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-28",
+      "start_seconds": 481.4,
+      "chapter": 7,
+      "end_seconds": 499.82,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-29",
+      "start_seconds": 499.82,
+      "chapter": 7,
+      "end_seconds": 514.72,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-30",
+      "start_seconds": 514.72,
+      "chapter": 7,
+      "end_seconds": 527.5,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-31",
+      "start_seconds": 527.5,
+      "chapter": 7,
+      "end_seconds": 540.48,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-32",
+      "start_seconds": 540.48,
+      "chapter": 8,
+      "end_seconds": 560.21,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-33",
+      "start_seconds": 560.21,
+      "chapter": 8,
+      "end_seconds": 577.5,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-34",
+      "start_seconds": 577.5,
+      "chapter": 8,
+      "end_seconds": 591.92,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-35",
+      "start_seconds": 591.92,
+      "chapter": 8,
+      "end_seconds": 609.94,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-36",
+      "start_seconds": 609.94,
+      "chapter": 8,
+      "end_seconds": 625.98,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-37",
+      "start_seconds": 625.98,
+      "chapter": 9,
+      "end_seconds": 644.43,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-38",
+      "start_seconds": 644.43,
+      "chapter": 9,
+      "end_seconds": 662.4,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-39",
+      "start_seconds": 662.4,
+      "chapter": 9,
+      "end_seconds": 679.92,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-40",
+      "start_seconds": 679.92,
+      "chapter": 9,
+      "end_seconds": 695.54,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-41",
+      "start_seconds": 695.54,
+      "chapter": 9,
+      "end_seconds": 712.04,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-42",
+      "start_seconds": 712.04,
+      "chapter": 10,
+      "end_seconds": 726.46,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-43",
+      "start_seconds": 726.46,
+      "chapter": 10,
+      "end_seconds": 744.96,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-44",
+      "start_seconds": 744.96,
+      "chapter": 10,
+      "end_seconds": 761.14,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-45",
+      "start_seconds": 761.14,
+      "chapter": 10,
+      "end_seconds": 782.1,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B2-46",
+      "start_seconds": 782.1,
+      "chapter": 10,
+      "end_seconds": 799.74,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    }
+  ],
+  "subtitles": {
+    "burned_in": true,
+    "script": "Roman Hinglish",
+    "srt": "batch-02-video.srt",
+    "vtt": "batch-02-video.vtt",
+    "caption_band_height": 144
+  },
+  "review_limit": "Automatic acoustic phrase alignment and technical checks; not a certified word-level or full manual listening audit."
+}

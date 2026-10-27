@@ -1,0 +1,256 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Atkinson Hyperlegible,40,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,0,0,0,0,100,100,0,0,1,1,0,2,110,110,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.44,Default,,0,0,0,,Batch two, family aur dependency.
+Dialogue: 0,0:00:03.44,0:00:06.82,Default,,0,0,0,,Important dates: twenty\NOctober nineteen ninety seven,
+Dialogue: 0,0:00:06.82,0:00:10.48,Default,,0,0,0,,child limit; twenty three\NSeptember two thousand eight,
+Dialogue: 0,0:00:10.48,0:00:14.98,Default,,0,0,0,,family aur dependency order; thirty\None October twenty seventeen,
+Dialogue: 0,0:00:14.98,0:00:17.02,Default,,0,0,0,,family to HQ order.
+Dialogue: 0,0:00:17.02,0:00:22.76,Default,,0,0,0,,One July aur three September twenty\Ntwenty five, FAQ aur consolidation dates.
+Dialogue: 0,0:00:22.76,0:00:27.82,Default,,0,0,0,,Aaj regular block twenty twenty six\Nto twenty nine hai; sub blocks twenty
+Dialogue: 0,0:00:27.82,0:00:31.78,Default,,0,0,0,,twenty six to twenty seven aur\Ntwenty twenty eight to twenty nine.
+Dialogue: 0,0:00:31.78,0:00:35.70,Default,,0,0,0,,Eligible unused twenty twenty two\Nto twenty five carryover ki deadline
+Dialogue: 0,0:00:35.70,0:00:39.32,Default,,0,0,0,,thirty one December twenty\Ntwenty six hai; conditions apply.
+Dialogue: 0,0:00:39.32,0:00:44.06,Default,,0,0,0,,Sir, har exact reference ke baad\Nsimple point aur example samjhaiye.
+Dialogue: 0,0:00:44.06,0:00:47.74,Default,,0,0,0,,Rule four, clause A, GID three.
+Dialogue: 0,0:00:47.74,0:00:52.41,Default,,0,0,0,,India ki territory mein mainland aur\NIndian islands dono aate hain; restricted
+Dialogue: 0,0:00:52.41,0:00:54.72,Default,,0,0,0,,area ki permission khud leni hai.
+Dialogue: 0,0:00:54.72,0:00:59.28,Default,,0,0,0,,Example, Andaman India hai; foreign\Nisland sirf paas hone se India nahi banta.
+Dialogue: 0,0:00:59.28,0:01:01.28,Default,,0,0,0,,Rule four, clause B.
+Dialogue: 0,0:01:01.28,0:01:05.34,Default,,0,0,0,,Controlling Officer wahi hai jo\NSupplementary Rule one ninety one ke
+Dialogue: 0,0:01:05.34,0:01:06.68,Default,,0,0,0,,under declared hai.
+Dialogue: 0,0:01:06.68,0:01:12.28,Default,,0,0,0,,Example, Team leader hona enough nahi;\Ndesignated officer ka record dekho.
+Dialogue: 0,0:01:12.28,0:01:13.23,Default,,0,0,0,,Rule four, clause C.
+Dialogue: 0,0:01:13.23,0:01:18.14,Default,,0,0,0,,Disciplinary Authority ka meaning\NCCS CCA Rules nineteen sixty five,
+Dialogue: 0,0:01:18.14,0:01:20.30,Default,,0,0,0,,Rule two, clause G se aata hai.
+Dialogue: 0,0:01:20.30,0:01:24.72,Default,,0,0,0,,Example, LTC fraud case mein sirf bill\Npass karne wala officer automatically
+Dialogue: 0,0:01:24.72,0:01:26.95,Default,,0,0,0,,disciplinary authority nahi.
+Dialogue: 0,0:01:26.95,0:01:27.96,Default,,0,0,0,,Rule four, clause E.
+Dialogue: 0,0:01:27.96,0:01:32.70,Default,,0,0,0,,Town, village ya place ko employee declare\Nkare aur Controlling Officer accept
+Dialogue: 0,0:01:32.70,0:01:34.68,Default,,0,0,0,,kare, tab hometown hai.
+Dialogue: 0,0:01:34.68,0:01:36.76,Default,,0,0,0,,Example, Ravi ne Jaipur likha,
+Dialogue: 0,0:01:36.76,0:01:40.63,Default,,0,0,0,,par acceptance pending hai;\Ndeclaration akela enough nahi.
+Dialogue: 0,0:01:40.63,0:01:42.36,Default,,0,0,0,,Rule four, clause F.
+Dialogue: 0,0:01:42.36,0:01:46.14,Default,,0,0,0,,Shortest direct route ka meaning\NSupplementary Rule thirty aur uske orders
+Dialogue: 0,0:01:46.14,0:01:47.32,Default,,0,0,0,,se aata hai.
+Dialogue: 0,0:01:47.32,0:01:50.07,Default,,0,0,0,,Example, Goa ghoomne ka\Ndetour khud choose kiya,
+Dialogue: 0,0:01:50.07,0:01:52.96,Default,,0,0,0,,toh poora detour automatically\Nreimbursable nahi.
+Dialogue: 0,0:01:52.96,0:01:58.15,Default,,0,0,0,,Rule four, clause D, Roman\None, Note two; FAQ three.
+Dialogue: 0,0:01:58.15,0:02:02.12,Default,,0,0,0,,Spouse par income test nahi;\Nsaath rehna bhi zaroori nahi.
+Dialogue: 0,0:02:02.12,0:02:06.80,Default,,0,0,0,,Example, Wife private job mein achha\Nearn karti hai aur Pune rehti hai; spouse
+Dialogue: 0,0:02:06.80,0:02:08.12,Default,,0,0,0,,eligibility phir bhi hai.
+Dialogue: 0,0:02:08.12,0:02:12.99,Default,,0,0,0,,Rule four, clause D, Roman one; FAQ one.
+Dialogue: 0,0:02:12.99,0:02:17.00,Default,,0,0,0,,Normally two eldest surviving unmarried\Ndependent children; step aur legally
+Dialogue: 0,0:02:17.00,0:02:19.90,Default,,0,0,0,,adopted children included,\Nresidence test nahi.
+Dialogue: 0,0:02:19.90,0:02:23.82,Default,,0,0,0,,Example, Three unmarried bachche hain;\Nexception nahi toh youngest ko choose
+Dialogue: 0,0:02:23.82,0:02:25.68,Default,,0,0,0,,karke eldest ko replace mat karo.
+Dialogue: 0,0:02:25.68,0:02:29.50,Default,,0,0,0,,Rule four, clause D, Roman one; FAQ four.
+Dialogue: 0,0:02:29.50,0:02:33.98,Default,,0,0,0,,Unmarried dependent child ke liye twenty\Nfive years ka upper age cut off nahi.
+Dialogue: 0,0:02:33.98,0:02:37.76,Default,,0,0,0,,Example, Twenty eight year old unmarried\Ndependent daughter eldest two mein
+Dialogue: 0,0:02:37.76,0:02:39.45,Default,,0,0,0,,hai; age se reject nahi hogi.
+Dialogue: 0,0:02:39.45,0:02:42.83,Default,,0,0,0,,Rule four D, Explanation one, Roman one.
+Dialogue: 0,0:02:42.83,0:02:47.10,Default,,0,0,0,,Twenty October nineteen ninety seven\Nse pehle already more than two children
+Dialogue: 0,0:02:47.10,0:02:49.20,Default,,0,0,0,,the, toh numerical exception hai.
+Dialogue: 0,0:02:49.20,0:02:53.00,Default,,0,0,0,,Example, Nineteen ninety six mein three\Nchildren the; sirf two child cap se
+Dialogue: 0,0:02:53.00,0:02:54.80,Default,,0,0,0,,third reject nahi hoga.
+Dialogue: 0,0:02:54.80,0:02:58.06,Default,,0,0,0,,Rule four D, Explanation one, Roman two.
+Dialogue: 0,0:02:58.06,0:03:01.26,Default,,0,0,0,,Restriction start hone ke one year\Nke andar born children ko numerical
+Dialogue: 0,0:03:01.26,0:03:03.66,Default,,0,0,0,,protection hai; fresh yearly window nahi.
+Dialogue: 0,0:03:03.66,0:03:07.47,Default,,0,0,0,,Example, Third child March nineteen\Nninety eight mein born hua; historical
+Dialogue: 0,0:03:07.47,0:03:08.85,Default,,0,0,0,,window check hoga.
+Dialogue: 0,0:03:08.85,0:03:11.78,Default,,0,0,0,,Rule four D, Explanation one, Roman three.
+Dialogue: 0,0:03:11.78,0:03:15.11,Default,,0,0,0,,Second childbirth mein twins ya\Ntriplets se total two se badha,
+Dialogue: 0,0:03:15.11,0:03:16.42,Default,,0,0,0,,toh exception hai.
+Dialogue: 0,0:03:16.42,0:03:18.50,Default,,0,0,0,,Example, First childbirth one baby,
+Dialogue: 0,0:03:18.50,0:03:21.86,Default,,0,0,0,,second childbirth twins: three\Nchildren ka numerical exception; third
+Dialogue: 0,0:03:21.86,0:03:24.22,Default,,0,0,0,,childbirth twins automatically nahi.
+Dialogue: 0,0:03:24.22,0:03:27.78,Default,,0,0,0,,Rule four D, Explanation two.
+Dialogue: 0,0:03:27.78,0:03:32.44,Default,,0,0,0,,Normally one wife; two legally wedded\Nwives aur second marriage ki specific
+Dialogue: 0,0:03:32.44,0:03:39.31,Default,,0,0,0,,Government permission ho, tab exception. Example, Sirf\Nsecond marriage certificate enough nahi; specific Government
+Dialogue: 0,0:03:39.31,0:03:40.98,Default,,0,0,0,,permission bhi chahiye.
+Dialogue: 0,0:03:40.98,0:03:44.93,Default,,0,0,0,,Rule four, clause D, Roman two; FAQ one.
+Dialogue: 0,0:03:44.93,0:03:49.55,Default,,0,0,0,,Divorced, abandoned, separated ya\Nwidowed daughter ko dependent aur saath
+Dialogue: 0,0:03:49.55,0:03:51.00,Default,,0,0,0,,rehna dono chahiye.
+Dialogue: 0,0:03:51.00,0:03:54.54,Default,,0,0,0,,Example, Dependent divorced\Ndaughter alag flat mein rehti hai,
+Dialogue: 0,0:03:54.54,0:03:58.16,Default,,0,0,0,,toh residence test fail;\Nmaa ke liye rule alag hai.
+Dialogue: 0,0:03:58.16,0:04:02.16,Default,,0,0,0,,Rule four D, current\NExplanation three; FAQ one.
+Dialogue: 0,0:04:02.16,0:04:06.24,Default,,0,0,0,,Eligible sister ya daughter ke bachche\Nautomatically family nahi; current
+Dialogue: 0,0:04:06.24,0:04:08.72,Default,,0,0,0,,Explanation three, old four tha.
+Dialogue: 0,0:04:08.72,0:04:13.34,Default,,0,0,0,,Example, Widowed daughter eligible\Nhai, par uska son sirf grandson hone
+Dialogue: 0,0:04:13.34,0:04:14.60,Default,,0,0,0,,se covered nahi.
+Dialogue: 0,0:04:14.60,0:04:18.22,Default,,0,0,0,,Rule four, clause D, Roman three; FAQ three.
+Dialogue: 0,0:04:18.22,0:04:22.56,Default,,0,0,0,,Dependent parents, stepmother aur stepfather\Nincluded; saath rehna zaroori nahi.
+Dialogue: 0,0:04:22.56,0:04:26.26,Default,,0,0,0,,Yeh sirf twenty twenty\Nfive ka naya change nahi.
+Dialogue: 0,0:04:26.26,0:04:28.88,Default,,0,0,0,,Example, Dependent mother\NKanpur mein rehti hai,
+Dialogue: 0,0:04:28.88,0:04:31.33,Default,,0,0,0,,employee Delhi mein; eligibility\Nresidence se fail nahi.
+Dialogue: 0,0:04:31.33,0:04:35.62,Default,,0,0,0,,Rule four, Note one; FAQ two;\Norder twenty three September
+Dialogue: 0,0:04:35.62,0:04:37.74,Default,,0,0,0,,two thousand eight.
+Dialogue: 0,0:04:37.74,0:04:40.98,Default,,0,0,0,,Income all sources jodo, pension\Naur temporary increase bhi.
+Dialogue: 0,0:04:40.98,0:04:45.68,Default,,0,0,0,,Limit minimum family pension plus\NDR; FAQ base nine thousand hai.
+Dialogue: 0,0:04:45.68,0:04:49.58,Default,,0,0,0,,Example, Parent ki pension, rent\Naur interest jodkar applicable limit
+Dialogue: 0,0:04:49.58,0:04:50.72,Default,,0,0,0,,se compare karo.
+Dialogue: 0,0:04:50.72,0:04:55.36,Default,,0,0,0,,Rule four, Note one; FAQ two, income ceiling.
+Dialogue: 0,0:04:55.36,0:05:00.50,Default,,0,0,0,,Assumed DR fifty percent, current rate\Nnahi: nine thousand plus forty five
+Dialogue: 0,0:05:00.50,0:05:03.10,Default,,0,0,0,,hundred equals thirteen thousand five hundred.
+Dialogue: 0,0:05:03.10,0:05:07.50,Default,,0,0,0,,Example, Income thirteen thousand five\Nhundred par pass; one rupee extra par
+Dialogue: 0,0:05:07.50,0:05:09.22,Default,,0,0,0,,income test fail.
+Dialogue: 0,0:05:09.22,0:05:13.88,Default,,0,0,0,,Rule four, clause D, Roman\Nfour; FAQ one, brothers.
+Dialogue: 0,0:05:13.88,0:05:16.32,Default,,0,0,0,,Brother unmarried minor ho, saath rahe,
+Dialogue: 0,0:05:16.32,0:05:20.36,Default,,0,0,0,,dependent ho; parents dead ya\Nkhud employee par dependent hon.
+Dialogue: 0,0:05:20.36,0:05:23.94,Default,,0,0,0,,Example, Twenty two year old unmarried\Ndependent brother ko minor brother
+Dialogue: 0,0:05:23.94,0:05:25.08,Default,,0,0,0,,category se LTC nahi.
+Dialogue: 0,0:05:25.08,0:05:30.63,Default,,0,0,0,,Rule four, clause D, Roman\Nfour; FAQ one, sisters.
+Dialogue: 0,0:05:30.63,0:05:35.28,Default,,0,0,0,,Sister unmarried, divorced, abandoned,\Nseparated ya widowed ho; saath aur
+Dialogue: 0,0:05:35.28,0:05:37.68,Default,,0,0,0,,dependent ho; parents dead ya dependent.
+Dialogue: 0,0:05:37.68,0:05:39.36,Default,,0,0,0,,Minor test nahi.
+Dialogue: 0,0:05:39.36,0:05:42.96,Default,,0,0,0,,Example, Thirty year old unmarried\Nsister saari conditions meet kare toh age
+Dialogue: 0,0:05:42.96,0:05:44.48,Default,,0,0,0,,se reject nahi.
+Dialogue: 0,0:05:44.48,0:05:48.36,Default,,0,0,0,,Rule four D; FAQ five and FAQ one, exclusions.
+Dialogue: 0,0:05:48.36,0:05:52.23,Default,,0,0,0,,Parents in law, grandparents aur\Nunlisted relations sirf dependent hone se
+Dialogue: 0,0:05:52.23,0:05:53.34,Default,,0,0,0,,family nahi bante.
+Dialogue: 0,0:05:53.34,0:05:58.88,Default,,0,0,0,,Example, Mother in law saath rehti aur\Ndependent hai; employee ki own mother wali
+Dialogue: 0,0:05:58.88,0:06:00.84,Default,,0,0,0,,category use nahi hogi.
+Dialogue: 0,0:06:00.84,0:06:04.40,Default,,0,0,0,,Rule four, GID one, Note three;\Norder two April nineteen sixty five.
+Dialogue: 0,0:06:04.40,0:06:06.42,Default,,0,0,0,,Female employee hometown LTC par gayi,
+Dialogue: 0,0:06:06.42,0:06:10.50,Default,,0,0,0,,wahin shaadi hui; new husband ka\Nhometown se HQ leg allow ho sakta hai.
+Dialogue: 0,0:06:10.50,0:06:13.94,Default,,0,0,0,,Example, Neha Jaipur mein shaadi karti\Nhai; husband Jaipur se uske Delhi
+Dialogue: 0,0:06:13.94,0:06:14.96,Default,,0,0,0,,HQ aata hai.
+Dialogue: 0,0:06:14.96,0:06:18.30,Default,,0,0,0,,Rule four, GID two, clause Roman one.
+Dialogue: 0,0:06:18.30,0:06:22.92,Default,,0,0,0,,LTC advance Head of Office sanction kar\Nsakta hai; sirf Controlling Officer tak
+Dialogue: 0,0:06:22.92,0:06:25.52,Default,,0,0,0,,authority limited nahi.
+Dialogue: 0,0:06:25.52,0:06:28.84,Default,,0,0,0,,Example, Employee advance file Head of\NOffice ke paas bhejta hai; amount aur
+Dialogue: 0,0:06:28.84,0:06:30.75,Default,,0,0,0,,settlement checks phir bhi lagenge.
+Dialogue: 0,0:06:30.75,0:06:34.36,Default,,0,0,0,,Rule four, GID two, clause Roman two.
+Dialogue: 0,0:06:34.36,0:06:37.30,Default,,0,0,0,,Shortest route accident ya\Ndoosre cause se disrupted ho,
+Dialogue: 0,0:06:37.30,0:06:41.34,Default,,0,0,0,,Controlling Authority actual route\Nreimbursement approve kar sakti hai.
+Dialogue: 0,0:06:41.34,0:06:45.33,Default,,0,0,0,,Example, Flood se route band hai;\Nalternate route ka proof aur approval lo,
+Dialogue: 0,0:06:45.33,0:06:47.40,Default,,0,0,0,,personal detour mat jodo.
+Dialogue: 0,0:06:47.40,0:06:51.64,Default,,0,0,0,,Rule four, GID two, clause\NRoman six; Note four.
+Dialogue: 0,0:06:51.64,0:06:56.02,Default,,0,0,0,,Leave preparatory to retirement mein\Neligible LTC dono ways hai; return leave
+Dialogue: 0,0:06:56.02,0:06:58.22,Default,,0,0,0,,expire hone se pehle complete karo.
+Dialogue: 0,0:06:58.22,0:07:02.22,Default,,0,0,0,,Example, LPR thirty September end\Nhoti hai; twenty nine ko return okay,
+Dialogue: 0,0:07:02.22,0:07:04.50,Default,,0,0,0,,two October return condition fail.
+Dialogue: 0,0:07:04.50,0:07:08.94,Default,,0,0,0,,Rule four, GID four, Note\Nfive Roman one; FAQ eight.
+Dialogue: 0,0:07:08.94,0:07:12.62,Default,,0,0,0,,Away spouse aur dependent children\Nresidence se travel kar sakte hain; ordinary
+Dialogue: 0,0:07:12.62,0:07:15.62,Default,,0,0,0,,case mein actual ya HQ\Ndestination ceiling, jo kam.
+Dialogue: 0,0:07:15.62,0:07:18.80,Default,,0,0,0,,Example, Actual eligible fare four thousand,
+Dialogue: 0,0:07:18.80,0:07:21.52,Default,,0,0,0,,HQ ceiling six thousand:\Nreimbursement four thousand,
+Dialogue: 0,0:07:21.52,0:07:24.34,Default,,0,0,0,,extra two thousand nahi.
+Dialogue: 0,0:07:24.34,0:07:28.06,Default,,0,0,0,,Rule four, Note five Roman two;\NFAQ seventy five; order thirty one
+Dialogue: 0,0:07:28.06,0:07:28.79,Default,,0,0,0,,October twenty seventeen.
+Dialogue: 0,0:07:28.79,0:07:33.94,Default,,0,0,0,,Family residence se HQ aur back aaye toh\Nfull entitled reimbursement; HQ to HQ
+Dialogue: 0,0:07:33.94,0:07:35.26,Default,,0,0,0,,zero ceiling mat lagao.
+Dialogue: 0,0:07:35.26,0:07:37.28,Default,,0,0,0,,Valid All India occasion chahiye.
+Dialogue: 0,0:07:37.28,0:07:42.36,Default,,0,0,0,,Example, Pune family Mumbai HQ aati aur\NPune lautti hai; valid All India LTC par
+Dialogue: 0,0:07:42.36,0:07:43.62,Default,,0,0,0,,entitled fare check hoga.
+Dialogue: 0,0:07:43.62,0:07:47.36,Default,,0,0,0,,FAQ seventy four, family at headquarters.
+Dialogue: 0,0:07:47.36,0:07:53.04,Default,,0,0,0,,Family HQ par ho: hometown option par\Nhometown trip HT; All India option mein
+Dialogue: 0,0:07:53.04,0:07:55.32,Default,,0,0,0,,hometown bhi choose kar sakte ho.
+Dialogue: 0,0:07:55.32,0:07:59.14,Default,,0,0,0,,Example, Delhi se Patna, accepted\Nhometown hai; valid All India option
+Dialogue: 0,0:07:59.14,0:08:01.40,Default,,0,0,0,,declared ho toh counting All India hogi.
+Dialogue: 0,0:08:01.40,0:08:04.70,Default,,0,0,0,,FAQ seventy five, family\Naway from headquarters.
+Dialogue: 0,0:08:04.70,0:08:09.76,Default,,0,0,0,,Away family ki HT claim par lesser\Nceiling; All India destination HQ ya
+Dialogue: 0,0:08:09.76,0:08:12.92,Default,,0,0,0,,hometown bhi ho sakta hai,\Nnormal fare limits ke saath.
+Dialogue: 0,0:08:12.92,0:08:17.42,Default,,0,0,0,,Example, Kanpur family Patna HT jaaye:\Neligible actual three thousand versus
+Dialogue: 0,0:08:17.42,0:08:19.82,Default,,0,0,0,,HQ ceiling five thousand,\Nclaim three thousand.
+Dialogue: 0,0:08:19.82,0:08:21.82,Default,,0,0,0,,FAQ six; Rule nine.
+Dialogue: 0,0:08:21.82,0:08:26.32,Default,,0,0,0,,Different groups, times aur destinations\Nallowed; relevant block aur available
+Dialogue: 0,0:08:26.32,0:08:27.86,Default,,0,0,0,,occasion phir bhi check karo.
+Dialogue: 0,0:08:27.86,0:08:32.98,Default,,0,0,0,,Example, Employee May mein Goa, eligible\Nspouse June mein Kochi jaaye; separate
+Dialogue: 0,0:08:32.98,0:08:34.72,Default,,0,0,0,,travel se extra block nahi banta.
+Dialogue: 0,0:08:34.72,0:08:36.26,Default,,0,0,0,,FAQ seven; Rule nine.
+Dialogue: 0,0:08:36.26,0:08:41.28,Default,,0,0,0,,Same two year sub block mein kuch members\NHT aur kuch All India use kar sakte hain.
+Dialogue: 0,0:08:41.28,0:08:43.16,Default,,0,0,0,,Example, Eligible spouse HT Jaipur,
+Dialogue: 0,0:08:43.16,0:08:47.50,Default,,0,0,0,,employee All India Goa choose kare;\Nindividual occasion record clear rakho.
+Dialogue: 0,0:08:47.50,0:08:50.04,Default,,0,0,0,,FAQ nine, private sector spouse.
+Dialogue: 0,0:08:50.04,0:08:54.46,Default,,0,0,0,,Private job wala spouse apne employer\Nka LTA le sakta hai; blanket ban nahi.
+Dialogue: 0,0:08:54.46,0:08:58.60,Default,,0,0,0,,Example, Wife employer se LTA leti\Nhai; husband ki Government LTC sirf isi
+Dialogue: 0,0:08:58.60,0:09:00.48,Default,,0,0,0,,wajah se automatically barred nahi.
+Dialogue: 0,0:09:00.48,0:09:05.43,Default,,0,0,0,,Rule seven, GID eighteen; order\Neight May nineteen ninety.
+Dialogue: 0,0:09:05.43,0:09:10.18,Default,,0,0,0,,Dono Government spouses saath rehkar bhi\Nseparate hometowns aur respective family
+Dialogue: 0,0:09:10.18,0:09:13.56,Default,,0,0,0,,claims choose kar sakte hain;\Noption nineteen ninety se hai.
+Dialogue: 0,0:09:13.56,0:09:18.06,Default,,0,0,0,,Example, Husband apne parents, wife\Napne parents ka eligible claim kare;
+Dialogue: 0,0:09:18.06,0:09:20.21,Default,,0,0,0,,forced common hometown rule mat lagao.
+Dialogue: 0,0:09:20.21,0:09:24.08,Default,,0,0,0,,Rule seven, GID eighteen,\Nself and children conditions.
+Dialogue: 0,0:09:24.08,0:09:28.84,Default,,0,0,0,,Spouse doosre ki family member bankar\NLTC le toh independent self claim nahi;
+Dialogue: 0,0:09:28.84,0:09:32.26,Default,,0,0,0,,children particular block\Nmein one parent se only.
+Dialogue: 0,0:09:32.26,0:09:36.42,Default,,0,0,0,,Example, Child ka same block benefit\Nhusband aur wife dono offices se
+Dialogue: 0,0:09:36.42,0:09:37.50,Default,,0,0,0,,claim mat karo.
+Dialogue: 0,0:09:37.50,0:09:40.94,Default,,0,0,0,,FAQ twelve; Rule seven, GID fifteen.
+Dialogue: 0,0:09:40.94,0:09:45.54,Default,,0,0,0,,Suspended employee khud LTC nahi le\Nsakta; eligible family le sakti hai.
+Dialogue: 0,0:09:45.54,0:09:49.56,Default,,0,0,0,,Example, Suspended Ravi ki eligible\Nwife LTC jaaye; Ravi ka personal ticket
+Dialogue: 0,0:09:49.56,0:09:51.92,Default,,0,0,0,,family claim mein mat jodo.
+Dialogue: 0,0:09:51.92,0:09:56.22,Default,,0,0,0,,Rule seven, GID five, opening\Nprinciple; order eleven December
+Dialogue: 0,0:09:56.22,0:09:57.42,Default,,0,0,0,,nineteen fifty eight.
+Dialogue: 0,0:09:57.42,0:10:01.48,Default,,0,0,0,,Outward aur return journey ki facts\Nseparately check karo; family status beech
+Dialogue: 0,0:10:01.48,0:10:02.96,Default,,0,0,0,,mein badal sakta hai.
+Dialogue: 0,0:10:02.96,0:10:05.62,Default,,0,0,0,,Example, Dependent child\Njaate waqt eligible tha,
+Dialogue: 0,0:10:05.62,0:10:09.94,Default,,0,0,0,,return se pehle job mil gayi; dono\Nlegs ka answer same mat assume karo.
+Dialogue: 0,0:10:09.94,0:10:12.88,Default,,0,0,0,,Rule seven, GID five, part one, Roman one.
+Dialogue: 0,0:10:12.88,0:10:16.80,Default,,0,0,0,,Dependent son ya daughter hometown\Nke baad job ya marriage kare,
+Dialogue: 0,0:10:16.80,0:10:20.04,Default,,0,0,0,,ya studies ke liye wahi rahe:\Noutward only case check karo.
+Dialogue: 0,0:10:20.04,0:10:24.46,Default,,0,0,0,,Example, Daughter eligible hokar gayi,\Nhometown mein shaadi karke wahi rahi; uska
+Dialogue: 0,0:10:24.46,0:10:25.98,Default,,0,0,0,,return fare claim nahi.
+Dialogue: 0,0:10:25.98,0:10:30.56,Default,,0,0,0,,Rule seven, GID five, part one, Roman two.
+Dialogue: 0,0:10:30.56,0:10:33.04,Default,,0,0,0,,Family return intend nahi karti,
+Dialogue: 0,0:10:33.04,0:10:36.26,Default,,0,0,0,,employee later return concession\Nwritten mein forego kare toh
+Dialogue: 0,0:10:36.26,0:10:37.34,Default,,0,0,0,,outward only claim.
+Dialogue: 0,0:10:37.34,0:10:41.86,Default,,0,0,0,,Example, Parents hometown settle ho\Ngaye; employee written return surrender
+Dialogue: 0,0:10:41.86,0:10:44.43,Default,,0,0,0,,deta hai, baad mein wahi return claim nahi.
+Dialogue: 0,0:10:44.43,0:10:48.64,Default,,0,0,0,,Rule seven, GID five, part two, Roman one.
+Dialogue: 0,0:10:48.64,0:10:54.96,Default,,0,0,0,,New wife hometown se HQ aaye, ya wife\Nlong time hometown par thi aur outward LTC
+Dialogue: 0,0:10:54.96,0:10:56.38,Default,,0,0,0,,nahi li: return only case.
+Dialogue: 0,0:10:56.38,0:11:01.07,Default,,0,0,0,,Example, Wife hometown par pehle se\Nrehti thi; usne outward LTC nahi li,
+Dialogue: 0,0:11:01.07,0:11:02.40,Default,,0,0,0,,ab HQ aati hai.
+Dialogue: 0,0:11:02.40,0:11:06.44,Default,,0,0,0,,Rule seven, GID five, part two, Roman two.
+Dialogue: 0,0:11:06.44,0:11:10.76,Default,,0,0,0,,Dependent child hometown mein studies\Nya grandparents ke saath tha; parents ke
+Dialogue: 0,0:11:10.76,0:11:12.48,Default,,0,0,0,,saath ya alone return case allowed.
+Dialogue: 0,0:11:12.48,0:11:16.16,Default,,0,0,0,,Example, Eligible son grandparents\Nke ghar padh raha tha,
+Dialogue: 0,0:11:16.16,0:11:19.92,Default,,0,0,0,,ab HQ aata hai; grandparents\Nka ticket include nahi.
+Dialogue: 0,0:11:19.92,0:11:23.36,Default,,0,0,0,,Rule seven, GID five, part two, Roman three.
+Dialogue: 0,0:11:23.36,0:11:28.00,Default,,0,0,0,,Child return tak five ya twelve complete\Nkare toh us leg ki age aur current fare
+Dialogue: 0,0:11:28.00,0:11:29.18,Default,,0,0,0,,rule check hoga.
+Dialogue: 0,0:11:29.18,0:11:31.28,Default,,0,0,0,,Example, Outward par four years,
+Dialogue: 0,0:11:31.28,0:11:35.54,Default,,0,0,0,,return se pehle five complete;\Neligible return rail fare assess karo.
+Dialogue: 0,0:11:35.54,0:11:39.14,Default,,0,0,0,,Rule seven, GID five, part two, Roman four.
+Dialogue: 0,0:11:39.14,0:11:43.30,Default,,0,0,0,,Hometown stay mein child legally adopt\Nkiya toh return leg consider hoga;
+Dialogue: 0,0:11:43.30,0:11:45.16,Default,,0,0,0,,normal child conditions bhi lagenge.
+Dialogue: 0,0:11:45.16,0:11:49.68,Default,,0,0,0,,Example, Legal adoption Jaipur mein\Nhui; eligible child employee ke Delhi HQ
+Dialogue: 0,0:11:49.68,0:11:52.04,Default,,0,0,0,,aata hai, imaginary outward fare nahi.
+Dialogue: 0,0:11:52.04,0:11:55.82,Default,,0,0,0,,FAQ ten; order sixteen May twenty eighteen.
+Dialogue: 0,0:11:55.82,0:11:59.52,Default,,0,0,0,,Under five child ki separate train\Nseat ya berth ka paid fare LTC
+Dialogue: 0,0:11:59.52,0:12:00.74,Default,,0,0,0,,mein reimburse nahi.
+Dialogue: 0,0:12:00.74,0:12:04.77,Default,,0,0,0,,Example, Four year old ke liye extra\Nberth kharidi; payment proof alone
+Dialogue: 0,0:12:04.77,0:12:06.46,Default,,0,0,0,,reimbursement nahi banata.
+Dialogue: 0,0:12:06.46,0:12:10.94,Default,,0,0,0,,FAQ eleven; order sixteen May\Ntwenty eighteen, air restriction.
+Dialogue: 0,0:12:10.94,0:12:15.72,Default,,0,0,0,,Non air entitled employee ke under five\Nchild ka airfare ordinary route par
+Dialogue: 0,0:12:15.72,0:12:18.92,Default,,0,0,0,,nahi; allowed Special Dispensation\Nair segments exception hain.
+Dialogue: 0,0:12:18.92,0:12:21.00,Default,,0,0,0,,Example, Airline full fare leti hai,
+Dialogue: 0,0:12:21.00,0:12:24.38,Default,,0,0,0,,phir bhi ordinary case mein no;\Nscheme segment ki valid permission
+Dialogue: 0,0:12:24.38,0:12:24.96,Default,,0,0,0,,alag check karo.
+Dialogue: 0,0:12:24.96,0:12:29.40,Default,,0,0,0,,FAQ eleven; order twenty nine\NApril twenty sixteen, rail fare.
+Dialogue: 0,0:12:29.40,0:12:33.74,Default,,0,0,0,,Five se under twelve child ka actual\Npaid rail fare eligible entitlement ke
+Dialogue: 0,0:12:33.74,0:12:35.28,Default,,0,0,0,,andar reimburse hota hai.
+Dialogue: 0,0:12:35.28,0:12:39.29,Default,,0,0,0,,Example, Eight year old ki permitted\Nrail berth ka actual fare paid hai;
+Dialogue: 0,0:12:39.29,0:12:41.14,Default,,0,0,0,,automatically half fare cut mat karo.
+Dialogue: 0,0:12:41.14,0:12:46.02,Default,,0,0,0,,Rule seven, GID seventeen, clauses\NA, B Roman one and B Roman two.
+Dialogue: 0,0:12:46.02,0:12:50.76,Default,,0,0,0,,Study leave par self aur saath wali family\Nka fare actual ya normal HQ ceiling,
+Dialogue: 0,0:12:50.76,0:12:53.24,Default,,0,0,0,,jo kam; baaki family normal terms par.
+Dialogue: 0,0:12:53.24,0:12:57.84,Default,,0,0,0,,Example, Chennai HQ, Pune study, Goa\Ndestination: actual eight thousand,
+Dialogue: 0,0:12:57.84,0:13:02.10,Default,,0,0,0,,HQ ceiling six thousand; self aur\Nsaath family par six thousand ceiling.
+Dialogue: 0,0:13:02.10,0:13:06.48,Default,,0,0,0,,Rule seven, GID twenty, clause Roman\Nthree, overseas training comparison.
+Dialogue: 0,0:13:06.48,0:13:10.48,Default,,0,0,0,,Overseas training se foreign flight\NLTC mein automatically funded nahi;
+Dialogue: 0,0:13:10.48,0:13:13.60,Default,,0,0,0,,Indian HQ ya SR fifty nine\NHQ ceiling relevant hai.
+Dialogue: 0,0:13:13.60,0:13:15.68,Default,,0,0,0,,Example, Mumbai HQ, London training,
+Dialogue: 0,0:13:15.68,0:13:18.88,Default,,0,0,0,,husband Mumbai mein: London flight\Nko spouse ke Mumbai LTC claim
+Dialogue: 0,0:13:18.88,0:13:19.74,Default,,0,0,0,,mein mat jodo.

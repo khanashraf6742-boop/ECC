@@ -1,0 +1,2 @@
+-r subtitle-requirements.txt
+reportlab==5.1.0

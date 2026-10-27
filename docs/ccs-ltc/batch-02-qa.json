@@ -1,0 +1,102 @@
+{
+  "reviewed_on": "2026-10-27",
+  "tests": {
+    "passed": 33,
+    "batch_2_tests": 11,
+    "retained_batch_1_tests": 22,
+    "command": "python -m unittest discover -s docs/ccs-ltc -p 'test_*.py' -v"
+  },
+  "new_module_coverage": {
+    "modules": [
+      "batch2_content.py",
+      "batch2_roman.py",
+      "build_batch2.py",
+      "build_batch2_video.py"
+    ],
+    "covered_statements": 369,
+    "statements": 382,
+    "statement_percent": 96.6,
+    "combined_statement_branch_percent": 94.65,
+    "covered_branches": 91,
+    "branches": 104,
+    "threshold_percent": 80,
+    "note": "Actual text build, full media build, render-only rebuild and tests executed under coverage."
+  },
+  "video": {
+    "duration_seconds": 799.74,
+    "bytes": 17531567,
+    "resolution": [
+      1920,
+      1080
+    ],
+    "embedded_chapters_verified": 10,
+    "teaching_pages": 46,
+    "opening_date_pages": 2,
+    "full_decode_check": "passed",
+    "caption_pass_aac_unchanged": true,
+    "faststart_check": "passed"
+  },
+  "captions": {
+    "count": 243,
+    "no_devanagari": true,
+    "spoken_and_roman_words_preserved": true,
+    "minimum_cue_seconds": 0.58,
+    "maximum_cue_seconds": 6.87,
+    "maximum_characters_per_second": 34.247,
+    "automatic_phrase_alignment": true,
+    "certified_word_level_accuracy": false,
+    "full_manual_listening_audit": false
+  },
+  "pdf": {
+    "pages": 20,
+    "all_46_card_ids_extractable": true,
+    "all_text_blocks_within_page": true,
+    "visually_inspected_pages": [
+      1,
+      4,
+      10
+    ]
+  },
+  "visually_inspected_actual_video_frames": [
+    "OPEN-LEGAL",
+    "OPEN-PRACTICAL",
+    "B2-17",
+    "B2-26",
+    "B2-43",
+    "B2-46"
+  ],
+  "batch_1_unchanged_against_commit": "ed3c8152f1b349d976131ef08b249c6cf07483fd",
+  "batch_1_file_sha256": {
+    "batch-01-hinglish.mp3": "eb02928739b650d7c30bb4fc060b343a24b28099d74c01d42647314858858a76",
+    "batch-01-video-poster.jpg": "a716ee4137fc9c412e0d8c1da55093e1954ae7e95f032d05206395db839c2b7c",
+    "batch-01-video.ass": "68cbb72fd6e19c43d7ec14eda5939103db4fb3d3ab0062027d66faeac1c6fdc0",
+    "batch-01-video.mp4": "b0b886e7238b31510d23f846878ebac1e94e99f1d38ea581aaca86a9b7002a4a",
+    "batch-01-video.srt": "8a33bf18126d6b1c052c9e169b1d40713350de8402e7b94e24bf46c00a109e03",
+    "batch-01-video.vtt": "f808c2a92534e5f1ad32b66b33fba50dccc545a6ce4c356481ae4bd282c34983",
+    "batch-01.html": "1e5e4b2a16d3556a880a540a1c680706d3f1781d2800776ce499af68e2a1cabc",
+    "batch-01.json": "3f082652eb3dc5fb4c08c5abbc8063a67acb3dda8e93c268029f286273d35671",
+    "batch-01.md": "d55de067e2fff56369e4c0f9900190543a9d5270a495f3ef8df9e3588c9cd217",
+    "batch-01.pdf": "6e4f0aa85fe34c9406004a1e4eaa662fa9b713b3b6aab7149714326c0341aea5"
+  },
+  "artifact_sha256": {
+    "batch-02-video.mp4": "3c5674792dde54b5ce778425db5d39a6ace2d455a7c796eb818ee25e10bf4398",
+    "batch-02-hinglish.mp3": "988eb9d77561f5d64145cc24bb79e0f4f10de37989db715b4f365a223c292946",
+    "batch-02.pdf": "92c252011746a3fdb025bbaed027ba4abd373750f4a04ff805893aeb976a306f",
+    "batch-02.html": "3822d7b7469d7e5949f58f884e4e37d0cfad79c3613c50d4d2adfc3c78c05720",
+    "batch-02.md": "bdf190e9816b01979782ca4846c46ea413f8db33672a1f86d41b9567dd313d4c",
+    "batch-02.json": "abd88d5489ff5a38d0f1a89162ddc851dd9c50252dd963f90c3816496445adfc",
+    "batch-02-narration.json": "c1f0d1ad34475a2dd3a8e89b05c31c5cd698be4ba6d7d32603f421aaa7910e8c",
+    "batch-02-video.srt": "de52e35185656a527d6e468d6182fe0ac09cd7cd399a0136edffdf48daa99865",
+    "batch-02-video.vtt": "888c5529139d285223b0be45726abed9181af2a30c4726e6e5603ee735ca8a4b",
+    "batch-02-video.ass": "2e7d71052445e391b6ecc4d96300d9d9be2bd68a793523321ebff422d509bc9d",
+    "batch-02-video-report.json": "8009281c1250bf6ffa9556892cdc39a249121988f7c190a2c09a8ef76e2ff626",
+    "batch-02-subtitle-report.json": "eaec3e71dd7d4a54e6b2e773cd62897cd180f3fe3c0bb58b62f4a2e779851603"
+  },
+  "legal_review_limits": [
+    "Educational review, not a guarantee or sanction.",
+    "Current substance checked against official July/September 2025 family sources; no verified later family amendment identified.",
+    "2008 origin corroborated by secondary reproduction; original standalone primary effective-date paragraph not retrieved.",
+    "Special Dispensation September 2026 renewal not authenticated here.",
+    "Full-series remaining GIDs and topics remain pending; partial parents are not marked fully covered."
+  ]
+}
