@@ -1,0 +1,311 @@
+[
+  {
+    "file": "clause-01-intro.mp3",
+    "voice": "voice-01",
+    "text": "Sir, इस updated Batch one में हर rule और clause का exact reference पहले बोलो, फिर simple city Hinglish explanation और उसके बाद example दो. Roman one, two, three, four का मतलब bracket वाले Roman numerals है. Rule two, sub rule one की conditions को made up clause letters मत देना.",
+    "units": []
+  },
+  {
+    "file": "clause-02.mp3",
+    "voice": "voice-00",
+    "text": "Rule one, sub rule one. Official name है Central Civil Services, Leave Travel Concession Rules, nineteen eighty eight. Example, Asha की family LTC application के लिए LTC rules check होंगे, pension rules नहीं. Rule one, sub rule two. Rules Gazette में publication की date से start होते हैं, signing date से नहीं. Example, Notification May third को sign और May twenty first को publish हो, तो publication वाली date count होगी. ये dates सिर्फ example हैं. Actual nineteen eighty eight Gazette की exact date original copy से confirm नहीं हुई है. Rule one, sub rule three, opening words. Coverage, Rule one, sub rule four के exclusions के subject है. Covered होना automatic approval नहीं है. Example, Union civil post वाला employee part time है, तो exclusion भी check करना होगा.",
+    "units": [
+      {
+        "card_id": "B1-01",
+        "legal_ref": "Rule 1(1)",
+        "spoken_ref": "Rule one, sub rule one.",
+        "explanation": "Official name है Central Civil Services, Leave Travel Concession Rules, nineteen eighty eight.",
+        "example": "Asha की family LTC application के लिए LTC rules check होंगे, pension rules नहीं.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-02",
+        "legal_ref": "Rule 1(2)",
+        "spoken_ref": "Rule one, sub rule two.",
+        "explanation": "Rules Gazette में publication की date से start होते हैं, signing date से नहीं.",
+        "example": "Notification May third को sign और May twenty first को publish हो, तो publication वाली date count होगी.",
+        "caution": "ये dates सिर्फ example हैं. Actual nineteen eighty eight Gazette की exact date original copy से confirm नहीं हुई है."
+      },
+      {
+        "card_id": "B1-03",
+        "legal_ref": "Rule 1(3), opening words",
+        "spoken_ref": "Rule one, sub rule three, opening words.",
+        "explanation": "Coverage, Rule one, sub rule four के exclusions के subject है. Covered होना automatic approval नहीं है.",
+        "example": "Union civil post वाला employee part time है, तो exclusion भी check करना होगा.",
+        "caution": ""
+      }
+    ]
+  },
+  {
+    "file": "clause-03.mp3",
+    "voice": "voice-00",
+    "text": "Rule one, sub rule three, clause Roman one. Union civil services और posts covered हैं. Defence Services के civilian Government employees भी included हैं. Example, Meera Defence office में civilian clerk है. सिर्फ Defence में काम करने की वजह से उसे exclude नहीं करेंगे. Rule one, sub rule three, clause Roman two. State Government employee Central Government में deputation पर आए, तो coverage है. Example, Raghav State cadre से Central Ministry में deputation पर आया. Coverage के बाद Rule two की conditions भी check होंगी. Rule one, sub rule three, clause Roman three. Contract basis पर Government appointments included हैं. Example, Neha को direct Government contract मिला. सिर्फ contract job होने से उसे exclude नहीं करेंगे. Vendor employee को Ministry में काम करने से automatically यही status नहीं मिलता. Rule one, sub rule three, clause Roman four. Retirement के बाद re employed persons included हैं. Example, Dev को actual Government re employment appointment मिला. उसका case check होगा. सिर्फ pension मिलने से हर retiree को LTC नहीं मिलती.",
+    "units": [
+      {
+        "card_id": "B1-04",
+        "legal_ref": "Rule 1(3)(i)",
+        "spoken_ref": "Rule one, sub rule three, clause Roman one.",
+        "explanation": "Union civil services और posts covered हैं. Defence Services के civilian Government employees भी included हैं.",
+        "example": "Meera Defence office में civilian clerk है. सिर्फ Defence में काम करने की वजह से उसे exclude नहीं करेंगे.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-05",
+        "legal_ref": "Rule 1(3)(ii)",
+        "spoken_ref": "Rule one, sub rule three, clause Roman two.",
+        "explanation": "State Government employee Central Government में deputation पर आए, तो coverage है.",
+        "example": "Raghav State cadre से Central Ministry में deputation पर आया. Coverage के बाद Rule two की conditions भी check होंगी.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-06",
+        "legal_ref": "Rule 1(3)(iii)",
+        "spoken_ref": "Rule one, sub rule three, clause Roman three.",
+        "explanation": "Contract basis पर Government appointments included हैं.",
+        "example": "Neha को direct Government contract मिला. सिर्फ contract job होने से उसे exclude नहीं करेंगे.",
+        "caution": "Vendor employee को Ministry में काम करने से automatically यही status नहीं मिलता."
+      },
+      {
+        "card_id": "B1-07",
+        "legal_ref": "Rule 1(3)(iv)",
+        "spoken_ref": "Rule one, sub rule three, clause Roman four.",
+        "explanation": "Retirement के बाद re employed persons included हैं.",
+        "example": "Dev को actual Government re employment appointment मिला. उसका case check होगा.",
+        "caution": "सिर्फ pension मिलने से हर retiree को LTC नहीं मिलती."
+      }
+    ]
+  },
+  {
+    "file": "clause-04.mp3",
+    "voice": "voice-00",
+    "text": "Rule one, sub rule four, clause A. Non whole time Government employment excluded है. Example, Three hours daily की part time appointment कई years चलने से whole time नहीं बनती. Rule one, sub rule four, clause B. Casual और daily rated employment excluded है. Example, Salim daily rated worker है. Twelve months complete होने से ये exclusion अपने आप नहीं हटता. Rule one, sub rule four, clause C. Persons paid from contingencies excluded हैं. Example, Kavita का actual engagement इसी category में है, तो clause apply होगा. सिर्फ office में contingency budget होने से हर employee इस category में नहीं आता.",
+    "units": [
+      {
+        "card_id": "B1-08",
+        "legal_ref": "Rule 1(4)(a)",
+        "spoken_ref": "Rule one, sub rule four, clause A.",
+        "explanation": "Non whole time Government employment excluded है.",
+        "example": "Three hours daily की part time appointment कई years चलने से whole time नहीं बनती.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-09",
+        "legal_ref": "Rule 1(4)(b)",
+        "spoken_ref": "Rule one, sub rule four, clause B.",
+        "explanation": "Casual और daily rated employment excluded है.",
+        "example": "Salim daily rated worker है. Twelve months complete होने से ये exclusion अपने आप नहीं हटता.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-10",
+        "legal_ref": "Rule 1(4)(c)",
+        "spoken_ref": "Rule one, sub rule four, clause C.",
+        "explanation": "Persons paid from contingencies excluded हैं.",
+        "example": "Kavita का actual engagement इसी category में है, तो clause apply होगा.",
+        "caution": "सिर्फ office में contingency budget होने से हर employee इस category में नहीं आता."
+      }
+    ]
+  },
+  {
+    "file": "clause-05.mp3",
+    "voice": "voice-00",
+    "text": "Rule one, sub rule four, clause D. Railway servants generally excluded हैं. अलग later instructions में conditional All India LTC once in a four year block की limited window है. Example, Railway employee को इस window से normal Hometown LTC automatically नहीं मिलेगी. Pass surrender की complete conditions की primary order verification pending है. Rule one, sub rule four, clause E. Armed Forces members excluded हैं. Example, Army officer और Defence office की civilian clerk को same category में मत रखो. Civilian inclusion अलग है. Rule one, sub rule four, clause F. Indian Missions abroad के local recruits excluded हैं. Example, Paris Mission में locally hired employee और India से posted officer का recruitment status अलग है. Rule one, sub rule four, clause G. किसी दूसरे applicable travel concession की eligibility वाला exclusion check करना है. Wording eligibility है, सिर्फ actual use नहीं. Example, Employee बोले, दूसरा benefit use नहीं किया. सिर्फ ये बोलना enough नहीं है. हर private sector spouse की LTA को blanket ban मत समझो. Relevant later instructions भी check करो.",
+    "units": [
+      {
+        "card_id": "B1-11",
+        "legal_ref": "Rule 1(4)(d) + later instructions",
+        "spoken_ref": "Rule one, sub rule four, clause D.",
+        "explanation": "Railway servants generally excluded हैं. अलग later instructions में conditional All India LTC once in a four year block की limited window है.",
+        "example": "Railway employee को इस window से normal Hometown LTC automatically नहीं मिलेगी.",
+        "caution": "Pass surrender की complete conditions की primary order verification pending है."
+      },
+      {
+        "card_id": "B1-12",
+        "legal_ref": "Rule 1(4)(e)",
+        "spoken_ref": "Rule one, sub rule four, clause E.",
+        "explanation": "Armed Forces members excluded हैं.",
+        "example": "Army officer और Defence office की civilian clerk को same category में मत रखो. Civilian inclusion अलग है.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-13",
+        "legal_ref": "Rule 1(4)(f)",
+        "spoken_ref": "Rule one, sub rule four, clause F.",
+        "explanation": "Indian Missions abroad के local recruits excluded हैं.",
+        "example": "Paris Mission में locally hired employee और India से posted officer का recruitment status अलग है.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-14",
+        "legal_ref": "Rule 1(4)(g)",
+        "spoken_ref": "Rule one, sub rule four, clause G.",
+        "explanation": "किसी दूसरे applicable travel concession की eligibility वाला exclusion check करना है. Wording eligibility है, सिर्फ actual use नहीं.",
+        "example": "Employee बोले, दूसरा benefit use नहीं किया. सिर्फ ये बोलना enough नहीं है.",
+        "caution": "हर private sector spouse की LTA को blanket ban मत समझो. Relevant later instructions भी check करो."
+      }
+    ]
+  },
+  {
+    "file": "clause-06.mp3",
+    "voice": "voice-00",
+    "text": "Rule two, sub rule one, covered categories. ये Rule one, sub rule three के clauses Roman two, Roman three और Roman four के लिए है. Example, State deputationist, contract officer और re employed officer के cases में ये test देखो. Re employment में sub rule three की continuity भी साथ पढ़ो. Rule two, sub rule one, completed service condition. One year की continuous Central Government service complete होनी चाहिए. Example, Neha four year contract sign करके six months बाद trip plan करती है. Long contract, six months को one year नहीं बना देता. Rule two, sub rule one, certification condition. Appropriate administrative authority को required likely service period certify करना है. Example, Employee खुद four years रहने का promise करे, तो वो authority के certificate का substitute नहीं है. Rule two, sub rule one, Hometown duration condition. At least two years की likely Central service joining date से count होगी, trip के बाद two extra years नहीं. Example, Contract January first, twenty twenty six से December thirty first, twenty twenty seven तक है. February twenty twenty seven में one year complete है और joining से total two years हैं. Proper certificate के साथ ये duration condition pass हो सकती है. बाकी LTC conditions भी check होंगी.",
+    "units": [
+      {
+        "card_id": "B1-15",
+        "legal_ref": "Rule 2(1): categories",
+        "spoken_ref": "Rule two, sub rule one, covered categories.",
+        "explanation": "ये Rule one, sub rule three के clauses Roman two, Roman three और Roman four के लिए है.",
+        "example": "State deputationist, contract officer और re employed officer के cases में ये test देखो. Re employment में sub rule three की continuity भी साथ पढ़ो.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-16",
+        "legal_ref": "Rule 2(1): completed service",
+        "spoken_ref": "Rule two, sub rule one, completed service condition.",
+        "explanation": "One year की continuous Central Government service complete होनी चाहिए.",
+        "example": "Neha four year contract sign करके six months बाद trip plan करती है. Long contract, six months को one year नहीं बना देता.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-17",
+        "legal_ref": "Rule 2(1): certification",
+        "spoken_ref": "Rule two, sub rule one, certification condition.",
+        "explanation": "Appropriate administrative authority को required likely service period certify करना है.",
+        "example": "Employee खुद four years रहने का promise करे, तो वो authority के certificate का substitute नहीं है.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-18",
+        "legal_ref": "Rule 2(1): Hometown limb",
+        "spoken_ref": "Rule two, sub rule one, Hometown duration condition.",
+        "explanation": "At least two years की likely Central service joining date से count होगी, trip के बाद two extra years नहीं.",
+        "example": "Contract January first, twenty twenty six से December thirty first, twenty twenty seven तक है. February twenty twenty seven में one year complete है और joining से total two years हैं. Proper certificate के साथ ये duration condition pass हो सकती है.",
+        "caution": "बाकी LTC conditions भी check होंगी."
+      }
+    ]
+  },
+  {
+    "file": "clause-07.mp3",
+    "voice": "voice-00",
+    "text": "Rule two, sub rule one, Any Place in India duration condition. At least four years की likely Central service joining date से count होगी. Example, Contract January first, twenty twenty six से December thirty first, twenty twenty nine तक है. February twenty twenty seven में one year complete है और joining से total four years हैं. Four years trip से फिर count नहीं होंगे. ये duration condition है, final LTC approval नहीं. Rule two, sub rule two. Initial one year contract बाद में extend हो, तो total contract duration LTC के लिए देखो. Example, Neha का twenty twenty six वाला contract बिना gap twenty twenty nine तक extend हुआ. सिर्फ first one year letter देखकर reject मत करो. Actual extension order चाहिए. Rule two, sub rule three, immediate re employment and continuity. Retirement के immediately बाद बिना break re employment में old और new service LTC के लिए continuous treat होती है. Example, Retirement October thirty first के end पर और re employment November first से है. Fresh one year clock automatically start मत करो. Gap वाले case में ये special treatment automatically assume नहीं कर सकते.",
+    "units": [
+      {
+        "card_id": "B1-19",
+        "legal_ref": "Rule 2(1): Any Place in India limb",
+        "spoken_ref": "Rule two, sub rule one, Any Place in India duration condition.",
+        "explanation": "At least four years की likely Central service joining date से count होगी.",
+        "example": "Contract January first, twenty twenty six से December thirty first, twenty twenty nine तक है. February twenty twenty seven में one year complete है और joining से total four years हैं. Four years trip से फिर count नहीं होंगे.",
+        "caution": "ये duration condition है, final LTC approval नहीं."
+      },
+      {
+        "card_id": "B1-20",
+        "legal_ref": "Rule 2(2)",
+        "spoken_ref": "Rule two, sub rule two.",
+        "explanation": "Initial one year contract बाद में extend हो, तो total contract duration LTC के लिए देखो.",
+        "example": "Neha का twenty twenty six वाला contract बिना gap twenty twenty nine तक extend हुआ. सिर्फ first one year letter देखकर reject मत करो. Actual extension order चाहिए.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-21",
+        "legal_ref": "Rule 2(3): conditions",
+        "spoken_ref": "Rule two, sub rule three, immediate re employment and continuity.",
+        "explanation": "Retirement के immediately बाद बिना break re employment में old और new service LTC के लिए continuous treat होती है.",
+        "example": "Retirement October thirty first के end पर और re employment November first से है. Fresh one year clock automatically start मत करो.",
+        "caution": "Gap वाले case में ये special treatment automatically assume नहीं कर सकते."
+      }
+    ]
+  },
+  {
+    "file": "clause-08.mp3",
+    "voice": "voice-00",
+    "text": "Rule two, sub rule three, provided that condition, also called the proviso. Simple test, retire न होते तो ये LTC मिलती? Continuity, used benefit refill नहीं करती. Example, Sana की relevant All India occasion retirement से पहले use हो चुकी है. Next day re employment same occasion दोबारा नहीं देती. Rule two, sub rule three, official illustration. Already used Any Place in India LTC, same four year block में no break re employment से फिर नहीं मिलती. Example, Official illustration का updated hypothetical लो. Dev ने twenty twenty six to twenty twenty nine की All India occasion August में use की, October में retire हुआ और next day re employed हुआ. Same block में fresh All India occasion नहीं मिलेगी. Rule three, employee coverage. Scope में employee और eligible family आते हैं. Rule three में अलग numbered sub rules नहीं हैं. Example, Eligible employee अकेले trip करता है. Family साथ नहीं है, सिर्फ इस वजह से Rule three उसे reject नहीं करता. Rule three, family coverage, read with Rule four, clause D. Family का legal meaning check करो. Rule four, clause D की full detail next batch में होगी. Example, Spouse और friend साथ travel करते हैं. Friend सिर्फ साथ जाने से eligible LTC family member नहीं बनता.",
+    "units": [
+      {
+        "card_id": "B1-22",
+        "legal_ref": "Rule 2(3): proviso",
+        "spoken_ref": "Rule two, sub rule three, provided that condition, also called the proviso.",
+        "explanation": "Simple test, retire न होते तो ये LTC मिलती? Continuity, used benefit refill नहीं करती.",
+        "example": "Sana की relevant All India occasion retirement से पहले use हो चुकी है. Next day re employment same occasion दोबारा नहीं देती.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-23",
+        "legal_ref": "Rule 2(3): official illustration",
+        "spoken_ref": "Rule two, sub rule three, official illustration.",
+        "explanation": "Already used Any Place in India LTC, same four year block में no break re employment से फिर नहीं मिलती.",
+        "example": "Official illustration का updated hypothetical लो. Dev ने twenty twenty six to twenty twenty nine की All India occasion August में use की, October में retire हुआ और next day re employed हुआ. Same block में fresh All India occasion नहीं मिलेगी.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-24",
+        "legal_ref": "Rule 3: employee",
+        "spoken_ref": "Rule three, employee coverage.",
+        "explanation": "Scope में employee और eligible family आते हैं. Rule three में अलग numbered sub rules नहीं हैं.",
+        "example": "Eligible employee अकेले trip करता है. Family साथ नहीं है, सिर्फ इस वजह से Rule three उसे reject नहीं करता.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-25",
+        "legal_ref": "Rule 3: family + Rule 4 cross-reference",
+        "spoken_ref": "Rule three, family coverage, read with Rule four, clause D.",
+        "explanation": "Family का legal meaning check करो. Rule four, clause D की full detail next batch में होगी.",
+        "example": "Spouse और friend साथ travel करते हैं. Friend सिर्फ साथ जाने से eligible LTC family member नहीं बनता.",
+        "caution": ""
+      }
+    ]
+  },
+  {
+    "file": "clause-09.mp3",
+    "voice": "voice-00",
+    "text": "Rule three, cross reference to Rules nine and eleven, and the July first, twenty twenty five FAQ, question six. Employee और eligible family separate groups में अलग time पर travel कर सकते हैं. ये Rule three का नया sub clause नहीं है. Example, Employee June में और eligible family October में travel propose करे, तो separate dates alone rejection का reason नहीं हैं. Person wise block और बाकी conditions check होंगी. September third, twenty twenty five DoPT Guidelines, applicability Note one. Autonomous body officer Central Government में deputation पर आए, तो उस period में temporary Government servant वाला LTC treatment मिलता है. ये Rule one का नया numbered clause नहीं है. Example, Iqbal को सिर्फ autonomous parent body की वजह से reject नहीं करेंगे. Temporary word से हर Rule two certificate automatically infer मत करो. Actual category और deputation terms check करो. September third, twenty twenty five DoPT Guidelines, applicability Note two. Industrial और work charged staff जो regular leave के entitled हैं, वो भी normal conditions पर eligible हैं. Example, Regular leave वाले work charged employee को सिर्फ job title से blanket reject मत करो. First block nineteen sixty to sixty one historical है, आज का travel block नहीं.",
+    "units": [
+      {
+        "card_id": "B1-26",
+        "legal_ref": "Rule 3 + Rules 9/11; FAQ 6",
+        "spoken_ref": "Rule three, cross reference to Rules nine and eleven, and the July first, twenty twenty five FAQ, question six.",
+        "explanation": "Employee और eligible family separate groups में अलग time पर travel कर सकते हैं. ये Rule three का नया sub clause नहीं है.",
+        "example": "Employee June में और eligible family October में travel propose करे, तो separate dates alone rejection का reason नहीं हैं. Person wise block और बाकी conditions check होंगी.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-27",
+        "legal_ref": "2025 Guidelines: applicability Note 1",
+        "spoken_ref": "September third, twenty twenty five DoPT Guidelines, applicability Note one.",
+        "explanation": "Autonomous body officer Central Government में deputation पर आए, तो उस period में temporary Government servant वाला LTC treatment मिलता है. ये Rule one का नया numbered clause नहीं है.",
+        "example": "Iqbal को सिर्फ autonomous parent body की वजह से reject नहीं करेंगे.",
+        "caution": "Temporary word से हर Rule two certificate automatically infer मत करो. Actual category और deputation terms check करो."
+      },
+      {
+        "card_id": "B1-28",
+        "legal_ref": "2025 Guidelines: applicability Note 2",
+        "spoken_ref": "September third, twenty twenty five DoPT Guidelines, applicability Note two.",
+        "explanation": "Industrial और work charged staff जो regular leave के entitled हैं, वो भी normal conditions पर eligible हैं.",
+        "example": "Regular leave वाले work charged employee को सिर्फ job title से blanket reject मत करो.",
+        "caution": "First block nineteen sixty to sixty one historical है, आज का travel block नहीं."
+      }
+    ]
+  },
+  {
+    "file": "clause-10.mp3",
+    "voice": "voice-00",
+    "text": "September third, twenty twenty five DoPT Guidelines, paragraph two. Consolidation में conflict या unclear summary हो, तो relevant governing OM या order check करो. ये Rule two का sub rule नहीं है. Example, Summary की unclear line को नया amendment मत मानो. Actual applicable order की reference लो. Batch one teaching checklist, not a separate legal rule. Category, exclusion, valid exception, special service conditions, old block history और eligible family check करो. Example, Contract officer ये starting checks pass करता है. फिर भी payment से पहले family, leave, block, mode, fare, booking और claim conditions अलग check होंगी. Original Gazette date, detailed Railway pass conditions और complete later order checks अभी open हैं.",
+    "units": [
+      {
+        "card_id": "B1-29",
+        "legal_ref": "2025 Guidelines: paragraph 2",
+        "spoken_ref": "September third, twenty twenty five DoPT Guidelines, paragraph two.",
+        "explanation": "Consolidation में conflict या unclear summary हो, तो relevant governing OM या order check करो. ये Rule two का sub rule नहीं है.",
+        "example": "Summary की unclear line को नया amendment मत मानो. Actual applicable order की reference लो.",
+        "caution": ""
+      },
+      {
+        "card_id": "B1-30",
+        "legal_ref": "Batch 1 decision chain",
+        "spoken_ref": "Batch one teaching checklist, not a separate legal rule.",
+        "explanation": "Category, exclusion, valid exception, special service conditions, old block history और eligible family check करो.",
+        "example": "Contract officer ये starting checks pass करता है. फिर भी payment से पहले family, leave, block, mode, fare, booking और claim conditions अलग check होंगी.",
+        "caution": "Original Gazette date, detailed Railway pass conditions और complete later order checks अभी open हैं."
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CCS LTC | Batch 01 — The Foundations</title>
+<style>
+:root{color-scheme:dark;--bg:#080c18;--panel:#111a2f;--ink:#eef2fc;--muted:#b1bdd5;--line:#2b3753;--cyan:#56d1ff;--teal:#55e0b5;--gold:#ffd260;--purple:#c5a0ff}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 90% 0,#25163e 0,transparent 45%),var(--bg);color:var(--ink);font:16px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif}button,input,select{font:inherit}a{color:var(--cyan);text-underline-offset:4px}a:hover{color:#fff}button,select,input{color:var(--ink);background:#10182b;border:1px solid #506080;border-radius:9px;padding:9px 14px}button,select{cursor:pointer}button:hover{border-color:var(--cyan)}button:disabled{opacity:.45;cursor:not-allowed}button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid var(--gold);outline-offset:4px}button[aria-pressed=true]{background:#26314e;border-color:var(--cyan);color:var(--cyan)}[hidden]{display:none!important}.skip{position:absolute;left:16px;top:-100px;background:#111;padding:10px;z-index:99}.skip:focus{top:10px}
+.topbar{border-bottom:1px solid var(--line);background:#080d19e8}.topinner{max-width:1260px;margin:auto;padding:15px 28px;display:flex;justify-content:space-between;gap:16px;align-items:center}.brand{font-weight:750;letter-spacing:.05em}.brand span{color:var(--cyan)}.topnote{font-size:12px;color:var(--muted);text-align:right}.shell{max-width:1200px;padding:38px 28px 60px;margin:auto}.eyebrow{color:var(--purple);font-size:12px;font-weight:750;letter-spacing:.08em;text-transform:uppercase}.eyebrow span{padding:0 8px}h1{font-size:clamp(30px,5vw,50px);line-height:1.12;letter-spacing:-.04em;margin:14px 0 16px;max-width:850px}h1 em{font-style:normal;color:var(--cyan)}.lede{color:var(--muted);max-width:900px;margin-bottom:24px}h2{font-size:24px;line-height:1.35;letter-spacing:-.02em;margin:10px 0 22px}h3{font-size:15px;margin:0 0 9px}small{font-size:12px;color:var(--muted);font-weight:400;margin-left:8px}p{margin:8px 0 0}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.stat{border:1px solid var(--line);border-top:2px solid var(--cyan);background:#10182b;border-radius:11px;padding:15px 18px}.stat:nth-child(2){border-top-color:var(--gold)}.stat:nth-child(3){border-top-color:var(--teal)}.stat:nth-child(4){border-top-color:var(--purple)}.stat strong{display:block;font-size:20px}.stat span{display:block;font-size:12px;color:var(--muted)}.notice{border:1px solid #75602d;background:#272112;border-radius:11px;padding:16px 20px;margin:22px 0;color:#ffdf8a;font-size:14px}.notice strong{color:var(--gold)}.audio-panel{background:#10182b;border:1px solid var(--line);border-radius:12px;padding:18px 20px}.audio-head{display:flex;justify-content:space-between;align-items:center;gap:15px;margin-bottom:12px}.audio-head strong{font-size:14px}.audio-head span{font-size:12px;color:var(--muted)}audio{display:block;width:100%;height:42px}.audio-panel details{font-size:14px;margin-top:12px}.transcript{padding:16px;max-height:350px;overflow:auto}.transcript h3{margin-top:18px}.transcript p{line-height:1.85}
+.navbar{margin:28px 0 18px;border-bottom:1px solid var(--line);display:flex;gap:8px;flex-wrap:wrap;padding-bottom:12px}.navbar button{font-size:14px}.tools{display:flex;align-items:center;gap:12px;margin:16px 0;flex-wrap:wrap}.search-wrap{flex:1;min-width:200px}.search-wrap input{width:100%}.search-wrap label{display:block;font-size:12px;color:var(--muted);margin-bottom:4px}.tools .result{font-size:12px;color:var(--muted)}.focus-nav{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:18px}.focus-nav select{flex:1;max-width:100%;min-width:180px}.focus-nav label{font-size:13px;color:var(--muted)}.focus-position{font-size:12px;color:var(--gold)}.lesson{border:1px solid var(--line);border-radius:14px;padding:26px;margin-bottom:24px;background:linear-gradient(145deg,#151c34,#10182b);scroll-margin-top:20px}.lesson:focus{outline:none}.lesson h2{margin-bottom:22px}.label{font-size:11px;letter-spacing:.08em;font-weight:750;color:var(--cyan)}.spoken-anchor{font-size:13px;color:var(--cyan);border-left:2px solid var(--purple);padding:8px 12px;margin:0 0 18px;overflow-wrap:anywhere}.provision{background:#101c31;border-left:3px solid var(--cyan);padding:15px 18px;border-radius:5px}.provision p{font-size:16px;font-weight:550}.explanation{padding:22px 0 20px}.explanation h3{color:var(--purple)}.example{background:#0c2829;border:1px solid #265e59;border-left:3px solid var(--teal);border-radius:8px;padding:18px 20px}.example h3{color:var(--teal)}.trap{display:flex;gap:20px;border:1px solid #79632d;background:#282213;padding:14px 18px;border-radius:8px;margin-top:18px;font-size:14px}.trap strong{font-size:10px;min-width:115px;letter-spacing:.08em;color:var(--gold);padding-top:5px}.trap p{margin:0}.authority{border-top:1px solid var(--line);padding-top:14px;margin-top:18px;font-size:12px;color:var(--muted)}summary{cursor:pointer}summary:hover{color:var(--cyan)}.authority p{overflow-wrap:anywhere}.source,.question,.roadmap-row,.panel-intro{border:1px solid var(--line);border-radius:12px;padding:22px;margin-bottom:16px;background:var(--panel)}.source h2{font-size:18px;margin-top:10px;margin-bottom:12px;overflow-wrap:anywhere}.source p{font-size:14px}.caution{color:var(--gold)}.checked{color:var(--teal)}.roadmap-row{display:flex;gap:20px}.roadmap-row h2{font-size:17px;margin:0 0 8px}.roadmap-row p{font-size:13px;color:var(--muted)}.roadmap-row p.caution{color:var(--gold)}.roadmap-row p.checked{color:var(--teal)}.batch-no{font-size:26px;color:var(--purple);min-width:38px}.question summary{font-weight:600}.question p{padding-top:12px;color:var(--teal)}.panel-intro p{color:var(--muted);font-size:14px}.empty{padding:40px;border:1px dashed var(--line);text-align:center;color:var(--muted)}footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:20px;margin-top:30px}.print-only{display:none}
+@media(max-width:650px){.shell{padding:25px 16px 40px}.topinner{padding:12px 16px}.topnote{max-width:150px}.stats{grid-template-columns:repeat(2,1fr)}.stat{padding:12px}.lesson{padding:19px 16px}.trap{display:block}.trap p{margin-top:8px}.audio-head{display:block}.audio-head span{display:block;margin-top:5px}small{display:block;margin-left:0}.navbar{gap:6px}.navbar button{padding:8px 10px;font-size:12px}.focus-nav{gap:8px}.focus-nav select{flex-basis:100%}.roadmap-row{padding:16px;gap:12px}}
+@media(prefers-reduced-motion:no-preference){button{transition:border-color .16s ease,background .16s ease}}
+@media print{html,body{color-scheme:light;background:white!important;color:#111!important;font-size:11pt}.topbar,.audio-panel,.navbar,.tools,.focus-nav,.skip,.no-print{display:none!important}.shell{padding:0;max-width:none}#learn,#sources,#roadmap,#quiz,.lesson,.print-only{display:block!important}#empty{display:none!important}.stats{display:none}.notice,.lesson,.source,.question,.roadmap-row,.panel-intro{background:white!important;border-color:#aaa!important;color:#111!important;box-shadow:none;break-inside:auto}.lesson{break-before:page}.example,.trap,.spoken-anchor{font-size:13px;color:var(--cyan);border-left:2px solid var(--purple);padding:8px 12px;margin:0 0 18px;overflow-wrap:anywhere}.provision{background:#fafafa!important;color:#111!important;border-color:#777!important;break-inside:avoid}a,.eyebrow,.label,.explanation h3,.example h3,.trap strong,.caution,.checked,.roadmap-row p,.batch-no,small,.lede,footer,.authority,.panel-intro p,.spoken-anchor{color:#222!important}h1 em{color:#111}h2,h3{break-after:avoid}.question p{color:#111}summary{font-weight:650}.source h2{font-size:13pt}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to the lesson</a>
+<header class="topbar"><div class="topinner"><div class="brand">CCS <span>/</span> LTC STUDIO</div><div class="topnote">BATCH 01 · RULES 1–3<br>Evidence review: 27 Oct 2026</div></div></header>
+<div class="shell">
+<section aria-labelledby="course-title"><div class="eyebrow">THE DETAILED SERIES · CITY HINGLISH AUDIO</div>
+<h1>The foundations.<br><em>Who is covered?</em></h1>
+<p class="lede">Applicability, exclusions, special service conditions and scope. One legal anchor at a time—with a practical application immediately after every explanation.</p>
+<div class="stats"><div class="stat"><strong>Rules 1–3</strong><span>Precisely bounded scope</span></div><div class="stat"><strong>30 cards</strong><span>Each with a hypothetical example</span></div><div class="stat"><strong>2 selected voices</strong><span>City Hinglish · revised audio</span></div><div class="stat"><strong>16 batches</strong><span>Full master mapped · later work pending</span></div></div>
+<div class="notice"><strong>Important correction · Rule 2(1)</strong><br>The certified two-/four-year period is reckoned <strong>from joining the Central Government post</strong>, not as additional years remaining after the journey. Core text checked against official-hosted DoPT documents; exact Gazette date, Railway pass mechanics and exhaustive later-order verification remain open. This is not a complete current-law certification.</div>
+</section>
+<section class="audio-panel" aria-label="Narration companion"><div class="audio-head"><strong>▶ Condensed Hinglish audio · Clause-reference edition</strong><span>City Hinglish · rule/clause reference → explanation → example</span></div>
+<audio controls preload="metadata" aria-label="Play updated Batch 1 city Hinglish narration with spoken clause references" src="data:audio/mpeg;base64,@@AUDIO@@"></audio>
+<details><summary>Read the clause-referenced audio transcript</summary><div class="transcript">@@TRANSCRIPT@@</div></details>
+</section>
+<nav class="navbar" aria-label="Study views"><button type="button" data-view="reader" aria-pressed="true">Detailed reader</button><button type="button" data-view="focus" aria-pressed="false">One-card focus</button><button type="button" data-view="quiz" aria-pressed="false">Test yourself</button><button type="button" data-view="sources" aria-pressed="false">Sources &amp; limits</button><button type="button" data-view="roadmap" aria-pressed="false">Full batch plan</button><button type="button" id="print">Print / Save PDF</button></nav>
+<main id="main" tabindex="-1">
+<section id="learn" aria-label="Batch 1 detailed lessons">
+<div class="tools" id="reader-tools"><div class="search-wrap"><label for="search">Find a rule, category or example</label><input id="search" type="search" placeholder="Try: contract, joining, re-employment…"></div><span class="result" id="results" aria-live="polite">30 of 30 cards</span></div>
+<div class="focus-nav" id="focus-tools" hidden><label for="jump">Jump to card</label><select id="jump">@@JUMP@@</select><button type="button" id="previous" aria-label="Previous card">← Previous</button><button type="button" id="next" aria-label="Next card">Next →</button><span class="focus-position" id="position" aria-live="polite"></span></div>
+<p class="empty" id="empty" hidden>No matching cards. Try a different word or clear the search.</p>
+@@CARDS@@
+</section>
+<section id="quiz" hidden aria-labelledby="quiz-title"><div class="panel-intro"><div class="eyebrow">ACTIVE RECALL</div><h2 id="quiz-title">Decide first. Then reveal why.</h2><p>These are original practice questions, not claimed previous-year exam questions. Apply the conditions rather than memorising a slogan.</p></div>@@QUIZ@@</section>
+<section id="sources" hidden aria-labelledby="sources-title"><div class="panel-intro"><div class="eyebrow">PROVENANCE &amp; HONEST LIMITS</div><h2 id="sources-title">What was actually checked?</h2><p>Primary text and official-hosted copies are distinguished from secondary discovery leads. No search result is silently promoted into an authenticated order. Provision cards are close restatements, not quotations. Read the review notes for correction decisions and pending dependencies.</p></div>@@SOURCES@@</section>
+<section id="roadmap" hidden aria-labelledby="roadmap-title"><div class="panel-intro"><div class="eyebrow">80 SOURCE CHAPTERS · 28 APPENDICES</div><h2 id="roadmap-title">The complete batch plan</h2><p>Only Batch 1 is drafted here. The rest is structurally inventoried, not declared legally verified. Batch 16 reconciles all 28 appendices and the gap-closure chapters; valid unique items are also linked back into the relevant topic batch.</p></div>@@ROADMAP@@</section>
+</main>
+<footer><strong>Educational file · not a final sanction opinion.</strong> All named scenarios are realistic invented examples, not actual cases. There is no separate CCS Travelling Allowance attachment in the supplied files. Audio is a condensed companion; card navigation is not synchronised to speech. Original pension compiler and screenshot were used as presentation references, not as legal authority for LTC.<br><span class="no-print">Offline-ready · no external scripts, fonts or speech services · use the Sources view to inspect evidence limits.</span></footer>
+</div>
+<script>
+'use strict';
+const cards = Array.from(document.querySelectorAll('.lesson'));
+const views = Array.from(document.querySelectorAll('[data-view]'));
+const sections = ['learn','quiz','sources','roadmap'];
+const input = document.getElementById('search');
+let mode = 'reader', index = 0;
+function render() {
+  sections.forEach(id => {document.getElementById(id).hidden = id === 'learn' ? !['reader','focus'].includes(mode) : id !== mode;});
+  views.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.view === mode)));
+  document.getElementById('reader-tools').hidden = mode !== 'reader';
+  document.getElementById('focus-tools').hidden = mode !== 'focus';
+  const query = input.value.trim().toLocaleLowerCase();
+  let matches = 0;
+  cards.forEach((card, i) => {
+    const found = card.textContent.toLocaleLowerCase().includes(query);
+    if (found) matches++;
+    card.hidden = mode === 'focus' ? i !== index : !found;
+  });
+  document.getElementById('results').textContent = `${matches} of ${cards.length} cards`;
+  document.getElementById('empty').hidden = mode !== 'reader' || matches !== 0;
+  document.getElementById('position').textContent = `${index + 1} / ${cards.length}`;
+  document.getElementById('jump').value = String(index);
+  document.getElementById('previous').disabled = index === 0;
+  document.getElementById('next').disabled = index === cards.length - 1;
+}
+function move(delta) { index = Math.max(0, Math.min(cards.length - 1, index + delta)); render(); }
+views.forEach(button => button.addEventListener('click', () => {mode = button.dataset.view;render();}));
+input.addEventListener('input', render);
+document.getElementById('previous').addEventListener('click', () => move(-1));
+document.getElementById('next').addEventListener('click', () => move(1));
+document.getElementById('jump').addEventListener('change', event => {index = Number(event.target.value);render();});
+document.addEventListener('keydown', event => {
+  if (mode !== 'focus' || ['INPUT','SELECT','TEXTAREA','AUDIO','BUTTON','SUMMARY'].includes(event.target.tagName) || event.altKey || event.ctrlKey || event.metaKey) return;
+  if (event.key === 'ArrowRight') {event.preventDefault();move(1);}
+  if (event.key === 'ArrowLeft') {event.preventDefault();move(-1);}
+});
+let printState = [];
+function preparePrint() {if (printState.length) return; printState = Array.from(document.querySelectorAll('details')).map(node => [node,node.open]);printState.forEach(([node]) => {node.open = true;});}
+window.addEventListener('beforeprint', preparePrint);
+window.addEventListener('afterprint', () => {printState.forEach(([node,open]) => {node.open = open;});printState=[];render();});
+document.getElementById('print').addEventListener('click', () => window.print());
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,109 @@
+kind,number,title,batch,status,text_sha256
+chapter,1,"1. Short Title, Applicability & Scope Very High-Yield Core Rule",1,Batch 1 cross-reference; core text compared,3f63b4af628e2fe08afac70a9a62760abaa5d94cba9ac1c2a447021f694829ab
+chapter,2,"2. Additional Applicability, Service and Administrative Notes Supplementary 03.09.2025 Addendum",1,Batch 1 cross-reference; core text compared,683f983a7dd30fb4c4feeabc996ffd01c47ff45168595f3736ed353de45dcb79
+chapter,3,3. Who Else Is Covered and How the Compilation Must Be Read 03.09.2025 Addendum,1,Batch 1 cross-reference; core text compared,9eb28b4b4b80c7713309f1f18f9636ef6c53fd730cf3e7b79af4eb3b197567f1
+chapter,4,"4. Definitions: Family, Hometown & Key Terms (Rule 4) Very High-Yield Core Rule",2,structure inventoried; content pending,2627227de79764ae049854f2451796baa697b8da9c05722e2f2247f2e1789685
+chapter,5,5. Family & Dependency — Official FAQs Very High-Yield Official FAQ,2,structure inventoried; content pending,5b35831f0a0b436b4642e8497b1f4b799cb028760aa9ca1f88775684536355dd
+chapter,6,6. Family Staying Away from HQ/Hometown: Counting Logic High-Yield Official FAQ,2,structure inventoried; content pending,dbb6c81d6a4c861235ebb8f9e81333e67f8fd2169445a036a1b7bb5bdef60c50
+chapter,7,"7. Additional Family, Marriage and Retirement-Leave Cases High-Yield 03.09.2025 Addendum",2,structure inventoried; content pending,6774dd0f2713c1d1623f710c1157e2762d9a019029d98886727cb800a0f32929
+chapter,8,8. Family-Related Edge Cases 03.09.2025 Addendum,2,structure inventoried; content pending,a9a891bb46c0840c01f006c59513ffddb67189f87aae745bc2df92c999de0b3c
+chapter,9,"9. Hometown Declaration, Change & Place of Visit (Rules 5-6) High-Yield Core Rule",3,structure inventoried; content pending,e9833602c783351b93ab3f105185903801d66e99cb3bfef3ca69352f0b06adfd
+chapter,10,10. Admissibility of LTC (Rule 7) Very High-Yield Core Rule,4,structure inventoried; content pending,60e6c4fd7a7d33435b14aee51064a9d9b08e11ae689cbf51708a5c00a61f486b
+chapter,11,11. Leave Requirements for LTC Moderate-Yield Official FAQ,4,structure inventoried; content pending,dd224b6be65b7133723a0001acff7303278dbee6e9fca5704463c1ed573353e0
+chapter,12,"12. Special Situations (Deputation, PSU, Training, Escort, Suspension) Moderate-Yield Core Rule",4,structure inventoried; content pending,047cde1c38494706b1f554b779dfdeacb1613a39d590fa46adf77c789f74472a
+chapter,13,"13. Additional Admissibility, Deputation, Missions and Special-Posting Cases Supplementary 03.09.2025 Addendum",4,structure inventoried; content pending,d661936b3c81ed801399047ce7e120973e29ae2bdf8e05ace3ce3184648e48f8
+chapter,14,"14. Evidence, Missions, Tour/Transfer and Deputation Mechanics 03.09.2025 Addendum",4,structure inventoried; content pending,344bb4078611e463fd4de3416a5f81bd2e5afbc05777dbd32925a158baf1ca59
+chapter,15,15. Fine-Grained Rule 7 and Rule 12 Clarifications 2026 Orders Audit,4,structure inventoried; content pending,34cd78427f642f5dade90c7eb30bf5feff4b11d7e86c2482d6bc00556e868af3
+chapter,16,"16. Types of LTC, Block Years, Carry-Over & Place of Visit (Rules 8-11) Very High-Yield Core Rule",5,structure inventoried; content pending,963a6378c4249b6d38fc5efbcf46916b050c265729016549ec970605a62a75b5
+chapter,17,"17. Block Year Mechanics, In Depth Very High-Yield Official FAQ",5,structure inventoried; content pending,04de7603a58c9bb64202f78612a4d7e19245ff764a92e2de79fc4c19d8120293
+chapter,18,18. Fresh Recruits: Full Mechanics + 3 Worked Tables Very High-Yield Official FAQ,5,structure inventoried; content pending,e73264bdd7c0275c42de161634a41580d377f52686671e17935c78c68d0eef65
+chapter,19,19. Entitlement: Class of Travel (Rule 12) + Full Pay-Level Table Very High-Yield Core Rule,6,structure inventoried; content pending,bd976ecaa8f13015f831b79a16bc180952044f391f9711558132738a290107f7
+chapter,20,"20. Journey by Road, Rail & Sea High-Yield Official FAQ",6,structure inventoried; content pending,1b472358b03fddb166f4b96ceb452c51fd32c7481e18be65ef6392dbe7edc1b6
+chapter,21,"21. Additional Travel-Mode, Fare and Child-Travel Clarifications High-Yield 03.09.2025 Addendum",6,structure inventoried; content pending,dc2e3d1391d2fea085528b2130503aee092df38dfb1f005fab7b8b5cb681efe0
+chapter,22,"22. Travel Modes, Children, Packages and Islands 03.09.2025 Addendum",6,structure inventoried; content pending,9f5b4d7f158607f7596c5e0eab850ec5f073fd0cc965de005ad69c5ca1a27357
+chapter,23,"23. Fine-Grained Catering, Cancellation and Last-Mile Rules 2026 Orders Audit",6,structure inventoried; content pending,c73e6d2bcfeba5ee6c37811e2b86926735c4165202286a8cb7ee5a92aa478db4
+chapter,24,24. Booking Procedure & Authorised Travel Agents Very High-Yield Core Rule,7,structure inventoried; content pending,8076f7b64fc52471a574783321540d3f41a1a2ecb862e73f035d811abd6a6871
+chapter,25,"25. Journey by Air: ATAs, Fares & the End of LTC-80 Very High-Yield Official FAQ",7,structure inventoried; content pending,4c69af9b178903d9fb2e2cb51b49c45bf8195c95ac876243641dacf080dade99
+chapter,26,26. Air Booking and Fare-Display Details Very High-Yield 2026 Orders Audit,7,structure inventoried; content pending,8069047d97addeb10d0eb5e5e792bf6ffad37c207c67a25b1ce5be2d5e2915bc
+chapter,27,27. Non-ATA Booking — First Question: Is the Employee Air-Entitled? Foundation Deep-Dive Batch,8,structure inventoried; content pending,764d14cfec231a778ba6db00d99eeb701f4097d49bec0ea4cf8416d5eefc094b
+chapter,28,28. Non-ATA Booking — Ordinary Hometown/Normal LTC Important Relaxation Deep-Dive Batch,8,structure inventoried; content pending,39036cf8c45283ef44ef360a28ba530bfe0e47d44450ac3922ef1ba9f5c72cf0
+chapter,29,29. Non-ATA Booking — Ordinary All-India LTC Very High-Yield Deep-Dive Batch,8,structure inventoried; content pending,2f8606a8635474c839535e7c9319afee55b57aaabee66974c7461c9b5424f004
+chapter,30,30. Non-ATA Booking — Why ATA Becomes Mandatory Under Special Dispensation Most Important Deep-Dive Batch,8,structure inventoried; content pending,e0f11ba7c378e9b4a376b1b31ea8d9d387dd302d4c7a5f5e1770b54c42059a51
+chapter,31,31. Non-ATA Booking — When a Special-Scheme Ticket Is Booked Outside an ATA Action-Oriented Deep-Dive Batch,8,structure inventoried; content pending,164a18fac6e0620b35325435b78548138abfd9218f6ed01923655a076656b2d5
+chapter,32,"32. Non-ATA Booking — Fare Cap, Airline, Cancellation and Documentation High-Yield Deep-Dive Batch",8,structure inventoried; content pending,d8082da5d1347861b6226842b7a72389f48ec71372c7676384eddf64c90cd65c
+chapter,33,33. Non-ATA Booking — Worked Examples and Exam Drill Practice Batch Deep-Dive Batch,8,structure inventoried; content pending,7a0106260f43ba5f54c1e263271aace433b87be85005024654e7cb543ba50d13
+chapter,34,"34. Opening Timeline — Parent Rules, Scheme Start and the Special Dispensation Block Core Rule",9,structure inventoried; content pending,8ffab9123d91fd253c19a0ce5b1fcdeb00fecda37a98ef341e54410761e048ff
+chapter,35,"35. Special Dispensation Scheme, In Depth Very High-Yield Official FAQ",9,structure inventoried; content pending,6f806257048c4bff76f5896ac1cce833b843b42096b1b11602fc54a163bc55ac
+chapter,36,36. What the Scheme Is and Which Regions It Covers Very High-Yield Deep-Dive Batch,9,structure inventoried; content pending,5a81ede06aee93a1aa26e3dce781b1399d979ef3e6e4664c511ad53e11512e51
+chapter,37,"37. Validity, Commencement and Current Status Very High-Yield Deep-Dive Batch",9,structure inventoried; content pending,2f975085c9a93dc386e5fca7b8b9c9a6dffe86a651babce72a21862caa08a255
+chapter,38,38. How Hometown LTC Is Converted Very High-Yield Deep-Dive Batch,9,structure inventoried; content pending,b1a2b0e9a5ed4777d2d74c41281599f9321b6cd926dd5f180a3a392d905e2583
+chapter,39,"39. All-India LTC, Hometown LTC and Two Visits in One Block Very High-Yield Deep-Dive Batch",9,structure inventoried; content pending,b1079227ca859c8e14b5b41983e47f541669c2bf55a8490193a807c5ea626ca1
+chapter,40,"40. HQ=HT, Hometown-in-Region and Fresh-Recruit Rules Very High-Yield Deep-Dive Batch",9,structure inventoried; content pending,0082a1f289645052217d598d37159d6070669b4e6621964dd751d6876dc2b0fd
+chapter,41,41. Entitled and Non-Entitled Air Travellers Very High-Yield Deep-Dive Batch,9,structure inventoried; content pending,e68af0142acc953db29915bf4127a7741eb4d4f55f8c72dfe82652ddab48c678
+chapter,42,"42. ATAs, Fare, Cancellation, Leave, Family and Claims Very High-Yield Deep-Dive Batch",9,structure inventoried; content pending,18ee0fe6db4de0e2676e46d352adfb4300d602f45c825ecf173758965656f0cf
+chapter,43,"43. Worked Scenarios, Decision Tree and Exam Drill Scenario-Heavy Deep-Dive Batch",9,structure inventoried; content pending,fcbfffe3129516b76a36696d0039785964fa39b980220147180e639da6ee9396
+chapter,44,44. Special Dispensation Background Orders Very High-Yield 2026 Orders Audit,9,structure inventoried; content pending,7ca7b1b0bcb292b29b7c0ed640034261ced5a9cfab29d57c1c31ff612cc02cf5
+chapter,45,45. Reimbursement Rules (Rule 13) High-Yield Core Rule,10,structure inventoried; content pending,3f86ec79c02ea7fb0bbbe414c9bda62fb2fd7d0a58bfceb591e3c6e10ca1ce3c
+chapter,46,"46. Forfeiture (Rule 14), Advance & Adjustment (Rule 15), Leave Encashment Very High-Yield Core Rule",11,structure inventoried; content pending,7c6abf0f5e2f8fb0b9faae67164b5b15b781d3fd78b2740f1ece9b6a49ec3543
+chapter,47,47. Leave Encashment — Official FAQs High-Yield Official FAQ,11,structure inventoried; content pending,6bc059c91d86e9d9c227225f3b6fda0f629f2b4cfc1ca97f188293f4f2a55d76
+chapter,48,"48. Additional Booking, Claim-Processing and Advance Notes Very High-Yield 03.09.2025 Addendum",11,structure inventoried; content pending,69a7152442f5bfe5aca1ffcc1c9d918b1e879b1af6cf44c227ca379b397dfa68
+chapter,49,49. Additional Leave-Encashment and Fraud-Verification Notes High-Yield 03.09.2025 Addendum,11,structure inventoried; content pending,c288967ae60bbfd141e7252f4e5184dcd94661f3dd982c7070e926a9f7f52d33
+chapter,50,"50. Booking, Cancellation, Processing and Advance Controls 03.09.2025 Addendum",11,structure inventoried; content pending,69ec1b95727f1ce7d95993ad5cd4495d82d8861d21242dc3d5ee959b9000b251
+chapter,51,"51. Advance, Leave Encashment and Verification Controls 03.09.2025 Addendum",11,structure inventoried; content pending,ac91d780ca2087883bd4681b656f40cd3b7efe6cc4a6bb7a8ef76650e7a1646b
+chapter,52,52. Fine-Grained Advance and Rule 16 Notes 2026 Orders Audit,11,structure inventoried; content pending,0dbb414a09b3c7a4b3fcc3788adceedc6bfdf480183b3a25ee60ca5aade25ba8
+chapter,53,53. Additional Reimbursement and Claim Orders High-Yield 2026 Orders Audit,11,structure inventoried; content pending,010bbb9577c0e68ce1ec335be9eda5522b8632c25989f2f6cd6d1e6c558c1257
+chapter,54,"54. The Basic Legal Model: One Unit, Two Employees Very High-Yield Deep-Dive Batch",12,structure inventoried; content pending,b43731b3f1aa9d179e85adf86c5b4d4988c6df5cc48cdc77f61943ca928b7a46
+chapter,55,"55. Residing Together: Joint Hometown, Claimant and Family Coverage Very High-Yield Deep-Dive Batch",12,structure inventoried; content pending,00db6888c65c452721b6062882b1d84662db8413d744833414fedd62e4410321
+chapter,56,56. Residing Separately: Separate Hometowns and Independent Claims Very High-Yield Deep-Dive Batch,12,structure inventoried; content pending,6d335bd55742bee9a685ef006ef8635d7c70014c8b90b12174ea5c10e0195121
+chapter,57,57. Hometown LTC versus All-India LTC in Spouse Cases Very High-Yield Deep-Dive Batch,12,structure inventoried; content pending,b29176e3ff758724c4da657aae08f4f99ea631c925426884dc927eac57dc9231
+chapter,58,"58. Family Members, Children, Parents, Siblings and Dependency Very High-Yield Deep-Dive Batch",12,structure inventoried; content pending,d1fcb883e4bbe8419c7b872ba98da898f0745bb66ed5b7f50b4ae033a16dd566
+chapter,59,"59. Leave, Advance, Booking, Claims and No Double-Dipping Very High-Yield Deep-Dive Batch",12,structure inventoried; content pending,5cb88183bfc76890443d8d79dea398f13bf432531b3a0842a7f388289b3c779e
+chapter,60,"60. Leave Encashment: 10 Days, 60 Days and Spouse Facilities Very High-Yield Deep-Dive Batch",12,structure inventoried; content pending,8a8db48a19cdd7f721b6e6abbf316c8ffaeb989b4dfc64c25b0524b02ce9fd93
+chapter,61,"61. Special Situations, Worked Scenarios and Exam Drill Scenario-Heavy Deep-Dive Batch",12,structure inventoried; content pending,75753aa4e832214598054f0d3faf4ada7ee0beb8e8d9930dd77cb20cd0e4af42
+chapter,62,"62. Fraudulent Claims, Interpretation, Power to Relax, Saving (Rules 16-19) High-Yield Core Rule",13,structure inventoried; content pending,09a0623b875114029b55388735dad9b84316c04bddbd02873456bc0458e1bb41
+chapter,63,63. Relaxations & References to DoPT Moderate-Yield Official FAQ,13,structure inventoried; content pending,b1000fc20a8f347c67100acec222a0bedf72e102e2e27e9238a72631505ba9b1
+chapter,64,64. Anti-Fraud & Misuse-Prevention Guidelines Very High-Yield Forms & Procedure,13,structure inventoried; content pending,6653a481f2f2d1b21b24da97a001c56e7ff90c9e8505d174eda75412b3832fd6
+chapter,65,65. Disciplinary & Vigilance Linkage Very High-Yield Forms & Procedure,13,structure inventoried; content pending,1143a75111242bfb8451ffad18f064be61a61a46ecf3a8e1d4fb72ee706b1afd
+chapter,66,66. Application Form for LTC Advance High-Yield Forms & Procedure,14,structure inventoried; content pending,ca4cc4c43566b0aa01f802b1a48bbeca64e90e7637f36673809bdc887af7bea9
+chapter,67,67. The LTC Bill (Form T.R.25 / GAR-14-C) High-Yield Forms & Procedure,14,structure inventoried; content pending,f115aaa9e803cf6ae5221a087665d7806df9ed65cdd805850c61b02cc9acd44e
+chapter,68,68. Register of LTC Claims & Office-Side Bookkeeping Moderate-Yield Forms & Procedure,14,structure inventoried; content pending,c59ecf6aff9b8472dcd27008d4c450ddac85fb92d09cbd12c0e7abb8bc827ec2
+chapter,69,69. Mandatory Certificates (Controlling Officer & Government Servant) High-Yield Forms & Procedure,14,structure inventoried; content pending,351dadb00f1acf71f2910cf030e2cdeaa8ad4997383d56a7c77c87577413c8ee
+chapter,70,70. Latest Orders & Supersession Timeline (1988-2026) Very High-Yield Core Rule,15,structure inventoried; content pending,2867aa17277bd63ff74fcf9bd19bfe7ea616b98167a4e7ae99f1ae71eb68928f
+chapter,71,71. Current 2026 Status and Supersession Position Very High-Yield 2026 Orders Audit,15,structure inventoried; content pending,4985bb1d3fbcbd854cb66486df5eae5f46fe9d41b5103f8145a423ff61d57e08
+chapter,72,72. Departmental and Implementing Circulars Supplementary 2026 Orders Audit,15,structure inventoried; content pending,bee049d68d0cf930c2de182a4d0994e71719ed7fa35f143de4e362bb73dc1cab
+chapter,73,"73. Compilation Batch A — Eligibility, Railway-Pass Surrender & Spouse Certificates Very High-Yield Deep-Dive Batch",16,structure inventoried; content pending,93cff93cdbe77f6af02fe67f34315611d3d883fc678c78d348ddaab5c145ab1b
+chapter,74,"74. Compilation Batch B — Ladakh Winter Air, Child/Senior-Citizen Full Train Fare & Reservation Charges High-Yield Deep-Dive Batch",16,structure inventoried; content pending,a217344ed37be28d774f637441acc2d1748e9cdc6fabce431a3999959ed05c71
+chapter,75,"75. Compilation Batch C — Advance Interest, Encashment Formula & Refund Arithmetic Very High-Yield Deep-Dive Batch",16,structure inventoried; content pending,923122520889fdc4d6497840cdb0d6eadb3945c61dfe9fe2ee6b0dcd5dc6292c
+chapter,76,"76. Rules 1–7 Batch — Contract Duration, Re-employment Proviso & Combination-Journey Mechanics Very High-Yield Deep-Dive Batch",16,structure inventoried; content pending,e6bd48fef2abf8dd4e1db8594e0d452ecc3b8254f0cf790b445f3878a35630a6
+chapter,77,"77. Part-2 Batch — Spouse-Unit Explicit Conditions (b), (c) and (e) High-Yield Deep-Dive Batch",16,structure inventoried; content pending,dee1902d35141ad58b2ccc2b84eb64213d9b821484499f61cdc932ce7dbfcbd8
+chapter,78,"78. Part-3 Batch — Special Dispensation Sectors, Railhead Mechanics & Hometown-Region Exclusion Most Important Deep-Dive Batch",16,structure inventoried; content pending,28c8e8a2b01f61787d5083d434be84e2238bc7346db08569082dfc8165c78178
+chapter,79,79. Part-4 Batch — 125/65-Day Advance Windows & Guideline-Handout Duties High-Yield Deep-Dive Batch,16,structure inventoried; content pending,60d31cb9bd72c4ae9de5bf033f5c0a97a0da1cbe883c52c0553fc4fa22d7601f
+chapter,80,80. Special Dispensation 2024–26 Batch — Ticketing Discipline & Residual Operational Points Very High-Yield Deep-Dive Batch,16,structure inventoried; content pending,8d039ed2cffba50f08be661e658cb92be7c1b5652b18b11963b622d241872d16
+appendix,1,"App. 1. Master Comparative Table: All Timelines, Thresholds & Authorities Very High-Yield Core Rule",16,structure inventoried; content pending,75448734f7cfa05737399c94557d5c9c2c1ecb51cd6a4181bb6d9b06049e0ffe
+appendix,2,App. 2. Master Consolidated Fact-Sheet — The Rules Fact/Date/Number Heavy Core Rule,16,structure inventoried; content pending,2d8a83d51fad9b9064a3ed3c8d8fd1ce13cbc938c77f5cb436a7b36082cf5265
+appendix,3,App. 3. Master Consolidated Fact-Sheet — FAQ Layer Official FAQ,16,structure inventoried; content pending,5aeca01501aac0b633ad5464f0bd26f516da0fd2c63f2851940ba8f5528c4fa2
+appendix,4,App. 4. Master Consolidated Fact-Sheet — Forms & Procedure Layer Forms & Procedure,16,structure inventoried; content pending,b3e23ada59aa295b16b1ec8bb844e6510828887949f0b92df650ef831050edc6
+appendix,5,App. 5. PDF-Only Quick Reference Fact/Date/Authority Heavy 03.09.2025 Addendum,16,structure inventoried; content pending,2748cc9f057e715f385a5596dfc4377175b929332d9982cb1abeb50457a69f90
+appendix,6,App. 6. Final Cross-Check and Number Map 03.09.2025 Addendum,16,structure inventoried; content pending,1c104c954e279d20550c6b320cf799599a31d63a427839f355e8f4a4a7e04444
+appendix,7,App. 7. Master Special Dispensation Fact-Sheet Fact/Date/Number Heavy Deep-Dive Batch,16,structure inventoried; content pending,a5da16fe1a39f181fc688d8b8329148d4552bc628dccf5f93737f9260e502a1c
+appendix,8,App. 8. Master Spouse-Case Decision Tree and Number Map Fact/Number Heavy Deep-Dive Batch,16,structure inventoried; content pending,f6b1ed3c51bcd24c4333820694e4a4be5ce7236b7bcb9370c1368e18d693e1bd
+appendix,9,App. 9. Non-ATA Three-Column Decision Table Rapid Revision Deep-Dive Batch,16,structure inventoried; content pending,c03b1e844ef633d95039e373315d864662b35bf4d27058ef29239623679815af
+appendix,10,App. 10. Flashcard / Active-Recall Bank — The Rules Core Rule,16,structure inventoried; content pending,96c97547c14388f78a7170ff386adb12e9a1dde4ef8d1cd0706fa609ab712de4
+appendix,11,App. 11. Flashcard / Active-Recall Bank — FAQ Layer Official FAQ,16,structure inventoried; content pending,f90d706796f70d6eb7e2486a985d73e51f13c598669f539c8e43bba7c045c1a6
+appendix,12,App. 12. Flashcard / Active-Recall Bank — Forms & Procedure Forms & Procedure,16,structure inventoried; content pending,08307ad4f72230ae26f88570b53c536d94134ec222f3df1ef8879dbf31a1d622
+appendix,13,App. 13. Exam-Format Drill — The Rules Core Rule,16,structure inventoried; content pending,11f7743cf40c5219c948806e2f7e913b9100117eb8f708312fe5bb243f13225e
+appendix,14,App. 14. Exam-Format Drill — FAQ Layer Official FAQ,16,structure inventoried; content pending,4926be682adeab4527f66614dfa6240a578fe2e38a0c6f1f1a42738069d0015a
+appendix,15,App. 15. Exam-Format Drill — Forms & Procedure Forms & Procedure,16,structure inventoried; content pending,d22c82d35eeb8de309a3b2b2e6f5c5be809505c5e941efef9c1189734b8b2445
+appendix,16,App. 16. Reverse-Lookup Index (Rule No. → Topic → O.M.) Core Rule,16,structure inventoried; content pending,238b565ad5b192dcdbb0428153661fbabf2aa9afac25710a5c39b2aa3299e783
+appendix,17,App. 17. Cross-Reference Index: FAQ → Rule Official FAQ,16,structure inventoried; content pending,3abfed70986733e60623d229fb881da37b1018d0e5e3d71bf8174d1844dcfe4a
+appendix,18,App. 18. Cross-Reference Index: Forms → Rules & FAQs Forms & Procedure,16,structure inventoried; content pending,d0cfc8f4ffdfe8c40129ecb381639acd7908e7eee91c7331db1c88e05440bd5f
+appendix,19,App. 19. Missing-Reference Checklist Audit Complete 2026 Orders Audit,16,structure inventoried; content pending,0a0cd6217f1c1efff5f01882d0408b9926a90891618892f81923d8233a423b82
+appendix,20,App. 20. Coverage Matrix — PDF Pages 1-2 Source Coverage Coverage Audit,16,structure inventoried; content pending,14f4d4909b90fa51b9a69a780b87d5affd35e12823ac0eb71a84b506d36be999
+appendix,21,App. 21. Coverage Matrix — PDF Pages 3-4 Coverage Audit,16,structure inventoried; content pending,0c83775b9f461cf4e4f7f33b5265c81f88bfce1ddd61dd82612125b272629311
+appendix,22,App. 22. Coverage Matrix — PDF Pages 5-6 Coverage Audit,16,structure inventoried; content pending,8aa563204cfcab43f8f33f3a0388c21b7bd12e3848a7f7043e8655a1ca746f80
+appendix,23,App. 23. Coverage Matrix — PDF Pages 7-8 Coverage Audit,16,structure inventoried; content pending,d7be57e59293591c8591513ca6e6c13bd28670c131fea20dceef6131e1b855bb
+appendix,24,App. 24. Coverage Matrix — PDF Pages 9-10 Coverage Audit,16,structure inventoried; content pending,f15f3a6d0efdd75a20829a9517ad49df53c794ff0f7613c7e78a6565bea2478c
+appendix,25,App. 25. Coverage Matrix — PDF Pages 11-12 Coverage Audit,16,structure inventoried; content pending,9446a1efb4db90254369d2c614a096e0d09bc6acbcbb2fad7ff81067309ae21e
+appendix,26,App. 26. Coverage Matrix — PDF Pages 13-14 Coverage Audit,16,structure inventoried; content pending,f14e746ddc501ca773a173b7643a8b6e6be90777e8e0d854559d9b7300c4bbe7
+appendix,27,App. 27. Coverage Matrix — PDF Pages 15-16 Coverage Audit,16,structure inventoried; content pending,93d7be52ef3c4f08dfada2bef1cfe08278da950829da55c2a27b39738bd2c6b0
+appendix,28,App. 28. Final No-Omission Certification Checklist Audit Complete Coverage Audit,16,structure inventoried; content pending,862db5cad437fc352b435a515ae4bc8da863b1c49b06918189b226ea10f7708b
