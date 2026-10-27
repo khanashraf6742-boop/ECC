@@ -1,0 +1,7070 @@
+{
+  "sections": [
+    {
+      "audio": "01-scope-trains.mp3",
+      "audio_sha256": "fcae88192a34e3cb64ff44723ba37ba841dc7292ba70d8d911223100febc95cf",
+      "duration": 38.0,
+      "beat_boundary": 16.7,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 4.7,
+          "text": "Hey everyone! Batch Three में Daily Allowance और claims सीखेंगे।"
+        },
+        {
+          "beat": 1,
+          "start": 4.7,
+          "end": 7.76,
+          "text": "Focus है Central Government civilian official travel।"
+        },
+        {
+          "beat": 1,
+          "start": 7.76,
+          "end": 12.44,
+          "text": "Example: Level seven officer train, hotel और food अलग check करे।"
+        },
+        {
+          "beat": 1,
+          "start": 12.44,
+          "end": 16.7,
+          "text": "हर example hypothetical है; latest order और sanction verify करें।"
+        },
+        {
+          "beat": 2,
+          "start": 16.7,
+          "end": 21.23,
+          "text": "एक important correction: पहले batches में ये train order miss हुआ था।"
+        },
+        {
+          "beat": 2,
+          "start": 21.23,
+          "end": 24.39,
+          "text": "Thirty August twenty twenty three का DoE order check करें।"
+        },
+        {
+          "beat": 2,
+          "start": 24.39,
+          "end": 27.09,
+          "text": "Vande Bharat की entitlement Shatabdi जैसी है।"
+        },
+        {
+          "beat": 2,
+          "start": 27.09,
+          "end": 29.91,
+          "text": "Humsafar की entitlement Rajdhani जैसी है।"
+        },
+        {
+          "beat": 2,
+          "start": 29.91,
+          "end": 34.05,
+          "text": "ये tour, training, transfer और retirement journeys पर apply होता है।"
+        },
+        {
+          "beat": 2,
+          "start": 34.05,
+          "end": 37.83,
+          "text": "Example: Level seven के लिए eligible chair car check करें।"
+        }
+      ],
+      "script_sha256": "6bf002867d2af00977df991ea02419d8b8935009b2a326acfa289bbc4b39e852",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Hey",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.0604107603430748
+        },
+        {
+          "beat": 1,
+          "text": "everyone!",
+          "start": 0.42,
+          "end": 1.4,
+          "probability": 0.518871009349823
+        },
+        {
+          "beat": 1,
+          "text": "Batch",
+          "start": 1.4,
+          "end": 1.86,
+          "probability": 0.5234050899744034
+        },
+        {
+          "beat": 1,
+          "text": "Three",
+          "start": 1.86,
+          "end": 2.14,
+          "probability": 0.019911492243409157
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 2.14,
+          "end": 2.42,
+          "probability": 0.6274284422397614
+        },
+        {
+          "beat": 1,
+          "text": "Daily",
+          "start": 2.42,
+          "end": 2.78,
+          "probability": 0.004781118594110012
+        },
+        {
+          "beat": 1,
+          "text": "Allowance",
+          "start": 2.78,
+          "end": 3.34,
+          "probability": 0.8898063600063324
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 3.34,
+          "end": 3.56,
+          "probability": 0.45670192191998166
+        },
+        {
+          "beat": 1,
+          "text": "claims",
+          "start": 3.56,
+          "end": 3.8,
+          "probability": 0.0021610534749925137
+        },
+        {
+          "beat": 1,
+          "text": "सीखेंगे।",
+          "start": 3.8,
+          "end": 4.7,
+          "probability": 0.6734176075763323
+        },
+        {
+          "beat": 1,
+          "text": "Focus",
+          "start": 4.7,
+          "end": 5.1,
+          "probability": 0.36982494592666626
+        },
+        {
+          "beat": 1,
+          "text": "है",
+          "start": 5.1,
+          "end": 5.34,
+          "probability": 0.8283234536647797
+        },
+        {
+          "beat": 1,
+          "text": "Central",
+          "start": 5.34,
+          "end": 5.7,
+          "probability": 0.12442530691623688
+        },
+        {
+          "beat": 1,
+          "text": "Government",
+          "start": 5.7,
+          "end": 6.06,
+          "probability": 0.9251604080200195
+        },
+        {
+          "beat": 1,
+          "text": "civilian",
+          "start": 6.06,
+          "end": 6.4,
+          "probability": 0.0838107317686081
+        },
+        {
+          "beat": 1,
+          "text": "official",
+          "start": 6.4,
+          "end": 6.92,
+          "probability": 0.35907524824142456
+        },
+        {
+          "beat": 1,
+          "text": "travel।",
+          "start": 6.92,
+          "end": 7.76,
+          "probability": 0.6269089234992862
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 7.76,
+          "end": 8.86,
+          "probability": 0.7077157348394394
+        },
+        {
+          "beat": 1,
+          "text": "Level",
+          "start": 8.86,
+          "end": 9.04,
+          "probability": 0.6321974992752075
+        },
+        {
+          "beat": 1,
+          "text": "seven",
+          "start": 9.04,
+          "end": 9.38,
+          "probability": 0.06098856031894684
+        },
+        {
+          "beat": 1,
+          "text": "officer",
+          "start": 9.38,
+          "end": 9.76,
+          "probability": 0.7859436869621277
+        },
+        {
+          "beat": 1,
+          "text": "train,",
+          "start": 9.76,
+          "end": 10.66,
+          "probability": 0.4360330104827881
+        },
+        {
+          "beat": 1,
+          "text": "hotel",
+          "start": 10.66,
+          "end": 10.94,
+          "probability": 0.856502890586853
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 10.94,
+          "end": 11.3,
+          "probability": 0.6320187350114187
+        },
+        {
+          "beat": 1,
+          "text": "food",
+          "start": 11.3,
+          "end": 11.5,
+          "probability": 0.8916891813278198
+        },
+        {
+          "beat": 1,
+          "text": "अलग",
+          "start": 11.5,
+          "end": 11.82,
+          "probability": 0.6014064610004425
+        },
+        {
+          "beat": 1,
+          "text": "check",
+          "start": 11.82,
+          "end": 12.04,
+          "probability": 0.05769014358520508
+        },
+        {
+          "beat": 1,
+          "text": "करे।",
+          "start": 12.04,
+          "end": 12.44,
+          "probability": 0.5834205244202166
+        },
+        {
+          "beat": 1,
+          "text": "हर",
+          "start": 12.44,
+          "end": 12.98,
+          "probability": 0.45473404601216316
+        },
+        {
+          "beat": 1,
+          "text": "example",
+          "start": 12.98,
+          "end": 13.24,
+          "probability": 0.7304542064666748
+        },
+        {
+          "beat": 1,
+          "text": "hypothetical",
+          "start": 13.24,
+          "end": 13.88,
+          "probability": 0.6454821825027466
+        },
+        {
+          "beat": 1,
+          "text": "है;",
+          "start": 13.88,
+          "end": 14.62,
+          "probability": 0.9580320119857788
+        },
+        {
+          "beat": 1,
+          "text": "latest",
+          "start": 14.62,
+          "end": 14.96,
+          "probability": 0.8325948715209961
+        },
+        {
+          "beat": 1,
+          "text": "order",
+          "start": 14.96,
+          "end": 15.3,
+          "probability": 0.9701546430587769
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 15.3,
+          "end": 15.52,
+          "probability": 0.4902032067378362
+        },
+        {
+          "beat": 1,
+          "text": "sanction",
+          "start": 15.52,
+          "end": 15.76,
+          "probability": 0.8814247846603394
+        },
+        {
+          "beat": 1,
+          "text": "verify",
+          "start": 15.76,
+          "end": 16.12,
+          "probability": 0.008841410279273987
+        },
+        {
+          "beat": 1,
+          "text": "करें।",
+          "start": 16.12,
+          "end": 16.7,
+          "probability": 0.7890036820123593
+        },
+        {
+          "beat": 2,
+          "text": "एक",
+          "start": 16.7,
+          "end": 17.37,
+          "probability": 0.40037326018015545
+        },
+        {
+          "beat": 2,
+          "text": "important",
+          "start": 17.37,
+          "end": 17.67,
+          "probability": 0.008728492073714733
+        },
+        {
+          "beat": 2,
+          "text": "correction:",
+          "start": 17.67,
+          "end": 18.55,
+          "probability": 0.9601161479949951
+        },
+        {
+          "beat": 2,
+          "text": "पहले",
+          "start": 18.55,
+          "end": 18.99,
+          "probability": 0.8378721833229065
+        },
+        {
+          "beat": 2,
+          "text": "batches",
+          "start": 18.99,
+          "end": 19.33,
+          "probability": 0.5595517829060555
+        },
+        {
+          "beat": 2,
+          "text": "में",
+          "start": 19.33,
+          "end": 19.47,
+          "probability": 0.7582465807596842
+        },
+        {
+          "beat": 2,
+          "text": "ये",
+          "start": 19.47,
+          "end": 19.61,
+          "probability": 0.8309669494628906
+        },
+        {
+          "beat": 2,
+          "text": "train",
+          "start": 19.61,
+          "end": 19.91,
+          "probability": 0.10833822935819626
+        },
+        {
+          "beat": 2,
+          "text": "order",
+          "start": 19.91,
+          "end": 20.15,
+          "probability": 0.9589105248451233
+        },
+        {
+          "beat": 2,
+          "text": "miss",
+          "start": 20.15,
+          "end": 20.43,
+          "probability": 0.05967582389712334
+        },
+        {
+          "beat": 2,
+          "text": "हुआ",
+          "start": 20.43,
+          "end": 20.65,
+          "probability": 0.44411780834198
+        },
+        {
+          "beat": 2,
+          "text": "था।",
+          "start": 20.65,
+          "end": 21.23,
+          "probability": 0.5113129714503885
+        },
+        {
+          "beat": 2,
+          "text": "Thirty",
+          "start": 21.23,
+          "end": 21.55,
+          "probability": 0.01701696403324604
+        },
+        {
+          "beat": 2,
+          "text": "August",
+          "start": 21.55,
+          "end": 21.83,
+          "probability": 0.6231510639190674
+        },
+        {
+          "beat": 2,
+          "text": "twenty",
+          "start": 21.83,
+          "end": 22.21,
+          "probability": 0.0024346578866243362
+        },
+        {
+          "beat": 2,
+          "text": "twenty",
+          "start": 22.21,
+          "end": 22.43,
+          "probability": 0.6531296372413635
+        },
+        {
+          "beat": 2,
+          "text": "three",
+          "start": 22.43,
+          "end": 22.73,
+          "probability": 0.43134626746177673
+        },
+        {
+          "beat": 2,
+          "text": "का",
+          "start": 22.73,
+          "end": 22.87,
+          "probability": 0.8626742362976074
+        },
+        {
+          "beat": 2,
+          "text": "DoE",
+          "start": 22.87,
+          "end": 23.27,
+          "probability": 0.4612243613228202
+        },
+        {
+          "beat": 2,
+          "text": "order",
+          "start": 23.27,
+          "end": 23.49,
+          "probability": 0.9128914475440979
+        },
+        {
+          "beat": 2,
+          "text": "check",
+          "start": 23.49,
+          "end": 23.71,
+          "probability": 0.20511148869991302
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 23.71,
+          "end": 24.39,
+          "probability": 0.6525846769412359
+        },
+        {
+          "beat": 2,
+          "text": "Vande",
+          "start": 24.39,
+          "end": 24.75,
+          "probability": 0.5300941541790962
+        },
+        {
+          "beat": 2,
+          "text": "Bharat",
+          "start": 24.75,
+          "end": 25.13,
+          "probability": 0.7969515323638916
+        },
+        {
+          "beat": 2,
+          "text": "की",
+          "start": 25.13,
+          "end": 25.27,
+          "probability": 0.6665973365306854
+        },
+        {
+          "beat": 2,
+          "text": "entitlement",
+          "start": 25.27,
+          "end": 25.77,
+          "probability": 0.9725719690322876
+        },
+        {
+          "beat": 2,
+          "text": "Shatabdi",
+          "start": 25.77,
+          "end": 26.41,
+          "probability": 0.6524983603158034
+        },
+        {
+          "beat": 2,
+          "text": "जैसी",
+          "start": 26.41,
+          "end": 26.73,
+          "probability": 0.7288614392280579
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 26.73,
+          "end": 27.09,
+          "probability": 0.7811245396733284
+        },
+        {
+          "beat": 2,
+          "text": "Humsafar",
+          "start": 27.09,
+          "end": 27.65,
+          "probability": 0.1715519775946935
+        },
+        {
+          "beat": 2,
+          "text": "की",
+          "start": 27.65,
+          "end": 27.83,
+          "probability": 0.9312795102596283
+        },
+        {
+          "beat": 2,
+          "text": "entitlement",
+          "start": 27.83,
+          "end": 28.35,
+          "probability": 0.9970930814743042
+        },
+        {
+          "beat": 2,
+          "text": "Rajdhani",
+          "start": 28.35,
+          "end": 29.07,
+          "probability": 0.8481387197971344
+        },
+        {
+          "beat": 2,
+          "text": "जैसी",
+          "start": 29.07,
+          "end": 29.37,
+          "probability": 0.9476418256759643
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 29.37,
+          "end": 29.91,
+          "probability": 0.9666397124528885
+        },
+        {
+          "beat": 2,
+          "text": "ये",
+          "start": 29.91,
+          "end": 30.19,
+          "probability": 0.7022372583548228
+        },
+        {
+          "beat": 2,
+          "text": "tour,",
+          "start": 30.19,
+          "end": 30.91,
+          "probability": 0.8573517203330994
+        },
+        {
+          "beat": 2,
+          "text": "training,",
+          "start": 30.91,
+          "end": 31.45,
+          "probability": 0.8898683190345764
+        },
+        {
+          "beat": 2,
+          "text": "transfer",
+          "start": 31.45,
+          "end": 31.79,
+          "probability": 0.9345666766166687
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 31.79,
+          "end": 32.09,
+          "probability": 0.5952852765719095
+        },
+        {
+          "beat": 2,
+          "text": "retirement",
+          "start": 32.09,
+          "end": 32.39,
+          "probability": 0.5712502598762512
+        },
+        {
+          "beat": 2,
+          "text": "journeys",
+          "start": 32.39,
+          "end": 32.83,
+          "probability": 0.4883347749710083
+        },
+        {
+          "beat": 2,
+          "text": "पर",
+          "start": 32.83,
+          "end": 33.07,
+          "probability": 0.7217730482419332
+        },
+        {
+          "beat": 2,
+          "text": "apply",
+          "start": 33.07,
+          "end": 33.25,
+          "probability": 0.15032050013542175
+        },
+        {
+          "beat": 2,
+          "text": "होता",
+          "start": 33.25,
+          "end": 33.59,
+          "probability": 0.7468479499220848
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 33.59,
+          "end": 34.05,
+          "probability": 0.8786866813898087
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 34.05,
+          "end": 35.09,
+          "probability": 0.7364251911640167
+        },
+        {
+          "beat": 2,
+          "text": "Level",
+          "start": 35.09,
+          "end": 35.31,
+          "probability": 0.2055222988128662
+        },
+        {
+          "beat": 2,
+          "text": "seven",
+          "start": 35.31,
+          "end": 35.67,
+          "probability": 0.11840999871492386
+        },
+        {
+          "beat": 2,
+          "text": "के",
+          "start": 35.67,
+          "end": 35.89,
+          "probability": 0.7091380953788757
+        },
+        {
+          "beat": 2,
+          "text": "लिए",
+          "start": 35.89,
+          "end": 36.03,
+          "probability": 0.8034899711608887
+        },
+        {
+          "beat": 2,
+          "text": "eligible",
+          "start": 36.03,
+          "end": 36.45,
+          "probability": 0.9730556607246399
+        },
+        {
+          "beat": 2,
+          "text": "chair",
+          "start": 36.45,
+          "end": 36.77,
+          "probability": 0.9235758781433105
+        },
+        {
+          "beat": 2,
+          "text": "car",
+          "start": 36.77,
+          "end": 37.01,
+          "probability": 0.061319123953580856
+        },
+        {
+          "beat": 2,
+          "text": "check",
+          "start": 37.01,
+          "end": 37.25,
+          "probability": 0.1584906131029129
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 37.25,
+          "end": 37.83,
+          "probability": 0.970763623714447
+        }
+      ]
+    },
+    {
+      "audio": "02-food-clock.mp3",
+      "audio_sha256": "cc066709a0bc4588116d6dc2d1f12e3b7207028e04549a85b3576f939cdb2316",
+      "duration": 36.04,
+      "beat_boundary": 17.6,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 3.56,
+          "text": "Food component के लिए bills submit नहीं करने होते।"
+        },
+        {
+          "beat": 1,
+          "start": 3.56,
+          "end": 7.12,
+          "text": "हर calendar day की absence से percentage तय होता है।"
+        },
+        {
+          "beat": 1,
+          "start": 7.12,
+          "end": 11.18,
+          "text": "Six hours से कम पर thirty percent, six से twelve पर seventy।"
+        },
+        {
+          "beat": 1,
+          "start": 11.18,
+          "end": 13.6,
+          "text": "Twelve hours से ऊपर one hundred percent है।"
+        },
+        {
+          "beat": 1,
+          "start": 13.6,
+          "end": 17.6,
+          "text": "Example: Level seven पर seven hours का food सात सौ रुपये है।"
+        },
+        {
+          "beat": 2,
+          "start": 17.6,
+          "end": 21.53,
+          "text": "Absence midnight से midnight, हर दिन अलग count होती है।"
+        },
+        {
+          "beat": 2,
+          "start": 21.53,
+          "end": 25.59,
+          "text": "Example: Level seven tour रात eight से सुबह five तक है।"
+        },
+        {
+          "beat": 2,
+          "start": 25.59,
+          "end": 28.45,
+          "text": "पहले दिन four hours, अगले दिन five hours हैं।"
+        },
+        {
+          "beat": 2,
+          "start": 28.45,
+          "end": 31.93,
+          "text": "दोनों पर thirty percent यानी three hundred plus three hundred।"
+        },
+        {
+          "beat": 2,
+          "start": 31.93,
+          "end": 35.91,
+          "text": "Total food component six hundred रुपये होगा, बाकी conditions check करें।"
+        }
+      ],
+      "script_sha256": "b10e71a14cb67f9a3666a69a64151bc9d446dd341478f9a1b730055f631c10b3",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Food",
+          "start": 0.0,
+          "end": 0.58,
+          "probability": 0.0004899642080999911
+        },
+        {
+          "beat": 1,
+          "text": "component",
+          "start": 0.58,
+          "end": 1.08,
+          "probability": 0.49825718998908997
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 1.08,
+          "end": 1.4,
+          "probability": 0.33486007899045944
+        },
+        {
+          "beat": 1,
+          "text": "लिए",
+          "start": 1.4,
+          "end": 1.52,
+          "probability": 0.7803369402885437
+        },
+        {
+          "beat": 1,
+          "text": "bills",
+          "start": 1.52,
+          "end": 1.86,
+          "probability": 0.048494212329387665
+        },
+        {
+          "beat": 1,
+          "text": "submit",
+          "start": 1.86,
+          "end": 2.22,
+          "probability": 0.4079596698284149
+        },
+        {
+          "beat": 1,
+          "text": "नहीं",
+          "start": 2.22,
+          "end": 2.54,
+          "probability": 0.8782907605171204
+        },
+        {
+          "beat": 1,
+          "text": "करने",
+          "start": 2.54,
+          "end": 2.86,
+          "probability": 0.7434851676225662
+        },
+        {
+          "beat": 1,
+          "text": "होते।",
+          "start": 2.86,
+          "end": 3.56,
+          "probability": 0.7265010008898874
+        },
+        {
+          "beat": 1,
+          "text": "हर",
+          "start": 3.56,
+          "end": 3.86,
+          "probability": 0.48276925552636385
+        },
+        {
+          "beat": 1,
+          "text": "calendar",
+          "start": 3.86,
+          "end": 4.22,
+          "probability": 0.29410281777381897
+        },
+        {
+          "beat": 1,
+          "text": "day",
+          "start": 4.22,
+          "end": 4.6,
+          "probability": 0.9326528310775757
+        },
+        {
+          "beat": 1,
+          "text": "की",
+          "start": 4.6,
+          "end": 4.8,
+          "probability": 0.7559016048908234
+        },
+        {
+          "beat": 1,
+          "text": "absence",
+          "start": 4.8,
+          "end": 5.16,
+          "probability": 0.8469542264938354
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 5.16,
+          "end": 5.5,
+          "probability": 0.5355163067579269
+        },
+        {
+          "beat": 1,
+          "text": "percentage",
+          "start": 5.5,
+          "end": 5.92,
+          "probability": 0.6936227083206177
+        },
+        {
+          "beat": 1,
+          "text": "तय",
+          "start": 5.92,
+          "end": 6.24,
+          "probability": 0.3845331631600857
+        },
+        {
+          "beat": 1,
+          "text": "होता",
+          "start": 6.24,
+          "end": 6.56,
+          "probability": 0.8757511228322983
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 6.56,
+          "end": 7.12,
+          "probability": 0.7778275869786739
+        },
+        {
+          "beat": 1,
+          "text": "Six",
+          "start": 7.12,
+          "end": 7.4,
+          "probability": 0.0862414762377739
+        },
+        {
+          "beat": 1,
+          "text": "hours",
+          "start": 7.4,
+          "end": 7.7,
+          "probability": 0.8241786956787109
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 7.7,
+          "end": 7.96,
+          "probability": 0.7823281288146973
+        },
+        {
+          "beat": 1,
+          "text": "कम",
+          "start": 7.96,
+          "end": 8.18,
+          "probability": 0.2905989778228104
+        },
+        {
+          "beat": 1,
+          "text": "पर",
+          "start": 8.18,
+          "end": 8.36,
+          "probability": 0.6871911982695261
+        },
+        {
+          "beat": 1,
+          "text": "thirty",
+          "start": 8.36,
+          "end": 8.68,
+          "probability": 0.41800567507743835
+        },
+        {
+          "beat": 1,
+          "text": "percent,",
+          "start": 8.68,
+          "end": 9.46,
+          "probability": 0.9272565245628357
+        },
+        {
+          "beat": 1,
+          "text": "six",
+          "start": 9.46,
+          "end": 9.66,
+          "probability": 0.40449386835098267
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 9.66,
+          "end": 9.84,
+          "probability": 0.41570097688236274
+        },
+        {
+          "beat": 1,
+          "text": "twelve",
+          "start": 9.84,
+          "end": 10.12,
+          "probability": 0.6615028977394104
+        },
+        {
+          "beat": 1,
+          "text": "पर",
+          "start": 10.12,
+          "end": 10.38,
+          "probability": 0.7038125346104304
+        },
+        {
+          "beat": 1,
+          "text": "seventy।",
+          "start": 10.38,
+          "end": 11.18,
+          "probability": 0.652493514547435
+        },
+        {
+          "beat": 1,
+          "text": "Twelve",
+          "start": 11.18,
+          "end": 11.44,
+          "probability": 0.2106073796749115
+        },
+        {
+          "beat": 1,
+          "text": "hours",
+          "start": 11.44,
+          "end": 11.76,
+          "probability": 0.9693149924278259
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 11.76,
+          "end": 11.96,
+          "probability": 0.9629468023777008
+        },
+        {
+          "beat": 1,
+          "text": "ऊपर",
+          "start": 11.96,
+          "end": 12.32,
+          "probability": 0.558062506094575
+        },
+        {
+          "beat": 1,
+          "text": "one",
+          "start": 12.32,
+          "end": 12.46,
+          "probability": 0.012265891768038273
+        },
+        {
+          "beat": 1,
+          "text": "hundred",
+          "start": 12.46,
+          "end": 12.66,
+          "probability": 0.9752698540687561
+        },
+        {
+          "beat": 1,
+          "text": "percent",
+          "start": 12.66,
+          "end": 13.02,
+          "probability": 0.9326507449150085
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 13.02,
+          "end": 13.6,
+          "probability": 0.812458373606205
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 13.6,
+          "end": 14.58,
+          "probability": 0.8554227352142334
+        },
+        {
+          "beat": 1,
+          "text": "Level",
+          "start": 14.58,
+          "end": 14.74,
+          "probability": 0.42714938521385193
+        },
+        {
+          "beat": 1,
+          "text": "seven",
+          "start": 14.74,
+          "end": 15.12,
+          "probability": 0.3792799711227417
+        },
+        {
+          "beat": 1,
+          "text": "पर",
+          "start": 15.12,
+          "end": 15.38,
+          "probability": 0.816365917523702
+        },
+        {
+          "beat": 1,
+          "text": "seven",
+          "start": 15.38,
+          "end": 15.68,
+          "probability": 0.9225552678108215
+        },
+        {
+          "beat": 1,
+          "text": "hours",
+          "start": 15.68,
+          "end": 15.96,
+          "probability": 0.9866051077842712
+        },
+        {
+          "beat": 1,
+          "text": "का",
+          "start": 15.96,
+          "end": 16.22,
+          "probability": 0.9321951270103455
+        },
+        {
+          "beat": 1,
+          "text": "food",
+          "start": 16.22,
+          "end": 16.42,
+          "probability": 0.9795627593994141
+        },
+        {
+          "beat": 1,
+          "text": "सात",
+          "start": 16.42,
+          "end": 16.8,
+          "probability": 0.42941125979026157
+        },
+        {
+          "beat": 1,
+          "text": "सौ",
+          "start": 16.8,
+          "end": 16.98,
+          "probability": 0.17806667104984322
+        },
+        {
+          "beat": 1,
+          "text": "रुपये",
+          "start": 16.98,
+          "end": 17.36,
+          "probability": 0.5432467312202789
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 17.36,
+          "end": 17.6,
+          "probability": 0.8698193728923798
+        },
+        {
+          "beat": 2,
+          "text": "Absence",
+          "start": 17.6,
+          "end": 18.29,
+          "probability": 0.4916073246859014
+        },
+        {
+          "beat": 2,
+          "text": "midnight",
+          "start": 18.29,
+          "end": 18.75,
+          "probability": 0.22555150091648102
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 18.75,
+          "end": 19.09,
+          "probability": 0.3165697334334254
+        },
+        {
+          "beat": 2,
+          "text": "midnight,",
+          "start": 19.09,
+          "end": 19.65,
+          "probability": 0.9361739158630371
+        },
+        {
+          "beat": 2,
+          "text": "हर",
+          "start": 19.65,
+          "end": 19.97,
+          "probability": 0.5663540065288544
+        },
+        {
+          "beat": 2,
+          "text": "दिन",
+          "start": 19.97,
+          "end": 20.19,
+          "probability": 0.870790496468544
+        },
+        {
+          "beat": 2,
+          "text": "अलग",
+          "start": 20.19,
+          "end": 20.49,
+          "probability": 0.6780596107244492
+        },
+        {
+          "beat": 2,
+          "text": "count",
+          "start": 20.49,
+          "end": 20.75,
+          "probability": 0.037033241242170334
+        },
+        {
+          "beat": 2,
+          "text": "होती",
+          "start": 20.75,
+          "end": 21.07,
+          "probability": 0.8509548306465149
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 21.07,
+          "end": 21.53,
+          "probability": 0.7270423045847565
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 21.53,
+          "end": 22.55,
+          "probability": 0.7371125817298889
+        },
+        {
+          "beat": 2,
+          "text": "Level",
+          "start": 22.55,
+          "end": 22.71,
+          "probability": 0.2725141644477844
+        },
+        {
+          "beat": 2,
+          "text": "seven",
+          "start": 22.71,
+          "end": 23.05,
+          "probability": 0.0732610896229744
+        },
+        {
+          "beat": 2,
+          "text": "tour",
+          "start": 23.05,
+          "end": 23.35,
+          "probability": 0.8872236013412476
+        },
+        {
+          "beat": 2,
+          "text": "रात",
+          "start": 23.35,
+          "end": 23.75,
+          "probability": 0.621630996465683
+        },
+        {
+          "beat": 2,
+          "text": "eight",
+          "start": 23.75,
+          "end": 24.13,
+          "probability": 0.013600236736238003
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 24.13,
+          "end": 24.29,
+          "probability": 0.952833354473114
+        },
+        {
+          "beat": 2,
+          "text": "सुबह",
+          "start": 24.29,
+          "end": 24.55,
+          "probability": 0.6145374005039533
+        },
+        {
+          "beat": 2,
+          "text": "five",
+          "start": 24.55,
+          "end": 24.85,
+          "probability": 0.00764957582578063
+        },
+        {
+          "beat": 2,
+          "text": "तक",
+          "start": 24.85,
+          "end": 25.09,
+          "probability": 0.673182467619578
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 25.09,
+          "end": 25.59,
+          "probability": 0.8036690428853035
+        },
+        {
+          "beat": 2,
+          "text": "पहले",
+          "start": 25.59,
+          "end": 25.89,
+          "probability": 0.8038966447114945
+        },
+        {
+          "beat": 2,
+          "text": "दिन",
+          "start": 25.89,
+          "end": 26.09,
+          "probability": 0.9386854767799377
+        },
+        {
+          "beat": 2,
+          "text": "four",
+          "start": 26.09,
+          "end": 26.33,
+          "probability": 0.650404691696167
+        },
+        {
+          "beat": 2,
+          "text": "hours,",
+          "start": 26.33,
+          "end": 26.95,
+          "probability": 0.981467068195343
+        },
+        {
+          "beat": 2,
+          "text": "अगले",
+          "start": 26.95,
+          "end": 27.23,
+          "probability": 0.8996471563975016
+        },
+        {
+          "beat": 2,
+          "text": "दिन",
+          "start": 27.23,
+          "end": 27.41,
+          "probability": 0.9598694741725922
+        },
+        {
+          "beat": 2,
+          "text": "five",
+          "start": 27.41,
+          "end": 27.59,
+          "probability": 0.9074075222015381
+        },
+        {
+          "beat": 2,
+          "text": "hours",
+          "start": 27.59,
+          "end": 27.91,
+          "probability": 0.9900583624839783
+        },
+        {
+          "beat": 2,
+          "text": "हैं।",
+          "start": 27.91,
+          "end": 28.45,
+          "probability": 0.7951155930757523
+        },
+        {
+          "beat": 2,
+          "text": "दोनों",
+          "start": 28.45,
+          "end": 28.89,
+          "probability": 0.6014246754348278
+        },
+        {
+          "beat": 2,
+          "text": "पर",
+          "start": 28.89,
+          "end": 28.99,
+          "probability": 0.8000872135162354
+        },
+        {
+          "beat": 2,
+          "text": "thirty",
+          "start": 28.99,
+          "end": 29.29,
+          "probability": 0.6401075124740601
+        },
+        {
+          "beat": 2,
+          "text": "percent",
+          "start": 29.29,
+          "end": 29.73,
+          "probability": 0.9282564520835876
+        },
+        {
+          "beat": 2,
+          "text": "यानी",
+          "start": 29.73,
+          "end": 30.19,
+          "probability": 0.5398173123598099
+        },
+        {
+          "beat": 2,
+          "text": "three",
+          "start": 30.19,
+          "end": 30.43,
+          "probability": 0.3680729269981384
+        },
+        {
+          "beat": 2,
+          "text": "hundred",
+          "start": 30.43,
+          "end": 30.71,
+          "probability": 0.9763150215148926
+        },
+        {
+          "beat": 2,
+          "text": "plus",
+          "start": 30.71,
+          "end": 30.97,
+          "probability": 0.6091023087501526
+        },
+        {
+          "beat": 2,
+          "text": "three",
+          "start": 30.97,
+          "end": 31.27,
+          "probability": 0.9686098694801331
+        },
+        {
+          "beat": 2,
+          "text": "hundred।",
+          "start": 31.27,
+          "end": 31.93,
+          "probability": 0.6662230622023344
+        },
+        {
+          "beat": 2,
+          "text": "Total",
+          "start": 31.93,
+          "end": 32.19,
+          "probability": 0.7646265029907227
+        },
+        {
+          "beat": 2,
+          "text": "food",
+          "start": 32.19,
+          "end": 32.49,
+          "probability": 0.9744789600372314
+        },
+        {
+          "beat": 2,
+          "text": "component",
+          "start": 32.49,
+          "end": 32.93,
+          "probability": 0.9205268025398254
+        },
+        {
+          "beat": 2,
+          "text": "six",
+          "start": 32.93,
+          "end": 33.21,
+          "probability": 0.3944321572780609
+        },
+        {
+          "beat": 2,
+          "text": "hundred",
+          "start": 33.21,
+          "end": 33.51,
+          "probability": 0.9952102303504944
+        },
+        {
+          "beat": 2,
+          "text": "रुपये",
+          "start": 33.51,
+          "end": 33.83,
+          "probability": 0.3770530108595267
+        },
+        {
+          "beat": 2,
+          "text": "होगा,",
+          "start": 33.83,
+          "end": 34.43,
+          "probability": 0.7477876722812653
+        },
+        {
+          "beat": 2,
+          "text": "बाकी",
+          "start": 34.43,
+          "end": 34.77,
+          "probability": 0.7390890777111053
+        },
+        {
+          "beat": 2,
+          "text": "conditions",
+          "start": 34.77,
+          "end": 35.11,
+          "probability": 0.6360149383544922
+        },
+        {
+          "beat": 2,
+          "text": "check",
+          "start": 35.11,
+          "end": 35.43,
+          "probability": 0.5065969228744507
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 35.43,
+          "end": 35.91,
+          "probability": 0.8520779013633728
+        }
+      ]
+    },
+    {
+      "audio": "03-free-facilities.mp3",
+      "audio_sha256": "842ac3f4b532857403f18280e33173fa4563426c4ca59790e70bf559cef4e160",
+      "duration": 35.52,
+      "beat_boundary": 20.0,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 4.48,
+          "text": "अगर boarding और lodging दोनों free हों, special rule देखें।"
+        },
+        {
+          "beat": 1,
+          "start": 4.48,
+          "end": 7.74,
+          "text": "पुराना twenty five percent Daily Allowance बंद है।"
+        },
+        {
+          "beat": 1,
+          "start": 7.74,
+          "end": 12.28,
+          "text": "Eligible local travel पर खर्च हो तो rules के according claim हो सकता है।"
+        },
+        {
+          "beat": 1,
+          "start": 12.28,
+          "end": 15.92,
+          "text": "Example: official city ride में दो सौ रुपये खर्च हुए।"
+        },
+        {
+          "beat": 1,
+          "start": 15.92,
+          "end": 20.0,
+          "text": "Entitlement और proof check करके वही actual expense claim करें।"
+        },
+        {
+          "beat": 2,
+          "start": 20.0,
+          "end": 23.85,
+          "text": "लेकिन सिर्फ free breakfast को दोनों free मानना सही नहीं है।"
+        },
+        {
+          "beat": 2,
+          "start": 23.85,
+          "end": 27.89,
+          "text": "Partial meals के लिए इस order से fixed percentage assume न करें।"
+        },
+        {
+          "beat": 2,
+          "start": 27.89,
+          "end": 31.77,
+          "text": "Example: hotel breakfast free है, dinner खुद pay किया।"
+        },
+        {
+          "beat": 2,
+          "start": 31.77,
+          "end": 35.39,
+          "text": "Specific applicable instruction accounts office से confirm करें।"
+        }
+      ],
+      "script_sha256": "078caf95e189b6343851a762f169b90f174976f9e2da8c50a064fc14380dd7e6",
+      "words": [
+        {
+          "beat": 1,
+          "text": "अगर",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.8741556644439697
+        },
+        {
+          "beat": 1,
+          "text": "boarding",
+          "start": 0.56,
+          "end": 0.92,
+          "probability": 0.0008603823953308165
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 0.92,
+          "end": 1.24,
+          "probability": 0.6534619629383087
+        },
+        {
+          "beat": 1,
+          "text": "lodging",
+          "start": 1.24,
+          "end": 1.64,
+          "probability": 0.5949540659785271
+        },
+        {
+          "beat": 1,
+          "text": "दोनों",
+          "start": 1.64,
+          "end": 2.22,
+          "probability": 0.683101255989944
+        },
+        {
+          "beat": 1,
+          "text": "free",
+          "start": 2.22,
+          "end": 2.32,
+          "probability": 0.5992722511291504
+        },
+        {
+          "beat": 1,
+          "text": "हों,",
+          "start": 2.32,
+          "end": 2.88,
+          "probability": 0.6462168296178182
+        },
+        {
+          "beat": 1,
+          "text": "special",
+          "start": 2.88,
+          "end": 3.28,
+          "probability": 0.6017465591430664
+        },
+        {
+          "beat": 1,
+          "text": "rule",
+          "start": 3.28,
+          "end": 3.56,
+          "probability": 0.9293542504310608
+        },
+        {
+          "beat": 1,
+          "text": "देखें।",
+          "start": 3.56,
+          "end": 4.48,
+          "probability": 0.7737231800953547
+        },
+        {
+          "beat": 1,
+          "text": "पुराना",
+          "start": 4.48,
+          "end": 4.96,
+          "probability": 0.7790583781898022
+        },
+        {
+          "beat": 1,
+          "text": "twenty",
+          "start": 4.96,
+          "end": 5.22,
+          "probability": 0.0024570233654230833
+        },
+        {
+          "beat": 1,
+          "text": "five",
+          "start": 5.22,
+          "end": 5.6,
+          "probability": 0.22035641968250275
+        },
+        {
+          "beat": 1,
+          "text": "percent",
+          "start": 5.6,
+          "end": 5.96,
+          "probability": 0.8089417815208435
+        },
+        {
+          "beat": 1,
+          "text": "Daily",
+          "start": 5.96,
+          "end": 6.24,
+          "probability": 0.0003985828079748899
+        },
+        {
+          "beat": 1,
+          "text": "Allowance",
+          "start": 6.24,
+          "end": 6.74,
+          "probability": 0.77784663438797
+        },
+        {
+          "beat": 1,
+          "text": "बंद",
+          "start": 6.74,
+          "end": 7.08,
+          "probability": 0.7283462584018707
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 7.08,
+          "end": 7.74,
+          "probability": 0.732492663897574
+        },
+        {
+          "beat": 1,
+          "text": "Eligible",
+          "start": 7.74,
+          "end": 8.12,
+          "probability": 0.5308115743100643
+        },
+        {
+          "beat": 1,
+          "text": "local",
+          "start": 8.12,
+          "end": 8.58,
+          "probability": 0.3266989290714264
+        },
+        {
+          "beat": 1,
+          "text": "travel",
+          "start": 8.58,
+          "end": 9.0,
+          "probability": 0.9579366445541382
+        },
+        {
+          "beat": 1,
+          "text": "पर",
+          "start": 9.0,
+          "end": 9.26,
+          "probability": 0.9103355606396993
+        },
+        {
+          "beat": 1,
+          "text": "खर्च",
+          "start": 9.26,
+          "end": 9.62,
+          "probability": 0.6391795724630356
+        },
+        {
+          "beat": 1,
+          "text": "हो",
+          "start": 9.62,
+          "end": 9.76,
+          "probability": 0.8498086929321289
+        },
+        {
+          "beat": 1,
+          "text": "तो",
+          "start": 9.76,
+          "end": 9.96,
+          "probability": 0.6650198946396509
+        },
+        {
+          "beat": 1,
+          "text": "rules",
+          "start": 9.96,
+          "end": 10.22,
+          "probability": 0.902002215385437
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 10.22,
+          "end": 10.44,
+          "probability": 0.8332138955593109
+        },
+        {
+          "beat": 1,
+          "text": "according",
+          "start": 10.44,
+          "end": 10.74,
+          "probability": 0.772665798664093
+        },
+        {
+          "beat": 1,
+          "text": "claim",
+          "start": 10.74,
+          "end": 11.08,
+          "probability": 0.02282538078725338
+        },
+        {
+          "beat": 1,
+          "text": "हो",
+          "start": 11.08,
+          "end": 11.3,
+          "probability": 0.866129606962204
+        },
+        {
+          "beat": 1,
+          "text": "सकता",
+          "start": 11.3,
+          "end": 11.6,
+          "probability": 0.9060377478599548
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 11.6,
+          "end": 12.28,
+          "probability": 0.76695891097188
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 12.28,
+          "end": 13.28,
+          "probability": 0.820154219865799
+        },
+        {
+          "beat": 1,
+          "text": "official",
+          "start": 13.28,
+          "end": 13.54,
+          "probability": 0.07159826904535294
+        },
+        {
+          "beat": 1,
+          "text": "city",
+          "start": 13.54,
+          "end": 13.9,
+          "probability": 0.8940913081169128
+        },
+        {
+          "beat": 1,
+          "text": "ride",
+          "start": 13.9,
+          "end": 14.2,
+          "probability": 0.9596287608146667
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 14.2,
+          "end": 14.42,
+          "probability": 0.9239281614621481
+        },
+        {
+          "beat": 1,
+          "text": "दो",
+          "start": 14.42,
+          "end": 14.62,
+          "probability": 0.3986155739597355
+        },
+        {
+          "beat": 1,
+          "text": "सौ",
+          "start": 14.62,
+          "end": 14.76,
+          "probability": 0.2927531694682936
+        },
+        {
+          "beat": 1,
+          "text": "रुपये",
+          "start": 14.76,
+          "end": 15.06,
+          "probability": 0.5217697698390111
+        },
+        {
+          "beat": 1,
+          "text": "खर्च",
+          "start": 15.06,
+          "end": 15.3,
+          "probability": 0.8850413709878922
+        },
+        {
+          "beat": 1,
+          "text": "हुए।",
+          "start": 15.3,
+          "end": 15.92,
+          "probability": 0.660074553319386
+        },
+        {
+          "beat": 1,
+          "text": "Entitlement",
+          "start": 15.92,
+          "end": 16.62,
+          "probability": 0.7595522701740265
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 16.62,
+          "end": 16.94,
+          "probability": 0.7197904189427694
+        },
+        {
+          "beat": 1,
+          "text": "proof",
+          "start": 16.94,
+          "end": 17.18,
+          "probability": 0.9795971512794495
+        },
+        {
+          "beat": 1,
+          "text": "check",
+          "start": 17.18,
+          "end": 17.46,
+          "probability": 0.5885291695594788
+        },
+        {
+          "beat": 1,
+          "text": "करके",
+          "start": 17.46,
+          "end": 17.84,
+          "probability": 0.7567815706133842
+        },
+        {
+          "beat": 1,
+          "text": "वही",
+          "start": 17.84,
+          "end": 18.4,
+          "probability": 0.8109048530459404
+        },
+        {
+          "beat": 1,
+          "text": "actual",
+          "start": 18.4,
+          "end": 18.74,
+          "probability": 0.9628127217292786
+        },
+        {
+          "beat": 1,
+          "text": "expense",
+          "start": 18.74,
+          "end": 19.12,
+          "probability": 0.9863272905349731
+        },
+        {
+          "beat": 1,
+          "text": "claim",
+          "start": 19.12,
+          "end": 19.48,
+          "probability": 0.030335018411278725
+        },
+        {
+          "beat": 1,
+          "text": "करें।",
+          "start": 19.48,
+          "end": 20.0,
+          "probability": 0.8950400352478027
+        },
+        {
+          "beat": 2,
+          "text": "लेकिन",
+          "start": 20.0,
+          "end": 20.57,
+          "probability": 0.6268290877342224
+        },
+        {
+          "beat": 2,
+          "text": "सिर्फ",
+          "start": 20.57,
+          "end": 21.07,
+          "probability": 0.6067032168308893
+        },
+        {
+          "beat": 2,
+          "text": "free",
+          "start": 21.07,
+          "end": 21.31,
+          "probability": 0.07732051610946655
+        },
+        {
+          "beat": 2,
+          "text": "breakfast",
+          "start": 21.31,
+          "end": 21.69,
+          "probability": 0.7959719896316528
+        },
+        {
+          "beat": 2,
+          "text": "को",
+          "start": 21.69,
+          "end": 21.95,
+          "probability": 0.9120457470417023
+        },
+        {
+          "beat": 2,
+          "text": "दोनों",
+          "start": 21.95,
+          "end": 22.45,
+          "probability": 0.673520983584846
+        },
+        {
+          "beat": 2,
+          "text": "free",
+          "start": 22.45,
+          "end": 22.55,
+          "probability": 0.859860897064209
+        },
+        {
+          "beat": 2,
+          "text": "मानना",
+          "start": 22.55,
+          "end": 22.97,
+          "probability": 0.7116027176380157
+        },
+        {
+          "beat": 2,
+          "text": "सही",
+          "start": 22.97,
+          "end": 23.23,
+          "probability": 0.8545323411623637
+        },
+        {
+          "beat": 2,
+          "text": "नहीं",
+          "start": 23.23,
+          "end": 23.47,
+          "probability": 0.9075645804405212
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 23.47,
+          "end": 23.85,
+          "probability": 0.6833886299282312
+        },
+        {
+          "beat": 2,
+          "text": "Partial",
+          "start": 23.85,
+          "end": 24.51,
+          "probability": 0.5110346060246229
+        },
+        {
+          "beat": 2,
+          "text": "meals",
+          "start": 24.51,
+          "end": 24.71,
+          "probability": 0.8760154247283936
+        },
+        {
+          "beat": 2,
+          "text": "के",
+          "start": 24.71,
+          "end": 24.99,
+          "probability": 0.5597637742757797
+        },
+        {
+          "beat": 2,
+          "text": "लिए",
+          "start": 24.99,
+          "end": 25.17,
+          "probability": 0.809118640422821
+        },
+        {
+          "beat": 2,
+          "text": "इस",
+          "start": 25.17,
+          "end": 25.45,
+          "probability": 0.673524538675944
+        },
+        {
+          "beat": 2,
+          "text": "order",
+          "start": 25.45,
+          "end": 25.67,
+          "probability": 0.7680286169052124
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 25.67,
+          "end": 25.91,
+          "probability": 0.9445430040359497
+        },
+        {
+          "beat": 2,
+          "text": "fixed",
+          "start": 25.91,
+          "end": 26.21,
+          "probability": 0.9057344198226929
+        },
+        {
+          "beat": 2,
+          "text": "percentage",
+          "start": 26.21,
+          "end": 26.73,
+          "probability": 0.15788142383098602
+        },
+        {
+          "beat": 2,
+          "text": "assume",
+          "start": 26.73,
+          "end": 27.07,
+          "probability": 0.03579815849661827
+        },
+        {
+          "beat": 2,
+          "text": "न",
+          "start": 27.07,
+          "end": 27.23,
+          "probability": 0.713788777589798
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 27.23,
+          "end": 27.89,
+          "probability": 0.7222521283353368
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 27.89,
+          "end": 28.89,
+          "probability": 0.6394355595111847
+        },
+        {
+          "beat": 2,
+          "text": "hotel",
+          "start": 28.89,
+          "end": 29.13,
+          "probability": 0.42551738023757935
+        },
+        {
+          "beat": 2,
+          "text": "breakfast",
+          "start": 29.13,
+          "end": 29.53,
+          "probability": 0.9960617423057556
+        },
+        {
+          "beat": 2,
+          "text": "free",
+          "start": 29.53,
+          "end": 29.97,
+          "probability": 0.8185921311378479
+        },
+        {
+          "beat": 2,
+          "text": "है,",
+          "start": 29.97,
+          "end": 30.45,
+          "probability": 0.9305674731731415
+        },
+        {
+          "beat": 2,
+          "text": "dinner",
+          "start": 30.45,
+          "end": 30.59,
+          "probability": 0.8876039981842041
+        },
+        {
+          "beat": 2,
+          "text": "खुद",
+          "start": 30.59,
+          "end": 30.93,
+          "probability": 0.6820309745768706
+        },
+        {
+          "beat": 2,
+          "text": "pay",
+          "start": 30.93,
+          "end": 31.13,
+          "probability": 0.0011468239827081561
+        },
+        {
+          "beat": 2,
+          "text": "किया।",
+          "start": 31.13,
+          "end": 31.77,
+          "probability": 0.7382582590604821
+        },
+        {
+          "beat": 2,
+          "text": "Specific",
+          "start": 31.77,
+          "end": 32.49,
+          "probability": 0.9417186379432678
+        },
+        {
+          "beat": 2,
+          "text": "applicable",
+          "start": 32.49,
+          "end": 32.91,
+          "probability": 0.742121160030365
+        },
+        {
+          "beat": 2,
+          "text": "instruction",
+          "start": 32.91,
+          "end": 33.37,
+          "probability": 0.9158359169960022
+        },
+        {
+          "beat": 2,
+          "text": "accounts",
+          "start": 33.37,
+          "end": 34.09,
+          "probability": 0.16117875277996063
+        },
+        {
+          "beat": 2,
+          "text": "office",
+          "start": 34.09,
+          "end": 34.41,
+          "probability": 0.22863279283046722
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 34.41,
+          "end": 34.59,
+          "probability": 0.7979001104831696
+        },
+        {
+          "beat": 2,
+          "text": "confirm",
+          "start": 34.59,
+          "end": 34.81,
+          "probability": 0.2013348937034607
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 34.81,
+          "end": 35.39,
+          "probability": 0.9565693835417429
+        }
+      ]
+    },
+    {
+      "audio": "04-hotel-tax.mp3",
+      "audio_sha256": "7678c652d43e7c6fb5af02b1724b9747aedcbca129eea3a182f7f4a246312004",
+      "duration": 34.36,
+      "beat_boundary": 17.0,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 3.58,
+          "text": "Hotel ceiling एक maximum है, automatic payment नहीं।"
+        },
+        {
+          "beat": 1,
+          "start": 3.58,
+          "end": 7.28,
+          "text": "Level eight तक general rule में self certification available है।"
+        },
+        {
+          "beat": 1,
+          "start": 7.28,
+          "end": 11.3,
+          "text": "Example: Level seven का eligible room cost आठ सौ रुपये है।"
+        },
+        {
+          "beat": 1,
+          "start": 11.3,
+          "end": 14.16,
+          "text": "तब room claim आठ सौ है, पूरा ceiling नहीं।"
+        },
+        {
+          "beat": 1,
+          "start": 14.16,
+          "end": 17.0,
+          "text": "Class X city की higher limit के लिए vouchers चाहिए।"
+        },
+        {
+          "beat": 2,
+          "start": 17.0,
+          "end": 20.69,
+          "text": "Hotel taxes entitlement के ऊपर reimburse हो सकते हैं।"
+        },
+        {
+          "beat": 2,
+          "start": 20.69,
+          "end": 24.15,
+          "text": "GST actual charge के eligible हिस्से पर calculate होता है।"
+        },
+        {
+          "beat": 2,
+          "start": 24.15,
+          "end": 27.73,
+          "text": "Example: आठ सौ room और hypothetical बारह percent tax।"
+        },
+        {
+          "beat": 2,
+          "start": 27.73,
+          "end": 31.61,
+          "text": "Tax छियानवे, total आठ सौ छियानवे; conditions लागू।"
+        },
+        {
+          "beat": 2,
+          "start": 31.61,
+          "end": 34.25,
+          "text": "Actual GST rate और invoice accounts से check करें।"
+        }
+      ],
+      "script_sha256": "ba20d78232c6a5c2fc958591502b3bc40e2ae44d61324f30241eb19c0db42f0a",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Hotel",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.023920871317386627
+        },
+        {
+          "beat": 1,
+          "text": "ceiling",
+          "start": 0.56,
+          "end": 0.92,
+          "probability": 0.5541796088218689
+        },
+        {
+          "beat": 1,
+          "text": "एक",
+          "start": 0.92,
+          "end": 1.22,
+          "probability": 0.3068301393092649
+        },
+        {
+          "beat": 1,
+          "text": "maximum",
+          "start": 1.22,
+          "end": 1.54,
+          "probability": 0.13519194722175598
+        },
+        {
+          "beat": 1,
+          "text": "है,",
+          "start": 1.54,
+          "end": 2.18,
+          "probability": 0.9100567996501923
+        },
+        {
+          "beat": 1,
+          "text": "automatic",
+          "start": 2.18,
+          "end": 2.44,
+          "probability": 0.31916168332099915
+        },
+        {
+          "beat": 1,
+          "text": "payment",
+          "start": 2.44,
+          "end": 2.92,
+          "probability": 0.6167414784431458
+        },
+        {
+          "beat": 1,
+          "text": "नहीं।",
+          "start": 2.92,
+          "end": 3.58,
+          "probability": 0.7615156971982547
+        },
+        {
+          "beat": 1,
+          "text": "Level",
+          "start": 3.58,
+          "end": 4.04,
+          "probability": 0.6658419370651245
+        },
+        {
+          "beat": 1,
+          "text": "eight",
+          "start": 4.04,
+          "end": 4.4,
+          "probability": 0.07112417370080948
+        },
+        {
+          "beat": 1,
+          "text": "तक",
+          "start": 4.4,
+          "end": 4.68,
+          "probability": 0.7559133966763815
+        },
+        {
+          "beat": 1,
+          "text": "general",
+          "start": 4.68,
+          "end": 4.98,
+          "probability": 0.8172985911369324
+        },
+        {
+          "beat": 1,
+          "text": "rule",
+          "start": 4.98,
+          "end": 5.28,
+          "probability": 0.9833887815475464
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 5.28,
+          "end": 5.46,
+          "probability": 0.7745835185050964
+        },
+        {
+          "beat": 1,
+          "text": "self",
+          "start": 5.46,
+          "end": 5.64,
+          "probability": 0.9174312353134155
+        },
+        {
+          "beat": 1,
+          "text": "certification",
+          "start": 5.64,
+          "end": 6.2,
+          "probability": 0.42929139733314514
+        },
+        {
+          "beat": 1,
+          "text": "available",
+          "start": 6.2,
+          "end": 6.58,
+          "probability": 0.0372692309319973
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 6.58,
+          "end": 7.28,
+          "probability": 0.7271809127414599
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 7.28,
+          "end": 8.52,
+          "probability": 0.9337864220142365
+        },
+        {
+          "beat": 1,
+          "text": "Level",
+          "start": 8.52,
+          "end": 8.54,
+          "probability": 0.7727442383766174
+        },
+        {
+          "beat": 1,
+          "text": "seven",
+          "start": 8.54,
+          "end": 8.9,
+          "probability": 0.39473268389701843
+        },
+        {
+          "beat": 1,
+          "text": "का",
+          "start": 8.9,
+          "end": 9.14,
+          "probability": 0.8893962800502777
+        },
+        {
+          "beat": 1,
+          "text": "eligible",
+          "start": 9.14,
+          "end": 9.42,
+          "probability": 0.9670992493629456
+        },
+        {
+          "beat": 1,
+          "text": "room",
+          "start": 9.42,
+          "end": 9.78,
+          "probability": 0.9487797021865845
+        },
+        {
+          "beat": 1,
+          "text": "cost",
+          "start": 9.78,
+          "end": 10.04,
+          "probability": 0.8861269950866699
+        },
+        {
+          "beat": 1,
+          "text": "आठ",
+          "start": 10.04,
+          "end": 10.4,
+          "probability": 0.34883836284279823
+        },
+        {
+          "beat": 1,
+          "text": "सौ",
+          "start": 10.4,
+          "end": 10.54,
+          "probability": 0.08137459587305784
+        },
+        {
+          "beat": 1,
+          "text": "रुपये",
+          "start": 10.54,
+          "end": 10.9,
+          "probability": 0.4758205018006265
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 10.9,
+          "end": 11.3,
+          "probability": 0.7946210019290447
+        },
+        {
+          "beat": 1,
+          "text": "तब",
+          "start": 11.3,
+          "end": 11.5,
+          "probability": 0.7361262142658234
+        },
+        {
+          "beat": 1,
+          "text": "room",
+          "start": 11.5,
+          "end": 11.7,
+          "probability": 0.9611664414405823
+        },
+        {
+          "beat": 1,
+          "text": "claim",
+          "start": 11.7,
+          "end": 11.94,
+          "probability": 0.966416597366333
+        },
+        {
+          "beat": 1,
+          "text": "आठ",
+          "start": 11.94,
+          "end": 12.34,
+          "probability": 0.9133719801902771
+        },
+        {
+          "beat": 1,
+          "text": "सौ",
+          "start": 12.34,
+          "end": 12.48,
+          "probability": 0.6927461425463358
+        },
+        {
+          "beat": 1,
+          "text": "है,",
+          "start": 12.48,
+          "end": 12.76,
+          "probability": 0.9751149713993073
+        },
+        {
+          "beat": 1,
+          "text": "पूरा",
+          "start": 12.76,
+          "end": 13.06,
+          "probability": 0.6531207536657652
+        },
+        {
+          "beat": 1,
+          "text": "ceiling",
+          "start": 13.06,
+          "end": 13.28,
+          "probability": 0.9344950914382935
+        },
+        {
+          "beat": 1,
+          "text": "नहीं।",
+          "start": 13.28,
+          "end": 14.16,
+          "probability": 0.9543755309922355
+        },
+        {
+          "beat": 1,
+          "text": "Class",
+          "start": 14.16,
+          "end": 14.46,
+          "probability": 0.812497615814209
+        },
+        {
+          "beat": 1,
+          "text": "X",
+          "start": 14.46,
+          "end": 14.74,
+          "probability": 0.5823603272438049
+        },
+        {
+          "beat": 1,
+          "text": "city",
+          "start": 14.74,
+          "end": 15.02,
+          "probability": 0.8122738003730774
+        },
+        {
+          "beat": 1,
+          "text": "की",
+          "start": 15.02,
+          "end": 15.22,
+          "probability": 0.78954017162323
+        },
+        {
+          "beat": 1,
+          "text": "higher",
+          "start": 15.22,
+          "end": 15.46,
+          "probability": 0.7719895243644714
+        },
+        {
+          "beat": 1,
+          "text": "limit",
+          "start": 15.46,
+          "end": 15.74,
+          "probability": 0.9748537540435791
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 15.74,
+          "end": 15.92,
+          "probability": 0.6007238775491714
+        },
+        {
+          "beat": 1,
+          "text": "लिए",
+          "start": 15.92,
+          "end": 16.06,
+          "probability": 0.8016739010810852
+        },
+        {
+          "beat": 1,
+          "text": "vouchers",
+          "start": 16.06,
+          "end": 16.5,
+          "probability": 0.9675590991973877
+        },
+        {
+          "beat": 1,
+          "text": "चाहिए।",
+          "start": 16.5,
+          "end": 17.0,
+          "probability": 0.7249991678529315
+        },
+        {
+          "beat": 2,
+          "text": "Hotel",
+          "start": 17.0,
+          "end": 17.61,
+          "probability": 0.0036834715865552425
+        },
+        {
+          "beat": 2,
+          "text": "taxes",
+          "start": 17.61,
+          "end": 18.03,
+          "probability": 0.22883707284927368
+        },
+        {
+          "beat": 2,
+          "text": "entitlement",
+          "start": 18.03,
+          "end": 18.77,
+          "probability": 0.554413203150034
+        },
+        {
+          "beat": 2,
+          "text": "के",
+          "start": 18.77,
+          "end": 19.01,
+          "probability": 0.4336482286453247
+        },
+        {
+          "beat": 2,
+          "text": "ऊपर",
+          "start": 19.01,
+          "end": 19.33,
+          "probability": 0.509402247145772
+        },
+        {
+          "beat": 2,
+          "text": "reimburse",
+          "start": 19.33,
+          "end": 19.59,
+          "probability": 0.00022915670706424862
+        },
+        {
+          "beat": 2,
+          "text": "हो",
+          "start": 19.59,
+          "end": 19.91,
+          "probability": 0.8319439888000488
+        },
+        {
+          "beat": 2,
+          "text": "सकते",
+          "start": 19.91,
+          "end": 20.19,
+          "probability": 0.8644192665815353
+        },
+        {
+          "beat": 2,
+          "text": "हैं।",
+          "start": 20.19,
+          "end": 20.69,
+          "probability": 0.6925181295722723
+        },
+        {
+          "beat": 2,
+          "text": "GST",
+          "start": 20.69,
+          "end": 21.23,
+          "probability": 0.793910801410675
+        },
+        {
+          "beat": 2,
+          "text": "actual",
+          "start": 21.23,
+          "end": 21.69,
+          "probability": 0.6093047857284546
+        },
+        {
+          "beat": 2,
+          "text": "charge",
+          "start": 21.69,
+          "end": 22.05,
+          "probability": 0.9273490905761719
+        },
+        {
+          "beat": 2,
+          "text": "के",
+          "start": 22.05,
+          "end": 22.25,
+          "probability": 0.9249802827835083
+        },
+        {
+          "beat": 2,
+          "text": "eligible",
+          "start": 22.25,
+          "end": 22.53,
+          "probability": 0.8775829076766968
+        },
+        {
+          "beat": 2,
+          "text": "हिस्से",
+          "start": 22.53,
+          "end": 22.95,
+          "probability": 0.4691325823465983
+        },
+        {
+          "beat": 2,
+          "text": "पर",
+          "start": 22.95,
+          "end": 23.11,
+          "probability": 0.7598054309686025
+        },
+        {
+          "beat": 2,
+          "text": "calculate",
+          "start": 23.11,
+          "end": 23.37,
+          "probability": 0.05508660897612572
+        },
+        {
+          "beat": 2,
+          "text": "होता",
+          "start": 23.37,
+          "end": 23.79,
+          "probability": 0.9130279123783112
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 23.79,
+          "end": 24.15,
+          "probability": 0.7821517810225487
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 24.15,
+          "end": 25.17,
+          "probability": 0.8332266509532928
+        },
+        {
+          "beat": 2,
+          "text": "आठ",
+          "start": 25.17,
+          "end": 25.23,
+          "probability": 0.3223257267381996
+        },
+        {
+          "beat": 2,
+          "text": "सौ",
+          "start": 25.23,
+          "end": 25.43,
+          "probability": 0.03856493222216765
+        },
+        {
+          "beat": 2,
+          "text": "room",
+          "start": 25.43,
+          "end": 25.61,
+          "probability": 0.2948155701160431
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 25.61,
+          "end": 25.85,
+          "probability": 0.7800125678380331
+        },
+        {
+          "beat": 2,
+          "text": "hypothetical",
+          "start": 25.85,
+          "end": 26.19,
+          "probability": 0.8776944875717163
+        },
+        {
+          "beat": 2,
+          "text": "बारह",
+          "start": 26.19,
+          "end": 26.79,
+          "probability": 0.4745779041200876
+        },
+        {
+          "beat": 2,
+          "text": "percent",
+          "start": 26.79,
+          "end": 26.99,
+          "probability": 0.00015838931722100824
+        },
+        {
+          "beat": 2,
+          "text": "tax।",
+          "start": 26.99,
+          "end": 27.73,
+          "probability": 0.6405245586453626
+        },
+        {
+          "beat": 2,
+          "text": "Tax",
+          "start": 27.73,
+          "end": 28.01,
+          "probability": 0.8697408437728882
+        },
+        {
+          "beat": 2,
+          "text": "छियानवे,",
+          "start": 28.01,
+          "end": 28.91,
+          "probability": 0.6360824439260695
+        },
+        {
+          "beat": 2,
+          "text": "total",
+          "start": 28.91,
+          "end": 29.13,
+          "probability": 0.5722885727882385
+        },
+        {
+          "beat": 2,
+          "text": "आठ",
+          "start": 29.13,
+          "end": 29.47,
+          "probability": 0.7470688819885254
+        },
+        {
+          "beat": 2,
+          "text": "सौ",
+          "start": 29.47,
+          "end": 29.63,
+          "probability": 0.6252807502945265
+        },
+        {
+          "beat": 2,
+          "text": "छियानवे;",
+          "start": 29.63,
+          "end": 30.33,
+          "probability": 0.9590252505408393
+        },
+        {
+          "beat": 2,
+          "text": "conditions",
+          "start": 30.33,
+          "end": 30.63,
+          "probability": 0.1010032370686531
+        },
+        {
+          "beat": 2,
+          "text": "लागू।",
+          "start": 30.63,
+          "end": 31.61,
+          "probability": 0.7921039544873767
+        },
+        {
+          "beat": 2,
+          "text": "Actual",
+          "start": 31.61,
+          "end": 31.99,
+          "probability": 0.9436282515525818
+        },
+        {
+          "beat": 2,
+          "text": "GST",
+          "start": 31.99,
+          "end": 32.37,
+          "probability": 0.9894817769527435
+        },
+        {
+          "beat": 2,
+          "text": "rate",
+          "start": 32.37,
+          "end": 32.59,
+          "probability": 0.8624008297920227
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 32.59,
+          "end": 32.83,
+          "probability": 0.6760097742080688
+        },
+        {
+          "beat": 2,
+          "text": "invoice",
+          "start": 32.83,
+          "end": 33.13,
+          "probability": 0.9584329724311829
+        },
+        {
+          "beat": 2,
+          "text": "accounts",
+          "start": 33.13,
+          "end": 33.49,
+          "probability": 0.122491255402565
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 33.49,
+          "end": 33.69,
+          "probability": 0.6363690942525864
+        },
+        {
+          "beat": 2,
+          "text": "check",
+          "start": 33.69,
+          "end": 33.87,
+          "probability": 0.2539951801300049
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 33.87,
+          "end": 34.25,
+          "probability": 0.8855663537979126
+        }
+      ]
+    },
+    {
+      "audio": "05-city-travel.mp3",
+      "audio_sha256": "7cf72cf31a127f9b770eff4141dcb7c085b344f102d1e15734f1ff2c0e11bbe5",
+      "duration": 32.12,
+      "beat_boundary": 17.65,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 4.32,
+          "text": "Level nine से eleven के city travel में voucher waiver है।"
+        },
+        {
+          "beat": 1,
+          "start": 4.32,
+          "end": 8.4,
+          "text": "Self certification में travel period और vehicle number लिखें।"
+        },
+        {
+          "beat": 1,
+          "start": 8.4,
+          "end": 13.86,
+          "text": "Example: Level ten officer की eligible non AC ride तीन सौ पचास है।"
+        },
+        {
+          "beat": 1,
+          "start": 13.86,
+          "end": 17.54,
+          "text": "Claim actual खर्च के लिए है, ceiling की fixed payment नहीं।"
+        },
+        {
+          "beat": 2,
+          "start": 17.65,
+          "end": 21.86,
+          "text": "एक पुराने clarification में airport transfers अलग discuss हैं।"
+        },
+        {
+          "beat": 2,
+          "start": 21.86,
+          "end": 25.54,
+          "text": "लेकिन उसका आज का application accounts office से verify करें।"
+        },
+        {
+          "beat": 2,
+          "start": 25.54,
+          "end": 29.92,
+          "text": "Example: airport से hotel और hotel से meeting अलग rides हैं।"
+        },
+        {
+          "beat": 2,
+          "start": 29.92,
+          "end": 32.1,
+          "text": "एक ही ride को दो बार claim मत करें।"
+        }
+      ],
+      "script_sha256": "c9e15f38c5715ed6976e0bb792a43444d63faa114d1d83dc95f3511aadc53978",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Level",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.00402106111869216
+        },
+        {
+          "beat": 1,
+          "text": "nine",
+          "start": 0.54,
+          "end": 0.94,
+          "probability": 0.022679481655359268
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 0.94,
+          "end": 1.32,
+          "probability": 0.44021644350141287
+        },
+        {
+          "beat": 1,
+          "text": "eleven",
+          "start": 1.32,
+          "end": 1.68,
+          "probability": 0.66120845079422
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 1.68,
+          "end": 1.98,
+          "probability": 0.7796668410301208
+        },
+        {
+          "beat": 1,
+          "text": "city",
+          "start": 1.98,
+          "end": 2.24,
+          "probability": 0.6695395708084106
+        },
+        {
+          "beat": 1,
+          "text": "travel",
+          "start": 2.24,
+          "end": 2.6,
+          "probability": 0.38394132256507874
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 2.6,
+          "end": 2.94,
+          "probability": 0.8860561847686768
+        },
+        {
+          "beat": 1,
+          "text": "voucher",
+          "start": 2.94,
+          "end": 3.46,
+          "probability": 0.5406910106539726
+        },
+        {
+          "beat": 1,
+          "text": "waiver",
+          "start": 3.46,
+          "end": 3.68,
+          "probability": 0.3692767024040222
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 3.68,
+          "end": 4.32,
+          "probability": 0.7295418889261782
+        },
+        {
+          "beat": 1,
+          "text": "Self",
+          "start": 4.32,
+          "end": 4.68,
+          "probability": 0.231671541929245
+        },
+        {
+          "beat": 1,
+          "text": "certification",
+          "start": 4.68,
+          "end": 5.26,
+          "probability": 0.44356468319892883
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 5.26,
+          "end": 5.8,
+          "probability": 0.9536848664283752
+        },
+        {
+          "beat": 1,
+          "text": "travel",
+          "start": 5.8,
+          "end": 6.08,
+          "probability": 0.9832507967948914
+        },
+        {
+          "beat": 1,
+          "text": "period",
+          "start": 6.08,
+          "end": 6.48,
+          "probability": 0.9485406279563904
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 6.48,
+          "end": 6.88,
+          "probability": 0.6260806123415629
+        },
+        {
+          "beat": 1,
+          "text": "vehicle",
+          "start": 6.88,
+          "end": 7.16,
+          "probability": 0.8512865304946899
+        },
+        {
+          "beat": 1,
+          "text": "number",
+          "start": 7.16,
+          "end": 7.5,
+          "probability": 0.8714430332183838
+        },
+        {
+          "beat": 1,
+          "text": "लिखें।",
+          "start": 7.5,
+          "end": 8.4,
+          "probability": 0.7509654859701792
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 8.4,
+          "end": 9.48,
+          "probability": 0.9029584527015686
+        },
+        {
+          "beat": 1,
+          "text": "Level",
+          "start": 9.48,
+          "end": 9.64,
+          "probability": 0.7766643762588501
+        },
+        {
+          "beat": 1,
+          "text": "ten",
+          "start": 9.64,
+          "end": 9.98,
+          "probability": 0.36051636934280396
+        },
+        {
+          "beat": 1,
+          "text": "officer",
+          "start": 9.98,
+          "end": 10.48,
+          "probability": 0.7668046355247498
+        },
+        {
+          "beat": 1,
+          "text": "की",
+          "start": 10.48,
+          "end": 10.74,
+          "probability": 0.7822180688381195
+        },
+        {
+          "beat": 1,
+          "text": "eligible",
+          "start": 10.74,
+          "end": 11.12,
+          "probability": 0.9779183268547058
+        },
+        {
+          "beat": 1,
+          "text": "non",
+          "start": 11.12,
+          "end": 11.6,
+          "probability": 0.6289266347885132
+        },
+        {
+          "beat": 1,
+          "text": "AC",
+          "start": 11.6,
+          "end": 11.98,
+          "probability": 0.5446796417236328
+        },
+        {
+          "beat": 1,
+          "text": "ride",
+          "start": 11.98,
+          "end": 12.32,
+          "probability": 0.906218945980072
+        },
+        {
+          "beat": 1,
+          "text": "तीन",
+          "start": 12.32,
+          "end": 12.72,
+          "probability": 0.5550147220492363
+        },
+        {
+          "beat": 1,
+          "text": "सौ",
+          "start": 12.72,
+          "end": 12.86,
+          "probability": 0.20156414372225603
+        },
+        {
+          "beat": 1,
+          "text": "पचास",
+          "start": 12.86,
+          "end": 13.28,
+          "probability": 0.6757915678123633
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 13.28,
+          "end": 13.86,
+          "probability": 0.9319911897182465
+        },
+        {
+          "beat": 1,
+          "text": "Claim",
+          "start": 13.86,
+          "end": 14.18,
+          "probability": 0.8789127767086029
+        },
+        {
+          "beat": 1,
+          "text": "actual",
+          "start": 14.18,
+          "end": 14.64,
+          "probability": 0.8609025478363037
+        },
+        {
+          "beat": 1,
+          "text": "खर्च",
+          "start": 14.64,
+          "end": 15.1,
+          "probability": 0.5682935453951359
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 15.1,
+          "end": 15.26,
+          "probability": 0.6704187840223312
+        },
+        {
+          "beat": 1,
+          "text": "लिए",
+          "start": 15.26,
+          "end": 15.46,
+          "probability": 0.8793858766555787
+        },
+        {
+          "beat": 1,
+          "text": "है,",
+          "start": 15.46,
+          "end": 15.82,
+          "probability": 0.8824530243873596
+        },
+        {
+          "beat": 1,
+          "text": "ceiling",
+          "start": 15.82,
+          "end": 16.08,
+          "probability": 0.7335277199745178
+        },
+        {
+          "beat": 1,
+          "text": "की",
+          "start": 16.08,
+          "end": 16.36,
+          "probability": 0.7576079666614532
+        },
+        {
+          "beat": 1,
+          "text": "fixed",
+          "start": 16.36,
+          "end": 16.62,
+          "probability": 0.9500927925109863
+        },
+        {
+          "beat": 1,
+          "text": "payment",
+          "start": 16.62,
+          "end": 16.96,
+          "probability": 0.8002254962921143
+        },
+        {
+          "beat": 1,
+          "text": "नहीं।",
+          "start": 16.96,
+          "end": 17.54,
+          "probability": 0.9335583107812064
+        },
+        {
+          "beat": 2,
+          "text": "एक",
+          "start": 17.65,
+          "end": 18.2,
+          "probability": 0.5586400181055069
+        },
+        {
+          "beat": 2,
+          "text": "पुराने",
+          "start": 18.2,
+          "end": 18.6,
+          "probability": 0.6811192450113595
+        },
+        {
+          "beat": 2,
+          "text": "clarification",
+          "start": 18.6,
+          "end": 19.0,
+          "probability": 3.2959556847345084e-05
+        },
+        {
+          "beat": 2,
+          "text": "में",
+          "start": 19.0,
+          "end": 19.56,
+          "probability": 0.7559986114501953
+        },
+        {
+          "beat": 2,
+          "text": "airport",
+          "start": 19.56,
+          "end": 19.92,
+          "probability": 0.03440934419631958
+        },
+        {
+          "beat": 2,
+          "text": "transfers",
+          "start": 19.92,
+          "end": 20.54,
+          "probability": 0.8802854418754578
+        },
+        {
+          "beat": 2,
+          "text": "अलग",
+          "start": 20.54,
+          "end": 20.96,
+          "probability": 0.5391204923391342
+        },
+        {
+          "beat": 2,
+          "text": "discuss",
+          "start": 20.96,
+          "end": 21.22,
+          "probability": 0.09730952233076096
+        },
+        {
+          "beat": 2,
+          "text": "हैं।",
+          "start": 21.22,
+          "end": 21.86,
+          "probability": 0.6831138461828232
+        },
+        {
+          "beat": 2,
+          "text": "लेकिन",
+          "start": 21.86,
+          "end": 22.18,
+          "probability": 0.6646909813086191
+        },
+        {
+          "beat": 2,
+          "text": "उसका",
+          "start": 22.18,
+          "end": 22.48,
+          "probability": 0.8685223221778869
+        },
+        {
+          "beat": 2,
+          "text": "आज",
+          "start": 22.48,
+          "end": 22.78,
+          "probability": 0.8865748792886734
+        },
+        {
+          "beat": 2,
+          "text": "का",
+          "start": 22.78,
+          "end": 22.98,
+          "probability": 0.5828247368335724
+        },
+        {
+          "beat": 2,
+          "text": "application",
+          "start": 22.98,
+          "end": 23.32,
+          "probability": 0.8952648043632507
+        },
+        {
+          "beat": 2,
+          "text": "accounts",
+          "start": 23.32,
+          "end": 23.96,
+          "probability": 0.7637061476707458
+        },
+        {
+          "beat": 2,
+          "text": "office",
+          "start": 23.96,
+          "end": 24.3,
+          "probability": 0.9030762910842896
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 24.3,
+          "end": 24.5,
+          "probability": 0.8015832304954529
+        },
+        {
+          "beat": 2,
+          "text": "verify",
+          "start": 24.5,
+          "end": 24.72,
+          "probability": 0.6625797152519226
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 24.72,
+          "end": 25.54,
+          "probability": 0.7943672835826874
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 25.54,
+          "end": 26.46,
+          "probability": 0.5469728782773018
+        },
+        {
+          "beat": 2,
+          "text": "airport",
+          "start": 26.46,
+          "end": 26.84,
+          "probability": 0.015239473432302475
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 26.84,
+          "end": 27.12,
+          "probability": 0.9597867131233215
+        },
+        {
+          "beat": 2,
+          "text": "hotel",
+          "start": 27.12,
+          "end": 27.42,
+          "probability": 0.9162855744361877
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 27.42,
+          "end": 27.78,
+          "probability": 0.7222918172677358
+        },
+        {
+          "beat": 2,
+          "text": "hotel",
+          "start": 27.78,
+          "end": 28.06,
+          "probability": 0.9504334330558777
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 28.06,
+          "end": 28.34,
+          "probability": 0.979060173034668
+        },
+        {
+          "beat": 2,
+          "text": "meeting",
+          "start": 28.34,
+          "end": 28.56,
+          "probability": 0.8780710697174072
+        },
+        {
+          "beat": 2,
+          "text": "अलग",
+          "start": 28.56,
+          "end": 29.08,
+          "probability": 0.8563004851341247
+        },
+        {
+          "beat": 2,
+          "text": "rides",
+          "start": 29.08,
+          "end": 29.32,
+          "probability": 0.7716944217681885
+        },
+        {
+          "beat": 2,
+          "text": "हैं।",
+          "start": 29.32,
+          "end": 29.92,
+          "probability": 0.884854769706726
+        },
+        {
+          "beat": 2,
+          "text": "एक",
+          "start": 29.92,
+          "end": 30.18,
+          "probability": 0.811489462852478
+        },
+        {
+          "beat": 2,
+          "text": "ही",
+          "start": 30.18,
+          "end": 30.3,
+          "probability": 0.6062870845198631
+        },
+        {
+          "beat": 2,
+          "text": "ride",
+          "start": 30.3,
+          "end": 30.46,
+          "probability": 0.22271659970283508
+        },
+        {
+          "beat": 2,
+          "text": "को",
+          "start": 30.46,
+          "end": 30.68,
+          "probability": 0.9694858491420746
+        },
+        {
+          "beat": 2,
+          "text": "दो",
+          "start": 30.68,
+          "end": 30.9,
+          "probability": 0.4543254052599271
+        },
+        {
+          "beat": 2,
+          "text": "बार",
+          "start": 30.9,
+          "end": 31.12,
+          "probability": 0.8124159872531891
+        },
+        {
+          "beat": 2,
+          "text": "claim",
+          "start": 31.12,
+          "end": 31.28,
+          "probability": 0.016960330307483673
+        },
+        {
+          "beat": 2,
+          "text": "मत",
+          "start": 31.28,
+          "end": 31.52,
+          "probability": 0.5827197432518005
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 31.52,
+          "end": 32.1,
+          "probability": 0.9574452936649323
+        }
+      ]
+    },
+    {
+      "audio": "06-local-journeys.mp3",
+      "audio_sha256": "0e655956a7e5e23ca9b64e499d3af0ef30ad8cfdb343cce9b90b0c7abec51a34",
+      "duration": 27.37,
+      "beat_boundary": 15.5,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 3.88,
+          "text": "Local journey में normal duty point से distance check करें।"
+        },
+        {
+          "beat": 1,
+          "start": 3.88,
+          "end": 8.06,
+          "text": "Government training material eight kilometer radius का test बताता है।"
+        },
+        {
+          "beat": 1,
+          "start": 8.06,
+          "end": 12.72,
+          "text": "Example: temporary office normal office से आठ किलोमीटर के बाहर है।"
+        },
+        {
+          "beat": 1,
+          "start": 12.72,
+          "end": 15.5,
+          "text": "घर से distance देखकर ही final decision मत लें।"
+        },
+        {
+          "beat": 2,
+          "start": 15.5,
+          "end": 20.35,
+          "text": "Example: Level seven और seven hours पर amount तीन सौ पचास।"
+        },
+        {
+          "beat": 2,
+          "start": 20.35,
+          "end": 23.91,
+          "text": "लेकिन original twenty eighteen letter की verified copy नहीं मिली।"
+        },
+        {
+          "beat": 2,
+          "start": 23.91,
+          "end": 27.15,
+          "text": "इसलिए actual claim से पहले accounts से confirm करें।"
+        }
+      ],
+      "script_sha256": "1e9b1b5b2fcbcf2a1d7b07add962cab31f7086949f7515cc93bcfe4d8cba6402",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Local",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.013156135566532612
+        },
+        {
+          "beat": 1,
+          "text": "journey",
+          "start": 0.6,
+          "end": 1.04,
+          "probability": 0.6366249918937683
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 1.04,
+          "end": 1.36,
+          "probability": 0.66290815671285
+        },
+        {
+          "beat": 1,
+          "text": "normal",
+          "start": 1.36,
+          "end": 1.66,
+          "probability": 0.8891739845275879
+        },
+        {
+          "beat": 1,
+          "text": "duty",
+          "start": 1.66,
+          "end": 1.96,
+          "probability": 0.9767630100250244
+        },
+        {
+          "beat": 1,
+          "text": "point",
+          "start": 1.96,
+          "end": 2.3,
+          "probability": 0.5164218544960022
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 2.3,
+          "end": 2.58,
+          "probability": 0.8902994096279144
+        },
+        {
+          "beat": 1,
+          "text": "distance",
+          "start": 2.58,
+          "end": 2.9,
+          "probability": 0.9668179154396057
+        },
+        {
+          "beat": 1,
+          "text": "check",
+          "start": 2.9,
+          "end": 3.26,
+          "probability": 0.4035229980945587
+        },
+        {
+          "beat": 1,
+          "text": "करें।",
+          "start": 3.26,
+          "end": 3.88,
+          "probability": 0.6629895000563314
+        },
+        {
+          "beat": 1,
+          "text": "Government",
+          "start": 3.88,
+          "end": 4.3,
+          "probability": 0.680233895778656
+        },
+        {
+          "beat": 1,
+          "text": "training",
+          "start": 4.3,
+          "end": 4.68,
+          "probability": 0.8975727558135986
+        },
+        {
+          "beat": 1,
+          "text": "material",
+          "start": 4.68,
+          "end": 5.18,
+          "probability": 0.7589983940124512
+        },
+        {
+          "beat": 1,
+          "text": "eight",
+          "start": 5.18,
+          "end": 5.64,
+          "probability": 0.02254093997180462
+        },
+        {
+          "beat": 1,
+          "text": "kilometer",
+          "start": 5.64,
+          "end": 5.98,
+          "probability": 0.23844759166240692
+        },
+        {
+          "beat": 1,
+          "text": "radius",
+          "start": 5.98,
+          "end": 6.52,
+          "probability": 0.9681944251060486
+        },
+        {
+          "beat": 1,
+          "text": "का",
+          "start": 6.52,
+          "end": 6.76,
+          "probability": 0.8279232084751129
+        },
+        {
+          "beat": 1,
+          "text": "test",
+          "start": 6.76,
+          "end": 6.96,
+          "probability": 0.7525347471237183
+        },
+        {
+          "beat": 1,
+          "text": "बताता",
+          "start": 6.96,
+          "end": 7.48,
+          "probability": 0.6853529016176859
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 7.48,
+          "end": 8.06,
+          "probability": 0.7662534564733505
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 8.06,
+          "end": 8.98,
+          "probability": 0.5847686678171158
+        },
+        {
+          "beat": 1,
+          "text": "temporary",
+          "start": 8.98,
+          "end": 9.32,
+          "probability": 0.48990556597709656
+        },
+        {
+          "beat": 1,
+          "text": "office",
+          "start": 9.32,
+          "end": 9.74,
+          "probability": 0.9883688688278198
+        },
+        {
+          "beat": 1,
+          "text": "normal",
+          "start": 9.74,
+          "end": 10.14,
+          "probability": 0.3221369683742523
+        },
+        {
+          "beat": 1,
+          "text": "office",
+          "start": 10.14,
+          "end": 10.58,
+          "probability": 0.992031455039978
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 10.58,
+          "end": 10.8,
+          "probability": 0.9727457463741302
+        },
+        {
+          "beat": 1,
+          "text": "आठ",
+          "start": 10.8,
+          "end": 11.06,
+          "probability": 0.28509081188974505
+        },
+        {
+          "beat": 1,
+          "text": "किलोमीटर",
+          "start": 11.06,
+          "end": 11.6,
+          "probability": 0.5497519224882126
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 11.6,
+          "end": 11.74,
+          "probability": 0.9026719927787781
+        },
+        {
+          "beat": 1,
+          "text": "बाहर",
+          "start": 11.74,
+          "end": 12.1,
+          "probability": 0.853524649143219
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 12.1,
+          "end": 12.72,
+          "probability": 0.9457188248634338
+        },
+        {
+          "beat": 1,
+          "text": "घर",
+          "start": 12.72,
+          "end": 12.96,
+          "probability": 0.12519596765438715
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 12.96,
+          "end": 13.18,
+          "probability": 0.5475890636444092
+        },
+        {
+          "beat": 1,
+          "text": "distance",
+          "start": 13.18,
+          "end": 13.46,
+          "probability": 0.9662773013114929
+        },
+        {
+          "beat": 1,
+          "text": "देखकर",
+          "start": 13.46,
+          "end": 14.0,
+          "probability": 0.6222210824489594
+        },
+        {
+          "beat": 1,
+          "text": "ही",
+          "start": 14.0,
+          "end": 14.14,
+          "probability": 0.8048907816410065
+        },
+        {
+          "beat": 1,
+          "text": "final",
+          "start": 14.14,
+          "end": 14.38,
+          "probability": 0.9655670523643494
+        },
+        {
+          "beat": 1,
+          "text": "decision",
+          "start": 14.38,
+          "end": 14.82,
+          "probability": 0.9837815761566162
+        },
+        {
+          "beat": 1,
+          "text": "मत",
+          "start": 14.82,
+          "end": 15.14,
+          "probability": 0.7752458453178406
+        },
+        {
+          "beat": 1,
+          "text": "लें।",
+          "start": 15.14,
+          "end": 15.5,
+          "probability": 0.7396375089883804
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 15.5,
+          "end": 16.81,
+          "probability": 0.5037394664250314
+        },
+        {
+          "beat": 2,
+          "text": "Level",
+          "start": 16.81,
+          "end": 17.05,
+          "probability": 0.11754538863897324
+        },
+        {
+          "beat": 2,
+          "text": "seven",
+          "start": 17.05,
+          "end": 17.49,
+          "probability": 0.07219450175762177
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 17.49,
+          "end": 17.83,
+          "probability": 0.3378125348438819
+        },
+        {
+          "beat": 2,
+          "text": "seven",
+          "start": 17.83,
+          "end": 18.11,
+          "probability": 0.24394971132278442
+        },
+        {
+          "beat": 2,
+          "text": "hours",
+          "start": 18.11,
+          "end": 18.37,
+          "probability": 0.9239612221717834
+        },
+        {
+          "beat": 2,
+          "text": "पर",
+          "start": 18.37,
+          "end": 18.63,
+          "probability": 0.8522931734720866
+        },
+        {
+          "beat": 2,
+          "text": "amount",
+          "start": 18.63,
+          "end": 18.87,
+          "probability": 0.34835606813430786
+        },
+        {
+          "beat": 2,
+          "text": "तीन",
+          "start": 18.87,
+          "end": 19.33,
+          "probability": 0.46098150056786835
+        },
+        {
+          "beat": 2,
+          "text": "सौ",
+          "start": 19.33,
+          "end": 19.49,
+          "probability": 0.08660007578631242
+        },
+        {
+          "beat": 2,
+          "text": "पचास।",
+          "start": 19.49,
+          "end": 20.35,
+          "probability": 0.6266439161263406
+        },
+        {
+          "beat": 2,
+          "text": "लेकिन",
+          "start": 20.35,
+          "end": 20.73,
+          "probability": 0.5517376971741518
+        },
+        {
+          "beat": 2,
+          "text": "original",
+          "start": 20.73,
+          "end": 20.95,
+          "probability": 0.556820809841156
+        },
+        {
+          "beat": 2,
+          "text": "twenty",
+          "start": 20.95,
+          "end": 21.49,
+          "probability": 0.6791347861289978
+        },
+        {
+          "beat": 2,
+          "text": "eighteen",
+          "start": 21.49,
+          "end": 21.89,
+          "probability": 0.2065655142068863
+        },
+        {
+          "beat": 2,
+          "text": "letter",
+          "start": 21.89,
+          "end": 22.15,
+          "probability": 0.32968252897262573
+        },
+        {
+          "beat": 2,
+          "text": "की",
+          "start": 22.15,
+          "end": 22.39,
+          "probability": 0.8098202049732208
+        },
+        {
+          "beat": 2,
+          "text": "verified",
+          "start": 22.39,
+          "end": 22.67,
+          "probability": 0.25895872712135315
+        },
+        {
+          "beat": 2,
+          "text": "copy",
+          "start": 22.67,
+          "end": 23.13,
+          "probability": 0.27530092000961304
+        },
+        {
+          "beat": 2,
+          "text": "नहीं",
+          "start": 23.13,
+          "end": 23.49,
+          "probability": 0.8521575689315796
+        },
+        {
+          "beat": 2,
+          "text": "मिली।",
+          "start": 23.49,
+          "end": 23.91,
+          "probability": 0.725491538643837
+        },
+        {
+          "beat": 2,
+          "text": "इसलिए",
+          "start": 23.91,
+          "end": 24.55,
+          "probability": 0.599926549409117
+        },
+        {
+          "beat": 2,
+          "text": "actual",
+          "start": 24.55,
+          "end": 24.87,
+          "probability": 0.9646535515785217
+        },
+        {
+          "beat": 2,
+          "text": "claim",
+          "start": 24.87,
+          "end": 25.25,
+          "probability": 0.947232723236084
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 25.25,
+          "end": 25.45,
+          "probability": 0.8173279464244843
+        },
+        {
+          "beat": 2,
+          "text": "पहले",
+          "start": 25.45,
+          "end": 25.75,
+          "probability": 0.8242021083831788
+        },
+        {
+          "beat": 2,
+          "text": "accounts",
+          "start": 25.75,
+          "end": 26.11,
+          "probability": 0.10009751468896866
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 26.11,
+          "end": 26.37,
+          "probability": 0.8678268790245056
+        },
+        {
+          "beat": 2,
+          "text": "confirm",
+          "start": 26.37,
+          "end": 26.61,
+          "probability": 0.4521639943122864
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 26.61,
+          "end": 27.15,
+          "probability": 0.8848953048388163
+        }
+      ]
+    },
+    {
+      "audio": "07-field-foot.mp3",
+      "audio_sha256": "0c3988344465cbc439c5122786bc8e43a3e4ed18d1d0fcbfedb159a044230e9e",
+      "duration": 34.0,
+      "beat_boundary": 19.4,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 4.62,
+          "text": "Specific scientific और data collection fieldwork के लिए clause है।"
+        },
+        {
+          "beat": 1,
+          "start": 4.62,
+          "end": 7.86,
+          "text": "Rate food component के equivalent हो सकता है।"
+        },
+        {
+          "beat": 1,
+          "start": 7.86,
+          "end": 11.82,
+          "text": "Head of Department या controlling officer का approval जरूरी है।"
+        },
+        {
+          "beat": 1,
+          "start": 11.82,
+          "end": 16.24,
+          "text": "Example: remote survey में team foot या mule से जा रही है।"
+        },
+        {
+          "beat": 1,
+          "start": 16.24,
+          "end": 19.4,
+          "text": "हर ship journey को automatic extra payment मत समझें।"
+        },
+        {
+          "beat": 2,
+          "start": 19.4,
+          "end": 23.11,
+          "text": "Foot journey के लिए base rate बारह रुपये per kilometer था।"
+        },
+        {
+          "beat": 2,
+          "start": 23.11,
+          "end": 26.41,
+          "text": "पहले twenty five percent increase के बाद पंद्रह रुपये होता है।"
+        },
+        {
+          "beat": 2,
+          "start": 26.41,
+          "end": 30.51,
+          "text": "Example: eligible journey में चार kilometer सच में पैदल चले।"
+        },
+        {
+          "beat": 2,
+          "start": 30.51,
+          "end": 33.89,
+          "text": "Four into fifteen यानी साठ रुपये; conditions check करें।"
+        }
+      ],
+      "script_sha256": "783590447b416b418c9d60fe75060e390cfc3bf522e22a63ffee67a701a0c26a",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Specific",
+          "start": 0.0,
+          "end": 1.0,
+          "probability": 0.49789650936145335
+        },
+        {
+          "beat": 1,
+          "text": "scientific",
+          "start": 1.0,
+          "end": 1.5,
+          "probability": 0.3154590427875519
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 1.5,
+          "end": 1.92,
+          "probability": 0.36118118558079004
+        },
+        {
+          "beat": 1,
+          "text": "data",
+          "start": 1.92,
+          "end": 2.24,
+          "probability": 0.5809522867202759
+        },
+        {
+          "beat": 1,
+          "text": "collection",
+          "start": 2.24,
+          "end": 2.62,
+          "probability": 0.8135205507278442
+        },
+        {
+          "beat": 1,
+          "text": "fieldwork",
+          "start": 2.62,
+          "end": 3.4,
+          "probability": 0.17784478515386581
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 3.4,
+          "end": 3.56,
+          "probability": 0.5096253603696823
+        },
+        {
+          "beat": 1,
+          "text": "लिए",
+          "start": 3.56,
+          "end": 3.7,
+          "probability": 0.7847298860549927
+        },
+        {
+          "beat": 1,
+          "text": "clause",
+          "start": 3.7,
+          "end": 3.98,
+          "probability": 0.11328688263893127
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 3.98,
+          "end": 4.62,
+          "probability": 0.7233139127492905
+        },
+        {
+          "beat": 1,
+          "text": "Rate",
+          "start": 4.62,
+          "end": 5.02,
+          "probability": 0.6512226462364197
+        },
+        {
+          "beat": 1,
+          "text": "food",
+          "start": 5.02,
+          "end": 5.38,
+          "probability": 0.778289794921875
+        },
+        {
+          "beat": 1,
+          "text": "component",
+          "start": 5.38,
+          "end": 5.94,
+          "probability": 0.9181640148162842
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 5.94,
+          "end": 6.22,
+          "probability": 0.9393483996391296
+        },
+        {
+          "beat": 1,
+          "text": "equivalent",
+          "start": 6.22,
+          "end": 6.58,
+          "probability": 0.06417664140462875
+        },
+        {
+          "beat": 1,
+          "text": "हो",
+          "start": 6.58,
+          "end": 7.02,
+          "probability": 0.8174541890621185
+        },
+        {
+          "beat": 1,
+          "text": "सकता",
+          "start": 7.02,
+          "end": 7.36,
+          "probability": 0.8481269478797913
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 7.36,
+          "end": 7.86,
+          "probability": 0.8006486780941486
+        },
+        {
+          "beat": 1,
+          "text": "Head",
+          "start": 7.86,
+          "end": 8.12,
+          "probability": 0.4569460451602936
+        },
+        {
+          "beat": 1,
+          "text": "of",
+          "start": 8.12,
+          "end": 8.28,
+          "probability": 0.9479816555976868
+        },
+        {
+          "beat": 1,
+          "text": "Department",
+          "start": 8.28,
+          "end": 8.78,
+          "probability": 0.22844040393829346
+        },
+        {
+          "beat": 1,
+          "text": "या",
+          "start": 8.78,
+          "end": 9.12,
+          "probability": 0.8475337624549866
+        },
+        {
+          "beat": 1,
+          "text": "controlling",
+          "start": 9.12,
+          "end": 9.5,
+          "probability": 0.6116127967834473
+        },
+        {
+          "beat": 1,
+          "text": "officer",
+          "start": 9.5,
+          "end": 10.04,
+          "probability": 0.9013307690620422
+        },
+        {
+          "beat": 1,
+          "text": "का",
+          "start": 10.04,
+          "end": 10.28,
+          "probability": 0.8216369450092316
+        },
+        {
+          "beat": 1,
+          "text": "approval",
+          "start": 10.28,
+          "end": 10.6,
+          "probability": 0.4676937162876129
+        },
+        {
+          "beat": 1,
+          "text": "जरूरी",
+          "start": 10.6,
+          "end": 11.22,
+          "probability": 0.6221223707709994
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 11.22,
+          "end": 11.82,
+          "probability": 0.9088245630264282
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 11.82,
+          "end": 12.8,
+          "probability": 0.5538914613425732
+        },
+        {
+          "beat": 1,
+          "text": "remote",
+          "start": 12.8,
+          "end": 13.06,
+          "probability": 0.06951749324798584
+        },
+        {
+          "beat": 1,
+          "text": "survey",
+          "start": 13.06,
+          "end": 13.5,
+          "probability": 0.9924546480178833
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 13.5,
+          "end": 13.7,
+          "probability": 0.9154829978942871
+        },
+        {
+          "beat": 1,
+          "text": "team",
+          "start": 13.7,
+          "end": 13.98,
+          "probability": 0.94545978307724
+        },
+        {
+          "beat": 1,
+          "text": "foot",
+          "start": 13.98,
+          "end": 14.36,
+          "probability": 0.48168081045150757
+        },
+        {
+          "beat": 1,
+          "text": "या",
+          "start": 14.36,
+          "end": 14.72,
+          "probability": 0.8829936385154724
+        },
+        {
+          "beat": 1,
+          "text": "mule",
+          "start": 14.72,
+          "end": 14.98,
+          "probability": 0.9342038631439209
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 14.98,
+          "end": 15.22,
+          "probability": 0.9262292683124542
+        },
+        {
+          "beat": 1,
+          "text": "जा",
+          "start": 15.22,
+          "end": 15.38,
+          "probability": 0.9485448201497396
+        },
+        {
+          "beat": 1,
+          "text": "रही",
+          "start": 15.38,
+          "end": 15.64,
+          "probability": 0.5545635409653187
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 15.64,
+          "end": 16.24,
+          "probability": 0.9105533957481384
+        },
+        {
+          "beat": 1,
+          "text": "हर",
+          "start": 16.24,
+          "end": 16.52,
+          "probability": 0.4785184481879696
+        },
+        {
+          "beat": 1,
+          "text": "ship",
+          "start": 16.52,
+          "end": 16.72,
+          "probability": 0.4307418465614319
+        },
+        {
+          "beat": 1,
+          "text": "journey",
+          "start": 16.72,
+          "end": 17.02,
+          "probability": 0.9729358553886414
+        },
+        {
+          "beat": 1,
+          "text": "को",
+          "start": 17.02,
+          "end": 17.28,
+          "probability": 0.9702184200286865
+        },
+        {
+          "beat": 1,
+          "text": "automatic",
+          "start": 17.28,
+          "end": 17.7,
+          "probability": 0.9241968989372253
+        },
+        {
+          "beat": 1,
+          "text": "extra",
+          "start": 17.7,
+          "end": 18.2,
+          "probability": 0.7939293384552002
+        },
+        {
+          "beat": 1,
+          "text": "payment",
+          "start": 18.2,
+          "end": 18.5,
+          "probability": 0.8827040195465088
+        },
+        {
+          "beat": 1,
+          "text": "मत",
+          "start": 18.5,
+          "end": 18.88,
+          "probability": 0.5128522366285324
+        },
+        {
+          "beat": 1,
+          "text": "समझें।",
+          "start": 18.88,
+          "end": 19.4,
+          "probability": 0.7917039301246405
+        },
+        {
+          "beat": 2,
+          "text": "Foot",
+          "start": 19.4,
+          "end": 19.97,
+          "probability": 0.0006628868286497891
+        },
+        {
+          "beat": 2,
+          "text": "journey",
+          "start": 19.97,
+          "end": 20.27,
+          "probability": 0.24260619282722473
+        },
+        {
+          "beat": 2,
+          "text": "के",
+          "start": 20.27,
+          "end": 20.51,
+          "probability": 0.14828376471996307
+        },
+        {
+          "beat": 2,
+          "text": "लिए",
+          "start": 20.51,
+          "end": 20.65,
+          "probability": 0.7886056780815125
+        },
+        {
+          "beat": 2,
+          "text": "base",
+          "start": 20.65,
+          "end": 20.95,
+          "probability": 0.2740885019302368
+        },
+        {
+          "beat": 2,
+          "text": "rate",
+          "start": 20.95,
+          "end": 21.17,
+          "probability": 0.9254974722862244
+        },
+        {
+          "beat": 2,
+          "text": "बारह",
+          "start": 21.17,
+          "end": 21.57,
+          "probability": 0.48541437471285465
+        },
+        {
+          "beat": 2,
+          "text": "रुपये",
+          "start": 21.57,
+          "end": 22.03,
+          "probability": 0.5908403240609914
+        },
+        {
+          "beat": 2,
+          "text": "per",
+          "start": 22.03,
+          "end": 22.03,
+          "probability": 0.029861750081181526
+        },
+        {
+          "beat": 2,
+          "text": "kilometer",
+          "start": 22.03,
+          "end": 22.35,
+          "probability": 0.35081344842910767
+        },
+        {
+          "beat": 2,
+          "text": "था।",
+          "start": 22.35,
+          "end": 23.11,
+          "probability": 0.55451690107584
+        },
+        {
+          "beat": 2,
+          "text": "पहले",
+          "start": 23.11,
+          "end": 23.51,
+          "probability": 0.7848597645759583
+        },
+        {
+          "beat": 2,
+          "text": "twenty",
+          "start": 23.51,
+          "end": 23.77,
+          "probability": 0.0013468917459249496
+        },
+        {
+          "beat": 2,
+          "text": "five",
+          "start": 23.77,
+          "end": 23.95,
+          "probability": 0.024771375581622124
+        },
+        {
+          "beat": 2,
+          "text": "percent",
+          "start": 23.95,
+          "end": 24.25,
+          "probability": 0.9806132316589355
+        },
+        {
+          "beat": 2,
+          "text": "increase",
+          "start": 24.25,
+          "end": 24.59,
+          "probability": 0.8933904767036438
+        },
+        {
+          "beat": 2,
+          "text": "के",
+          "start": 24.59,
+          "end": 24.85,
+          "probability": 0.7211677730083466
+        },
+        {
+          "beat": 2,
+          "text": "बाद",
+          "start": 24.85,
+          "end": 25.05,
+          "probability": 0.6610366523265838
+        },
+        {
+          "beat": 2,
+          "text": "पंद्रह",
+          "start": 25.05,
+          "end": 25.37,
+          "probability": 0.45903530716896057
+        },
+        {
+          "beat": 2,
+          "text": "रुपये",
+          "start": 25.37,
+          "end": 25.71,
+          "probability": 0.8098642327822745
+        },
+        {
+          "beat": 2,
+          "text": "होता",
+          "start": 25.71,
+          "end": 25.95,
+          "probability": 0.8672260493040085
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 25.95,
+          "end": 26.41,
+          "probability": 0.7419493887573481
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 26.41,
+          "end": 27.47,
+          "probability": 0.7595105171203613
+        },
+        {
+          "beat": 2,
+          "text": "eligible",
+          "start": 27.47,
+          "end": 27.79,
+          "probability": 0.29991415143013
+        },
+        {
+          "beat": 2,
+          "text": "journey",
+          "start": 27.79,
+          "end": 28.27,
+          "probability": 0.9216094613075256
+        },
+        {
+          "beat": 2,
+          "text": "में",
+          "start": 28.27,
+          "end": 28.45,
+          "probability": 0.9268959363301595
+        },
+        {
+          "beat": 2,
+          "text": "चार",
+          "start": 28.45,
+          "end": 28.77,
+          "probability": 0.6071210026275367
+        },
+        {
+          "beat": 2,
+          "text": "kilometer",
+          "start": 28.77,
+          "end": 29.01,
+          "probability": 0.00027898457483388484
+        },
+        {
+          "beat": 2,
+          "text": "सच",
+          "start": 29.01,
+          "end": 29.55,
+          "probability": 0.7504225770632426
+        },
+        {
+          "beat": 2,
+          "text": "में",
+          "start": 29.55,
+          "end": 29.71,
+          "probability": 0.7674581011136373
+        },
+        {
+          "beat": 2,
+          "text": "पैदल",
+          "start": 29.71,
+          "end": 30.01,
+          "probability": 0.7184013177951177
+        },
+        {
+          "beat": 2,
+          "text": "चले।",
+          "start": 30.01,
+          "end": 30.51,
+          "probability": 0.7436170739432176
+        },
+        {
+          "beat": 2,
+          "text": "Four",
+          "start": 30.51,
+          "end": 30.91,
+          "probability": 0.526589035987854
+        },
+        {
+          "beat": 2,
+          "text": "into",
+          "start": 30.91,
+          "end": 31.09,
+          "probability": 0.880352795124054
+        },
+        {
+          "beat": 2,
+          "text": "fifteen",
+          "start": 31.09,
+          "end": 31.49,
+          "probability": 0.8944815397262573
+        },
+        {
+          "beat": 2,
+          "text": "यानी",
+          "start": 31.49,
+          "end": 31.85,
+          "probability": 0.6872442066669464
+        },
+        {
+          "beat": 2,
+          "text": "साठ",
+          "start": 31.85,
+          "end": 32.17,
+          "probability": 0.48044494329951704
+        },
+        {
+          "beat": 2,
+          "text": "रुपये;",
+          "start": 32.17,
+          "end": 32.63,
+          "probability": 0.8404269218444824
+        },
+        {
+          "beat": 2,
+          "text": "conditions",
+          "start": 32.63,
+          "end": 33.05,
+          "probability": 0.29547563195228577
+        },
+        {
+          "beat": 2,
+          "text": "check",
+          "start": 33.05,
+          "end": 33.47,
+          "probability": 0.7459739446640015
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 33.47,
+          "end": 33.89,
+          "probability": 0.6984839290380478
+        }
+      ]
+    },
+    {
+      "audio": "08-documents.mp3",
+      "audio_sha256": "6a6f9d7c25bfe66f2bde9e13d67dd8f74d3221834620d19f03f9f93a7653b619",
+      "duration": 32.24,
+      "beat_boundary": 17.5,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 4.62,
+          "text": "Claim pack में sanction, level, journey dates और tickets रखें।"
+        },
+        {
+          "beat": 1,
+          "start": 4.62,
+          "end": 7.08,
+          "text": "Hotel और city travel के rules अलग हैं।"
+        },
+        {
+          "beat": 1,
+          "start": 7.08,
+          "end": 11.74,
+          "text": "Example: Level ten hotel receipt रखे, city ride self certify करे।"
+        },
+        {
+          "beat": 1,
+          "start": 11.74,
+          "end": 15.02,
+          "text": "Food component के लिए अलग food vouchers नहीं चाहिए।"
+        },
+        {
+          "beat": 1,
+          "start": 15.02,
+          "end": 17.5,
+          "text": "Submit करने का acknowledgement भी संभाल कर रखें।"
+        },
+        {
+          "beat": 2,
+          "start": 17.5,
+          "end": 21.53,
+          "text": "Tour का boarding pass missing हो तो prescribed declaration देखें।"
+        },
+        {
+          "beat": 2,
+          "start": 21.53,
+          "end": 24.81,
+          "text": "Level ten और नीचे controlling officer countersign करते हैं।"
+        },
+        {
+          "beat": 2,
+          "start": 24.81,
+          "end": 28.65,
+          "text": "Example: Level ten officer form भरकर countersign करवाए।"
+        },
+        {
+          "beat": 2,
+          "start": 28.65,
+          "end": 32.11,
+          "text": "Actual journey और no duplicate claim honestly declare करें।"
+        }
+      ],
+      "script_sha256": "a85add5ab949f4af5980b1284ad17af1b4c19c78e340afe90b2e2cbcfd1e483f",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Claim",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.475555288605392
+        },
+        {
+          "beat": 1,
+          "text": "pack",
+          "start": 0.54,
+          "end": 0.82,
+          "probability": 0.20418137311935425
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 0.82,
+          "end": 1.08,
+          "probability": 0.6828358173370361
+        },
+        {
+          "beat": 1,
+          "text": "sanction,",
+          "start": 1.08,
+          "end": 1.88,
+          "probability": 0.44542816281318665
+        },
+        {
+          "beat": 1,
+          "text": "level,",
+          "start": 1.88,
+          "end": 2.62,
+          "probability": 0.9132906198501587
+        },
+        {
+          "beat": 1,
+          "text": "journey",
+          "start": 2.62,
+          "end": 2.88,
+          "probability": 0.9430773258209229
+        },
+        {
+          "beat": 1,
+          "text": "dates",
+          "start": 2.88,
+          "end": 3.3,
+          "probability": 0.950552225112915
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 3.3,
+          "end": 3.54,
+          "probability": 0.444473572075367
+        },
+        {
+          "beat": 1,
+          "text": "tickets",
+          "start": 3.54,
+          "end": 3.76,
+          "probability": 0.0002891678304877132
+        },
+        {
+          "beat": 1,
+          "text": "रखें।",
+          "start": 3.76,
+          "end": 4.62,
+          "probability": 0.6666335398331285
+        },
+        {
+          "beat": 1,
+          "text": "Hotel",
+          "start": 4.62,
+          "end": 4.94,
+          "probability": 0.11613268405199051
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 4.94,
+          "end": 5.28,
+          "probability": 0.8342419068018595
+        },
+        {
+          "beat": 1,
+          "text": "city",
+          "start": 5.28,
+          "end": 5.5,
+          "probability": 0.8884308934211731
+        },
+        {
+          "beat": 1,
+          "text": "travel",
+          "start": 5.5,
+          "end": 5.82,
+          "probability": 0.9503219723701477
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 5.82,
+          "end": 6.04,
+          "probability": 0.9127085506916046
+        },
+        {
+          "beat": 1,
+          "text": "rules",
+          "start": 6.04,
+          "end": 6.2,
+          "probability": 0.764104425907135
+        },
+        {
+          "beat": 1,
+          "text": "अलग",
+          "start": 6.2,
+          "end": 6.62,
+          "probability": 0.7427428513765335
+        },
+        {
+          "beat": 1,
+          "text": "हैं।",
+          "start": 6.62,
+          "end": 7.08,
+          "probability": 0.7003734186291695
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 7.08,
+          "end": 8.0,
+          "probability": 0.8589622378349304
+        },
+        {
+          "beat": 1,
+          "text": "Level",
+          "start": 8.0,
+          "end": 8.26,
+          "probability": 0.2471836805343628
+        },
+        {
+          "beat": 1,
+          "text": "ten",
+          "start": 8.26,
+          "end": 8.54,
+          "probability": 0.04215703532099724
+        },
+        {
+          "beat": 1,
+          "text": "hotel",
+          "start": 8.54,
+          "end": 8.84,
+          "probability": 0.8602972626686096
+        },
+        {
+          "beat": 1,
+          "text": "receipt",
+          "start": 8.84,
+          "end": 9.26,
+          "probability": 0.2255994975566864
+        },
+        {
+          "beat": 1,
+          "text": "रखे,",
+          "start": 9.26,
+          "end": 9.78,
+          "probability": 0.9112398624420166
+        },
+        {
+          "beat": 1,
+          "text": "city",
+          "start": 9.78,
+          "end": 10.08,
+          "probability": 0.8126016855239868
+        },
+        {
+          "beat": 1,
+          "text": "ride",
+          "start": 10.08,
+          "end": 10.32,
+          "probability": 0.6458371877670288
+        },
+        {
+          "beat": 1,
+          "text": "self",
+          "start": 10.32,
+          "end": 10.64,
+          "probability": 0.04309641569852829
+        },
+        {
+          "beat": 1,
+          "text": "certify",
+          "start": 10.64,
+          "end": 11.18,
+          "probability": 0.54717156291008
+        },
+        {
+          "beat": 1,
+          "text": "करे।",
+          "start": 11.18,
+          "end": 11.74,
+          "probability": 0.7480742153245956
+        },
+        {
+          "beat": 1,
+          "text": "Food",
+          "start": 11.74,
+          "end": 12.18,
+          "probability": 0.9020923376083374
+        },
+        {
+          "beat": 1,
+          "text": "component",
+          "start": 12.18,
+          "end": 12.64,
+          "probability": 0.9580322504043579
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 12.64,
+          "end": 12.9,
+          "probability": 0.6415309309959412
+        },
+        {
+          "beat": 1,
+          "text": "लिए",
+          "start": 12.9,
+          "end": 13.06,
+          "probability": 0.7909090161323548
+        },
+        {
+          "beat": 1,
+          "text": "अलग",
+          "start": 13.06,
+          "end": 13.36,
+          "probability": 0.6406236588954926
+        },
+        {
+          "beat": 1,
+          "text": "food",
+          "start": 13.36,
+          "end": 13.54,
+          "probability": 0.443869411945343
+        },
+        {
+          "beat": 1,
+          "text": "vouchers",
+          "start": 13.54,
+          "end": 14.0,
+          "probability": 0.9742325246334076
+        },
+        {
+          "beat": 1,
+          "text": "नहीं",
+          "start": 14.0,
+          "end": 14.3,
+          "probability": 0.9074610233306885
+        },
+        {
+          "beat": 1,
+          "text": "चाहिए।",
+          "start": 14.3,
+          "end": 15.02,
+          "probability": 0.7309681408935123
+        },
+        {
+          "beat": 1,
+          "text": "Submit",
+          "start": 15.02,
+          "end": 15.44,
+          "probability": 0.9858899712562561
+        },
+        {
+          "beat": 1,
+          "text": "करने",
+          "start": 15.44,
+          "end": 15.76,
+          "probability": 0.8967587202787399
+        },
+        {
+          "beat": 1,
+          "text": "का",
+          "start": 15.76,
+          "end": 15.88,
+          "probability": 0.748369574546814
+        },
+        {
+          "beat": 1,
+          "text": "acknowledgement",
+          "start": 15.88,
+          "end": 16.24,
+          "probability": 0.8510563373565674
+        },
+        {
+          "beat": 1,
+          "text": "भी",
+          "start": 16.24,
+          "end": 16.66,
+          "probability": 0.8875927726427714
+        },
+        {
+          "beat": 1,
+          "text": "संभाल",
+          "start": 16.66,
+          "end": 17.02,
+          "probability": 0.6493803448975086
+        },
+        {
+          "beat": 1,
+          "text": "कर",
+          "start": 17.02,
+          "end": 17.16,
+          "probability": 0.887507826089859
+        },
+        {
+          "beat": 1,
+          "text": "रखें।",
+          "start": 17.16,
+          "end": 17.5,
+          "probability": 0.9615814238786697
+        },
+        {
+          "beat": 2,
+          "text": "Tour",
+          "start": 17.5,
+          "end": 18.15,
+          "probability": 0.0001298663264606148
+        },
+        {
+          "beat": 2,
+          "text": "का",
+          "start": 18.15,
+          "end": 18.41,
+          "probability": 0.44557028636336327
+        },
+        {
+          "beat": 2,
+          "text": "boarding",
+          "start": 18.41,
+          "end": 18.65,
+          "probability": 0.23196378350257874
+        },
+        {
+          "beat": 2,
+          "text": "pass",
+          "start": 18.65,
+          "end": 18.95,
+          "probability": 0.9388263821601868
+        },
+        {
+          "beat": 2,
+          "text": "missing",
+          "start": 18.95,
+          "end": 19.23,
+          "probability": 0.8898362517356873
+        },
+        {
+          "beat": 2,
+          "text": "हो",
+          "start": 19.23,
+          "end": 19.51,
+          "probability": 0.7233666181564331
+        },
+        {
+          "beat": 2,
+          "text": "तो",
+          "start": 19.51,
+          "end": 19.65,
+          "probability": 0.7047849694887797
+        },
+        {
+          "beat": 2,
+          "text": "prescribed",
+          "start": 19.65,
+          "end": 19.93,
+          "probability": 0.19966235756874084
+        },
+        {
+          "beat": 2,
+          "text": "declaration",
+          "start": 19.93,
+          "end": 20.65,
+          "probability": 0.9699140191078186
+        },
+        {
+          "beat": 2,
+          "text": "देखें।",
+          "start": 20.65,
+          "end": 21.53,
+          "probability": 0.6416751055253876
+        },
+        {
+          "beat": 2,
+          "text": "Level",
+          "start": 21.53,
+          "end": 21.87,
+          "probability": 0.7634121179580688
+        },
+        {
+          "beat": 2,
+          "text": "ten",
+          "start": 21.87,
+          "end": 22.21,
+          "probability": 0.035775646567344666
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 22.21,
+          "end": 22.35,
+          "probability": 0.5579823553562164
+        },
+        {
+          "beat": 2,
+          "text": "नीचे",
+          "start": 22.35,
+          "end": 22.67,
+          "probability": 0.8021531502405802
+        },
+        {
+          "beat": 2,
+          "text": "controlling",
+          "start": 22.67,
+          "end": 23.07,
+          "probability": 0.7413836717605591
+        },
+        {
+          "beat": 2,
+          "text": "officer",
+          "start": 23.07,
+          "end": 23.49,
+          "probability": 0.9462580680847168
+        },
+        {
+          "beat": 2,
+          "text": "countersign",
+          "start": 23.49,
+          "end": 24.13,
+          "probability": 0.4158666720613837
+        },
+        {
+          "beat": 2,
+          "text": "करते",
+          "start": 24.13,
+          "end": 24.45,
+          "probability": 0.8005189597606659
+        },
+        {
+          "beat": 2,
+          "text": "हैं।",
+          "start": 24.45,
+          "end": 24.81,
+          "probability": 0.7443364033475518
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 24.81,
+          "end": 25.77,
+          "probability": 0.8557563126087189
+        },
+        {
+          "beat": 2,
+          "text": "Level",
+          "start": 25.77,
+          "end": 25.99,
+          "probability": 0.6822441220283508
+        },
+        {
+          "beat": 2,
+          "text": "ten",
+          "start": 25.99,
+          "end": 26.25,
+          "probability": 0.49828410148620605
+        },
+        {
+          "beat": 2,
+          "text": "officer",
+          "start": 26.25,
+          "end": 26.61,
+          "probability": 0.9386736154556274
+        },
+        {
+          "beat": 2,
+          "text": "form",
+          "start": 26.61,
+          "end": 26.91,
+          "probability": 0.3672633469104767
+        },
+        {
+          "beat": 2,
+          "text": "भरकर",
+          "start": 26.91,
+          "end": 27.25,
+          "probability": 0.5605439722537995
+        },
+        {
+          "beat": 2,
+          "text": "countersign",
+          "start": 27.25,
+          "end": 27.87,
+          "probability": 0.8664981424808502
+        },
+        {
+          "beat": 2,
+          "text": "करवाए।",
+          "start": 27.87,
+          "end": 28.65,
+          "probability": 0.7038896141780747
+        },
+        {
+          "beat": 2,
+          "text": "Actual",
+          "start": 28.65,
+          "end": 29.13,
+          "probability": 0.9796772003173828
+        },
+        {
+          "beat": 2,
+          "text": "journey",
+          "start": 29.13,
+          "end": 29.51,
+          "probability": 0.8661803603172302
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 29.51,
+          "end": 29.79,
+          "probability": 0.6143107314904531
+        },
+        {
+          "beat": 2,
+          "text": "no",
+          "start": 29.79,
+          "end": 29.97,
+          "probability": 0.6375895738601685
+        },
+        {
+          "beat": 2,
+          "text": "duplicate",
+          "start": 29.97,
+          "end": 30.33,
+          "probability": 0.9791198372840881
+        },
+        {
+          "beat": 2,
+          "text": "claim",
+          "start": 30.33,
+          "end": 30.73,
+          "probability": 0.9343104958534241
+        },
+        {
+          "beat": 2,
+          "text": "honestly",
+          "start": 30.73,
+          "end": 31.19,
+          "probability": 0.009353714995086193
+        },
+        {
+          "beat": 2,
+          "text": "declare",
+          "start": 31.19,
+          "end": 31.65,
+          "probability": 0.6232727766036987
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 31.65,
+          "end": 32.11,
+          "probability": 0.8988523483276367
+        }
+      ]
+    },
+    {
+      "audio": "09-claim-deadline.mp3",
+      "audio_sha256": "4d82e5aaa09cf74c96f0e4cbae003a4d16c868a55992bec36407a1956a277c9a",
+      "duration": 38.36,
+      "beat_boundary": 19.8,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 4.36,
+          "text": "Tour, transfer और training claim की limit sixty days है।"
+        },
+        {
+          "beat": 1,
+          "start": 4.36,
+          "end": 7.56,
+          "text": "Retirement claim के लिए order ने one hundred eighty days किए।"
+        },
+        {
+          "beat": 1,
+          "start": 7.56,
+          "end": 11.08,
+          "text": "Journey के बाद अगले दिन से clock शुरू होने का rule देखें।"
+        },
+        {
+          "beat": 1,
+          "start": 11.08,
+          "end": 15.88,
+          "text": "Example: one March tour end हो, claim two March due होता है।"
+        },
+        {
+          "beat": 1,
+          "start": 15.88,
+          "end": 19.8,
+          "text": "Last day का wait न करें; late claim पर forfeiture हो सकता है।"
+        },
+        {
+          "beat": 2,
+          "start": 19.8,
+          "end": 23.91,
+          "text": "अपना controlling officer होने पर treasury या cash section देखें।"
+        },
+        {
+          "beat": 2,
+          "start": 23.91,
+          "end": 27.75,
+          "text": "बाकी cases में Head of Office या controlling officer को submit करें।"
+        },
+        {
+          "beat": 2,
+          "start": 27.75,
+          "end": 31.41,
+          "text": "Example: officer ने समय पर Head of Office को claim दिया।"
+        },
+        {
+          "beat": 2,
+          "start": 31.41,
+          "end": 34.91,
+          "text": "Dated acknowledgement से submission की date prove हो सकती है।"
+        },
+        {
+          "beat": 2,
+          "start": 34.91,
+          "end": 38.21,
+          "text": "एक साल से ज्यादा abeyance का review automatic waiver नहीं है।"
+        }
+      ],
+      "script_sha256": "ead5b211f820b35588be19dcfd72b3202d220ba7d226137e17bd03afae96fff9",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Tour,",
+          "start": 0.0,
+          "end": 1.04,
+          "probability": 0.0041900319047272205
+        },
+        {
+          "beat": 1,
+          "text": "transfer",
+          "start": 1.04,
+          "end": 1.52,
+          "probability": 0.20213289558887482
+        },
+        {
+          "beat": 1,
+          "text": "और",
+          "start": 1.52,
+          "end": 1.92,
+          "probability": 0.3892936023573081
+        },
+        {
+          "beat": 1,
+          "text": "training",
+          "start": 1.92,
+          "end": 2.26,
+          "probability": 0.005849845707416534
+        },
+        {
+          "beat": 1,
+          "text": "claim",
+          "start": 2.26,
+          "end": 2.6,
+          "probability": 0.006576693616807461
+        },
+        {
+          "beat": 1,
+          "text": "की",
+          "start": 2.6,
+          "end": 2.82,
+          "probability": 0.7172201871871948
+        },
+        {
+          "beat": 1,
+          "text": "limit",
+          "start": 2.82,
+          "end": 3.02,
+          "probability": 0.11897391825914383
+        },
+        {
+          "beat": 1,
+          "text": "sixty",
+          "start": 3.02,
+          "end": 3.38,
+          "probability": 0.002060417551547289
+        },
+        {
+          "beat": 1,
+          "text": "days",
+          "start": 3.38,
+          "end": 3.78,
+          "probability": 0.9431487917900085
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 3.78,
+          "end": 4.36,
+          "probability": 0.7329224329441786
+        },
+        {
+          "beat": 1,
+          "text": "Retirement",
+          "start": 4.36,
+          "end": 4.92,
+          "probability": 0.6257838308811188
+        },
+        {
+          "beat": 1,
+          "text": "claim",
+          "start": 4.92,
+          "end": 5.24,
+          "probability": 0.967147171497345
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 5.24,
+          "end": 5.44,
+          "probability": 0.8027319312095642
+        },
+        {
+          "beat": 1,
+          "text": "लिए",
+          "start": 5.44,
+          "end": 5.62,
+          "probability": 0.8016931653022766
+        },
+        {
+          "beat": 1,
+          "text": "order",
+          "start": 5.62,
+          "end": 5.94,
+          "probability": 0.8951078653335571
+        },
+        {
+          "beat": 1,
+          "text": "ने",
+          "start": 5.94,
+          "end": 6.18,
+          "probability": 0.7022803028424581
+        },
+        {
+          "beat": 1,
+          "text": "one",
+          "start": 6.18,
+          "end": 6.38,
+          "probability": 0.13284145295619965
+        },
+        {
+          "beat": 1,
+          "text": "hundred",
+          "start": 6.38,
+          "end": 6.56,
+          "probability": 0.0006646920810453594
+        },
+        {
+          "beat": 1,
+          "text": "eighty",
+          "start": 6.56,
+          "end": 6.68,
+          "probability": 0.010854114778339863
+        },
+        {
+          "beat": 1,
+          "text": "days",
+          "start": 6.68,
+          "end": 6.92,
+          "probability": 0.9929714798927307
+        },
+        {
+          "beat": 1,
+          "text": "किए।",
+          "start": 6.92,
+          "end": 7.56,
+          "probability": 0.6051139185825983
+        },
+        {
+          "beat": 1,
+          "text": "Journey",
+          "start": 7.56,
+          "end": 8.08,
+          "probability": 0.407332181930542
+        },
+        {
+          "beat": 1,
+          "text": "के",
+          "start": 8.08,
+          "end": 8.32,
+          "probability": 0.8914162218570709
+        },
+        {
+          "beat": 1,
+          "text": "बाद",
+          "start": 8.32,
+          "end": 8.56,
+          "probability": 0.7647860288619995
+        },
+        {
+          "beat": 1,
+          "text": "अगले",
+          "start": 8.56,
+          "end": 8.92,
+          "probability": 0.8754184941450754
+        },
+        {
+          "beat": 1,
+          "text": "दिन",
+          "start": 8.92,
+          "end": 9.1,
+          "probability": 0.8330448567867279
+        },
+        {
+          "beat": 1,
+          "text": "से",
+          "start": 9.1,
+          "end": 9.24,
+          "probability": 0.9487983882427216
+        },
+        {
+          "beat": 1,
+          "text": "clock",
+          "start": 9.24,
+          "end": 9.44,
+          "probability": 0.8295718431472778
+        },
+        {
+          "beat": 1,
+          "text": "शुरू",
+          "start": 9.44,
+          "end": 9.76,
+          "probability": 0.734568749155317
+        },
+        {
+          "beat": 1,
+          "text": "होने",
+          "start": 9.76,
+          "end": 10.04,
+          "probability": 0.6866191253066063
+        },
+        {
+          "beat": 1,
+          "text": "का",
+          "start": 10.04,
+          "end": 10.18,
+          "probability": 0.8372789323329926
+        },
+        {
+          "beat": 1,
+          "text": "rule",
+          "start": 10.18,
+          "end": 10.34,
+          "probability": 0.7865602374076843
+        },
+        {
+          "beat": 1,
+          "text": "देखें।",
+          "start": 10.34,
+          "end": 11.08,
+          "probability": 0.7618654684887992
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 11.08,
+          "end": 12.3,
+          "probability": 0.8643312454223633
+        },
+        {
+          "beat": 1,
+          "text": "one",
+          "start": 12.3,
+          "end": 12.44,
+          "probability": 0.03794638067483902
+        },
+        {
+          "beat": 1,
+          "text": "March",
+          "start": 12.44,
+          "end": 12.78,
+          "probability": 0.15280361473560333
+        },
+        {
+          "beat": 1,
+          "text": "tour",
+          "start": 12.78,
+          "end": 13.06,
+          "probability": 0.9065314531326294
+        },
+        {
+          "beat": 1,
+          "text": "end",
+          "start": 13.06,
+          "end": 13.38,
+          "probability": 0.886996865272522
+        },
+        {
+          "beat": 1,
+          "text": "हो,",
+          "start": 13.38,
+          "end": 13.92,
+          "probability": 0.7818446159362793
+        },
+        {
+          "beat": 1,
+          "text": "claim",
+          "start": 13.92,
+          "end": 14.12,
+          "probability": 0.9704811573028564
+        },
+        {
+          "beat": 1,
+          "text": "two",
+          "start": 14.12,
+          "end": 14.44,
+          "probability": 0.5744106769561768
+        },
+        {
+          "beat": 1,
+          "text": "March",
+          "start": 14.44,
+          "end": 14.74,
+          "probability": 0.26811495423316956
+        },
+        {
+          "beat": 1,
+          "text": "due",
+          "start": 14.74,
+          "end": 14.96,
+          "probability": 0.9442228674888611
+        },
+        {
+          "beat": 1,
+          "text": "होता",
+          "start": 14.96,
+          "end": 15.26,
+          "probability": 0.9141318202018738
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 15.26,
+          "end": 15.88,
+          "probability": 0.7819163352251053
+        },
+        {
+          "beat": 1,
+          "text": "Last",
+          "start": 15.88,
+          "end": 16.18,
+          "probability": 0.7411738634109497
+        },
+        {
+          "beat": 1,
+          "text": "day",
+          "start": 16.18,
+          "end": 16.42,
+          "probability": 0.9027354717254639
+        },
+        {
+          "beat": 1,
+          "text": "का",
+          "start": 16.42,
+          "end": 16.56,
+          "probability": 0.9324403405189514
+        },
+        {
+          "beat": 1,
+          "text": "wait",
+          "start": 16.56,
+          "end": 16.74,
+          "probability": 0.15920770168304443
+        },
+        {
+          "beat": 1,
+          "text": "न",
+          "start": 16.74,
+          "end": 16.96,
+          "probability": 0.8981806039810181
+        },
+        {
+          "beat": 1,
+          "text": "करें;",
+          "start": 16.96,
+          "end": 17.62,
+          "probability": 0.3941574185155332
+        },
+        {
+          "beat": 1,
+          "text": "late",
+          "start": 17.62,
+          "end": 17.86,
+          "probability": 0.7229286432266235
+        },
+        {
+          "beat": 1,
+          "text": "claim",
+          "start": 17.86,
+          "end": 18.18,
+          "probability": 0.5143669247627258
+        },
+        {
+          "beat": 1,
+          "text": "पर",
+          "start": 18.18,
+          "end": 18.38,
+          "probability": 0.8260102073351542
+        },
+        {
+          "beat": 1,
+          "text": "forfeiture",
+          "start": 18.38,
+          "end": 18.88,
+          "probability": 0.8288479050000509
+        },
+        {
+          "beat": 1,
+          "text": "हो",
+          "start": 18.88,
+          "end": 19.1,
+          "probability": 0.9238751828670502
+        },
+        {
+          "beat": 1,
+          "text": "सकता",
+          "start": 19.1,
+          "end": 19.4,
+          "probability": 0.9115565717220306
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 19.4,
+          "end": 19.8,
+          "probability": 0.985102966427803
+        },
+        {
+          "beat": 2,
+          "text": "अपना",
+          "start": 19.8,
+          "end": 20.49,
+          "probability": 0.8434486587842306
+        },
+        {
+          "beat": 2,
+          "text": "controlling",
+          "start": 20.49,
+          "end": 20.83,
+          "probability": 0.00028885641950182617
+        },
+        {
+          "beat": 2,
+          "text": "officer",
+          "start": 20.83,
+          "end": 21.25,
+          "probability": 0.9385407567024231
+        },
+        {
+          "beat": 2,
+          "text": "होने",
+          "start": 21.25,
+          "end": 21.65,
+          "probability": 0.5337027981877327
+        },
+        {
+          "beat": 2,
+          "text": "पर",
+          "start": 21.65,
+          "end": 21.83,
+          "probability": 0.783289631207784
+        },
+        {
+          "beat": 2,
+          "text": "treasury",
+          "start": 21.83,
+          "end": 22.15,
+          "probability": 0.4246048927307129
+        },
+        {
+          "beat": 2,
+          "text": "या",
+          "start": 22.15,
+          "end": 22.47,
+          "probability": 0.7694853742917379
+        },
+        {
+          "beat": 2,
+          "text": "cash",
+          "start": 22.47,
+          "end": 22.75,
+          "probability": 0.8166838884353638
+        },
+        {
+          "beat": 2,
+          "text": "section",
+          "start": 22.75,
+          "end": 23.05,
+          "probability": 0.6348177194595337
+        },
+        {
+          "beat": 2,
+          "text": "देखें।",
+          "start": 23.05,
+          "end": 23.91,
+          "probability": 0.7075237308939298
+        },
+        {
+          "beat": 2,
+          "text": "बाकी",
+          "start": 23.91,
+          "end": 24.31,
+          "probability": 0.730494475364685
+        },
+        {
+          "beat": 2,
+          "text": "cases",
+          "start": 24.31,
+          "end": 24.57,
+          "probability": 0.9063132405281067
+        },
+        {
+          "beat": 2,
+          "text": "में",
+          "start": 24.57,
+          "end": 24.83,
+          "probability": 0.7955911556879679
+        },
+        {
+          "beat": 2,
+          "text": "Head",
+          "start": 24.83,
+          "end": 25.05,
+          "probability": 0.010370668955147266
+        },
+        {
+          "beat": 2,
+          "text": "of",
+          "start": 25.05,
+          "end": 25.19,
+          "probability": 0.8590344786643982
+        },
+        {
+          "beat": 2,
+          "text": "Office",
+          "start": 25.19,
+          "end": 25.49,
+          "probability": 0.4027858078479767
+        },
+        {
+          "beat": 2,
+          "text": "या",
+          "start": 25.49,
+          "end": 25.67,
+          "probability": 0.8645442525545756
+        },
+        {
+          "beat": 2,
+          "text": "controlling",
+          "start": 25.67,
+          "end": 26.01,
+          "probability": 0.8436879515647888
+        },
+        {
+          "beat": 2,
+          "text": "officer",
+          "start": 26.01,
+          "end": 26.47,
+          "probability": 0.9413741827011108
+        },
+        {
+          "beat": 2,
+          "text": "को",
+          "start": 26.47,
+          "end": 26.67,
+          "probability": 0.7578758895397186
+        },
+        {
+          "beat": 2,
+          "text": "submit",
+          "start": 26.67,
+          "end": 26.91,
+          "probability": 0.29616275429725647
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 26.91,
+          "end": 27.75,
+          "probability": 0.8251315007607142
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 27.75,
+          "end": 29.03,
+          "probability": 0.5559434108436108
+        },
+        {
+          "beat": 2,
+          "text": "officer",
+          "start": 29.03,
+          "end": 29.03,
+          "probability": 0.03314537554979324
+        },
+        {
+          "beat": 2,
+          "text": "ने",
+          "start": 29.03,
+          "end": 29.23,
+          "probability": 0.616152028242747
+        },
+        {
+          "beat": 2,
+          "text": "समय",
+          "start": 29.23,
+          "end": 29.55,
+          "probability": 0.6247875193754832
+        },
+        {
+          "beat": 2,
+          "text": "पर",
+          "start": 29.55,
+          "end": 29.75,
+          "probability": 0.8911834359169006
+        },
+        {
+          "beat": 2,
+          "text": "Head",
+          "start": 29.75,
+          "end": 29.91,
+          "probability": 0.1742284893989563
+        },
+        {
+          "beat": 2,
+          "text": "of",
+          "start": 29.91,
+          "end": 30.05,
+          "probability": 0.9762256145477295
+        },
+        {
+          "beat": 2,
+          "text": "Office",
+          "start": 30.05,
+          "end": 30.33,
+          "probability": 0.8349807858467102
+        },
+        {
+          "beat": 2,
+          "text": "को",
+          "start": 30.33,
+          "end": 30.47,
+          "probability": 0.9074319005012512
+        },
+        {
+          "beat": 2,
+          "text": "claim",
+          "start": 30.47,
+          "end": 30.67,
+          "probability": 0.0004908929695375264
+        },
+        {
+          "beat": 2,
+          "text": "दिया।",
+          "start": 30.67,
+          "end": 31.41,
+          "probability": 0.7131249457597733
+        },
+        {
+          "beat": 2,
+          "text": "Dated",
+          "start": 31.41,
+          "end": 31.83,
+          "probability": 0.5026613734662533
+        },
+        {
+          "beat": 2,
+          "text": "acknowledgement",
+          "start": 31.83,
+          "end": 32.27,
+          "probability": 0.604518711566925
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 32.27,
+          "end": 32.63,
+          "probability": 0.6513427644968033
+        },
+        {
+          "beat": 2,
+          "text": "submission",
+          "start": 32.63,
+          "end": 32.97,
+          "probability": 0.5441371202468872
+        },
+        {
+          "beat": 2,
+          "text": "की",
+          "start": 32.97,
+          "end": 33.27,
+          "probability": 0.8250019252300262
+        },
+        {
+          "beat": 2,
+          "text": "date",
+          "start": 33.27,
+          "end": 33.43,
+          "probability": 0.5681162476539612
+        },
+        {
+          "beat": 2,
+          "text": "prove",
+          "start": 33.43,
+          "end": 33.73,
+          "probability": 0.05189114436507225
+        },
+        {
+          "beat": 2,
+          "text": "हो",
+          "start": 33.73,
+          "end": 33.91,
+          "probability": 0.8643662929534912
+        },
+        {
+          "beat": 2,
+          "text": "सकती",
+          "start": 33.91,
+          "end": 34.23,
+          "probability": 0.8455255776643753
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 34.23,
+          "end": 34.91,
+          "probability": 0.9040479809045792
+        },
+        {
+          "beat": 2,
+          "text": "एक",
+          "start": 34.91,
+          "end": 35.17,
+          "probability": 0.6975245972474416
+        },
+        {
+          "beat": 2,
+          "text": "साल",
+          "start": 35.17,
+          "end": 35.39,
+          "probability": 0.7979950706164042
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 35.39,
+          "end": 35.53,
+          "probability": 0.4952165484428406
+        },
+        {
+          "beat": 2,
+          "text": "ज्यादा",
+          "start": 35.53,
+          "end": 35.87,
+          "probability": 0.7538378490135074
+        },
+        {
+          "beat": 2,
+          "text": "abeyance",
+          "start": 35.87,
+          "end": 36.21,
+          "probability": 0.437895730137825
+        },
+        {
+          "beat": 2,
+          "text": "का",
+          "start": 36.21,
+          "end": 36.39,
+          "probability": 0.9403353929519653
+        },
+        {
+          "beat": 2,
+          "text": "review",
+          "start": 36.39,
+          "end": 36.59,
+          "probability": 0.9885239005088806
+        },
+        {
+          "beat": 2,
+          "text": "automatic",
+          "start": 36.59,
+          "end": 37.01,
+          "probability": 0.4574650526046753
+        },
+        {
+          "beat": 2,
+          "text": "waiver",
+          "start": 37.01,
+          "end": 37.49,
+          "probability": 0.16407692432403564
+        },
+        {
+          "beat": 2,
+          "text": "नहीं",
+          "start": 37.49,
+          "end": 37.91,
+          "probability": 0.8855696201324463
+        },
+        {
+          "beat": 2,
+          "text": "है।",
+          "start": 37.91,
+          "end": 38.21,
+          "probability": 0.9295554310083389
+        }
+      ]
+    },
+    {
+      "audio": "10-advance-revision.mp3",
+      "audio_sha256": "fdc75d6225b95c1b4708e346df34169ec42e59f8dc252cd6e889ce3071791ec7",
+      "duration": 37.32,
+      "beat_boundary": 18.5,
+      "cues": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 3.66,
+          "text": "Tour advance लिया है तो एक अलग deadline check करें।"
+        },
+        {
+          "beat": 1,
+          "start": 3.66,
+          "end": 7.56,
+          "text": "Compendium Rule fifty one में fifteen days adjustment लिखा है।"
+        },
+        {
+          "beat": 1,
+          "start": 7.56,
+          "end": 11.52,
+          "text": "Tour complete या उसके बाद duty resume होने की date देखें।"
+        },
+        {
+          "beat": 1,
+          "start": 11.52,
+          "end": 15.58,
+          "text": "Example: advance वाला officer जल्दी adjustment bill submit करे।"
+        },
+        {
+          "beat": 1,
+          "start": 15.58,
+          "end": 18.5,
+          "text": "Late होने पर recovery या interest लग सकता है।"
+        },
+        {
+          "beat": 2,
+          "start": 18.5,
+          "end": 22.09,
+          "text": "Dearness Allowance fifty percent होने पर कुछ rates बढ़े।"
+        },
+        {
+          "beat": 2,
+          "start": 22.09,
+          "end": 25.91,
+          "text": "Example: Level seven food आठ सौ से एक हजार हुआ।"
+        },
+        {
+          "beat": 2,
+          "start": 25.91,
+          "end": 29.95,
+          "text": "Sixty percent DA आते ही दूसरा increase automatically नहीं होता।"
+        },
+        {
+          "beat": 2,
+          "start": 29.95,
+          "end": 33.89,
+          "text": "Later order, service rules और open exceptions verify करें।"
+        },
+        {
+          "beat": 2,
+          "start": 33.89,
+          "end": 37.11,
+          "text": "Detailed guide और source ledger में सारे examples मिलेंगे।"
+        }
+      ],
+      "script_sha256": "6a43ff40d0d02309dbfb7e703bb9d6887c23f2b750e8c0c5a065149624c96512",
+      "words": [
+        {
+          "beat": 1,
+          "text": "Tour",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.0023040249943733215
+        },
+        {
+          "beat": 1,
+          "text": "advance",
+          "start": 0.48,
+          "end": 0.82,
+          "probability": 0.2666284441947937
+        },
+        {
+          "beat": 1,
+          "text": "लिया",
+          "start": 0.82,
+          "end": 1.32,
+          "probability": 0.740555715560913
+        },
+        {
+          "beat": 1,
+          "text": "है",
+          "start": 1.32,
+          "end": 1.5,
+          "probability": 0.9214016199111938
+        },
+        {
+          "beat": 1,
+          "text": "तो",
+          "start": 1.5,
+          "end": 1.8,
+          "probability": 0.6750151316324869
+        },
+        {
+          "beat": 1,
+          "text": "एक",
+          "start": 1.8,
+          "end": 2.0,
+          "probability": 0.8318871061007181
+        },
+        {
+          "beat": 1,
+          "text": "अलग",
+          "start": 2.0,
+          "end": 2.3,
+          "probability": 0.6566162139177323
+        },
+        {
+          "beat": 1,
+          "text": "deadline",
+          "start": 2.3,
+          "end": 2.6,
+          "probability": 0.001564618432894349
+        },
+        {
+          "beat": 1,
+          "text": "check",
+          "start": 2.6,
+          "end": 2.94,
+          "probability": 0.1304037868976593
+        },
+        {
+          "beat": 1,
+          "text": "करें।",
+          "start": 2.94,
+          "end": 3.66,
+          "probability": 0.7052120535324017
+        },
+        {
+          "beat": 1,
+          "text": "Compendium",
+          "start": 3.66,
+          "end": 4.28,
+          "probability": 0.6959926635026932
+        },
+        {
+          "beat": 1,
+          "text": "Rule",
+          "start": 4.28,
+          "end": 4.46,
+          "probability": 0.7787814736366272
+        },
+        {
+          "beat": 1,
+          "text": "fifty",
+          "start": 4.46,
+          "end": 4.76,
+          "probability": 0.0005623898468911648
+        },
+        {
+          "beat": 1,
+          "text": "one",
+          "start": 4.76,
+          "end": 5.1,
+          "probability": 0.06435292959213257
+        },
+        {
+          "beat": 1,
+          "text": "में",
+          "start": 5.1,
+          "end": 5.44,
+          "probability": 0.8958595196406046
+        },
+        {
+          "beat": 1,
+          "text": "fifteen",
+          "start": 5.44,
+          "end": 5.72,
+          "probability": 0.13224366307258606
+        },
+        {
+          "beat": 1,
+          "text": "days",
+          "start": 5.72,
+          "end": 6.1,
+          "probability": 0.9823498129844666
+        },
+        {
+          "beat": 1,
+          "text": "adjustment",
+          "start": 6.1,
+          "end": 6.58,
+          "probability": 0.6687027812004089
+        },
+        {
+          "beat": 1,
+          "text": "लिखा",
+          "start": 6.58,
+          "end": 7.04,
+          "probability": 0.848925769329071
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 7.04,
+          "end": 7.56,
+          "probability": 0.7030651867389679
+        },
+        {
+          "beat": 1,
+          "text": "Tour",
+          "start": 7.56,
+          "end": 7.88,
+          "probability": 0.9198087453842163
+        },
+        {
+          "beat": 1,
+          "text": "complete",
+          "start": 7.88,
+          "end": 8.32,
+          "probability": 0.9106290340423584
+        },
+        {
+          "beat": 1,
+          "text": "या",
+          "start": 8.32,
+          "end": 8.82,
+          "probability": 0.80539337793986
+        },
+        {
+          "beat": 1,
+          "text": "उसके",
+          "start": 8.82,
+          "end": 9.14,
+          "probability": 0.8940592408180237
+        },
+        {
+          "beat": 1,
+          "text": "बाद",
+          "start": 9.14,
+          "end": 9.36,
+          "probability": 0.7157831251621246
+        },
+        {
+          "beat": 1,
+          "text": "duty",
+          "start": 9.36,
+          "end": 9.54,
+          "probability": 0.7935033440589905
+        },
+        {
+          "beat": 1,
+          "text": "resume",
+          "start": 9.54,
+          "end": 10.02,
+          "probability": 0.4644201099872589
+        },
+        {
+          "beat": 1,
+          "text": "होने",
+          "start": 10.02,
+          "end": 10.36,
+          "probability": 0.7031033113598824
+        },
+        {
+          "beat": 1,
+          "text": "की",
+          "start": 10.36,
+          "end": 10.5,
+          "probability": 0.7246222794055939
+        },
+        {
+          "beat": 1,
+          "text": "date",
+          "start": 10.5,
+          "end": 10.7,
+          "probability": 0.046906307339668274
+        },
+        {
+          "beat": 1,
+          "text": "देखें।",
+          "start": 10.7,
+          "end": 11.52,
+          "probability": 0.7686564789877998
+        },
+        {
+          "beat": 1,
+          "text": "Example:",
+          "start": 11.52,
+          "end": 12.48,
+          "probability": 0.8281760513782501
+        },
+        {
+          "beat": 1,
+          "text": "advance",
+          "start": 12.48,
+          "end": 12.88,
+          "probability": 0.006219630595296621
+        },
+        {
+          "beat": 1,
+          "text": "वाला",
+          "start": 12.88,
+          "end": 13.16,
+          "probability": 0.765032958984375
+        },
+        {
+          "beat": 1,
+          "text": "officer",
+          "start": 13.16,
+          "end": 13.44,
+          "probability": 0.5058696866035461
+        },
+        {
+          "beat": 1,
+          "text": "जल्दी",
+          "start": 13.44,
+          "end": 14.0,
+          "probability": 0.7609366987432752
+        },
+        {
+          "beat": 1,
+          "text": "adjustment",
+          "start": 14.0,
+          "end": 14.38,
+          "probability": 0.6924372911453247
+        },
+        {
+          "beat": 1,
+          "text": "bill",
+          "start": 14.38,
+          "end": 14.68,
+          "probability": 0.2506076693534851
+        },
+        {
+          "beat": 1,
+          "text": "submit",
+          "start": 14.68,
+          "end": 14.96,
+          "probability": 0.0326748788356781
+        },
+        {
+          "beat": 1,
+          "text": "करे।",
+          "start": 14.96,
+          "end": 15.58,
+          "probability": 0.7758590217679739
+        },
+        {
+          "beat": 1,
+          "text": "Late",
+          "start": 15.58,
+          "end": 15.94,
+          "probability": 0.1270836442708969
+        },
+        {
+          "beat": 1,
+          "text": "होने",
+          "start": 15.94,
+          "end": 16.24,
+          "probability": 0.7012666687369347
+        },
+        {
+          "beat": 1,
+          "text": "पर",
+          "start": 16.24,
+          "end": 16.42,
+          "probability": 0.8770419955253601
+        },
+        {
+          "beat": 1,
+          "text": "recovery",
+          "start": 16.42,
+          "end": 16.78,
+          "probability": 0.9710095524787903
+        },
+        {
+          "beat": 1,
+          "text": "या",
+          "start": 16.78,
+          "end": 17.2,
+          "probability": 0.9327587683995565
+        },
+        {
+          "beat": 1,
+          "text": "interest",
+          "start": 17.2,
+          "end": 17.52,
+          "probability": 0.930259644985199
+        },
+        {
+          "beat": 1,
+          "text": "लग",
+          "start": 17.52,
+          "end": 17.84,
+          "probability": 0.6094797775149345
+        },
+        {
+          "beat": 1,
+          "text": "सकता",
+          "start": 17.84,
+          "end": 18.16,
+          "probability": 0.8723453879356384
+        },
+        {
+          "beat": 1,
+          "text": "है।",
+          "start": 18.16,
+          "end": 18.5,
+          "probability": 0.9778379499912262
+        },
+        {
+          "beat": 2,
+          "text": "Dearness",
+          "start": 18.5,
+          "end": 19.23,
+          "probability": 0.46893551386892796
+        },
+        {
+          "beat": 2,
+          "text": "Allowance",
+          "start": 19.23,
+          "end": 19.75,
+          "probability": 0.6987802535295486
+        },
+        {
+          "beat": 2,
+          "text": "fifty",
+          "start": 19.75,
+          "end": 19.99,
+          "probability": 0.005864150822162628
+        },
+        {
+          "beat": 2,
+          "text": "percent",
+          "start": 19.99,
+          "end": 20.41,
+          "probability": 0.7056743502616882
+        },
+        {
+          "beat": 2,
+          "text": "होने",
+          "start": 20.41,
+          "end": 20.75,
+          "probability": 0.37477946700528264
+        },
+        {
+          "beat": 2,
+          "text": "पर",
+          "start": 20.75,
+          "end": 20.93,
+          "probability": 0.8628826340039571
+        },
+        {
+          "beat": 2,
+          "text": "कुछ",
+          "start": 20.93,
+          "end": 21.17,
+          "probability": 0.8563396334648132
+        },
+        {
+          "beat": 2,
+          "text": "rates",
+          "start": 21.17,
+          "end": 21.37,
+          "probability": 0.008312968537211418
+        },
+        {
+          "beat": 2,
+          "text": "बढ़े।",
+          "start": 21.37,
+          "end": 22.09,
+          "probability": 0.567869421094656
+        },
+        {
+          "beat": 2,
+          "text": "Example:",
+          "start": 22.09,
+          "end": 23.25,
+          "probability": 0.6610637158155441
+        },
+        {
+          "beat": 2,
+          "text": "Level",
+          "start": 23.25,
+          "end": 23.25,
+          "probability": 0.5368176698684692
+        },
+        {
+          "beat": 2,
+          "text": "seven",
+          "start": 23.25,
+          "end": 23.55,
+          "probability": 0.0644659772515297
+        },
+        {
+          "beat": 2,
+          "text": "food",
+          "start": 23.55,
+          "end": 23.87,
+          "probability": 0.8924589157104492
+        },
+        {
+          "beat": 2,
+          "text": "आठ",
+          "start": 23.87,
+          "end": 24.29,
+          "probability": 0.2669037136947736
+        },
+        {
+          "beat": 2,
+          "text": "सौ",
+          "start": 24.29,
+          "end": 24.47,
+          "probability": 0.22239704678455988
+        },
+        {
+          "beat": 2,
+          "text": "से",
+          "start": 24.47,
+          "end": 24.69,
+          "probability": 0.49716020841151476
+        },
+        {
+          "beat": 2,
+          "text": "एक",
+          "start": 24.69,
+          "end": 24.93,
+          "probability": 0.7781543433666229
+        },
+        {
+          "beat": 2,
+          "text": "हजार",
+          "start": 24.93,
+          "end": 25.23,
+          "probability": 0.6368026256561279
+        },
+        {
+          "beat": 2,
+          "text": "हुआ।",
+          "start": 25.23,
+          "end": 25.91,
+          "probability": 0.5436837907348361
+        },
+        {
+          "beat": 2,
+          "text": "Sixty",
+          "start": 25.91,
+          "end": 26.33,
+          "probability": 0.9217977523803711
+        },
+        {
+          "beat": 2,
+          "text": "percent",
+          "start": 26.33,
+          "end": 26.63,
+          "probability": 0.9810896515846252
+        },
+        {
+          "beat": 2,
+          "text": "DA",
+          "start": 26.63,
+          "end": 26.93,
+          "probability": 0.00993294082581997
+        },
+        {
+          "beat": 2,
+          "text": "आते",
+          "start": 26.93,
+          "end": 27.27,
+          "probability": 0.892342209815979
+        },
+        {
+          "beat": 2,
+          "text": "ही",
+          "start": 27.27,
+          "end": 27.41,
+          "probability": 0.8360424041748047
+        },
+        {
+          "beat": 2,
+          "text": "दूसरा",
+          "start": 27.41,
+          "end": 27.89,
+          "probability": 0.5934726148843765
+        },
+        {
+          "beat": 2,
+          "text": "increase",
+          "start": 27.89,
+          "end": 28.11,
+          "probability": 0.37129709124565125
+        },
+        {
+          "beat": 2,
+          "text": "automatically",
+          "start": 28.11,
+          "end": 28.81,
+          "probability": 0.023988107219338417
+        },
+        {
+          "beat": 2,
+          "text": "नहीं",
+          "start": 28.81,
+          "end": 29.21,
+          "probability": 0.8123474001884461
+        },
+        {
+          "beat": 2,
+          "text": "होता।",
+          "start": 29.21,
+          "end": 29.95,
+          "probability": 0.76703966781497
+        },
+        {
+          "beat": 2,
+          "text": "Later",
+          "start": 29.95,
+          "end": 30.25,
+          "probability": 0.0744059607386589
+        },
+        {
+          "beat": 2,
+          "text": "order,",
+          "start": 30.25,
+          "end": 31.05,
+          "probability": 0.7327637672424316
+        },
+        {
+          "beat": 2,
+          "text": "service",
+          "start": 31.05,
+          "end": 31.27,
+          "probability": 0.6523383259773254
+        },
+        {
+          "beat": 2,
+          "text": "rules",
+          "start": 31.27,
+          "end": 31.59,
+          "probability": 0.9909708499908447
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 31.59,
+          "end": 31.95,
+          "probability": 0.46066998690366745
+        },
+        {
+          "beat": 2,
+          "text": "open",
+          "start": 31.95,
+          "end": 32.19,
+          "probability": 0.7783896327018738
+        },
+        {
+          "beat": 2,
+          "text": "exceptions",
+          "start": 32.19,
+          "end": 32.59,
+          "probability": 0.9641433358192444
+        },
+        {
+          "beat": 2,
+          "text": "verify",
+          "start": 32.59,
+          "end": 32.95,
+          "probability": 0.0025550764985382557
+        },
+        {
+          "beat": 2,
+          "text": "करें।",
+          "start": 32.95,
+          "end": 33.89,
+          "probability": 0.814857691526413
+        },
+        {
+          "beat": 2,
+          "text": "Detailed",
+          "start": 33.89,
+          "end": 34.31,
+          "probability": 0.9440968036651611
+        },
+        {
+          "beat": 2,
+          "text": "guide",
+          "start": 34.31,
+          "end": 34.61,
+          "probability": 0.6753785014152527
+        },
+        {
+          "beat": 2,
+          "text": "और",
+          "start": 34.61,
+          "end": 34.97,
+          "probability": 0.5771735707918803
+        },
+        {
+          "beat": 2,
+          "text": "source",
+          "start": 34.97,
+          "end": 35.17,
+          "probability": 0.838900089263916
+        },
+        {
+          "beat": 2,
+          "text": "ledger",
+          "start": 35.17,
+          "end": 35.57,
+          "probability": 0.8695345818996429
+        },
+        {
+          "beat": 2,
+          "text": "में",
+          "start": 35.57,
+          "end": 35.75,
+          "probability": 0.9104063510894775
+        },
+        {
+          "beat": 2,
+          "text": "सारे",
+          "start": 35.75,
+          "end": 36.05,
+          "probability": 0.8551215976476669
+        },
+        {
+          "beat": 2,
+          "text": "examples",
+          "start": 36.05,
+          "end": 36.33,
+          "probability": 0.3139243721961975
+        },
+        {
+          "beat": 2,
+          "text": "मिलेंगे।",
+          "start": 36.33,
+          "end": 37.11,
+          "probability": 0.840253621339798
+        }
+      ]
+    }
+  ],
+  "method": {
+    "alignment": "Whisper small multilingual int8 cross-attention forced alignment of TTS text to the audio; cue boundaries derive from word timings.",
+    "recognition": "The same model transcribed each block separately using a generic Hinglish style prompt, without the lesson text as a prompt.",
+    "human_review": "No human listening or verbatim certification has been performed; automatic recognition and alignment can still be wrong.",
+    "model_sha256": "ca732cb1379efc49417d028465f543d83a39de2c61f3027678de103dc404ce73"
+  }
+}

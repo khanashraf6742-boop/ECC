@@ -1,0 +1,5920 @@
+{
+  "method": "Whisper small multilingual CTranslate2 int8, unprompted by lesson text, English recognition mode; not human verification",
+  "sections": [
+    {
+      "audio": "01-scope-trains.mp3",
+      "audio_sha256": "fcae88192a34e3cb64ff44723ba37ba841dc7292ba70d8d911223100febc95cf",
+      "duration": 38.0,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.08,
+          "text": " Hey everyone! Batch 3 mein, daily allowance aur claims seek hinge. Fokus hai central government",
+          "words": [
+            {
+              "word": " Hey",
+              "start": 0.0,
+              "end": 0.42,
+              "probability": 0.87998366355896
+            },
+            {
+              "word": " everyone!",
+              "start": 0.42,
+              "end": 0.88,
+              "probability": 0.7301797866821289
+            },
+            {
+              "word": " Batch",
+              "start": 1.58,
+              "end": 1.86,
+              "probability": 0.5106682404875755
+            },
+            {
+              "word": " 3",
+              "start": 1.86,
+              "end": 2.14,
+              "probability": 0.7597077488899231
+            },
+            {
+              "word": " mein,",
+              "start": 2.14,
+              "end": 2.3,
+              "probability": 0.0325760692358017
+            },
+            {
+              "word": " daily",
+              "start": 2.58,
+              "end": 2.82,
+              "probability": 0.5418740510940552
+            },
+            {
+              "word": " allowance",
+              "start": 2.82,
+              "end": 3.26,
+              "probability": 0.6549744606018066
+            },
+            {
+              "word": " aur",
+              "start": 3.26,
+              "end": 3.52,
+              "probability": 0.5579432249069214
+            },
+            {
+              "word": " claims",
+              "start": 3.52,
+              "end": 3.84,
+              "probability": 0.987436056137085
+            },
+            {
+              "word": " seek",
+              "start": 3.84,
+              "end": 4.08,
+              "probability": 0.19227395951747894
+            },
+            {
+              "word": " hinge.",
+              "start": 4.08,
+              "end": 4.36,
+              "probability": 0.1632501631975174
+            },
+            {
+              "word": " Fokus",
+              "start": 4.86,
+              "end": 5.16,
+              "probability": 0.6698173582553864
+            },
+            {
+              "word": " hai",
+              "start": 5.16,
+              "end": 5.34,
+              "probability": 0.9163865447044373
+            },
+            {
+              "word": " central",
+              "start": 5.34,
+              "end": 5.7,
+              "probability": 0.3973951041698456
+            },
+            {
+              "word": " government",
+              "start": 5.7,
+              "end": 6.08,
+              "probability": 0.8551698327064514
+            }
+          ]
+        },
+        {
+          "start": 6.08,
+          "end": 12.94,
+          "text": " civilian official travel. Example, level 7 officer train, hotel aur food alak chek karein. Har",
+          "words": [
+            {
+              "word": " civilian",
+              "start": 6.08,
+              "end": 6.42,
+              "probability": 0.8616543412208557
+            },
+            {
+              "word": " official",
+              "start": 6.42,
+              "end": 6.98,
+              "probability": 0.9135659337043762
+            },
+            {
+              "word": " travel.",
+              "start": 6.98,
+              "end": 7.34,
+              "probability": 0.9872548580169678
+            },
+            {
+              "word": " Example,",
+              "start": 7.88,
+              "end": 8.46,
+              "probability": 0.9870187342166901
+            },
+            {
+              "word": " level",
+              "start": 8.84,
+              "end": 9.04,
+              "probability": 0.7970101833343506
+            },
+            {
+              "word": " 7",
+              "start": 9.04,
+              "end": 9.38,
+              "probability": 0.8958544135093689
+            },
+            {
+              "word": " officer",
+              "start": 9.38,
+              "end": 9.76,
+              "probability": 0.776864230632782
+            },
+            {
+              "word": " train,",
+              "start": 9.76,
+              "end": 10.3,
+              "probability": 0.6305450797080994
+            },
+            {
+              "word": " hotel",
+              "start": 10.68,
+              "end": 10.98,
+              "probability": 0.9762528538703918
+            },
+            {
+              "word": " aur",
+              "start": 10.98,
+              "end": 11.26,
+              "probability": 0.9925165772438049
+            },
+            {
+              "word": " food",
+              "start": 11.26,
+              "end": 11.5,
+              "probability": 0.9823682904243469
+            },
+            {
+              "word": " alak",
+              "start": 11.5,
+              "end": 11.84,
+              "probability": 0.8409537076950073
+            },
+            {
+              "word": " chek",
+              "start": 11.84,
+              "end": 12.08,
+              "probability": 0.6472316682338715
+            },
+            {
+              "word": " karein.",
+              "start": 12.08,
+              "end": 12.34,
+              "probability": 0.5568267901738485
+            },
+            {
+              "word": " Har",
+              "start": 12.8,
+              "end": 12.94,
+              "probability": 0.5846644043922424
+            }
+          ]
+        },
+        {
+          "start": 12.94,
+          "end": 18.14,
+          "text": " example, hypothetical hai. Latest order aur sanction verify karein. Eek important correction.",
+          "words": [
+            {
+              "word": " example,",
+              "start": 12.94,
+              "end": 13.34,
+              "probability": 0.8908056616783142
+            },
+            {
+              "word": " hypothetical",
+              "start": 13.52,
+              "end": 13.9,
+              "probability": 0.9299939870834351
+            },
+            {
+              "word": " hai.",
+              "start": 13.9,
+              "end": 14.3,
+              "probability": 0.956125020980835
+            },
+            {
+              "word": " Latest",
+              "start": 14.64,
+              "end": 15.1,
+              "probability": 0.9109367728233337
+            },
+            {
+              "word": " order",
+              "start": 15.1,
+              "end": 15.3,
+              "probability": 0.9628888964653015
+            },
+            {
+              "word": " aur",
+              "start": 15.3,
+              "end": 15.5,
+              "probability": 0.9411355257034302
+            },
+            {
+              "word": " sanction",
+              "start": 15.5,
+              "end": 15.78,
+              "probability": 0.9776303172111511
+            },
+            {
+              "word": " verify",
+              "start": 15.78,
+              "end": 16.14,
+              "probability": 0.5556803345680237
+            },
+            {
+              "word": " karein.",
+              "start": 16.14,
+              "end": 16.64,
+              "probability": 0.9649685621261597
+            },
+            {
+              "word": " Eek",
+              "start": 17.08,
+              "end": 17.38,
+              "probability": 0.7892560958862305
+            },
+            {
+              "word": " important",
+              "start": 17.38,
+              "end": 17.72,
+              "probability": 0.8740394711494446
+            },
+            {
+              "word": " correction.",
+              "start": 17.72,
+              "end": 18.14,
+              "probability": 0.9959284663200378
+            }
+          ]
+        },
+        {
+          "start": 18.72,
+          "end": 24.12,
+          "text": " Pehle batches mein ye train order miss hua tha. 30 August 2023 ka DOE order chek karein.",
+          "words": [
+            {
+              "word": " Pehle",
+              "start": 18.72,
+              "end": 18.94,
+              "probability": 0.8213566541671753
+            },
+            {
+              "word": " batches",
+              "start": 18.94,
+              "end": 19.36,
+              "probability": 0.9504305720329285
+            },
+            {
+              "word": " mein",
+              "start": 19.36,
+              "end": 19.44,
+              "probability": 0.6312377452850342
+            },
+            {
+              "word": " ye",
+              "start": 19.44,
+              "end": 19.56,
+              "probability": 0.8159171342849731
+            },
+            {
+              "word": " train",
+              "start": 19.56,
+              "end": 19.9,
+              "probability": 0.7627273797988892
+            },
+            {
+              "word": " order",
+              "start": 19.9,
+              "end": 20.16,
+              "probability": 0.9867444634437561
+            },
+            {
+              "word": " miss",
+              "start": 20.16,
+              "end": 20.44,
+              "probability": 0.7187164425849915
+            },
+            {
+              "word": " hua",
+              "start": 20.44,
+              "end": 20.68,
+              "probability": 0.6693626344203949
+            },
+            {
+              "word": " tha.",
+              "start": 20.68,
+              "end": 20.8,
+              "probability": 0.9676985144615173
+            },
+            {
+              "word": " 30",
+              "start": 21.26,
+              "end": 21.54,
+              "probability": 0.9711772799491882
+            },
+            {
+              "word": " August",
+              "start": 21.54,
+              "end": 21.84,
+              "probability": 0.5779687762260437
+            },
+            {
+              "word": " 2023",
+              "start": 21.84,
+              "end": 22.64,
+              "probability": 0.9925727844238281
+            },
+            {
+              "word": " ka",
+              "start": 22.64,
+              "end": 22.86,
+              "probability": 0.9635148644447327
+            },
+            {
+              "word": " DOE",
+              "start": 22.86,
+              "end": 23.26,
+              "probability": 0.9054767787456512
+            },
+            {
+              "word": " order",
+              "start": 23.26,
+              "end": 23.48,
+              "probability": 0.947414755821228
+            },
+            {
+              "word": " chek",
+              "start": 23.48,
+              "end": 23.76,
+              "probability": 0.9843887686729431
+            },
+            {
+              "word": " karein.",
+              "start": 23.76,
+              "end": 24.12,
+              "probability": 0.9874988595644633
+            }
+          ]
+        },
+        {
+          "start": 24.5,
+          "end": 29.38,
+          "text": " Vandebharat ki entitlement shatabdi jaisi hai, Hamsafar ki entitlement rajdhani jaisi",
+          "words": [
+            {
+              "word": " Vandebharat",
+              "start": 24.5,
+              "end": 25.14,
+              "probability": 0.7617709398269653
+            },
+            {
+              "word": " ki",
+              "start": 25.14,
+              "end": 25.24,
+              "probability": 0.8332545161247253
+            },
+            {
+              "word": " entitlement",
+              "start": 25.24,
+              "end": 25.8,
+              "probability": 0.9784729778766632
+            },
+            {
+              "word": " shatabdi",
+              "start": 25.8,
+              "end": 26.42,
+              "probability": 0.7371922731399536
+            },
+            {
+              "word": " jaisi",
+              "start": 26.42,
+              "end": 26.74,
+              "probability": 0.7681119044621786
+            },
+            {
+              "word": " hai,",
+              "start": 26.74,
+              "end": 26.84,
+              "probability": 0.9124687314033508
+            },
+            {
+              "word": " Hamsafar",
+              "start": 27.24,
+              "end": 27.66,
+              "probability": 0.6293069322903951
+            },
+            {
+              "word": " ki",
+              "start": 27.66,
+              "end": 27.84,
+              "probability": 0.9553208947181702
+            },
+            {
+              "word": " entitlement",
+              "start": 27.84,
+              "end": 28.38,
+              "probability": 0.9984052181243896
+            },
+            {
+              "word": " rajdhani",
+              "start": 28.38,
+              "end": 29.08,
+              "probability": 0.7327373623847961
+            },
+            {
+              "word": " jaisi",
+              "start": 29.08,
+              "end": 29.38,
+              "probability": 0.9932296872138977
+            }
+          ]
+        },
+        {
+          "start": 29.38,
+          "end": 35.7,
+          "text": " hai. Ye tour, training, transfer aur retirement journeys par apply hota hai. Example, level 7",
+          "words": [
+            {
+              "word": " hai.",
+              "start": 29.38,
+              "end": 29.44,
+              "probability": 0.00013857540034223348
+            },
+            {
+              "word": " Ye",
+              "start": 29.88,
+              "end": 30.1,
+              "probability": 0.9026204943656921
+            },
+            {
+              "word": " tour,",
+              "start": 30.1,
+              "end": 30.46,
+              "probability": 0.651379406452179
+            },
+            {
+              "word": " training,",
+              "start": 30.84,
+              "end": 31.12,
+              "probability": 0.9345454573631287
+            },
+            {
+              "word": " transfer",
+              "start": 31.42,
+              "end": 31.84,
+              "probability": 0.994996190071106
+            },
+            {
+              "word": " aur",
+              "start": 31.84,
+              "end": 32.08,
+              "probability": 0.868776798248291
+            },
+            {
+              "word": " retirement",
+              "start": 32.08,
+              "end": 32.4,
+              "probability": 0.9468774795532227
+            },
+            {
+              "word": " journeys",
+              "start": 32.4,
+              "end": 32.9,
+              "probability": 0.9582757353782654
+            },
+            {
+              "word": " par",
+              "start": 32.9,
+              "end": 33.04,
+              "probability": 0.7921122312545776
+            },
+            {
+              "word": " apply",
+              "start": 33.04,
+              "end": 33.3,
+              "probability": 0.791913628578186
+            },
+            {
+              "word": " hota",
+              "start": 33.3,
+              "end": 33.6,
+              "probability": 0.607502393424511
+            },
+            {
+              "word": " hai.",
+              "start": 33.6,
+              "end": 33.7,
+              "probability": 0.9079350233078003
+            },
+            {
+              "word": " Example,",
+              "start": 34.16,
+              "end": 34.76,
+              "probability": 0.9687822163105011
+            },
+            {
+              "word": " level",
+              "start": 35.02,
+              "end": 35.28,
+              "probability": 0.8741757273674011
+            },
+            {
+              "word": " 7",
+              "start": 35.28,
+              "end": 35.7,
+              "probability": 0.8604415059089661
+            }
+          ]
+        },
+        {
+          "start": 35.7,
+          "end": 37.52,
+          "text": " ke liye eligible chair card chek karein.",
+          "words": [
+            {
+              "word": " ke",
+              "start": 35.7,
+              "end": 35.86,
+              "probability": 0.6127831935882568
+            },
+            {
+              "word": " liye",
+              "start": 35.86,
+              "end": 36.06,
+              "probability": 0.9861356616020203
+            },
+            {
+              "word": " eligible",
+              "start": 36.06,
+              "end": 36.4,
+              "probability": 0.9782353639602661
+            },
+            {
+              "word": " chair",
+              "start": 36.4,
+              "end": 36.78,
+              "probability": 0.8901734352111816
+            },
+            {
+              "word": " card",
+              "start": 36.78,
+              "end": 37.02,
+              "probability": 0.8268114328384399
+            },
+            {
+              "word": " chek",
+              "start": 37.02,
+              "end": 37.32,
+              "probability": 0.6985712945461273
+            },
+            {
+              "word": " karein.",
+              "start": 37.32,
+              "end": 37.52,
+              "probability": 0.3184314966201782
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-food-clock.mp3",
+      "audio_sha256": "cc066709a0bc4588116d6dc2d1f12e3b7207028e04549a85b3576f939cdb2316",
+      "duration": 36.04,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.1,
+          "text": " Food component ke liye bill submit nahi karene hote.",
+          "words": [
+            {
+              "word": " Food",
+              "start": 0.0,
+              "end": 0.56,
+              "probability": 0.09029795974493027
+            },
+            {
+              "word": " component",
+              "start": 0.56,
+              "end": 1.1,
+              "probability": 0.26383665204048157
+            },
+            {
+              "word": " ke",
+              "start": 1.1,
+              "end": 1.4,
+              "probability": 0.04537998139858246
+            },
+            {
+              "word": " liye",
+              "start": 1.4,
+              "end": 1.54,
+              "probability": 0.9642781019210815
+            },
+            {
+              "word": " bill",
+              "start": 1.54,
+              "end": 1.84,
+              "probability": 0.42608579993247986
+            },
+            {
+              "word": " submit",
+              "start": 1.84,
+              "end": 2.22,
+              "probability": 0.8654102683067322
+            },
+            {
+              "word": " nahi",
+              "start": 2.22,
+              "end": 2.56,
+              "probability": 0.6720729470252991
+            },
+            {
+              "word": " karene",
+              "start": 2.56,
+              "end": 2.84,
+              "probability": 0.41463803748289746
+            },
+            {
+              "word": " hote.",
+              "start": 2.84,
+              "end": 3.1,
+              "probability": 0.774640291929245
+            }
+          ]
+        },
+        {
+          "start": 3.66,
+          "end": 6.96,
+          "text": " Har calendar day ki absence se percentage tha hote hain.",
+          "words": [
+            {
+              "word": " Har",
+              "start": 3.66,
+              "end": 3.82,
+              "probability": 0.28287389874458313
+            },
+            {
+              "word": " calendar",
+              "start": 3.82,
+              "end": 4.24,
+              "probability": 0.8600504398345947
+            },
+            {
+              "word": " day",
+              "start": 4.24,
+              "end": 4.58,
+              "probability": 0.8808289766311646
+            },
+            {
+              "word": " ki",
+              "start": 4.58,
+              "end": 4.74,
+              "probability": 0.6401745676994324
+            },
+            {
+              "word": " absence",
+              "start": 4.74,
+              "end": 5.16,
+              "probability": 0.8867096900939941
+            },
+            {
+              "word": " se",
+              "start": 5.16,
+              "end": 5.46,
+              "probability": 0.8801901936531067
+            },
+            {
+              "word": " percentage",
+              "start": 5.46,
+              "end": 5.94,
+              "probability": 0.9555453062057495
+            },
+            {
+              "word": " tha",
+              "start": 5.94,
+              "end": 6.24,
+              "probability": 0.08350847661495209
+            },
+            {
+              "word": " hote",
+              "start": 6.24,
+              "end": 6.48,
+              "probability": 0.33371618390083313
+            },
+            {
+              "word": " hain.",
+              "start": 6.48,
+              "end": 6.96,
+              "probability": 0.7559885680675507
+            }
+          ]
+        },
+        {
+          "start": 7.04,
+          "end": 13.18,
+          "text": " 6 hours se kum par 30%, 6 se 12 par 70, 12 hour se upar 100%.",
+          "words": [
+            {
+              "word": " 6",
+              "start": 7.04,
+              "end": 7.44,
+              "probability": 0.4127056300640106
+            },
+            {
+              "word": " hours",
+              "start": 7.44,
+              "end": 7.7,
+              "probability": 0.8694850206375122
+            },
+            {
+              "word": " se",
+              "start": 7.7,
+              "end": 7.94,
+              "probability": 0.9243637323379517
+            },
+            {
+              "word": " kum",
+              "start": 7.94,
+              "end": 8.18,
+              "probability": 0.5902508795261383
+            },
+            {
+              "word": " par",
+              "start": 8.18,
+              "end": 8.36,
+              "probability": 0.4998329281806946
+            },
+            {
+              "word": " 30%,",
+              "start": 8.36,
+              "end": 9.1,
+              "probability": 0.7643198370933533
+            },
+            {
+              "word": " 6",
+              "start": 9.1,
+              "end": 9.68,
+              "probability": 0.9819482564926147
+            },
+            {
+              "word": " se",
+              "start": 9.68,
+              "end": 9.82,
+              "probability": 0.648556113243103
+            },
+            {
+              "word": " 12",
+              "start": 9.82,
+              "end": 10.14,
+              "probability": 0.9919388890266418
+            },
+            {
+              "word": " par",
+              "start": 10.14,
+              "end": 10.36,
+              "probability": 0.8330437541007996
+            },
+            {
+              "word": " 70,",
+              "start": 10.36,
+              "end": 10.8,
+              "probability": 0.9914208650588989
+            },
+            {
+              "word": " 12",
+              "start": 11.12,
+              "end": 11.46,
+              "probability": 0.9874163269996643
+            },
+            {
+              "word": " hour",
+              "start": 11.46,
+              "end": 11.72,
+              "probability": 0.4133918881416321
+            },
+            {
+              "word": " se",
+              "start": 11.72,
+              "end": 11.94,
+              "probability": 0.9684956073760986
+            },
+            {
+              "word": " upar",
+              "start": 11.94,
+              "end": 12.32,
+              "probability": 0.8135766088962555
+            },
+            {
+              "word": " 100%.",
+              "start": 12.32,
+              "end": 13.18,
+              "probability": 0.7241926938295364
+            }
+          ]
+        },
+        {
+          "start": 13.18,
+          "end": 17.44,
+          "text": " Example, level 7 par 7 hours ka food saath so rupah hain.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 13.18,
+              "end": 14.18,
+              "probability": 0.983971506357193
+            },
+            {
+              "word": " level",
+              "start": 14.56,
+              "end": 14.74,
+              "probability": 0.9050348401069641
+            },
+            {
+              "word": " 7",
+              "start": 14.74,
+              "end": 15.12,
+              "probability": 0.921929121017456
+            },
+            {
+              "word": " par",
+              "start": 15.12,
+              "end": 15.34,
+              "probability": 0.7384421229362488
+            },
+            {
+              "word": " 7",
+              "start": 15.34,
+              "end": 15.68,
+              "probability": 0.9841055274009705
+            },
+            {
+              "word": " hours",
+              "start": 15.68,
+              "end": 15.96,
+              "probability": 0.9309282898902893
+            },
+            {
+              "word": " ka",
+              "start": 15.96,
+              "end": 16.2,
+              "probability": 0.9858636260032654
+            },
+            {
+              "word": " food",
+              "start": 16.2,
+              "end": 16.44,
+              "probability": 0.989682137966156
+            },
+            {
+              "word": " saath",
+              "start": 16.44,
+              "end": 16.86,
+              "probability": 0.38020920753479004
+            },
+            {
+              "word": " so",
+              "start": 16.86,
+              "end": 17.0,
+              "probability": 0.22465163469314575
+            },
+            {
+              "word": " rupah",
+              "start": 17.0,
+              "end": 17.28,
+              "probability": 0.49310529232025146
+            },
+            {
+              "word": " hain.",
+              "start": 17.28,
+              "end": 17.44,
+              "probability": 0.7126795947551727
+            }
+          ]
+        },
+        {
+          "start": 17.84,
+          "end": 21.28,
+          "text": " Absence midnight se midnight, har din alag count hoti hain.",
+          "words": [
+            {
+              "word": " Absence",
+              "start": 17.84,
+              "end": 18.28,
+              "probability": 0.939165472984314
+            },
+            {
+              "word": " midnight",
+              "start": 18.28,
+              "end": 18.78,
+              "probability": 0.8401769995689392
+            },
+            {
+              "word": " se",
+              "start": 18.78,
+              "end": 19.06,
+              "probability": 0.931003749370575
+            },
+            {
+              "word": " midnight,",
+              "start": 19.06,
+              "end": 19.36,
+              "probability": 0.971763014793396
+            },
+            {
+              "word": " har",
+              "start": 19.74,
+              "end": 19.94,
+              "probability": 0.422578364610672
+            },
+            {
+              "word": " din",
+              "start": 19.94,
+              "end": 20.1,
+              "probability": 0.797059178352356
+            },
+            {
+              "word": " alag",
+              "start": 20.1,
+              "end": 20.5,
+              "probability": 0.8168178200721741
+            },
+            {
+              "word": " count",
+              "start": 20.5,
+              "end": 20.74,
+              "probability": 0.9621468186378479
+            },
+            {
+              "word": " hoti",
+              "start": 20.74,
+              "end": 21.06,
+              "probability": 0.6893916726112366
+            },
+            {
+              "word": " hain.",
+              "start": 21.06,
+              "end": 21.28,
+              "probability": 0.8843245208263397
+            }
+          ]
+        },
+        {
+          "start": 21.6,
+          "end": 25.22,
+          "text": " Example, level 7 tour rath 8 se subhe 5 tak hai.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 21.6,
+              "end": 22.2,
+              "probability": 0.998577207326889
+            },
+            {
+              "word": " level",
+              "start": 22.56,
+              "end": 22.72,
+              "probability": 0.9605327248573303
+            },
+            {
+              "word": " 7",
+              "start": 22.72,
+              "end": 23.06,
+              "probability": 0.9669743776321411
+            },
+            {
+              "word": " tour",
+              "start": 23.06,
+              "end": 23.36,
+              "probability": 0.945529580116272
+            },
+            {
+              "word": " rath",
+              "start": 23.36,
+              "end": 23.8,
+              "probability": 0.32128920033574104
+            },
+            {
+              "word": " 8",
+              "start": 23.8,
+              "end": 24.16,
+              "probability": 0.7923915386199951
+            },
+            {
+              "word": " se",
+              "start": 24.16,
+              "end": 24.28,
+              "probability": 0.9566871523857117
+            },
+            {
+              "word": " subhe",
+              "start": 24.28,
+              "end": 24.6,
+              "probability": 0.5153120458126068
+            },
+            {
+              "word": " 5",
+              "start": 24.6,
+              "end": 24.84,
+              "probability": 0.580251157283783
+            },
+            {
+              "word": " tak",
+              "start": 24.84,
+              "end": 25.04,
+              "probability": 0.5560691952705383
+            },
+            {
+              "word": " hai.",
+              "start": 25.04,
+              "end": 25.22,
+              "probability": 0.6090832948684692
+            }
+          ]
+        },
+        {
+          "start": 25.6,
+          "end": 28.16,
+          "text": " Pehle din 4 hours, agle din 5 hours hain.",
+          "words": [
+            {
+              "word": " Pehle",
+              "start": 25.6,
+              "end": 25.86,
+              "probability": 0.7084972312053045
+            },
+            {
+              "word": " din",
+              "start": 25.86,
+              "end": 26.04,
+              "probability": 0.9130839109420776
+            },
+            {
+              "word": " 4",
+              "start": 26.04,
+              "end": 26.34,
+              "probability": 0.938373327255249
+            },
+            {
+              "word": " hours,",
+              "start": 26.34,
+              "end": 26.62,
+              "probability": 0.949942946434021
+            },
+            {
+              "word": " agle",
+              "start": 26.96,
+              "end": 27.2,
+              "probability": 0.8063392043113708
+            },
+            {
+              "word": " din",
+              "start": 27.2,
+              "end": 27.36,
+              "probability": 0.9473278522491455
+            },
+            {
+              "word": " 5",
+              "start": 27.36,
+              "end": 27.6,
+              "probability": 0.9848784804344177
+            },
+            {
+              "word": " hours",
+              "start": 27.6,
+              "end": 27.92,
+              "probability": 0.9906412959098816
+            },
+            {
+              "word": " hain.",
+              "start": 27.92,
+              "end": 28.16,
+              "probability": 0.9340039789676666
+            }
+          ]
+        },
+        {
+          "start": 28.16,
+          "end": 31.5,
+          "text": " Dono par 30%, yani 300 plus 300.",
+          "words": [
+            {
+              "word": " Dono",
+              "start": 28.16,
+              "end": 28.84,
+              "probability": 0.01785896345973015
+            },
+            {
+              "word": " par",
+              "start": 28.84,
+              "end": 28.98,
+              "probability": 0.35193970799446106
+            },
+            {
+              "word": " 30%,",
+              "start": 28.98,
+              "end": 29.78,
+              "probability": 0.6791440546512604
+            },
+            {
+              "word": " yani",
+              "start": 29.78,
+              "end": 30.14,
+              "probability": 0.5297210663557053
+            },
+            {
+              "word": " 300",
+              "start": 30.14,
+              "end": 30.7,
+              "probability": 0.8878340721130371
+            },
+            {
+              "word": " plus",
+              "start": 30.7,
+              "end": 30.98,
+              "probability": 0.7582671046257019
+            },
+            {
+              "word": " 300.",
+              "start": 30.98,
+              "end": 31.5,
+              "probability": 0.993923008441925
+            }
+          ]
+        },
+        {
+          "start": 31.9,
+          "end": 35.78,
+          "text": " Total food component 600 rupees hoga. Baaki conditions check karein.",
+          "words": [
+            {
+              "word": " Total",
+              "start": 31.9,
+              "end": 32.24,
+              "probability": 0.9771159887313843
+            },
+            {
+              "word": " food",
+              "start": 32.24,
+              "end": 32.48,
+              "probability": 0.9330353140830994
+            },
+            {
+              "word": " component",
+              "start": 32.48,
+              "end": 32.94,
+              "probability": 0.9053232073783875
+            },
+            {
+              "word": " 600",
+              "start": 32.94,
+              "end": 33.32,
+              "probability": 0.45656830072402954
+            },
+            {
+              "word": " rupees",
+              "start": 33.32,
+              "end": 33.78,
+              "probability": 0.8197582364082336
+            },
+            {
+              "word": " hoga.",
+              "start": 33.78,
+              "end": 34.14,
+              "probability": 0.6123235449194908
+            },
+            {
+              "word": " Baaki",
+              "start": 34.44,
+              "end": 34.74,
+              "probability": 0.7191454768180847
+            },
+            {
+              "word": " conditions",
+              "start": 34.74,
+              "end": 35.14,
+              "probability": 0.8086874485015869
+            },
+            {
+              "word": " check",
+              "start": 35.14,
+              "end": 35.44,
+              "probability": 0.7511081695556641
+            },
+            {
+              "word": " karein.",
+              "start": 35.44,
+              "end": 35.78,
+              "probability": 0.4694750960916281
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-free-facilities.mp3",
+      "audio_sha256": "842ac3f4b532857403f18280e33173fa4563426c4ca59790e70bf559cef4e160",
+      "duration": 35.52,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.7,
+          "text": " Agar boarding aur lodging do no free hon, special rule dekhayin. Purana 25% daily allowance",
+          "words": [
+            {
+              "word": " Agar",
+              "start": 0.0,
+              "end": 0.56,
+              "probability": 0.4630117970518768
+            },
+            {
+              "word": " boarding",
+              "start": 0.56,
+              "end": 0.94,
+              "probability": 0.49383974075317383
+            },
+            {
+              "word": " aur",
+              "start": 0.94,
+              "end": 1.22,
+              "probability": 0.3724406063556671
+            },
+            {
+              "word": " lodging",
+              "start": 1.22,
+              "end": 1.64,
+              "probability": 0.9646756052970886
+            },
+            {
+              "word": " do",
+              "start": 1.64,
+              "end": 1.9,
+              "probability": 0.41660478711128235
+            },
+            {
+              "word": " no",
+              "start": 1.9,
+              "end": 2.06,
+              "probability": 0.5501227378845215
+            },
+            {
+              "word": " free",
+              "start": 2.06,
+              "end": 2.32,
+              "probability": 0.7455335259437561
+            },
+            {
+              "word": " hon,",
+              "start": 2.32,
+              "end": 2.54,
+              "probability": 0.34033599495887756
+            },
+            {
+              "word": " special",
+              "start": 2.9,
+              "end": 3.26,
+              "probability": 0.8573571443557739
+            },
+            {
+              "word": " rule",
+              "start": 3.26,
+              "end": 3.58,
+              "probability": 0.9348791241645813
+            },
+            {
+              "word": " dekhayin.",
+              "start": 3.58,
+              "end": 4.0,
+              "probability": 0.6690178215503693
+            },
+            {
+              "word": " Purana",
+              "start": 4.48,
+              "end": 4.88,
+              "probability": 0.9171186685562134
+            },
+            {
+              "word": " 25",
+              "start": 4.88,
+              "end": 5.46,
+              "probability": 0.9604179263114929
+            },
+            {
+              "word": "%",
+              "start": 5.46,
+              "end": 5.94,
+              "probability": 0.8896814584732056
+            },
+            {
+              "word": " daily",
+              "start": 5.94,
+              "end": 6.24,
+              "probability": 0.8907866477966309
+            },
+            {
+              "word": " allowance",
+              "start": 6.24,
+              "end": 6.7,
+              "probability": 0.9740684032440186
+            }
+          ]
+        },
+        {
+          "start": 6.7,
+          "end": 11.72,
+          "text": " bandh hai. Eligible local travel par kharch ho to rules ke according claim ho sakta hai.",
+          "words": [
+            {
+              "word": " bandh",
+              "start": 6.7,
+              "end": 7.1,
+              "probability": 0.7272626161575317
+            },
+            {
+              "word": " hai.",
+              "start": 7.1,
+              "end": 7.2,
+              "probability": 0.7492648959159851
+            },
+            {
+              "word": " Eligible",
+              "start": 7.76,
+              "end": 8.14,
+              "probability": 0.8431167304515839
+            },
+            {
+              "word": " local",
+              "start": 8.14,
+              "end": 8.58,
+              "probability": 0.649657666683197
+            },
+            {
+              "word": " travel",
+              "start": 8.58,
+              "end": 9.02,
+              "probability": 0.9910911321640015
+            },
+            {
+              "word": " par",
+              "start": 9.02,
+              "end": 9.22,
+              "probability": 0.6184576749801636
+            },
+            {
+              "word": " kharch",
+              "start": 9.22,
+              "end": 9.56,
+              "probability": 0.8622232675552368
+            },
+            {
+              "word": " ho",
+              "start": 9.56,
+              "end": 9.76,
+              "probability": 0.8023524880409241
+            },
+            {
+              "word": " to",
+              "start": 9.76,
+              "end": 9.94,
+              "probability": 0.8581129312515259
+            },
+            {
+              "word": " rules",
+              "start": 9.94,
+              "end": 10.28,
+              "probability": 0.9534967541694641
+            },
+            {
+              "word": " ke",
+              "start": 10.28,
+              "end": 10.42,
+              "probability": 0.6559140682220459
+            },
+            {
+              "word": " according",
+              "start": 10.42,
+              "end": 10.74,
+              "probability": 0.7336730360984802
+            },
+            {
+              "word": " claim",
+              "start": 10.74,
+              "end": 11.1,
+              "probability": 0.5762172341346741
+            },
+            {
+              "word": " ho",
+              "start": 11.1,
+              "end": 11.28,
+              "probability": 0.8561002612113953
+            },
+            {
+              "word": " sakta",
+              "start": 11.28,
+              "end": 11.58,
+              "probability": 0.6759119778871536
+            },
+            {
+              "word": " hai.",
+              "start": 11.58,
+              "end": 11.72,
+              "probability": 0.9156612753868103
+            }
+          ]
+        },
+        {
+          "start": 12.28,
+          "end": 17.82,
+          "text": " Example, official city ride mein 200 rupee kharch huay. Entitlement aur proof check karke",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 12.28,
+              "end": 12.84,
+              "probability": 0.9747391641139984
+            },
+            {
+              "word": " official",
+              "start": 13.28,
+              "end": 13.56,
+              "probability": 0.7470530867576599
+            },
+            {
+              "word": " city",
+              "start": 13.56,
+              "end": 13.9,
+              "probability": 0.892865002155304
+            },
+            {
+              "word": " ride",
+              "start": 13.9,
+              "end": 14.18,
+              "probability": 0.9777355194091797
+            },
+            {
+              "word": " mein",
+              "start": 14.18,
+              "end": 14.36,
+              "probability": 0.6487088799476624
+            },
+            {
+              "word": " 200",
+              "start": 14.36,
+              "end": 14.68,
+              "probability": 0.951828122138977
+            },
+            {
+              "word": " rupee",
+              "start": 14.68,
+              "end": 15.0,
+              "probability": 0.4537629187107086
+            },
+            {
+              "word": " kharch",
+              "start": 15.0,
+              "end": 15.24,
+              "probability": 0.8682810366153717
+            },
+            {
+              "word": " huay.",
+              "start": 15.24,
+              "end": 15.48,
+              "probability": 0.3391350358724594
+            },
+            {
+              "word": " Entitlement",
+              "start": 16.0,
+              "end": 16.64,
+              "probability": 0.9601684212684631
+            },
+            {
+              "word": " aur",
+              "start": 16.64,
+              "end": 16.92,
+              "probability": 0.9358109831809998
+            },
+            {
+              "word": " proof",
+              "start": 16.92,
+              "end": 17.2,
+              "probability": 0.9887598752975464
+            },
+            {
+              "word": " check",
+              "start": 17.2,
+              "end": 17.5,
+              "probability": 0.3285469114780426
+            },
+            {
+              "word": " karke",
+              "start": 17.5,
+              "end": 17.82,
+              "probability": 0.8713301122188568
+            }
+          ]
+        },
+        {
+          "start": 17.82,
+          "end": 22.88,
+          "text": " vahi actual expense claim karein. Lekin sirf free breakfast ko do no free maanna",
+          "words": [
+            {
+              "word": " vahi",
+              "start": 17.82,
+              "end": 18.36,
+              "probability": 0.3734569624066353
+            },
+            {
+              "word": " actual",
+              "start": 18.36,
+              "end": 18.78,
+              "probability": 0.9811534881591797
+            },
+            {
+              "word": " expense",
+              "start": 18.78,
+              "end": 19.16,
+              "probability": 0.9819390177726746
+            },
+            {
+              "word": " claim",
+              "start": 19.16,
+              "end": 19.48,
+              "probability": 0.8620700240135193
+            },
+            {
+              "word": " karein.",
+              "start": 19.48,
+              "end": 19.9,
+              "probability": 0.7358417510986328
+            },
+            {
+              "word": " Lekin",
+              "start": 20.28,
+              "end": 20.56,
+              "probability": 0.9380852778752645
+            },
+            {
+              "word": " sirf",
+              "start": 20.56,
+              "end": 21.04,
+              "probability": 0.7105584144592285
+            },
+            {
+              "word": " free",
+              "start": 21.04,
+              "end": 21.3,
+              "probability": 0.9374046325683594
+            },
+            {
+              "word": " breakfast",
+              "start": 21.3,
+              "end": 21.76,
+              "probability": 0.9939594268798828
+            },
+            {
+              "word": " ko",
+              "start": 21.76,
+              "end": 21.94,
+              "probability": 0.8916488289833069
+            },
+            {
+              "word": " do",
+              "start": 21.94,
+              "end": 22.18,
+              "probability": 0.9456250071525574
+            },
+            {
+              "word": " no",
+              "start": 22.18,
+              "end": 22.34,
+              "probability": 0.9715278744697571
+            },
+            {
+              "word": " free",
+              "start": 22.34,
+              "end": 22.58,
+              "probability": 0.9700316786766052
+            },
+            {
+              "word": " maanna",
+              "start": 22.58,
+              "end": 22.88,
+              "probability": 0.41484543681144714
+            }
+          ]
+        },
+        {
+          "start": 22.88,
+          "end": 28.6,
+          "text": " sahi nahi hai. Partial meals ke liye is order se fixed percentage assume na karein. Example,",
+          "words": [
+            {
+              "word": " sahi",
+              "start": 22.88,
+              "end": 23.22,
+              "probability": 0.8477489054203033
+            },
+            {
+              "word": " nahi",
+              "start": 23.22,
+              "end": 23.46,
+              "probability": 0.870669037103653
+            },
+            {
+              "word": " hai.",
+              "start": 23.46,
+              "end": 23.56,
+              "probability": 0.9349586367607117
+            },
+            {
+              "word": " Partial",
+              "start": 23.98,
+              "end": 24.5,
+              "probability": 0.799686074256897
+            },
+            {
+              "word": " meals",
+              "start": 24.5,
+              "end": 24.74,
+              "probability": 0.9396802186965942
+            },
+            {
+              "word": " ke",
+              "start": 24.74,
+              "end": 24.98,
+              "probability": 0.6917858719825745
+            },
+            {
+              "word": " liye",
+              "start": 24.98,
+              "end": 25.2,
+              "probability": 0.975310355424881
+            },
+            {
+              "word": " is",
+              "start": 25.2,
+              "end": 25.42,
+              "probability": 0.6012271046638489
+            },
+            {
+              "word": " order",
+              "start": 25.42,
+              "end": 25.68,
+              "probability": 0.8144116997718811
+            },
+            {
+              "word": " se",
+              "start": 25.68,
+              "end": 25.88,
+              "probability": 0.8993999361991882
+            },
+            {
+              "word": " fixed",
+              "start": 25.88,
+              "end": 26.18,
+              "probability": 0.9118022322654724
+            },
+            {
+              "word": " percentage",
+              "start": 26.18,
+              "end": 26.74,
+              "probability": 0.8907421827316284
+            },
+            {
+              "word": " assume",
+              "start": 26.74,
+              "end": 27.06,
+              "probability": 0.9002034664154053
+            },
+            {
+              "word": " na",
+              "start": 27.06,
+              "end": 27.26,
+              "probability": 0.8975199460983276
+            },
+            {
+              "word": " karein.",
+              "start": 27.26,
+              "end": 27.58,
+              "probability": 0.9541868368784586
+            },
+            {
+              "word": " Example,",
+              "start": 27.98,
+              "end": 28.6,
+              "probability": 0.9967690408229828
+            }
+          ]
+        },
+        {
+          "start": 28.6,
+          "end": 34.1,
+          "text": " hotel breakfast free hai dinner khud pe kya. Specific applicable instruction accounts",
+          "words": [
+            {
+              "word": " hotel",
+              "start": 28.6,
+              "end": 29.14,
+              "probability": 0.08289296180009842
+            },
+            {
+              "word": " breakfast",
+              "start": 29.14,
+              "end": 29.52,
+              "probability": 0.9715164303779602
+            },
+            {
+              "word": " free",
+              "start": 29.52,
+              "end": 29.96,
+              "probability": 0.5676476359367371
+            },
+            {
+              "word": " hai",
+              "start": 29.96,
+              "end": 30.14,
+              "probability": 0.6500492691993713
+            },
+            {
+              "word": " dinner",
+              "start": 30.14,
+              "end": 30.58,
+              "probability": 0.27045780420303345
+            },
+            {
+              "word": " khud",
+              "start": 30.58,
+              "end": 30.98,
+              "probability": 0.809413343667984
+            },
+            {
+              "word": " pe",
+              "start": 30.98,
+              "end": 31.12,
+              "probability": 0.8885471820831299
+            },
+            {
+              "word": " kya.",
+              "start": 31.12,
+              "end": 31.4,
+              "probability": 0.7605384886264801
+            },
+            {
+              "word": " Specific",
+              "start": 31.82,
+              "end": 32.54,
+              "probability": 0.965039849281311
+            },
+            {
+              "word": " applicable",
+              "start": 32.54,
+              "end": 32.88,
+              "probability": 0.8134666681289673
+            },
+            {
+              "word": " instruction",
+              "start": 32.88,
+              "end": 33.54,
+              "probability": 0.9394538402557373
+            },
+            {
+              "word": " accounts",
+              "start": 33.54,
+              "end": 34.1,
+              "probability": 0.7127536535263062
+            }
+          ]
+        },
+        {
+          "start": 34.1,
+          "end": 35.28,
+          "text": " office se konform karein.",
+          "words": [
+            {
+              "word": " office",
+              "start": 34.1,
+              "end": 34.38,
+              "probability": 0.47893741726875305
+            },
+            {
+              "word": " se",
+              "start": 34.38,
+              "end": 34.58,
+              "probability": 0.6324184536933899
+            },
+            {
+              "word": " konform",
+              "start": 34.58,
+              "end": 34.92,
+              "probability": 0.6031929403543472
+            },
+            {
+              "word": " karein.",
+              "start": 34.92,
+              "end": 35.28,
+              "probability": 0.552395843124638
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-hotel-tax.mp3",
+      "audio_sha256": "7678c652d43e7c6fb5af02b1724b9747aedcbca129eea3a182f7f4a246312004",
+      "duration": 34.36,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.24,
+          "text": " Hotel ceiling ek maximum hai, automatic payment nahi. Level 8 tak general rule mein self-certification",
+          "words": [
+            {
+              "word": " Hotel",
+              "start": 0.0,
+              "end": 0.52,
+              "probability": 0.5851129293441772
+            },
+            {
+              "word": " ceiling",
+              "start": 0.52,
+              "end": 0.92,
+              "probability": 0.6677693724632263
+            },
+            {
+              "word": " ek",
+              "start": 0.92,
+              "end": 1.16,
+              "probability": 0.020337646827101707
+            },
+            {
+              "word": " maximum",
+              "start": 1.16,
+              "end": 1.54,
+              "probability": 0.7495788335800171
+            },
+            {
+              "word": " hai,",
+              "start": 1.54,
+              "end": 1.92,
+              "probability": 0.6061205863952637
+            },
+            {
+              "word": " automatic",
+              "start": 2.16,
+              "end": 2.44,
+              "probability": 0.8350851535797119
+            },
+            {
+              "word": " payment",
+              "start": 2.44,
+              "end": 2.92,
+              "probability": 0.8616325259208679
+            },
+            {
+              "word": " nahi.",
+              "start": 2.92,
+              "end": 3.32,
+              "probability": 0.83004030585289
+            },
+            {
+              "word": " Level",
+              "start": 3.78,
+              "end": 4.06,
+              "probability": 0.944378137588501
+            },
+            {
+              "word": " 8",
+              "start": 4.06,
+              "end": 4.42,
+              "probability": 0.7529588937759399
+            },
+            {
+              "word": " tak",
+              "start": 4.42,
+              "end": 4.62,
+              "probability": 0.42269986867904663
+            },
+            {
+              "word": " general",
+              "start": 4.62,
+              "end": 5.0,
+              "probability": 0.5253157615661621
+            },
+            {
+              "word": " rule",
+              "start": 5.0,
+              "end": 5.3,
+              "probability": 0.9926180243492126
+            },
+            {
+              "word": " mein",
+              "start": 5.3,
+              "end": 5.42,
+              "probability": 0.42784518003463745
+            },
+            {
+              "word": " self",
+              "start": 5.42,
+              "end": 5.68,
+              "probability": 0.8566997051239014
+            },
+            {
+              "word": "-certification",
+              "start": 5.68,
+              "end": 6.24,
+              "probability": 0.8595196604728699
+            }
+          ]
+        },
+        {
+          "start": 6.24,
+          "end": 12.18,
+          "text": " available hai. Example, level 7 ka eligible room cost Rs. 800 hai. Tab room claim Rs.",
+          "words": [
+            {
+              "word": " available",
+              "start": 6.24,
+              "end": 6.58,
+              "probability": 0.9473384618759155
+            },
+            {
+              "word": " hai.",
+              "start": 6.58,
+              "end": 6.9,
+              "probability": 0.9723607897758484
+            },
+            {
+              "word": " Example,",
+              "start": 7.38,
+              "end": 7.96,
+              "probability": 0.9895801544189453
+            },
+            {
+              "word": " level",
+              "start": 8.52,
+              "end": 8.54,
+              "probability": 0.6844556331634521
+            },
+            {
+              "word": " 7",
+              "start": 8.54,
+              "end": 8.9,
+              "probability": 0.9567967057228088
+            },
+            {
+              "word": " ka",
+              "start": 8.9,
+              "end": 9.1,
+              "probability": 0.9656340479850769
+            },
+            {
+              "word": " eligible",
+              "start": 9.1,
+              "end": 9.44,
+              "probability": 0.9869049191474915
+            },
+            {
+              "word": " room",
+              "start": 9.44,
+              "end": 9.78,
+              "probability": 0.9931625127792358
+            },
+            {
+              "word": " cost",
+              "start": 9.78,
+              "end": 10.08,
+              "probability": 0.9869686961174011
+            },
+            {
+              "word": " Rs.",
+              "start": 10.08,
+              "end": 10.24,
+              "probability": 0.39446955919265747
+            },
+            {
+              "word": " 800",
+              "start": 10.52,
+              "end": 10.52,
+              "probability": 0.896580696105957
+            },
+            {
+              "word": " hai.",
+              "start": 10.52,
+              "end": 10.92,
+              "probability": 0.6722322106361389
+            },
+            {
+              "word": " Tab",
+              "start": 11.34,
+              "end": 11.44,
+              "probability": 0.5939040780067444
+            },
+            {
+              "word": " room",
+              "start": 11.44,
+              "end": 11.72,
+              "probability": 0.929358184337616
+            },
+            {
+              "word": " claim",
+              "start": 11.72,
+              "end": 11.92,
+              "probability": 0.9801833629608154
+            },
+            {
+              "word": " Rs.",
+              "start": 11.92,
+              "end": 12.18,
+              "probability": 0.9072215557098389
+            }
+          ]
+        },
+        {
+          "start": 12.18,
+          "end": 17.68,
+          "text": " 800 hai. Pura ceiling nahi. Class X city ki higher limit ke liye vouchers chahiye. Hotel",
+          "words": [
+            {
+              "word": " 800",
+              "start": 12.18,
+              "end": 12.46,
+              "probability": 0.9587737917900085
+            },
+            {
+              "word": " hai.",
+              "start": 12.46,
+              "end": 12.62,
+              "probability": 0.9834806323051453
+            },
+            {
+              "word": " Pura",
+              "start": 12.82,
+              "end": 13.02,
+              "probability": 0.8360324203968048
+            },
+            {
+              "word": " ceiling",
+              "start": 13.02,
+              "end": 13.28,
+              "probability": 0.9631071090698242
+            },
+            {
+              "word": " nahi.",
+              "start": 13.28,
+              "end": 13.66,
+              "probability": 0.9776214957237244
+            },
+            {
+              "word": " Class",
+              "start": 14.18,
+              "end": 14.46,
+              "probability": 0.7938077449798584
+            },
+            {
+              "word": " X",
+              "start": 14.46,
+              "end": 14.76,
+              "probability": 0.6907066702842712
+            },
+            {
+              "word": " city",
+              "start": 14.76,
+              "end": 15.02,
+              "probability": 0.7496095299720764
+            },
+            {
+              "word": " ki",
+              "start": 15.02,
+              "end": 15.18,
+              "probability": 0.8353065848350525
+            },
+            {
+              "word": " higher",
+              "start": 15.18,
+              "end": 15.48,
+              "probability": 0.9234631657600403
+            },
+            {
+              "word": " limit",
+              "start": 15.48,
+              "end": 15.76,
+              "probability": 0.9951907396316528
+            },
+            {
+              "word": " ke",
+              "start": 15.76,
+              "end": 15.92,
+              "probability": 0.849150538444519
+            },
+            {
+              "word": " liye",
+              "start": 15.92,
+              "end": 16.08,
+              "probability": 0.9861807823181152
+            },
+            {
+              "word": " vouchers",
+              "start": 16.08,
+              "end": 16.5,
+              "probability": 0.9447052776813507
+            },
+            {
+              "word": " chahiye.",
+              "start": 16.5,
+              "end": 16.92,
+              "probability": 0.8607127070426941
+            },
+            {
+              "word": " Hotel",
+              "start": 17.34,
+              "end": 17.68,
+              "probability": 0.9791772961616516
+            }
+          ]
+        },
+        {
+          "start": 17.68,
+          "end": 22.9,
+          "text": " taxes entitlement ke upar reimburse ho sakti hai. GST actual charge ke eligible history",
+          "words": [
+            {
+              "word": " taxes",
+              "start": 17.68,
+              "end": 18.06,
+              "probability": 0.8983840346336365
+            },
+            {
+              "word": " entitlement",
+              "start": 18.06,
+              "end": 18.76,
+              "probability": 0.9901764690876007
+            },
+            {
+              "word": " ke",
+              "start": 18.76,
+              "end": 18.96,
+              "probability": 0.8953019976615906
+            },
+            {
+              "word": " upar",
+              "start": 18.96,
+              "end": 19.32,
+              "probability": 0.6609330177307129
+            },
+            {
+              "word": " reimburse",
+              "start": 19.32,
+              "end": 19.62,
+              "probability": 0.6042906045913696
+            },
+            {
+              "word": " ho",
+              "start": 19.62,
+              "end": 19.88,
+              "probability": 0.43070656061172485
+            },
+            {
+              "word": " sakti",
+              "start": 19.88,
+              "end": 20.18,
+              "probability": 0.47863122820854187
+            },
+            {
+              "word": " hai.",
+              "start": 20.18,
+              "end": 20.28,
+              "probability": 0.8943038582801819
+            },
+            {
+              "word": " GST",
+              "start": 20.72,
+              "end": 21.22,
+              "probability": 0.9044683873653412
+            },
+            {
+              "word": " actual",
+              "start": 21.22,
+              "end": 21.66,
+              "probability": 0.5800540447235107
+            },
+            {
+              "word": " charge",
+              "start": 21.66,
+              "end": 22.06,
+              "probability": 0.9894193410873413
+            },
+            {
+              "word": " ke",
+              "start": 22.06,
+              "end": 22.22,
+              "probability": 0.8019071817398071
+            },
+            {
+              "word": " eligible",
+              "start": 22.22,
+              "end": 22.54,
+              "probability": 0.9943429231643677
+            },
+            {
+              "word": " history",
+              "start": 22.54,
+              "end": 22.9,
+              "probability": 0.21242806315422058
+            }
+          ]
+        },
+        {
+          "start": 22.9,
+          "end": 29.16,
+          "text": " par calculate hota hai. Example, artso room aur hypothetical 12% tax. Tax Chianve, total",
+          "words": [
+            {
+              "word": " par",
+              "start": 22.9,
+              "end": 23.08,
+              "probability": 0.7604249715805054
+            },
+            {
+              "word": " calculate",
+              "start": 23.08,
+              "end": 23.34,
+              "probability": 0.4328393340110779
+            },
+            {
+              "word": " hota",
+              "start": 23.34,
+              "end": 23.82,
+              "probability": 0.7063646018505096
+            },
+            {
+              "word": " hai.",
+              "start": 23.82,
+              "end": 23.92,
+              "probability": 0.9937168955802917
+            },
+            {
+              "word": " Example,",
+              "start": 24.18,
+              "end": 24.7,
+              "probability": 0.998160183429718
+            },
+            {
+              "word": " artso",
+              "start": 25.08,
+              "end": 25.4,
+              "probability": 0.4972650557756424
+            },
+            {
+              "word": " room",
+              "start": 25.4,
+              "end": 25.64,
+              "probability": 0.9741254448890686
+            },
+            {
+              "word": " aur",
+              "start": 25.64,
+              "end": 25.84,
+              "probability": 0.9943522214889526
+            },
+            {
+              "word": " hypothetical",
+              "start": 25.84,
+              "end": 26.3,
+              "probability": 0.9798635840415955
+            },
+            {
+              "word": " 12",
+              "start": 26.3,
+              "end": 26.74,
+              "probability": 0.8804839253425598
+            },
+            {
+              "word": "%",
+              "start": 26.74,
+              "end": 26.96,
+              "probability": 0.7658429145812988
+            },
+            {
+              "word": " tax.",
+              "start": 26.96,
+              "end": 27.36,
+              "probability": 0.9772664308547974
+            },
+            {
+              "word": " Tax",
+              "start": 27.74,
+              "end": 28.02,
+              "probability": 0.9809368252754211
+            },
+            {
+              "word": " Chianve,",
+              "start": 28.02,
+              "end": 28.56,
+              "probability": 0.24149805307388306
+            },
+            {
+              "word": " total",
+              "start": 28.88,
+              "end": 29.16,
+              "probability": 0.806458055973053
+            }
+          ]
+        },
+        {
+          "start": 29.16,
+          "end": 34.1,
+          "text": " art su chianve. Conditions lagu. Actual GST rate aur invoice account se check karen.",
+          "words": [
+            {
+              "word": " art",
+              "start": 29.16,
+              "end": 29.46,
+              "probability": 0.0026976976078003645
+            },
+            {
+              "word": " su",
+              "start": 29.46,
+              "end": 29.62,
+              "probability": 0.33588874340057373
+            },
+            {
+              "word": " chianve.",
+              "start": 29.62,
+              "end": 30.06,
+              "probability": 0.04495265816027919
+            },
+            {
+              "word": " Conditions",
+              "start": 30.3,
+              "end": 30.74,
+              "probability": 0.965557724237442
+            },
+            {
+              "word": " lagu.",
+              "start": 30.74,
+              "end": 31.18,
+              "probability": 0.6928372383117676
+            },
+            {
+              "word": " Actual",
+              "start": 31.5,
+              "end": 32.0,
+              "probability": 0.9796445369720459
+            },
+            {
+              "word": " GST",
+              "start": 32.0,
+              "end": 32.36,
+              "probability": 0.9711182713508606
+            },
+            {
+              "word": " rate",
+              "start": 32.36,
+              "end": 32.62,
+              "probability": 0.9099395275115967
+            },
+            {
+              "word": " aur",
+              "start": 32.62,
+              "end": 32.8,
+              "probability": 0.007876141928136349
+            },
+            {
+              "word": " invoice",
+              "start": 32.8,
+              "end": 33.1,
+              "probability": 0.9512667655944824
+            },
+            {
+              "word": " account",
+              "start": 33.1,
+              "end": 33.48,
+              "probability": 0.387606143951416
+            },
+            {
+              "word": " se",
+              "start": 33.48,
+              "end": 33.66,
+              "probability": 0.8575788140296936
+            },
+            {
+              "word": " check",
+              "start": 33.66,
+              "end": 33.88,
+              "probability": 0.24580378830432892
+            },
+            {
+              "word": " karen.",
+              "start": 33.88,
+              "end": 34.1,
+              "probability": 0.4583065062761307
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "05-city-travel.mp3",
+      "audio_sha256": "7cf72cf31a127f9b770eff4141dcb7c085b344f102d1e15734f1ff2c0e11bbe5",
+      "duration": 32.12,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.94,
+          "text": " Level 9-11 ke city travel mein voucher waver hai.",
+          "words": [
+            {
+              "word": " Level",
+              "start": 0.0,
+              "end": 0.54,
+              "probability": 0.7780750393867493
+            },
+            {
+              "word": " 9",
+              "start": 0.54,
+              "end": 1.0,
+              "probability": 0.8430988192558289
+            },
+            {
+              "word": "-11",
+              "start": 1.0,
+              "end": 1.74,
+              "probability": 0.6989501565694809
+            },
+            {
+              "word": " ke",
+              "start": 1.74,
+              "end": 1.94,
+              "probability": 6.168529580463655e-06
+            },
+            {
+              "word": " city",
+              "start": 1.94,
+              "end": 2.22,
+              "probability": 0.7748751640319824
+            },
+            {
+              "word": " travel",
+              "start": 2.22,
+              "end": 2.62,
+              "probability": 0.9658392071723938
+            },
+            {
+              "word": " mein",
+              "start": 2.62,
+              "end": 2.86,
+              "probability": 0.23254765570163727
+            },
+            {
+              "word": " voucher",
+              "start": 2.86,
+              "end": 3.46,
+              "probability": 0.7998027503490448
+            },
+            {
+              "word": " waver",
+              "start": 3.46,
+              "end": 3.74,
+              "probability": 0.5615621954202652
+            },
+            {
+              "word": " hai.",
+              "start": 3.74,
+              "end": 3.94,
+              "probability": 0.8448666334152222
+            }
+          ]
+        },
+        {
+          "start": 4.44,
+          "end": 8.08,
+          "text": " Self-certification mein travel period aur vehicle number likhein.",
+          "words": [
+            {
+              "word": " Self",
+              "start": 4.44,
+              "end": 4.74,
+              "probability": 0.8489651083946228
+            },
+            {
+              "word": "-certification",
+              "start": 4.74,
+              "end": 5.44,
+              "probability": 0.8623247345288595
+            },
+            {
+              "word": " mein",
+              "start": 5.44,
+              "end": 5.72,
+              "probability": 0.8361783623695374
+            },
+            {
+              "word": " travel",
+              "start": 5.72,
+              "end": 6.08,
+              "probability": 0.922282338142395
+            },
+            {
+              "word": " period",
+              "start": 6.08,
+              "end": 6.5,
+              "probability": 0.9599574208259583
+            },
+            {
+              "word": " aur",
+              "start": 6.5,
+              "end": 6.84,
+              "probability": 0.9809309840202332
+            },
+            {
+              "word": " vehicle",
+              "start": 6.84,
+              "end": 7.16,
+              "probability": 0.9372940063476562
+            },
+            {
+              "word": " number",
+              "start": 7.16,
+              "end": 7.5,
+              "probability": 0.9765667915344238
+            },
+            {
+              "word": " likhein.",
+              "start": 7.5,
+              "end": 8.08,
+              "probability": 0.5156989792982737
+            }
+          ]
+        },
+        {
+          "start": 8.48,
+          "end": 13.4,
+          "text": " Example, level 10 officer ki eligible non-AC ride 350 hai.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 8.48,
+              "end": 9.12,
+              "probability": 0.9903716146945953
+            },
+            {
+              "word": " level",
+              "start": 9.46,
+              "end": 9.64,
+              "probability": 0.6483358144760132
+            },
+            {
+              "word": " 10",
+              "start": 9.64,
+              "end": 9.98,
+              "probability": 0.960500180721283
+            },
+            {
+              "word": " officer",
+              "start": 9.98,
+              "end": 10.46,
+              "probability": 0.7327958345413208
+            },
+            {
+              "word": " ki",
+              "start": 10.46,
+              "end": 10.68,
+              "probability": 0.6430133581161499
+            },
+            {
+              "word": " eligible",
+              "start": 10.68,
+              "end": 11.16,
+              "probability": 0.9880321025848389
+            },
+            {
+              "word": " non",
+              "start": 11.16,
+              "end": 11.6,
+              "probability": 0.9437380433082581
+            },
+            {
+              "word": "-AC",
+              "start": 11.6,
+              "end": 11.98,
+              "probability": 0.7718319296836853
+            },
+            {
+              "word": " ride",
+              "start": 11.98,
+              "end": 12.32,
+              "probability": 0.9184428453445435
+            },
+            {
+              "word": " 350",
+              "start": 12.32,
+              "end": 12.76,
+              "probability": 0.48696228861808777
+            },
+            {
+              "word": " hai.",
+              "start": 12.76,
+              "end": 13.4,
+              "probability": 0.7368311285972595
+            }
+          ]
+        },
+        {
+          "start": 13.92,
+          "end": 17.28,
+          "text": " Claim actual kharj ke liye hai, ceiling ki fixed payment nahi.",
+          "words": [
+            {
+              "word": " Claim",
+              "start": 13.92,
+              "end": 14.18,
+              "probability": 0.9621149003505707
+            },
+            {
+              "word": " actual",
+              "start": 14.18,
+              "end": 14.66,
+              "probability": 0.8544274568557739
+            },
+            {
+              "word": " kharj",
+              "start": 14.66,
+              "end": 15.12,
+              "probability": 0.7214640180269877
+            },
+            {
+              "word": " ke",
+              "start": 15.12,
+              "end": 15.24,
+              "probability": 0.9030792117118835
+            },
+            {
+              "word": " liye",
+              "start": 15.24,
+              "end": 15.48,
+              "probability": 0.9815888702869415
+            },
+            {
+              "word": " hai,",
+              "start": 15.48,
+              "end": 15.62,
+              "probability": 0.9738372564315796
+            },
+            {
+              "word": " ceiling",
+              "start": 15.84,
+              "end": 16.12,
+              "probability": 0.842771589756012
+            },
+            {
+              "word": " ki",
+              "start": 16.12,
+              "end": 16.34,
+              "probability": 0.769216775894165
+            },
+            {
+              "word": " fixed",
+              "start": 16.34,
+              "end": 16.64,
+              "probability": 0.9721011519432068
+            },
+            {
+              "word": " payment",
+              "start": 16.64,
+              "end": 16.96,
+              "probability": 0.984994113445282
+            },
+            {
+              "word": " nahi.",
+              "start": 16.96,
+              "end": 17.28,
+              "probability": 0.7208028435707092
+            }
+          ]
+        },
+        {
+          "start": 17.98,
+          "end": 21.5,
+          "text": " Ek purani clarification mein airport transfers alag discuss hai.",
+          "words": [
+            {
+              "word": " Ek",
+              "start": 17.98,
+              "end": 18.16,
+              "probability": 0.4960719347000122
+            },
+            {
+              "word": " purani",
+              "start": 18.16,
+              "end": 18.54,
+              "probability": 0.9217711389064789
+            },
+            {
+              "word": " clarification",
+              "start": 18.54,
+              "end": 19.1,
+              "probability": 0.5789386630058289
+            },
+            {
+              "word": " mein",
+              "start": 19.1,
+              "end": 19.48,
+              "probability": 0.7545486688613892
+            },
+            {
+              "word": " airport",
+              "start": 19.48,
+              "end": 19.92,
+              "probability": 0.8848863244056702
+            },
+            {
+              "word": " transfers",
+              "start": 19.92,
+              "end": 20.56,
+              "probability": 0.9523904323577881
+            },
+            {
+              "word": " alag",
+              "start": 20.56,
+              "end": 20.96,
+              "probability": 0.763420969247818
+            },
+            {
+              "word": " discuss",
+              "start": 20.96,
+              "end": 21.24,
+              "probability": 0.720314085483551
+            },
+            {
+              "word": " hai.",
+              "start": 21.24,
+              "end": 21.5,
+              "probability": 0.6660570502281189
+            }
+          ]
+        },
+        {
+          "start": 21.92,
+          "end": 25.18,
+          "text": " Lekin uska aaj ka application accounts office se verify karein.",
+          "words": [
+            {
+              "word": " Lekin",
+              "start": 21.92,
+              "end": 22.18,
+              "probability": 0.7470089892546335
+            },
+            {
+              "word": " uska",
+              "start": 22.18,
+              "end": 22.46,
+              "probability": 0.9566237032413483
+            },
+            {
+              "word": " aaj",
+              "start": 22.46,
+              "end": 22.8,
+              "probability": 0.9349592924118042
+            },
+            {
+              "word": " ka",
+              "start": 22.8,
+              "end": 22.94,
+              "probability": 0.9636368155479431
+            },
+            {
+              "word": " application",
+              "start": 22.94,
+              "end": 23.48,
+              "probability": 0.9862918853759766
+            },
+            {
+              "word": " accounts",
+              "start": 23.48,
+              "end": 23.94,
+              "probability": 0.7861492037773132
+            },
+            {
+              "word": " office",
+              "start": 23.94,
+              "end": 24.3,
+              "probability": 0.9555707573890686
+            },
+            {
+              "word": " se",
+              "start": 24.3,
+              "end": 24.5,
+              "probability": 0.8644493818283081
+            },
+            {
+              "word": " verify",
+              "start": 24.5,
+              "end": 24.7,
+              "probability": 0.5452648401260376
+            },
+            {
+              "word": " karein.",
+              "start": 24.7,
+              "end": 25.18,
+              "probability": 0.4889238278071086
+            }
+          ]
+        },
+        {
+          "start": 25.54,
+          "end": 29.52,
+          "text": " Example, airport se hotel aur hotel se meeting alag rides hai.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 25.54,
+              "end": 26.2,
+              "probability": 0.9973194003105164
+            },
+            {
+              "word": " airport",
+              "start": 26.52,
+              "end": 26.88,
+              "probability": 0.9299173951148987
+            },
+            {
+              "word": " se",
+              "start": 26.88,
+              "end": 27.08,
+              "probability": 0.9664599895477295
+            },
+            {
+              "word": " hotel",
+              "start": 27.08,
+              "end": 27.44,
+              "probability": 0.9746063947677612
+            },
+            {
+              "word": " aur",
+              "start": 27.44,
+              "end": 27.76,
+              "probability": 0.9875475168228149
+            },
+            {
+              "word": " hotel",
+              "start": 27.76,
+              "end": 28.06,
+              "probability": 0.986225962638855
+            },
+            {
+              "word": " se",
+              "start": 28.06,
+              "end": 28.32,
+              "probability": 0.9946563243865967
+            },
+            {
+              "word": " meeting",
+              "start": 28.32,
+              "end": 28.58,
+              "probability": 0.9877901077270508
+            },
+            {
+              "word": " alag",
+              "start": 28.58,
+              "end": 29.08,
+              "probability": 0.9929072260856628
+            },
+            {
+              "word": " rides",
+              "start": 29.08,
+              "end": 29.34,
+              "probability": 0.9925342798233032
+            },
+            {
+              "word": " hai.",
+              "start": 29.34,
+              "end": 29.52,
+              "probability": 0.8999336957931519
+            }
+          ]
+        },
+        {
+          "start": 29.52,
+          "end": 31.84,
+          "text": " Ek hi ride ko do baar claim mat karein.",
+          "words": [
+            {
+              "word": " Ek",
+              "start": 29.52,
+              "end": 30.08,
+              "probability": 9.539910388411954e-05
+            },
+            {
+              "word": " hi",
+              "start": 30.08,
+              "end": 30.28,
+              "probability": 0.4750804305076599
+            },
+            {
+              "word": " ride",
+              "start": 30.28,
+              "end": 30.46,
+              "probability": 0.14367061853408813
+            },
+            {
+              "word": " ko",
+              "start": 30.46,
+              "end": 30.66,
+              "probability": 0.8618848323822021
+            },
+            {
+              "word": " do",
+              "start": 30.66,
+              "end": 30.88,
+              "probability": 0.8396821618080139
+            },
+            {
+              "word": " baar",
+              "start": 30.88,
+              "end": 31.12,
+              "probability": 0.5611796677112579
+            },
+            {
+              "word": " claim",
+              "start": 31.12,
+              "end": 31.3,
+              "probability": 0.1891704499721527
+            },
+            {
+              "word": " mat",
+              "start": 31.3,
+              "end": 31.54,
+              "probability": 0.8829455375671387
+            },
+            {
+              "word": " karein.",
+              "start": 31.54,
+              "end": 31.84,
+              "probability": 0.529468392332395
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-local-journeys.mp3",
+      "audio_sha256": "0e655956a7e5e23ca9b64e499d3af0ef30ad8cfdb343cce9b90b0c7abec51a34",
+      "duration": 27.37,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.6,
+          "text": " Local journey mein normal duty points se distance chek karein. Government training material 8 km radius ka test batata hai.",
+          "words": [
+            {
+              "word": " Local",
+              "start": 0.0,
+              "end": 0.6,
+              "probability": 0.19672207534313202
+            },
+            {
+              "word": " journey",
+              "start": 0.6,
+              "end": 1.06,
+              "probability": 0.780827522277832
+            },
+            {
+              "word": " mein",
+              "start": 1.06,
+              "end": 1.28,
+              "probability": 0.014341081492602825
+            },
+            {
+              "word": " normal",
+              "start": 1.28,
+              "end": 1.66,
+              "probability": 0.9424266815185547
+            },
+            {
+              "word": " duty",
+              "start": 1.66,
+              "end": 1.96,
+              "probability": 0.9551754593849182
+            },
+            {
+              "word": " points",
+              "start": 1.96,
+              "end": 2.36,
+              "probability": 0.6409212350845337
+            },
+            {
+              "word": " se",
+              "start": 2.36,
+              "end": 2.56,
+              "probability": 0.6988205313682556
+            },
+            {
+              "word": " distance",
+              "start": 2.56,
+              "end": 2.9,
+              "probability": 0.9728062152862549
+            },
+            {
+              "word": " chek",
+              "start": 2.9,
+              "end": 3.34,
+              "probability": 0.36878129839897156
+            },
+            {
+              "word": " karein.",
+              "start": 3.34,
+              "end": 3.68,
+              "probability": 0.6220260063807169
+            },
+            {
+              "word": " Government",
+              "start": 3.92,
+              "end": 4.26,
+              "probability": 0.9524006843566895
+            },
+            {
+              "word": " training",
+              "start": 4.26,
+              "end": 4.68,
+              "probability": 0.9463024735450745
+            },
+            {
+              "word": " material",
+              "start": 4.68,
+              "end": 5.22,
+              "probability": 0.9700769782066345
+            },
+            {
+              "word": " 8",
+              "start": 5.22,
+              "end": 5.66,
+              "probability": 0.7415339350700378
+            },
+            {
+              "word": " km",
+              "start": 5.66,
+              "end": 5.9,
+              "probability": 0.3891388177871704
+            },
+            {
+              "word": " radius",
+              "start": 5.9,
+              "end": 6.54,
+              "probability": 0.9843850135803223
+            },
+            {
+              "word": " ka",
+              "start": 6.54,
+              "end": 6.74,
+              "probability": 0.9657143354415894
+            },
+            {
+              "word": " test",
+              "start": 6.74,
+              "end": 7.0,
+              "probability": 0.9737289547920227
+            },
+            {
+              "word": " batata",
+              "start": 7.0,
+              "end": 7.42,
+              "probability": 0.7818065583705902
+            },
+            {
+              "word": " hai.",
+              "start": 7.42,
+              "end": 7.6,
+              "probability": 0.8193339705467224
+            }
+          ]
+        },
+        {
+          "start": 8.04,
+          "end": 12.22,
+          "text": " Example, temporary office normal office se 8 km ke bahar hai.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 8.04,
+              "end": 8.62,
+              "probability": 0.984862357378006
+            },
+            {
+              "word": " temporary",
+              "start": 8.98,
+              "end": 9.3,
+              "probability": 0.6876189112663269
+            },
+            {
+              "word": " office",
+              "start": 9.3,
+              "end": 9.76,
+              "probability": 0.9922356009483337
+            },
+            {
+              "word": " normal",
+              "start": 9.76,
+              "end": 10.12,
+              "probability": 0.9448536038398743
+            },
+            {
+              "word": " office",
+              "start": 10.12,
+              "end": 10.6,
+              "probability": 0.9946468472480774
+            },
+            {
+              "word": " se",
+              "start": 10.6,
+              "end": 10.76,
+              "probability": 0.988246738910675
+            },
+            {
+              "word": " 8",
+              "start": 10.76,
+              "end": 11.08,
+              "probability": 0.9779630303382874
+            },
+            {
+              "word": " km",
+              "start": 11.08,
+              "end": 11.32,
+              "probability": 0.8645005822181702
+            },
+            {
+              "word": " ke",
+              "start": 11.32,
+              "end": 11.74,
+              "probability": 0.8718758821487427
+            },
+            {
+              "word": " bahar",
+              "start": 11.74,
+              "end": 12.08,
+              "probability": 0.8260113596916199
+            },
+            {
+              "word": " hai.",
+              "start": 12.08,
+              "end": 12.22,
+              "probability": 0.971824586391449
+            }
+          ]
+        },
+        {
+          "start": 12.8,
+          "end": 19.44,
+          "text": " Ghar se distance deek kar hi final decision mat lein. Example, level 7 aur 7 hours par amount 350.",
+          "words": [
+            {
+              "word": " Ghar",
+              "start": 12.8,
+              "end": 13.0,
+              "probability": 0.7260914295911789
+            },
+            {
+              "word": " se",
+              "start": 13.0,
+              "end": 13.14,
+              "probability": 0.6406758427619934
+            },
+            {
+              "word": " distance",
+              "start": 13.14,
+              "end": 13.54,
+              "probability": 0.9861406087875366
+            },
+            {
+              "word": " deek",
+              "start": 13.54,
+              "end": 13.88,
+              "probability": 0.773306667804718
+            },
+            {
+              "word": " kar",
+              "start": 13.88,
+              "end": 14.0,
+              "probability": 0.3986603617668152
+            },
+            {
+              "word": " hi",
+              "start": 14.0,
+              "end": 14.12,
+              "probability": 0.8143014907836914
+            },
+            {
+              "word": " final",
+              "start": 14.12,
+              "end": 14.42,
+              "probability": 0.9629437923431396
+            },
+            {
+              "word": " decision",
+              "start": 14.42,
+              "end": 14.82,
+              "probability": 0.9955930113792419
+            },
+            {
+              "word": " mat",
+              "start": 14.82,
+              "end": 15.1,
+              "probability": 0.7453593015670776
+            },
+            {
+              "word": " lein.",
+              "start": 15.1,
+              "end": 15.36,
+              "probability": 0.36983608454465866
+            },
+            {
+              "word": " Example,",
+              "start": 15.86,
+              "end": 16.5,
+              "probability": 0.9987312853336334
+            },
+            {
+              "word": " level",
+              "start": 16.8,
+              "end": 17.06,
+              "probability": 0.8959047794342041
+            },
+            {
+              "word": " 7",
+              "start": 17.06,
+              "end": 17.54,
+              "probability": 0.9153834581375122
+            },
+            {
+              "word": " aur",
+              "start": 17.54,
+              "end": 17.8,
+              "probability": 0.9505411982536316
+            },
+            {
+              "word": " 7",
+              "start": 17.8,
+              "end": 18.1,
+              "probability": 0.9757227897644043
+            },
+            {
+              "word": " hours",
+              "start": 18.1,
+              "end": 18.38,
+              "probability": 0.9197520613670349
+            },
+            {
+              "word": " par",
+              "start": 18.38,
+              "end": 18.58,
+              "probability": 0.4629751145839691
+            },
+            {
+              "word": " amount",
+              "start": 18.58,
+              "end": 18.94,
+              "probability": 0.9722728729248047
+            },
+            {
+              "word": " 350.",
+              "start": 18.94,
+              "end": 19.44,
+              "probability": 0.9730035662651062
+            }
+          ]
+        },
+        {
+          "start": 20.28,
+          "end": 27.06,
+          "text": " Lekin original 2018 letter ki verified copy nahi mili. Isli ye actual claim se pehle account se confirm karein.",
+          "words": [
+            {
+              "word": " Lekin",
+              "start": 20.28,
+              "end": 20.7,
+              "probability": 0.7659712533156077
+            },
+            {
+              "word": " original",
+              "start": 20.7,
+              "end": 21.04,
+              "probability": 0.8537910580635071
+            },
+            {
+              "word": " 2018",
+              "start": 21.04,
+              "end": 21.82,
+              "probability": 0.9559440612792969
+            },
+            {
+              "word": " letter",
+              "start": 21.82,
+              "end": 22.18,
+              "probability": 0.9610257148742676
+            },
+            {
+              "word": " ki",
+              "start": 22.18,
+              "end": 22.36,
+              "probability": 0.8219046592712402
+            },
+            {
+              "word": " verified",
+              "start": 22.36,
+              "end": 22.7,
+              "probability": 0.9278092980384827
+            },
+            {
+              "word": " copy",
+              "start": 22.7,
+              "end": 23.14,
+              "probability": 0.9846514463424683
+            },
+            {
+              "word": " nahi",
+              "start": 23.14,
+              "end": 23.5,
+              "probability": 0.915420264005661
+            },
+            {
+              "word": " mili.",
+              "start": 23.5,
+              "end": 23.74,
+              "probability": 0.942113995552063
+            },
+            {
+              "word": " Isli",
+              "start": 24.08,
+              "end": 24.42,
+              "probability": 0.8432797491550446
+            },
+            {
+              "word": " ye",
+              "start": 24.42,
+              "end": 24.52,
+              "probability": 0.37780624628067017
+            },
+            {
+              "word": " actual",
+              "start": 24.52,
+              "end": 24.9,
+              "probability": 0.9220465421676636
+            },
+            {
+              "word": " claim",
+              "start": 24.9,
+              "end": 25.26,
+              "probability": 0.96714848279953
+            },
+            {
+              "word": " se",
+              "start": 25.26,
+              "end": 25.42,
+              "probability": 0.9751164317131042
+            },
+            {
+              "word": " pehle",
+              "start": 25.42,
+              "end": 25.7,
+              "probability": 0.7092743515968323
+            },
+            {
+              "word": " account",
+              "start": 25.7,
+              "end": 26.1,
+              "probability": 0.9504581689834595
+            },
+            {
+              "word": " se",
+              "start": 26.1,
+              "end": 26.34,
+              "probability": 0.9667065739631653
+            },
+            {
+              "word": " confirm",
+              "start": 26.34,
+              "end": 26.66,
+              "probability": 0.713844358921051
+            },
+            {
+              "word": " karein.",
+              "start": 26.66,
+              "end": 27.06,
+              "probability": 0.9887340068817139
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "07-field-foot.mp3",
+      "audio_sha256": "0c3988344465cbc439c5122786bc8e43a3e4ed18d1d0fcbfedb159a044230e9e",
+      "duration": 34.0,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 7.52,
+          "text": " Specific scientific and data collection field work ke liye clause hai. Rate food component ke equivalent hosakta hai.",
+          "words": [
+            {
+              "word": " Specific",
+              "start": 0.0,
+              "end": 1.02,
+              "probability": 0.7256241291761398
+            },
+            {
+              "word": " scientific",
+              "start": 1.02,
+              "end": 1.46,
+              "probability": 0.7628164887428284
+            },
+            {
+              "word": " and",
+              "start": 1.46,
+              "end": 1.9,
+              "probability": 0.8443377017974854
+            },
+            {
+              "word": " data",
+              "start": 1.9,
+              "end": 2.24,
+              "probability": 0.9824093580245972
+            },
+            {
+              "word": " collection",
+              "start": 2.24,
+              "end": 2.68,
+              "probability": 0.9716166853904724
+            },
+            {
+              "word": " field",
+              "start": 2.68,
+              "end": 3.04,
+              "probability": 0.9752485156059265
+            },
+            {
+              "word": " work",
+              "start": 3.04,
+              "end": 3.38,
+              "probability": 0.699651300907135
+            },
+            {
+              "word": " ke",
+              "start": 3.38,
+              "end": 3.58,
+              "probability": 0.0006648885901086032
+            },
+            {
+              "word": " liye",
+              "start": 3.58,
+              "end": 3.7,
+              "probability": 0.7338049113750458
+            },
+            {
+              "word": " clause",
+              "start": 3.7,
+              "end": 3.98,
+              "probability": 0.9560134410858154
+            },
+            {
+              "word": " hai.",
+              "start": 3.98,
+              "end": 4.28,
+              "probability": 0.7615847587585449
+            },
+            {
+              "word": " Rate",
+              "start": 4.7,
+              "end": 5.02,
+              "probability": 0.7509960532188416
+            },
+            {
+              "word": " food",
+              "start": 5.02,
+              "end": 5.38,
+              "probability": 0.7306302785873413
+            },
+            {
+              "word": " component",
+              "start": 5.38,
+              "end": 5.94,
+              "probability": 0.9912378191947937
+            },
+            {
+              "word": " ke",
+              "start": 5.94,
+              "end": 6.16,
+              "probability": 0.9782021641731262
+            },
+            {
+              "word": " equivalent",
+              "start": 6.16,
+              "end": 6.66,
+              "probability": 0.9064189195632935
+            },
+            {
+              "word": " hosakta",
+              "start": 6.66,
+              "end": 7.34,
+              "probability": 0.6565712243318558
+            },
+            {
+              "word": " hai.",
+              "start": 7.34,
+              "end": 7.52,
+              "probability": 0.9619186520576477
+            }
+          ]
+        },
+        {
+          "start": 7.92,
+          "end": 15.78,
+          "text": " Head of department ya controlling officer ka approval zeroori hai. Example, remote survey mein team foot ya mule se jaah rahi hai.",
+          "words": [
+            {
+              "word": " Head",
+              "start": 7.92,
+              "end": 8.14,
+              "probability": 0.8444953560829163
+            },
+            {
+              "word": " of",
+              "start": 8.14,
+              "end": 8.3,
+              "probability": 0.9558366537094116
+            },
+            {
+              "word": " department",
+              "start": 8.3,
+              "end": 8.76,
+              "probability": 0.7365800142288208
+            },
+            {
+              "word": " ya",
+              "start": 8.76,
+              "end": 9.1,
+              "probability": 0.6930153369903564
+            },
+            {
+              "word": " controlling",
+              "start": 9.1,
+              "end": 9.54,
+              "probability": 0.8009144067764282
+            },
+            {
+              "word": " officer",
+              "start": 9.54,
+              "end": 10.04,
+              "probability": 0.9127649068832397
+            },
+            {
+              "word": " ka",
+              "start": 10.04,
+              "end": 10.24,
+              "probability": 0.9518642425537109
+            },
+            {
+              "word": " approval",
+              "start": 10.24,
+              "end": 10.62,
+              "probability": 0.9825524091720581
+            },
+            {
+              "word": " zeroori",
+              "start": 10.62,
+              "end": 11.2,
+              "probability": 0.5361011723677317
+            },
+            {
+              "word": " hai.",
+              "start": 11.2,
+              "end": 11.38,
+              "probability": 0.9846339821815491
+            },
+            {
+              "word": " Example,",
+              "start": 11.86,
+              "end": 12.44,
+              "probability": 0.9848199486732483
+            },
+            {
+              "word": " remote",
+              "start": 12.82,
+              "end": 13.04,
+              "probability": 0.8435395956039429
+            },
+            {
+              "word": " survey",
+              "start": 13.04,
+              "end": 13.5,
+              "probability": 0.9959210157394409
+            },
+            {
+              "word": " mein",
+              "start": 13.5,
+              "end": 13.7,
+              "probability": 0.33292412757873535
+            },
+            {
+              "word": " team",
+              "start": 13.7,
+              "end": 13.98,
+              "probability": 0.922767162322998
+            },
+            {
+              "word": " foot",
+              "start": 13.98,
+              "end": 14.36,
+              "probability": 0.5264541506767273
+            },
+            {
+              "word": " ya",
+              "start": 14.36,
+              "end": 14.68,
+              "probability": 0.84505695104599
+            },
+            {
+              "word": " mule",
+              "start": 14.68,
+              "end": 14.98,
+              "probability": 0.9121361672878265
+            },
+            {
+              "word": " se",
+              "start": 14.98,
+              "end": 15.2,
+              "probability": 0.977299153804779
+            },
+            {
+              "word": " jaah",
+              "start": 15.2,
+              "end": 15.44,
+              "probability": 0.33425455540418625
+            },
+            {
+              "word": " rahi",
+              "start": 15.44,
+              "end": 15.6,
+              "probability": 0.8253872990608215
+            },
+            {
+              "word": " hai.",
+              "start": 15.6,
+              "end": 15.78,
+              "probability": 0.9797942042350769
+            }
+          ]
+        },
+        {
+          "start": 16.26,
+          "end": 22.74,
+          "text": " Har ship journey ko automatic extra payment mad samjhen. Foot journey ke liye base rate 12 rupee per kilometre tha.",
+          "words": [
+            {
+              "word": " Har",
+              "start": 16.26,
+              "end": 16.48,
+              "probability": 0.5761882662773132
+            },
+            {
+              "word": " ship",
+              "start": 16.48,
+              "end": 16.74,
+              "probability": 0.9113495349884033
+            },
+            {
+              "word": " journey",
+              "start": 16.74,
+              "end": 17.04,
+              "probability": 0.9658875465393066
+            },
+            {
+              "word": " ko",
+              "start": 17.04,
+              "end": 17.24,
+              "probability": 0.9849381446838379
+            },
+            {
+              "word": " automatic",
+              "start": 17.24,
+              "end": 17.7,
+              "probability": 0.9337916374206543
+            },
+            {
+              "word": " extra",
+              "start": 17.7,
+              "end": 18.2,
+              "probability": 0.9495461583137512
+            },
+            {
+              "word": " payment",
+              "start": 18.2,
+              "end": 18.52,
+              "probability": 0.9275136590003967
+            },
+            {
+              "word": " mad",
+              "start": 18.52,
+              "end": 18.86,
+              "probability": 0.45440682768821716
+            },
+            {
+              "word": " samjhen.",
+              "start": 18.86,
+              "end": 19.26,
+              "probability": 0.4064636950691541
+            },
+            {
+              "word": " Foot",
+              "start": 19.68,
+              "end": 19.98,
+              "probability": 0.7410132884979248
+            },
+            {
+              "word": " journey",
+              "start": 19.98,
+              "end": 20.28,
+              "probability": 0.9168583750724792
+            },
+            {
+              "word": " ke",
+              "start": 20.28,
+              "end": 20.5,
+              "probability": 0.9917032122612
+            },
+            {
+              "word": " liye",
+              "start": 20.5,
+              "end": 20.66,
+              "probability": 0.9983741939067841
+            },
+            {
+              "word": " base",
+              "start": 20.66,
+              "end": 20.92,
+              "probability": 0.9769624471664429
+            },
+            {
+              "word": " rate",
+              "start": 20.92,
+              "end": 21.16,
+              "probability": 0.9891737699508667
+            },
+            {
+              "word": " 12",
+              "start": 21.16,
+              "end": 21.5,
+              "probability": 0.6402047276496887
+            },
+            {
+              "word": " rupee",
+              "start": 21.5,
+              "end": 21.84,
+              "probability": 0.7073059976100922
+            },
+            {
+              "word": " per",
+              "start": 21.84,
+              "end": 22.04,
+              "probability": 0.9258050918579102
+            },
+            {
+              "word": " kilometre",
+              "start": 22.04,
+              "end": 22.58,
+              "probability": 0.7310472726821899
+            },
+            {
+              "word": " tha.",
+              "start": 22.58,
+              "end": 22.74,
+              "probability": 0.9425058960914612
+            }
+          ]
+        },
+        {
+          "start": 22.74,
+          "end": 30.24,
+          "text": " Pahale 25% increase ke baat 15 rupee hota hai. Example, eligible journey mein 4 kilometre sach mein paye dal chale.",
+          "words": [
+            {
+              "word": " Pahale",
+              "start": 22.74,
+              "end": 23.46,
+              "probability": 0.2909020169948538
+            },
+            {
+              "word": " 25",
+              "start": 23.46,
+              "end": 23.82,
+              "probability": 0.5157572031021118
+            },
+            {
+              "word": "%",
+              "start": 23.82,
+              "end": 24.24,
+              "probability": 0.7258925437927246
+            },
+            {
+              "word": " increase",
+              "start": 24.24,
+              "end": 24.62,
+              "probability": 0.95001620054245
+            },
+            {
+              "word": " ke",
+              "start": 24.62,
+              "end": 24.82,
+              "probability": 0.8188008069992065
+            },
+            {
+              "word": " baat",
+              "start": 24.82,
+              "end": 25.06,
+              "probability": 0.6714532524347305
+            },
+            {
+              "word": " 15",
+              "start": 25.06,
+              "end": 25.28,
+              "probability": 0.6719712615013123
+            },
+            {
+              "word": " rupee",
+              "start": 25.28,
+              "end": 25.66,
+              "probability": 0.7097474932670593
+            },
+            {
+              "word": " hota",
+              "start": 25.66,
+              "end": 25.98,
+              "probability": 0.786327451467514
+            },
+            {
+              "word": " hai.",
+              "start": 25.98,
+              "end": 26.1,
+              "probability": 0.7745519280433655
+            },
+            {
+              "word": " Example,",
+              "start": 26.58,
+              "end": 27.14,
+              "probability": 0.9701364040374756
+            },
+            {
+              "word": " eligible",
+              "start": 27.46,
+              "end": 27.78,
+              "probability": 0.7227609753608704
+            },
+            {
+              "word": " journey",
+              "start": 27.78,
+              "end": 28.26,
+              "probability": 0.9494378566741943
+            },
+            {
+              "word": " mein",
+              "start": 28.26,
+              "end": 28.42,
+              "probability": 0.14107052981853485
+            },
+            {
+              "word": " 4",
+              "start": 28.42,
+              "end": 28.7,
+              "probability": 0.9270519018173218
+            },
+            {
+              "word": " kilometre",
+              "start": 28.7,
+              "end": 29.28,
+              "probability": 0.46522626653313637
+            },
+            {
+              "word": " sach",
+              "start": 29.28,
+              "end": 29.52,
+              "probability": 0.6997098326683044
+            },
+            {
+              "word": " mein",
+              "start": 29.52,
+              "end": 29.7,
+              "probability": 0.37703782320022583
+            },
+            {
+              "word": " paye",
+              "start": 29.7,
+              "end": 29.92,
+              "probability": 0.2710731029510498
+            },
+            {
+              "word": " dal",
+              "start": 29.92,
+              "end": 29.98,
+              "probability": 0.9282987713813782
+            },
+            {
+              "word": " chale.",
+              "start": 29.98,
+              "end": 30.24,
+              "probability": 0.9247404634952545
+            }
+          ]
+        },
+        {
+          "start": 30.58,
+          "end": 33.76,
+          "text": " 4 into 15 yaani 60 rupee. Conditions check karein.",
+          "words": [
+            {
+              "word": " 4",
+              "start": 30.58,
+              "end": 30.92,
+              "probability": 0.8953023552894592
+            },
+            {
+              "word": " into",
+              "start": 30.92,
+              "end": 31.06,
+              "probability": 0.37427234649658203
+            },
+            {
+              "word": " 15",
+              "start": 31.06,
+              "end": 31.54,
+              "probability": 0.9863146543502808
+            },
+            {
+              "word": " yaani",
+              "start": 31.54,
+              "end": 31.82,
+              "probability": 0.3084754850715399
+            },
+            {
+              "word": " 60",
+              "start": 31.82,
+              "end": 32.1,
+              "probability": 0.42263200879096985
+            },
+            {
+              "word": " rupee.",
+              "start": 32.1,
+              "end": 32.48,
+              "probability": 0.8175790905952454
+            },
+            {
+              "word": " Conditions",
+              "start": 32.68,
+              "end": 33.2,
+              "probability": 0.983723908662796
+            },
+            {
+              "word": " check",
+              "start": 33.2,
+              "end": 33.48,
+              "probability": 0.800923228263855
+            },
+            {
+              "word": " karein.",
+              "start": 33.48,
+              "end": 33.76,
+              "probability": 0.45171671360731125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "08-documents.mp3",
+      "audio_sha256": "6a6f9d7c25bfe66f2bde9e13d67dd8f74d3221834620d19f03f9f93a7653b619",
+      "duration": 32.24,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.02,
+          "text": " Claim pack mein sanction, level, journey dates aur tickets rakhe. Hotel aur city travel ke",
+          "words": [
+            {
+              "word": " Claim",
+              "start": 0.0,
+              "end": 0.56,
+              "probability": 0.6107776835560799
+            },
+            {
+              "word": " pack",
+              "start": 0.56,
+              "end": 0.8,
+              "probability": 0.2789032757282257
+            },
+            {
+              "word": " mein",
+              "start": 0.8,
+              "end": 1.02,
+              "probability": 0.00014965077571105212
+            },
+            {
+              "word": " sanction,",
+              "start": 1.02,
+              "end": 1.4,
+              "probability": 0.8653068542480469
+            },
+            {
+              "word": " level,",
+              "start": 1.88,
+              "end": 2.2,
+              "probability": 0.9594774842262268
+            },
+            {
+              "word": " journey",
+              "start": 2.58,
+              "end": 2.88,
+              "probability": 0.9401658177375793
+            },
+            {
+              "word": " dates",
+              "start": 2.88,
+              "end": 3.3,
+              "probability": 0.9572633504867554
+            },
+            {
+              "word": " aur",
+              "start": 3.3,
+              "end": 3.52,
+              "probability": 0.7798314690589905
+            },
+            {
+              "word": " tickets",
+              "start": 3.52,
+              "end": 3.76,
+              "probability": 0.941605269908905
+            },
+            {
+              "word": " rakhe.",
+              "start": 3.76,
+              "end": 4.22,
+              "probability": 0.4104782044887543
+            },
+            {
+              "word": " Hotel",
+              "start": 4.6,
+              "end": 4.98,
+              "probability": 0.8259328007698059
+            },
+            {
+              "word": " aur",
+              "start": 4.98,
+              "end": 5.24,
+              "probability": 0.9972302317619324
+            },
+            {
+              "word": " city",
+              "start": 5.24,
+              "end": 5.5,
+              "probability": 0.8802406191825867
+            },
+            {
+              "word": " travel",
+              "start": 5.5,
+              "end": 5.82,
+              "probability": 0.9833539724349976
+            },
+            {
+              "word": " ke",
+              "start": 5.82,
+              "end": 6.02,
+              "probability": 0.7835862636566162
+            }
+          ]
+        },
+        {
+          "start": 6.02,
+          "end": 12.18,
+          "text": " rules alag hai. Example, level 10 hotel receipt rakhe, city ride self-certify karein. Food",
+          "words": [
+            {
+              "word": " rules",
+              "start": 6.02,
+              "end": 6.2,
+              "probability": 0.8346939086914062
+            },
+            {
+              "word": " alag",
+              "start": 6.2,
+              "end": 6.66,
+              "probability": 0.8811986446380615
+            },
+            {
+              "word": " hai.",
+              "start": 6.66,
+              "end": 6.76,
+              "probability": 0.7394734025001526
+            },
+            {
+              "word": " Example,",
+              "start": 7.08,
+              "end": 7.64,
+              "probability": 0.9813548624515533
+            },
+            {
+              "word": " level",
+              "start": 8.02,
+              "end": 8.26,
+              "probability": 0.7935229539871216
+            },
+            {
+              "word": " 10",
+              "start": 8.26,
+              "end": 8.54,
+              "probability": 0.8699943423271179
+            },
+            {
+              "word": " hotel",
+              "start": 8.54,
+              "end": 8.84,
+              "probability": 0.91310054063797
+            },
+            {
+              "word": " receipt",
+              "start": 8.84,
+              "end": 9.24,
+              "probability": 0.7896219491958618
+            },
+            {
+              "word": " rakhe,",
+              "start": 9.24,
+              "end": 9.66,
+              "probability": 0.9678946435451508
+            },
+            {
+              "word": " city",
+              "start": 9.88,
+              "end": 10.08,
+              "probability": 0.8161680102348328
+            },
+            {
+              "word": " ride",
+              "start": 10.08,
+              "end": 10.32,
+              "probability": 0.38606780767440796
+            },
+            {
+              "word": " self",
+              "start": 10.32,
+              "end": 10.66,
+              "probability": 0.7218987345695496
+            },
+            {
+              "word": "-certify",
+              "start": 10.66,
+              "end": 11.18,
+              "probability": 0.8383950392405192
+            },
+            {
+              "word": " karein.",
+              "start": 11.18,
+              "end": 11.8,
+              "probability": 0.587066575884819
+            },
+            {
+              "word": " Food",
+              "start": 11.94,
+              "end": 12.18,
+              "probability": 0.9598219990730286
+            }
+          ]
+        },
+        {
+          "start": 12.18,
+          "end": 16.68,
+          "text": " component ke liye alag food vouchers nahi chahiye. Submit karne ka acknowledgement bhi",
+          "words": [
+            {
+              "word": " component",
+              "start": 12.18,
+              "end": 12.64,
+              "probability": 0.9918637275695801
+            },
+            {
+              "word": " ke",
+              "start": 12.64,
+              "end": 12.9,
+              "probability": 0.8646857738494873
+            },
+            {
+              "word": " liye",
+              "start": 12.9,
+              "end": 13.06,
+              "probability": 0.9743465185165405
+            },
+            {
+              "word": " alag",
+              "start": 13.06,
+              "end": 13.36,
+              "probability": 0.917373538017273
+            },
+            {
+              "word": " food",
+              "start": 13.36,
+              "end": 13.56,
+              "probability": 0.9890382289886475
+            },
+            {
+              "word": " vouchers",
+              "start": 13.56,
+              "end": 14.02,
+              "probability": 0.9837967753410339
+            },
+            {
+              "word": " nahi",
+              "start": 14.02,
+              "end": 14.3,
+              "probability": 0.80862957239151
+            },
+            {
+              "word": " chahiye.",
+              "start": 14.3,
+              "end": 14.66,
+              "probability": 0.8981271584828695
+            },
+            {
+              "word": " Submit",
+              "start": 15.02,
+              "end": 15.44,
+              "probability": 0.9846346080303192
+            },
+            {
+              "word": " karne",
+              "start": 15.44,
+              "end": 15.74,
+              "probability": 0.8961951732635498
+            },
+            {
+              "word": " ka",
+              "start": 15.74,
+              "end": 15.86,
+              "probability": 0.472941130399704
+            },
+            {
+              "word": " acknowledgement",
+              "start": 15.86,
+              "end": 16.28,
+              "probability": 0.7380416393280029
+            },
+            {
+              "word": " bhi",
+              "start": 16.28,
+              "end": 16.68,
+              "probability": 0.9637052416801453
+            }
+          ]
+        },
+        {
+          "start": 16.68,
+          "end": 21.14,
+          "text": " samhal kar rakhe. Tour ka boarding pass missing hotu prescribe declaration dekhain.",
+          "words": [
+            {
+              "word": " samhal",
+              "start": 16.68,
+              "end": 17.02,
+              "probability": 0.5696689784526825
+            },
+            {
+              "word": " kar",
+              "start": 17.02,
+              "end": 17.16,
+              "probability": 0.7749154567718506
+            },
+            {
+              "word": " rakhe.",
+              "start": 17.16,
+              "end": 17.46,
+              "probability": 0.9256714284420013
+            },
+            {
+              "word": " Tour",
+              "start": 17.7,
+              "end": 18.2,
+              "probability": 0.9362088441848755
+            },
+            {
+              "word": " ka",
+              "start": 18.2,
+              "end": 18.38,
+              "probability": 0.9710837602615356
+            },
+            {
+              "word": " boarding",
+              "start": 18.38,
+              "end": 18.66,
+              "probability": 0.9710963368415833
+            },
+            {
+              "word": " pass",
+              "start": 18.66,
+              "end": 18.96,
+              "probability": 0.9895418882369995
+            },
+            {
+              "word": " missing",
+              "start": 18.96,
+              "end": 19.28,
+              "probability": 0.9902735352516174
+            },
+            {
+              "word": " hotu",
+              "start": 19.28,
+              "end": 19.66,
+              "probability": 0.5788506492972374
+            },
+            {
+              "word": " prescribe",
+              "start": 19.66,
+              "end": 19.96,
+              "probability": 0.4838606119155884
+            },
+            {
+              "word": " declaration",
+              "start": 19.96,
+              "end": 20.64,
+              "probability": 0.9738749265670776
+            },
+            {
+              "word": " dekhain.",
+              "start": 20.64,
+              "end": 21.14,
+              "probability": 0.6435381223758062
+            }
+          ]
+        },
+        {
+          "start": 21.56,
+          "end": 26.26,
+          "text": " Level 10 aur niche controlling officer counter sign karte hai. Example, level 10",
+          "words": [
+            {
+              "word": " Level",
+              "start": 21.56,
+              "end": 21.9,
+              "probability": 0.9727237224578857
+            },
+            {
+              "word": " 10",
+              "start": 21.9,
+              "end": 22.22,
+              "probability": 0.9846329689025879
+            },
+            {
+              "word": " aur",
+              "start": 22.22,
+              "end": 22.34,
+              "probability": 0.9875756502151489
+            },
+            {
+              "word": " niche",
+              "start": 22.34,
+              "end": 22.54,
+              "probability": 0.31735941767692566
+            },
+            {
+              "word": " controlling",
+              "start": 22.54,
+              "end": 23.08,
+              "probability": 0.6159800887107849
+            },
+            {
+              "word": " officer",
+              "start": 23.08,
+              "end": 23.5,
+              "probability": 0.9327554106712341
+            },
+            {
+              "word": " counter",
+              "start": 23.5,
+              "end": 23.82,
+              "probability": 0.7208784818649292
+            },
+            {
+              "word": " sign",
+              "start": 23.82,
+              "end": 24.08,
+              "probability": 0.5031737685203552
+            },
+            {
+              "word": " karte",
+              "start": 24.08,
+              "end": 24.4,
+              "probability": 0.599353976547718
+            },
+            {
+              "word": " hai.",
+              "start": 24.4,
+              "end": 24.58,
+              "probability": 0.5868951082229614
+            },
+            {
+              "word": " Example,",
+              "start": 24.82,
+              "end": 25.42,
+              "probability": 0.9979840517044067
+            },
+            {
+              "word": " level",
+              "start": 25.82,
+              "end": 26.0,
+              "probability": 0.8725586533546448
+            },
+            {
+              "word": " 10",
+              "start": 26.0,
+              "end": 26.26,
+              "probability": 0.9891555905342102
+            }
+          ]
+        },
+        {
+          "start": 26.26,
+          "end": 30.76,
+          "text": " officer form bharkar counter sign karwai. Actual journey aur no duplicate claim",
+          "words": [
+            {
+              "word": " officer",
+              "start": 26.26,
+              "end": 26.66,
+              "probability": 0.20991989970207214
+            },
+            {
+              "word": " form",
+              "start": 26.66,
+              "end": 26.92,
+              "probability": 0.5235565304756165
+            },
+            {
+              "word": " bharkar",
+              "start": 26.92,
+              "end": 27.3,
+              "probability": 0.4374215059603254
+            },
+            {
+              "word": " counter",
+              "start": 27.3,
+              "end": 27.54,
+              "probability": 0.30357691645622253
+            },
+            {
+              "word": " sign",
+              "start": 27.54,
+              "end": 27.82,
+              "probability": 0.5328148603439331
+            },
+            {
+              "word": " karwai.",
+              "start": 27.82,
+              "end": 28.24,
+              "probability": 0.5535565316677094
+            },
+            {
+              "word": " Actual",
+              "start": 28.62,
+              "end": 29.14,
+              "probability": 0.9709847271442413
+            },
+            {
+              "word": " journey",
+              "start": 29.14,
+              "end": 29.5,
+              "probability": 0.934579610824585
+            },
+            {
+              "word": " aur",
+              "start": 29.5,
+              "end": 29.74,
+              "probability": 0.0006226119003258646
+            },
+            {
+              "word": " no",
+              "start": 29.74,
+              "end": 29.98,
+              "probability": 0.9475498795509338
+            },
+            {
+              "word": " duplicate",
+              "start": 29.98,
+              "end": 30.38,
+              "probability": 0.9898840188980103
+            },
+            {
+              "word": " claim",
+              "start": 30.38,
+              "end": 30.76,
+              "probability": 0.9835041761398315
+            }
+          ]
+        },
+        {
+          "start": 30.76,
+          "end": 31.96,
+          "text": " honestly declare karein.",
+          "words": [
+            {
+              "word": " honestly",
+              "start": 30.76,
+              "end": 31.16,
+              "probability": 0.5674099326133728
+            },
+            {
+              "word": " declare",
+              "start": 31.16,
+              "end": 31.66,
+              "probability": 0.8526927828788757
+            },
+            {
+              "word": " karein.",
+              "start": 31.66,
+              "end": 31.96,
+              "probability": 0.322225384414196
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-claim-deadline.mp3",
+      "audio_sha256": "4d82e5aaa09cf74c96f0e4cbae003a4d16c868a55992bec36407a1956a277c9a",
+      "duration": 38.36,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.98,
+          "text": " Tour, transfer and training claim ki limit 60 days hai.",
+          "words": [
+            {
+              "word": " Tour,",
+              "start": 0.0,
+              "end": 0.68,
+              "probability": 0.5686661005020142
+            },
+            {
+              "word": " transfer",
+              "start": 1.0,
+              "end": 1.52,
+              "probability": 0.33718597888946533
+            },
+            {
+              "word": " and",
+              "start": 1.52,
+              "end": 1.9,
+              "probability": 0.622573971748352
+            },
+            {
+              "word": " training",
+              "start": 1.9,
+              "end": 2.28,
+              "probability": 0.9821971654891968
+            },
+            {
+              "word": " claim",
+              "start": 2.28,
+              "end": 2.6,
+              "probability": 0.9414963126182556
+            },
+            {
+              "word": " ki",
+              "start": 2.6,
+              "end": 2.82,
+              "probability": 1.676735223554715e-06
+            },
+            {
+              "word": " limit",
+              "start": 2.82,
+              "end": 3.04,
+              "probability": 0.9102805256843567
+            },
+            {
+              "word": " 60",
+              "start": 3.04,
+              "end": 3.42,
+              "probability": 0.7997307777404785
+            },
+            {
+              "word": " days",
+              "start": 3.42,
+              "end": 3.76,
+              "probability": 0.9889280796051025
+            },
+            {
+              "word": " hai.",
+              "start": 3.76,
+              "end": 3.98,
+              "probability": 0.6082175970077515
+            }
+          ]
+        },
+        {
+          "start": 4.4,
+          "end": 7.18,
+          "text": " Retirement claim ke liye order ne 180 days kiye.",
+          "words": [
+            {
+              "word": " Retirement",
+              "start": 4.4,
+              "end": 4.92,
+              "probability": 0.9367576539516449
+            },
+            {
+              "word": " claim",
+              "start": 4.92,
+              "end": 5.24,
+              "probability": 0.925844669342041
+            },
+            {
+              "word": " ke",
+              "start": 5.24,
+              "end": 5.44,
+              "probability": 0.92412269115448
+            },
+            {
+              "word": " liye",
+              "start": 5.44,
+              "end": 5.62,
+              "probability": 0.97771817445755
+            },
+            {
+              "word": " order",
+              "start": 5.62,
+              "end": 5.92,
+              "probability": 0.9907551407814026
+            },
+            {
+              "word": " ne",
+              "start": 5.92,
+              "end": 6.16,
+              "probability": 0.9370337128639221
+            },
+            {
+              "word": " 180",
+              "start": 6.16,
+              "end": 6.48,
+              "probability": 0.992405354976654
+            },
+            {
+              "word": " days",
+              "start": 6.48,
+              "end": 6.92,
+              "probability": 0.9929244518280029
+            },
+            {
+              "word": " kiye.",
+              "start": 6.92,
+              "end": 7.18,
+              "probability": 0.720519557595253
+            }
+          ]
+        },
+        {
+          "start": 7.7,
+          "end": 10.84,
+          "text": " Journey ke baad, agle din se clock shuru hone ka rule dekhayin.",
+          "words": [
+            {
+              "word": " Journey",
+              "start": 7.7,
+              "end": 8.1,
+              "probability": 0.5668700933456421
+            },
+            {
+              "word": " ke",
+              "start": 8.1,
+              "end": 8.28,
+              "probability": 0.9908894896507263
+            },
+            {
+              "word": " baad,",
+              "start": 8.28,
+              "end": 8.56,
+              "probability": 0.911404937505722
+            },
+            {
+              "word": " agle",
+              "start": 8.68,
+              "end": 8.9,
+              "probability": 0.5387201905250549
+            },
+            {
+              "word": " din",
+              "start": 8.9,
+              "end": 9.08,
+              "probability": 0.6852877736091614
+            },
+            {
+              "word": " se",
+              "start": 9.08,
+              "end": 9.24,
+              "probability": 0.9508147835731506
+            },
+            {
+              "word": " clock",
+              "start": 9.24,
+              "end": 9.46,
+              "probability": 0.9493274092674255
+            },
+            {
+              "word": " shuru",
+              "start": 9.46,
+              "end": 9.76,
+              "probability": 0.80448979139328
+            },
+            {
+              "word": " hone",
+              "start": 9.76,
+              "end": 9.98,
+              "probability": 0.7991246581077576
+            },
+            {
+              "word": " ka",
+              "start": 9.98,
+              "end": 10.16,
+              "probability": 0.6440107226371765
+            },
+            {
+              "word": " rule",
+              "start": 10.16,
+              "end": 10.36,
+              "probability": 0.9810755252838135
+            },
+            {
+              "word": " dekhayin.",
+              "start": 10.36,
+              "end": 10.84,
+              "probability": 0.6616287529468536
+            }
+          ]
+        },
+        {
+          "start": 11.26,
+          "end": 15.42,
+          "text": " Example, 1 March tour end ho, claim 2 March due hota hai.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 11.26,
+              "end": 11.86,
+              "probability": 0.9882807731628418
+            },
+            {
+              "word": " 1",
+              "start": 12.3,
+              "end": 12.46,
+              "probability": 0.6481915712356567
+            },
+            {
+              "word": " March",
+              "start": 12.46,
+              "end": 12.76,
+              "probability": 0.6681312322616577
+            },
+            {
+              "word": " tour",
+              "start": 12.76,
+              "end": 13.06,
+              "probability": 0.723111093044281
+            },
+            {
+              "word": " end",
+              "start": 13.06,
+              "end": 13.38,
+              "probability": 0.9412720203399658
+            },
+            {
+              "word": " ho,",
+              "start": 13.38,
+              "end": 13.56,
+              "probability": 0.936974287033081
+            },
+            {
+              "word": " claim",
+              "start": 13.92,
+              "end": 14.14,
+              "probability": 0.930528461933136
+            },
+            {
+              "word": " 2",
+              "start": 14.14,
+              "end": 14.44,
+              "probability": 0.9384262561798096
+            },
+            {
+              "word": " March",
+              "start": 14.44,
+              "end": 14.72,
+              "probability": 0.8690565824508667
+            },
+            {
+              "word": " due",
+              "start": 14.72,
+              "end": 14.96,
+              "probability": 0.905457079410553
+            },
+            {
+              "word": " hota",
+              "start": 14.96,
+              "end": 15.22,
+              "probability": 0.4847375601530075
+            },
+            {
+              "word": " hai.",
+              "start": 15.22,
+              "end": 15.42,
+              "probability": 0.9430816173553467
+            }
+          ]
+        },
+        {
+          "start": 15.9,
+          "end": 19.54,
+          "text": " Last day ka weight na karein, late claim per forfeiture hosakta hai.",
+          "words": [
+            {
+              "word": " Last",
+              "start": 15.9,
+              "end": 16.2,
+              "probability": 0.7792479991912842
+            },
+            {
+              "word": " day",
+              "start": 16.2,
+              "end": 16.42,
+              "probability": 0.94569331407547
+            },
+            {
+              "word": " ka",
+              "start": 16.42,
+              "end": 16.54,
+              "probability": 0.9937783479690552
+            },
+            {
+              "word": " weight",
+              "start": 16.54,
+              "end": 16.74,
+              "probability": 0.6282498240470886
+            },
+            {
+              "word": " na",
+              "start": 16.74,
+              "end": 17.0,
+              "probability": 0.8877992033958435
+            },
+            {
+              "word": " karein,",
+              "start": 17.0,
+              "end": 17.48,
+              "probability": 0.7407672802607218
+            },
+            {
+              "word": " late",
+              "start": 17.6,
+              "end": 17.88,
+              "probability": 0.9802473783493042
+            },
+            {
+              "word": " claim",
+              "start": 17.88,
+              "end": 18.18,
+              "probability": 0.6783500909805298
+            },
+            {
+              "word": " per",
+              "start": 18.18,
+              "end": 18.36,
+              "probability": 0.4412591755390167
+            },
+            {
+              "word": " forfeiture",
+              "start": 18.36,
+              "end": 18.9,
+              "probability": 0.8258389035860697
+            },
+            {
+              "word": " hosakta",
+              "start": 18.9,
+              "end": 19.38,
+              "probability": 0.8760610967874527
+            },
+            {
+              "word": " hai.",
+              "start": 19.38,
+              "end": 19.54,
+              "probability": 0.984142005443573
+            }
+          ]
+        },
+        {
+          "start": 20.12,
+          "end": 23.52,
+          "text": " Apna controlling officer hone par treasury ya cash section dekhayin.",
+          "words": [
+            {
+              "word": " Apna",
+              "start": 20.12,
+              "end": 20.44,
+              "probability": 0.7951816320419312
+            },
+            {
+              "word": " controlling",
+              "start": 20.44,
+              "end": 20.84,
+              "probability": 0.7795740365982056
+            },
+            {
+              "word": " officer",
+              "start": 20.84,
+              "end": 21.3,
+              "probability": 0.9817574620246887
+            },
+            {
+              "word": " hone",
+              "start": 21.3,
+              "end": 21.54,
+              "probability": 0.8841661810874939
+            },
+            {
+              "word": " par",
+              "start": 21.54,
+              "end": 21.8,
+              "probability": 0.33283567428588867
+            },
+            {
+              "word": " treasury",
+              "start": 21.8,
+              "end": 22.14,
+              "probability": 0.5718453526496887
+            },
+            {
+              "word": " ya",
+              "start": 22.14,
+              "end": 22.44,
+              "probability": 0.6316431760787964
+            },
+            {
+              "word": " cash",
+              "start": 22.44,
+              "end": 22.74,
+              "probability": 0.9738174676895142
+            },
+            {
+              "word": " section",
+              "start": 22.74,
+              "end": 23.08,
+              "probability": 0.9866847395896912
+            },
+            {
+              "word": " dekhayin.",
+              "start": 23.08,
+              "end": 23.52,
+              "probability": 0.9894683659076691
+            }
+          ]
+        },
+        {
+          "start": 23.92,
+          "end": 27.28,
+          "text": " Baaki cases mein head of office ya controlling officer ko submit karein.",
+          "words": [
+            {
+              "word": " Baaki",
+              "start": 23.92,
+              "end": 24.28,
+              "probability": 0.6408046036958694
+            },
+            {
+              "word": " cases",
+              "start": 24.28,
+              "end": 24.6,
+              "probability": 0.9951400756835938
+            },
+            {
+              "word": " mein",
+              "start": 24.6,
+              "end": 24.8,
+              "probability": 0.4096754789352417
+            },
+            {
+              "word": " head",
+              "start": 24.8,
+              "end": 25.06,
+              "probability": 0.8919858932495117
+            },
+            {
+              "word": " of",
+              "start": 25.06,
+              "end": 25.2,
+              "probability": 0.7384545803070068
+            },
+            {
+              "word": " office",
+              "start": 25.2,
+              "end": 25.5,
+              "probability": 0.972990095615387
+            },
+            {
+              "word": " ya",
+              "start": 25.5,
+              "end": 25.64,
+              "probability": 0.9593440294265747
+            },
+            {
+              "word": " controlling",
+              "start": 25.64,
+              "end": 26.02,
+              "probability": 0.9878180027008057
+            },
+            {
+              "word": " officer",
+              "start": 26.02,
+              "end": 26.48,
+              "probability": 0.9784173369407654
+            },
+            {
+              "word": " ko",
+              "start": 26.48,
+              "end": 26.66,
+              "probability": 0.6779746413230896
+            },
+            {
+              "word": " submit",
+              "start": 26.66,
+              "end": 26.92,
+              "probability": 0.7950624227523804
+            },
+            {
+              "word": " karein.",
+              "start": 26.92,
+              "end": 27.28,
+              "probability": 0.9792200525601705
+            }
+          ]
+        },
+        {
+          "start": 27.28,
+          "end": 31.02,
+          "text": " Example, officer ne samay par head of office ko clean diya.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 27.28,
+              "end": 28.34,
+              "probability": 0.6836403757333755
+            },
+            {
+              "word": " officer",
+              "start": 28.62,
+              "end": 28.98,
+              "probability": 0.34197738766670227
+            },
+            {
+              "word": " ne",
+              "start": 28.98,
+              "end": 29.2,
+              "probability": 0.01716507039964199
+            },
+            {
+              "word": " samay",
+              "start": 29.2,
+              "end": 29.56,
+              "probability": 0.4948299378156662
+            },
+            {
+              "word": " par",
+              "start": 29.56,
+              "end": 29.72,
+              "probability": 0.7636911273002625
+            },
+            {
+              "word": " head",
+              "start": 29.72,
+              "end": 29.92,
+              "probability": 0.9515695571899414
+            },
+            {
+              "word": " of",
+              "start": 29.92,
+              "end": 30.04,
+              "probability": 0.7585382461547852
+            },
+            {
+              "word": " office",
+              "start": 30.04,
+              "end": 30.34,
+              "probability": 0.9450292587280273
+            },
+            {
+              "word": " ko",
+              "start": 30.34,
+              "end": 30.46,
+              "probability": 0.6020687818527222
+            },
+            {
+              "word": " clean",
+              "start": 30.46,
+              "end": 30.7,
+              "probability": 0.8265138268470764
+            },
+            {
+              "word": " diya.",
+              "start": 30.7,
+              "end": 31.02,
+              "probability": 0.5930017679929733
+            }
+          ]
+        },
+        {
+          "start": 31.52,
+          "end": 34.34,
+          "text": " Dated acknowledgement se submission ki date prove hosakti hai.",
+          "words": [
+            {
+              "word": " Dated",
+              "start": 31.52,
+              "end": 31.82,
+              "probability": 0.698972076177597
+            },
+            {
+              "word": " acknowledgement",
+              "start": 31.82,
+              "end": 32.26,
+              "probability": 0.5783073902130127
+            },
+            {
+              "word": " se",
+              "start": 32.26,
+              "end": 32.6,
+              "probability": 0.6501051187515259
+            },
+            {
+              "word": " submission",
+              "start": 32.6,
+              "end": 32.98,
+              "probability": 0.8780017495155334
+            },
+            {
+              "word": " ki",
+              "start": 32.98,
+              "end": 33.24,
+              "probability": 0.9316717982292175
+            },
+            {
+              "word": " date",
+              "start": 33.24,
+              "end": 33.44,
+              "probability": 0.9881615042686462
+            },
+            {
+              "word": " prove",
+              "start": 33.44,
+              "end": 33.74,
+              "probability": 0.46979185938835144
+            },
+            {
+              "word": " hosakti",
+              "start": 33.74,
+              "end": 34.22,
+              "probability": 0.4510442391037941
+            },
+            {
+              "word": " hai.",
+              "start": 34.22,
+              "end": 34.34,
+              "probability": 0.9005784392356873
+            }
+          ]
+        },
+        {
+          "start": 34.94,
+          "end": 38.02,
+          "text": " Eek saalsi zyada abiens ka review automatic waiver nahi hai.",
+          "words": [
+            {
+              "word": " Eek",
+              "start": 34.94,
+              "end": 35.16,
+              "probability": 0.469019278883934
+            },
+            {
+              "word": " saalsi",
+              "start": 35.16,
+              "end": 35.52,
+              "probability": 0.6884999473889669
+            },
+            {
+              "word": " zyada",
+              "start": 35.52,
+              "end": 35.84,
+              "probability": 0.9365490277608236
+            },
+            {
+              "word": " abiens",
+              "start": 35.84,
+              "end": 36.18,
+              "probability": 0.5263681560754776
+            },
+            {
+              "word": " ka",
+              "start": 36.18,
+              "end": 36.36,
+              "probability": 0.9466009140014648
+            },
+            {
+              "word": " review",
+              "start": 36.36,
+              "end": 36.6,
+              "probability": 0.9921942949295044
+            },
+            {
+              "word": " automatic",
+              "start": 36.6,
+              "end": 37.02,
+              "probability": 0.8474817872047424
+            },
+            {
+              "word": " waiver",
+              "start": 37.02,
+              "end": 37.52,
+              "probability": 0.7293949127197266
+            },
+            {
+              "word": " nahi",
+              "start": 37.52,
+              "end": 37.9,
+              "probability": 0.7343645393848419
+            },
+            {
+              "word": " hai.",
+              "start": 37.9,
+              "end": 38.02,
+              "probability": 0.9445675611495972
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "10-advance-revision.mp3",
+      "audio_sha256": "fdc75d6225b95c1b4708e346df34169ec42e59f8dc252cd6e889ce3071791ec7",
+      "duration": 37.32,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 3.22,
+          "text": " Toor advance liya hai to ek alag deadline chek karen.",
+          "words": [
+            {
+              "word": " Toor",
+              "start": 0.0,
+              "end": 0.56,
+              "probability": 0.1603611521422863
+            },
+            {
+              "word": " advance",
+              "start": 0.56,
+              "end": 0.82,
+              "probability": 0.22164355218410492
+            },
+            {
+              "word": " liya",
+              "start": 0.82,
+              "end": 1.3,
+              "probability": 0.8551529347896576
+            },
+            {
+              "word": " hai",
+              "start": 1.3,
+              "end": 1.48,
+              "probability": 0.8806495666503906
+            },
+            {
+              "word": " to",
+              "start": 1.48,
+              "end": 1.78,
+              "probability": 0.8687636256217957
+            },
+            {
+              "word": " ek",
+              "start": 1.78,
+              "end": 1.94,
+              "probability": 0.41265448927879333
+            },
+            {
+              "word": " alag",
+              "start": 1.94,
+              "end": 2.32,
+              "probability": 0.8525328040122986
+            },
+            {
+              "word": " deadline",
+              "start": 2.32,
+              "end": 2.62,
+              "probability": 0.9716708064079285
+            },
+            {
+              "word": " chek",
+              "start": 2.62,
+              "end": 3.02,
+              "probability": 0.6219547390937805
+            },
+            {
+              "word": " karen.",
+              "start": 3.02,
+              "end": 3.22,
+              "probability": 0.4517046455293894
+            }
+          ]
+        },
+        {
+          "start": 3.64,
+          "end": 7.18,
+          "text": " Compendium rule 51 mein 15 days adjustment likha hai.",
+          "words": [
+            {
+              "word": " Compendium",
+              "start": 3.64,
+              "end": 4.28,
+              "probability": 0.9415559569994608
+            },
+            {
+              "word": " rule",
+              "start": 4.28,
+              "end": 4.46,
+              "probability": 0.4302821159362793
+            },
+            {
+              "word": " 51",
+              "start": 4.46,
+              "end": 5.02,
+              "probability": 0.9615177512168884
+            },
+            {
+              "word": " mein",
+              "start": 5.02,
+              "end": 5.26,
+              "probability": 0.47262677550315857
+            },
+            {
+              "word": " 15",
+              "start": 5.26,
+              "end": 5.8,
+              "probability": 0.934848427772522
+            },
+            {
+              "word": " days",
+              "start": 5.8,
+              "end": 6.1,
+              "probability": 0.9764951467514038
+            },
+            {
+              "word": " adjustment",
+              "start": 6.1,
+              "end": 6.56,
+              "probability": 0.9643294215202332
+            },
+            {
+              "word": " likha",
+              "start": 6.56,
+              "end": 7.04,
+              "probability": 0.7460463345050812
+            },
+            {
+              "word": " hai.",
+              "start": 7.04,
+              "end": 7.18,
+              "probability": 0.9069352746009827
+            }
+          ]
+        },
+        {
+          "start": 7.64,
+          "end": 11.08,
+          "text": " Toor complete ya uske baat duty resume honeki date dekhain.",
+          "words": [
+            {
+              "word": " Toor",
+              "start": 7.64,
+              "end": 7.96,
+              "probability": 0.9595761001110077
+            },
+            {
+              "word": " complete",
+              "start": 7.96,
+              "end": 8.34,
+              "probability": 0.9758036136627197
+            },
+            {
+              "word": " ya",
+              "start": 8.34,
+              "end": 8.8,
+              "probability": 0.6895670294761658
+            },
+            {
+              "word": " uske",
+              "start": 8.8,
+              "end": 9.12,
+              "probability": 0.9742656648159027
+            },
+            {
+              "word": " baat",
+              "start": 9.12,
+              "end": 9.36,
+              "probability": 0.8203932642936707
+            },
+            {
+              "word": " duty",
+              "start": 9.36,
+              "end": 9.56,
+              "probability": 0.913946807384491
+            },
+            {
+              "word": " resume",
+              "start": 9.56,
+              "end": 10.06,
+              "probability": 0.6849464774131775
+            },
+            {
+              "word": " honeki",
+              "start": 10.06,
+              "end": 10.48,
+              "probability": 0.5293383896350861
+            },
+            {
+              "word": " date",
+              "start": 10.48,
+              "end": 10.68,
+              "probability": 0.9878908395767212
+            },
+            {
+              "word": " dekhain.",
+              "start": 10.68,
+              "end": 11.08,
+              "probability": 0.5180295159419378
+            }
+          ]
+        },
+        {
+          "start": 11.54,
+          "end": 15.44,
+          "text": " Example, advance wala officer jaldi adjustment bill submit karein.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 11.54,
+              "end": 12.16,
+              "probability": 0.9860678911209106
+            },
+            {
+              "word": " advance",
+              "start": 12.52,
+              "end": 12.86,
+              "probability": 0.8409786224365234
+            },
+            {
+              "word": " wala",
+              "start": 12.86,
+              "end": 13.14,
+              "probability": 0.8219184577465057
+            },
+            {
+              "word": " officer",
+              "start": 13.14,
+              "end": 13.54,
+              "probability": 0.7832157611846924
+            },
+            {
+              "word": " jaldi",
+              "start": 13.54,
+              "end": 14.0,
+              "probability": 0.8510790268580118
+            },
+            {
+              "word": " adjustment",
+              "start": 14.0,
+              "end": 14.4,
+              "probability": 0.968518853187561
+            },
+            {
+              "word": " bill",
+              "start": 14.4,
+              "end": 14.68,
+              "probability": 0.9453126192092896
+            },
+            {
+              "word": " submit",
+              "start": 14.68,
+              "end": 14.98,
+              "probability": 0.644252359867096
+            },
+            {
+              "word": " karein.",
+              "start": 14.98,
+              "end": 15.44,
+              "probability": 0.6296727441319186
+            }
+          ]
+        },
+        {
+          "start": 15.68,
+          "end": 18.28,
+          "text": " Late hone par recovery ya interest laksakta hai.",
+          "words": [
+            {
+              "word": " Late",
+              "start": 15.68,
+              "end": 15.96,
+              "probability": 0.3319186270236969
+            },
+            {
+              "word": " hone",
+              "start": 15.96,
+              "end": 16.14,
+              "probability": 0.8205441236495972
+            },
+            {
+              "word": " par",
+              "start": 16.14,
+              "end": 16.4,
+              "probability": 0.4206845462322235
+            },
+            {
+              "word": " recovery",
+              "start": 16.4,
+              "end": 16.78,
+              "probability": 0.9966402053833008
+            },
+            {
+              "word": " ya",
+              "start": 16.78,
+              "end": 17.18,
+              "probability": 0.9046154022216797
+            },
+            {
+              "word": " interest",
+              "start": 17.18,
+              "end": 17.56,
+              "probability": 0.962454617023468
+            },
+            {
+              "word": " laksakta",
+              "start": 17.56,
+              "end": 18.14,
+              "probability": 0.7507569640874863
+            },
+            {
+              "word": " hai.",
+              "start": 18.14,
+              "end": 18.28,
+              "probability": 0.9670135974884033
+            }
+          ]
+        },
+        {
+          "start": 18.78,
+          "end": 21.68,
+          "text": " Dearness allowance 50% hone par kuch rates bade.",
+          "words": [
+            {
+              "word": " Dearness",
+              "start": 18.78,
+              "end": 19.26,
+              "probability": 0.7784428596496582
+            },
+            {
+              "word": " allowance",
+              "start": 19.26,
+              "end": 19.6,
+              "probability": 0.9718292951583862
+            },
+            {
+              "word": " 50",
+              "start": 19.6,
+              "end": 20.04,
+              "probability": 0.9744122624397278
+            },
+            {
+              "word": "%",
+              "start": 20.04,
+              "end": 20.38,
+              "probability": 0.7291629314422607
+            },
+            {
+              "word": " hone",
+              "start": 20.38,
+              "end": 20.64,
+              "probability": 0.9704429507255554
+            },
+            {
+              "word": " par",
+              "start": 20.64,
+              "end": 20.9,
+              "probability": 0.9677636027336121
+            },
+            {
+              "word": " kuch",
+              "start": 20.9,
+              "end": 21.16,
+              "probability": 0.9461014270782471
+            },
+            {
+              "word": " rates",
+              "start": 21.16,
+              "end": 21.4,
+              "probability": 0.9848885536193848
+            },
+            {
+              "word": " bade.",
+              "start": 21.4,
+              "end": 21.68,
+              "probability": 0.6668658256530762
+            }
+          ]
+        },
+        {
+          "start": 22.1,
+          "end": 25.42,
+          "text": " Example, level 7 food 800 se 1000 hua.",
+          "words": [
+            {
+              "word": " Example,",
+              "start": 22.1,
+              "end": 22.76,
+              "probability": 0.9978602230548859
+            },
+            {
+              "word": " level",
+              "start": 23.02,
+              "end": 23.24,
+              "probability": 0.8637782335281372
+            },
+            {
+              "word": " 7",
+              "start": 23.24,
+              "end": 23.56,
+              "probability": 0.8864164352416992
+            },
+            {
+              "word": " food",
+              "start": 23.56,
+              "end": 23.88,
+              "probability": 0.9685885906219482
+            },
+            {
+              "word": " 800",
+              "start": 23.88,
+              "end": 24.42,
+              "probability": 0.5843088030815125
+            },
+            {
+              "word": " se",
+              "start": 24.42,
+              "end": 24.64,
+              "probability": 0.9160876274108887
+            },
+            {
+              "word": " 1000",
+              "start": 24.64,
+              "end": 24.94,
+              "probability": 0.5939650535583496
+            },
+            {
+              "word": " hua.",
+              "start": 24.94,
+              "end": 25.42,
+              "probability": 0.9391912519931793
+            }
+          ]
+        },
+        {
+          "start": 25.88,
+          "end": 29.54,
+          "text": " 60% DA aate hi 2sra increase automatikli nahi hota.",
+          "words": [
+            {
+              "word": " 60",
+              "start": 25.88,
+              "end": 26.28,
+              "probability": 0.9165368676185608
+            },
+            {
+              "word": "%",
+              "start": 26.28,
+              "end": 26.62,
+              "probability": 0.9099992513656616
+            },
+            {
+              "word": " DA",
+              "start": 26.62,
+              "end": 26.94,
+              "probability": 0.823620617389679
+            },
+            {
+              "word": " aate",
+              "start": 26.94,
+              "end": 27.24,
+              "probability": 0.7265569269657135
+            },
+            {
+              "word": " hi",
+              "start": 27.24,
+              "end": 27.4,
+              "probability": 0.851791501045227
+            },
+            {
+              "word": " 2sra",
+              "start": 27.4,
+              "end": 27.86,
+              "probability": 0.32688092192014057
+            },
+            {
+              "word": " increase",
+              "start": 27.86,
+              "end": 28.12,
+              "probability": 0.9936293959617615
+            },
+            {
+              "word": " automatikli",
+              "start": 28.12,
+              "end": 29.0,
+              "probability": 0.5479598840077718
+            },
+            {
+              "word": " nahi",
+              "start": 29.0,
+              "end": 29.22,
+              "probability": 0.791218101978302
+            },
+            {
+              "word": " hota.",
+              "start": 29.22,
+              "end": 29.54,
+              "probability": 0.7240667045116425
+            }
+          ]
+        },
+        {
+          "start": 29.54,
+          "end": 33.46,
+          "text": " Liter order, service rules aur open exceptions verify karein.",
+          "words": [
+            {
+              "word": " Liter",
+              "start": 29.54,
+              "end": 30.26,
+              "probability": 0.008331823162734509
+            },
+            {
+              "word": " order,",
+              "start": 30.26,
+              "end": 30.64,
+              "probability": 0.40719062089920044
+            },
+            {
+              "word": " service",
+              "start": 30.96,
+              "end": 31.26,
+              "probability": 0.681537926197052
+            },
+            {
+              "word": " rules",
+              "start": 31.26,
+              "end": 31.6,
+              "probability": 0.9943345785140991
+            },
+            {
+              "word": " aur",
+              "start": 31.6,
+              "end": 31.9,
+              "probability": 4.85899136037915e-06
+            },
+            {
+              "word": " open",
+              "start": 31.9,
+              "end": 32.2,
+              "probability": 0.9034674167633057
+            },
+            {
+              "word": " exceptions",
+              "start": 32.2,
+              "end": 32.66,
+              "probability": 0.9832872152328491
+            },
+            {
+              "word": " verify",
+              "start": 32.66,
+              "end": 33.14,
+              "probability": 0.5552478730678558
+            },
+            {
+              "word": " karein.",
+              "start": 33.14,
+              "end": 33.46,
+              "probability": 0.6723664204279581
+            }
+          ]
+        },
+        {
+          "start": 33.88,
+          "end": 36.9,
+          "text": " Detailed guide aur source ledger me saare examples milenge.",
+          "words": [
+            {
+              "word": " Detailed",
+              "start": 33.88,
+              "end": 34.34,
+              "probability": 0.9620378017425537
+            },
+            {
+              "word": " guide",
+              "start": 34.34,
+              "end": 34.62,
+              "probability": 0.831771194934845
+            },
+            {
+              "word": " aur",
+              "start": 34.62,
+              "end": 34.92,
+              "probability": 0.9682589173316956
+            },
+            {
+              "word": " source",
+              "start": 34.92,
+              "end": 35.16,
+              "probability": 0.9508850574493408
+            },
+            {
+              "word": " ledger",
+              "start": 35.16,
+              "end": 35.6,
+              "probability": 0.9843951463699341
+            },
+            {
+              "word": " me",
+              "start": 35.6,
+              "end": 35.7,
+              "probability": 0.7753015756607056
+            },
+            {
+              "word": " saare",
+              "start": 35.7,
+              "end": 36.02,
+              "probability": 0.37779706716537476
+            },
+            {
+              "word": " examples",
+              "start": 36.02,
+              "end": 36.36,
+              "probability": 0.9821256399154663
+            },
+            {
+              "word": " milenge.",
+              "start": 36.36,
+              "end": 36.9,
+              "probability": 0.40633246302604675
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

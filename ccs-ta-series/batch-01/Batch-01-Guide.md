@@ -1,5 +1,7 @@
 # CCS Travelling Allowance • Batch 01
 
+**Batch 3 correction to earlier video:** The original lecture and guide omitted the DoE order of 30 August 2023 permitting Vande Bharat (Shatabdi entitlement) and Humsafar (Rajdhani entitlement) for tour, training, transfer and retirement. The earlier video has not been re-rendered and does not contain this update. See the [official-hosted order](https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf) and the [Batch 3 explanation](../batch-03/Batch-03-Guide.html). This is separate from LTC.
+
 ## Official tour, Daily Allowance and claims
 
 **Prepared 27 October 2026 · Central Government civilian context · City-Hinglish lecture and teaching notes**

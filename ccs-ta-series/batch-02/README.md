@@ -1,5 +1,7 @@
 # Batch 02 — International Air, Foreign DA, Sea and Road TA
 
+**Batch 3 correction to earlier video:** The original lecture and guide omitted the DoE order of 30 August 2023 permitting Vande Bharat (Shatabdi entitlement) and Humsafar (Rajdhani entitlement) for tour, training, transfer and retirement. The earlier video has not been re-rendered and does not contain this update. See the [official-hosted order](https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf) and the [Batch 3 explanation](../batch-03/Batch-03-Guide.html). This is separate from LTC.
+
 An educational companion to the supplied Travelling Allowance guide for Central Government civilian official travel and training. Examples are hypothetical; the [detailed guide and coverage ledger](Batch-02-Guide.html) identify the applicable-source checks and remaining gaps. Read alongside [Batch 01](../batch-01/Batch-01-Guide.html).
 
 ## Start here

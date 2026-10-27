@@ -1,0 +1,855 @@
+{
+  "title": "CCS Travelling Allowance — Batch 03",
+  "research_cutoff": "2026-10-27",
+  "speaker": "voice-00 (user selected)",
+  "sections": [
+    {
+      "audio": "01-scope-trains.mp3",
+      "title": "Scope and an important train correction",
+      "source": "DoE TA OM 2017; DoE OM 30 Aug 2023 / S1, S2",
+      "icon": "road",
+      "beats": [
+        {
+          "heading": "01A  |  Batch 3: build a correct claim",
+          "cards": [
+            [
+              "SCOPE",
+              "Central civilian TA"
+            ],
+            [
+              "TOPICS",
+              "DA, records, claims"
+            ],
+            [
+              "SOURCE",
+              "Check journey date"
+            ],
+            [
+              "EXAMPLES",
+              "Hypothetical only"
+            ]
+          ],
+          "rule": "Domestic Daily Allowance, supporting records and separate claim clocks are the focus.",
+          "example": "A Level 7 officer checks the train fare, hotel, food and city travel separately.",
+          "trap": "This is educational, not an approval; special-service rules and later orders can differ.",
+          "key": "Identify service, pay level, journey date, purpose and approval first.",
+          "lines": [
+            "Hey everyone! Batch Three में Daily Allowance और claims सीखेंगे।",
+            "Focus है Central Government civilian official travel।",
+            "Example: Level seven officer train, hotel और food अलग check करे।",
+            "हर example hypothetical है; latest order और sanction verify करें।"
+          ],
+          "english_lines": [
+            "In Batch 3 we study Daily Allowance and claims.",
+            "The focus is Central Government civilian official travel.",
+            "For example, a Level 7 officer checks train, hotel and food separately.",
+            "Examples are hypothetical; verify the latest order and sanction."
+          ]
+        },
+        {
+          "heading": "01B  |  Correction to earlier batches",
+          "cards": [
+            [
+              "2023 OM",
+              "DoE · 30 August"
+            ],
+            [
+              "VANDE BHARAT",
+              "Shatabdi equivalent"
+            ],
+            [
+              "HUMSAFAR",
+              "Rajdhani equivalent"
+            ],
+            [
+              "JOURNEYS",
+              "Tour / training / transfer / retirement"
+            ]
+          ],
+          "rule": "DoE permits Vande Bharat and Humsafar with Shatabdi and Rajdhani entitlements respectively.",
+          "example": "For Level 7, check the eligible Shatabdi-equivalent chair-car class on Vande Bharat.",
+          "trap": "The earlier batches omitted this 2023 order; a seat and sanction must still be checked.",
+          "key": "Official TA and LTC are separate; do not transfer this correction to LTC.",
+          "lines": [
+            "एक important correction: पहले batches में ये train order miss हुआ था।",
+            "Thirty August twenty twenty three का DoE order check करें।",
+            "Vande Bharat की entitlement Shatabdi जैसी है।",
+            "Humsafar की entitlement Rajdhani जैसी है।",
+            "ये tour, training, transfer और retirement journeys पर apply होता है।",
+            "Example: Level seven के लिए eligible chair car check करें।"
+          ],
+          "english_lines": [
+            "Important correction: the earlier batches missed this train order.",
+            "Check the DoE order of 30 August 2023.",
+            "Vande Bharat has the corresponding Shatabdi entitlement.",
+            "Humsafar has the corresponding Rajdhani entitlement.",
+            "It applies to tour, training, transfer and retirement journeys.",
+            "For example, Level 7 checks its eligible chair-car class."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-food-clock.mp3",
+      "title": "Food lump sum and the midnight clock",
+      "source": "DoE TA 2017 para 2(E)(iv)–(v); Posts 2024 / S1, S4",
+      "icon": "hotel",
+      "beats": [
+        {
+          "heading": "02A  |  Food is not a hotel reimbursement",
+          "cards": [
+            [
+              "FOOD",
+              "Lump sum"
+            ],
+            [
+              "UNDER 6 H",
+              "30%"
+            ],
+            [
+              "6–12 H",
+              "70%"
+            ],
+            [
+              "OVER 12 H",
+              "100%"
+            ]
+          ],
+          "rule": "Food is a no-voucher lump sum, adjusted by each calendar day’s absence from HQ.",
+          "example": "Level 7: illustrative full-day amount ₹1,000 after the first 25% rise; 7 hours gives ₹700.",
+          "trap": "Hotel and local transport are separate heads. Conditions and exceptions still matter.",
+          "key": "Use hours away from HQ, not the price of a meal.",
+          "lines": [
+            "Food component के लिए bills submit नहीं करने होते।",
+            "हर calendar day की absence से percentage तय होता है।",
+            "Six hours से कम पर thirty percent, six से twelve पर seventy।",
+            "Twelve hours से ऊपर one hundred percent है।",
+            "Example: Level seven पर seven hours का food सात सौ रुपये है।"
+          ],
+          "english_lines": [
+            "Food-component bills do not have to be submitted.",
+            "The percentage depends on absence during each calendar day.",
+            "Under six hours is 30%; six to twelve hours is 70%.",
+            "Above twelve hours is 100%.",
+            "For example, seven hours at Level 7 gives ₹700 for food."
+          ]
+        },
+        {
+          "heading": "02B  |  An overnight journey is two calendar days",
+          "cards": [
+            [
+              "LEVEL 7",
+              "₹1,000 full day"
+            ],
+            [
+              "DAY 1",
+              "20:00–24:00 · 4 h"
+            ],
+            [
+              "DAY 2",
+              "00:00–05:00 · 5 h"
+            ],
+            [
+              "FOOD",
+              "₹300 + ₹300"
+            ]
+          ],
+          "rule": "Reckon absence midnight-to-midnight, not as one rolling 24-hour block.",
+          "example": "20:00–05:00: 4 h and 5 h; 30% of ₹1,000 twice = ₹600.",
+          "trap": "Assumes qualifying domestic tour and no special restriction or free-facility complication.",
+          "key": "A nine-hour trip is not necessarily a single seven-hundred-rupee calculation.",
+          "lines": [
+            "Absence midnight से midnight, हर दिन अलग count होती है।",
+            "Example: Level seven tour रात eight से सुबह five तक है।",
+            "पहले दिन four hours, अगले दिन five hours हैं।",
+            "दोनों पर thirty percent यानी three hundred plus three hundred।",
+            "Total food component six hundred रुपये होगा, बाकी conditions check करें।"
+          ],
+          "english_lines": [
+            "Count absence separately for each midnight-to-midnight day.",
+            "Example: a Level 7 tour runs from 8 p.m. to 5 a.m.",
+            "The first day has four hours and the next day five hours.",
+            "Both attract 30%: ₹300 plus ₹300.",
+            "The total food component is ₹600, subject to the conditions."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-free-facilities.mp3",
+      "title": "Free facilities and partial-meal cautions",
+      "source": "DoE OM 1 Feb 2018; 2017 para 2(E) / S1, S5",
+      "icon": "hotel",
+      "beats": [
+        {
+          "heading": "03A  |  Both boarding and lodging are free",
+          "cards": [
+            [
+              "BOTH FREE",
+              "Special clarification"
+            ],
+            [
+              "OLD 25%",
+              "Discontinued"
+            ],
+            [
+              "CITY TRAVEL",
+              "Eligible actual expense"
+            ],
+            [
+              "CHECK",
+              "Mode, ceiling & proof"
+            ]
+          ],
+          "rule": "The 2018 clarification discontinues the old 25% DA when both boarding and lodging are free.",
+          "example": "If eligible local travel cost ₹200, claim that actual expense within the applicable rules.",
+          "trap": "This clarification addresses both facilities free; it does not sanction a flat food payment.",
+          "key": "Free boarding + free lodging is not the same case as a free breakfast alone.",
+          "lines": [
+            "अगर boarding और lodging दोनों free हों, special rule देखें।",
+            "पुराना twenty five percent Daily Allowance बंद है।",
+            "Eligible local travel पर खर्च हो तो rules के according claim हो सकता है।",
+            "Example: official city ride में दो सौ रुपये खर्च हुए।",
+            "Entitlement और proof check करके वही actual expense claim करें।"
+          ],
+          "english_lines": [
+            "If both boarding and lodging are free, consult the special rule.",
+            "The old 25% Daily Allowance is discontinued.",
+            "Eligible local travel expenditure may be claimed under the rules.",
+            "For example, an official city ride cost ₹200.",
+            "Check entitlement and proof before claiming that actual expense."
+          ]
+        },
+        {
+          "heading": "03B  |  A free breakfast is a different question",
+          "cards": [
+            [
+              "FREE MEAL",
+              "Not automatically both"
+            ],
+            [
+              "PARTIAL",
+              "Specific order needed"
+            ],
+            [
+              "NO ASSUMPTION",
+              "No invented deduction"
+            ],
+            [
+              "ACTION",
+              "Ask accounts"
+            ]
+          ],
+          "rule": "The both-free order does not by itself resolve every case involving a single free meal.",
+          "example": "If a hotel includes breakfast but dinner is paid, ask accounts which specific instruction applies.",
+          "trap": "Do not import percentages from State rules, LTC or a foreign-tour schedule.",
+          "key": "Partial provision needs a source specific to that situation.",
+          "lines": [
+            "लेकिन सिर्फ free breakfast को दोनों free मानना सही नहीं है।",
+            "Partial meals के लिए इस order से fixed percentage assume न करें।",
+            "Example: hotel breakfast free है, dinner खुद pay किया।",
+            "Specific applicable instruction accounts office से confirm करें।"
+          ],
+          "english_lines": [
+            "A free breakfast alone is not the same as both facilities being free.",
+            "Do not assume a fixed percentage for partial meals from this order.",
+            "For example, breakfast is free but dinner is paid by the officer.",
+            "Confirm the specific applicable instruction with the accounts office."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-hotel-tax.mp3",
+      "title": "Hotel entitlement, vouchers and GST",
+      "source": "DoE TA 2017 para 2(E)(ii); GST OM 29 Jun 2018 / S1, S6",
+      "icon": "hotel",
+      "beats": [
+        {
+          "heading": "04A  |  Hotel ceiling is not a flat payment",
+          "cards": [
+            [
+              "LEVEL 7",
+              "₹937.50 ceiling"
+            ],
+            [
+              "X CITY",
+              "₹1,250 with voucher"
+            ],
+            [
+              "SELF-CERT",
+              "Through Level 8"
+            ],
+            [
+              "HOTEL",
+              "Actual eligible cost"
+            ]
+          ],
+          "rule": "Hotel is reimbursed within the applicable ceiling; through Level 8 self-certification is generally permitted.",
+          "example": "A Level 7 hotel costing ₹800 is an ₹800 eligible-room example, not an automatic ₹937.50.",
+          "trap": "The Class X higher ceiling for Levels 8 and below requires relevant vouchers.",
+          "key": "The special X-city ceiling is ₹1,250 after the first escalation, subject to applicability.",
+          "lines": [
+            "Hotel ceiling एक maximum है, automatic payment नहीं।",
+            "Level eight तक general rule में self certification available है।",
+            "Example: Level seven का eligible room cost आठ सौ रुपये है।",
+            "तब room claim आठ सौ है, पूरा ceiling नहीं।",
+            "Class X city की higher limit के लिए vouchers चाहिए।"
+          ],
+          "english_lines": [
+            "The hotel ceiling is a maximum, not an automatic payment.",
+            "The general rule allows self-certification through Level 8.",
+            "For example, a Level 7 officer has an eligible room cost of ₹800.",
+            "The room claim is ₹800, not the full ceiling.",
+            "The higher Class X city limit requires vouchers."
+          ]
+        },
+        {
+          "heading": "04B  |  Hotel taxes are a separate calculation",
+          "cards": [
+            [
+              "BASE",
+              "Within entitlement"
+            ],
+            [
+              "TAX / GST",
+              "Above the ceiling"
+            ],
+            [
+              "BASIS",
+              "Actual eligible charges"
+            ],
+            [
+              "RATE",
+              "Illustrative only"
+            ]
+          ],
+          "rule": "Taxes/GST are outside the hotel entitlement; GST is calculated on actual charges within it.",
+          "example": "Illustration: ₹800 room + ₹96 tax at a hypothetical 12% = ₹896, if otherwise eligible.",
+          "trap": "The 12% in this example is not a statement of the actual GST rate.",
+          "key": "Do not calculate GST on the ceiling when the eligible actual room charge is lower.",
+          "lines": [
+            "Hotel taxes entitlement के ऊपर reimburse हो सकते हैं।",
+            "GST actual charge के eligible हिस्से पर calculate होता है।",
+            "Example: आठ सौ room और hypothetical बारह percent tax।",
+            "Tax छियानवे, total आठ सौ छियानवे; conditions लागू।",
+            "Actual GST rate और invoice accounts से check करें।"
+          ],
+          "english_lines": [
+            "Hotel taxes may be reimbursed above the entitlement.",
+            "GST is calculated on the eligible actual charge.",
+            "For example, ₹800 room cost and a hypothetical 12% tax.",
+            "Tax is ₹96 and total ₹896, subject to the other conditions.",
+            "Check the actual GST rate and invoice with accounts."
+          ]
+        }
+      ],
+      "synthesis_input": "Hotel ceiling एक maximum है, automatic payment नहीं। Level eight तक general rule में self certification available है। Example: Level seven का eligible room cost आठ सौ रुपये है। तब room claim आठ सौ है, पूरा ceiling नहीं। Class X city की higher limit के लिए vouchers चाहिए। Hotel taxes entitlement के ऊपर reimburse हो सकते हैं। GST actual charge के eligible हिस्से पर calculate होता है। Example: आठ सौ room और hypothetical बारह percent tax। Tax ninety six, total eight hundred ninety six; conditions लागू। Actual GST rate और invoice accounts से check करें।",
+      "caption_note": "Automatic recognition of the original synthesized English number words suggested Hindi number wording. The caption wording is a best-effort hypothesis, not a human-verified transcript."
+    },
+    {
+      "audio": "05-city-travel.mp3",
+      "title": "City travel and station transfers",
+      "source": "DoE city travel OMs 2017, 22 Dec 2020; older clarification / S1, S7, S8",
+      "icon": "road",
+      "beats": [
+        {
+          "heading": "05A  |  Levels 9–11: self-certification",
+          "cards": [
+            [
+              "LEVEL 9–11",
+              "Receipts waived"
+            ],
+            [
+              "RECORD",
+              "Period + vehicle number"
+            ],
+            [
+              "LEVEL 10",
+              "Non-AC ceiling"
+            ],
+            [
+              "NO FLAT RATE",
+              "Actual eligible spend"
+            ]
+          ],
+          "rule": "The 2020 OM waives city-travel voucher production for Levels 9–11 with specified self-certification.",
+          "example": "A Level 10 officer spends ₹350 on eligible non-AC travel and records the period and vehicle number.",
+          "trap": "Self-certification does not turn the ceiling into a flat allowance or erase other claim rules.",
+          "key": "Illustrative first-escalation Level 9–11 ceiling is ₹422.50/day; verify rounding.",
+          "lines": [
+            "Level nine से eleven के city travel में voucher waiver है।",
+            "Self certification में travel period और vehicle number लिखें।",
+            "Example: Level ten officer की eligible non AC ride तीन सौ पचास है।",
+            "Claim actual खर्च के लिए है, ceiling की fixed payment नहीं।"
+          ],
+          "english_lines": [
+            "City travel at Levels 9 to 11 has a voucher waiver.",
+            "The self-certification records the travel period and vehicle number.",
+            "For example, a Level 10 eligible non-AC ride costs ₹350.",
+            "Claim the actual expense, not a fixed ceiling payment."
+          ]
+        },
+        {
+          "heading": "05B  |  Station and airport journeys",
+          "cards": [
+            [
+              "OLDER OM",
+              "Separate treatment"
+            ],
+            [
+              "TRANSFERS",
+              "Residence / station"
+            ],
+            [
+              "CITY RIDES",
+              "Different journey"
+            ],
+            [
+              "VERIFY",
+              "Current applicability"
+            ]
+          ],
+          "rule": "An older 6th-CPC clarification distinguishes station/airport transfers from within-city travel.",
+          "example": "List an airport-to-hotel trip separately from a hotel-to-meeting trip, then ask accounts to apply current rules.",
+          "trap": "Its continuing 7th-CPC application and transfer/retirement situations require confirmation.",
+          "key": "Never duplicate the same ride in two claim heads.",
+          "lines": [
+            "एक पुराने clarification में airport transfers अलग discuss हैं।",
+            "लेकिन उसका आज का application accounts office से verify करें।",
+            "Example: airport से hotel और hotel से meeting अलग rides हैं।",
+            "एक ही ride को दो बार claim मत करें।"
+          ],
+          "english_lines": [
+            "An older clarification discusses airport transfers separately.",
+            "Verify its current application with the accounts office.",
+            "For example, airport-to-hotel and hotel-to-meeting are distinct rides.",
+            "Do not claim the same ride twice."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-local-journeys.mp3",
+      "title": "Local journey: distance and provisional food",
+      "source": "SR 71 training material 2025; 2018 letter copy not authenticated / S9, S10",
+      "icon": "road",
+      "beats": [
+        {
+          "heading": "06A  |  Check the duty point, not just home",
+          "cards": [
+            [
+              "DISTANCE",
+              "Outside 8 km radius"
+            ],
+            [
+              "MEASURE",
+              "Normal duty point"
+            ],
+            [
+              "PURPOSE",
+              "Temporary duty"
+            ],
+            [
+              "SOURCE",
+              "Training guidance"
+            ]
+          ],
+          "rule": "Government training explains SR 71’s eight-kilometre test relative to the duty point.",
+          "example": "A temporary duty point beyond eight kilometres from the normal office needs the local-journey rules checked.",
+          "trap": "An eight-kilometre travel distance from home is not necessarily the legal radius test.",
+          "key": "Confirm the applicable SR/Government decision and authorised distance with accounts.",
+          "lines": [
+            "Local journey में normal duty point से distance check करें।",
+            "Government training material eight kilometer radius का test बताता है।",
+            "Example: temporary office normal office से आठ किलोमीटर के बाहर है।",
+            "घर से distance देखकर ही final decision मत लें।"
+          ],
+          "english_lines": [
+            "For a local journey, check distance from the normal duty point.",
+            "Government training material describes an eight-kilometre radius test.",
+            "For example, a temporary office lies outside eight kilometres from the normal office.",
+            "Do not decide solely from the distance from home."
+          ]
+        },
+        {
+          "heading": "06B  |  Local food: provisional interpretation",
+          "cards": [
+            [
+              "TRAINING",
+              "50% of tour food"
+            ],
+            [
+              "SLABS",
+              "15 / 35 / 50%"
+            ],
+            [
+              "EXAMPLE",
+              "7 h × Level 7"
+            ],
+            [
+              "SOURCE GAP",
+              "Original not retrieved"
+            ]
+          ],
+          "rule": "Government training shows local food at 15%, 35% or 50% of the full tour food amount.",
+          "example": "Illustrative Level 7, seven hours: 35% × ₹1,000 = ₹350, if the rule applies.",
+          "trap": "The cited 2018 DoE letter was located only in unofficial transcription, not as an authenticated original.",
+          "key": "Treat this as provisional; obtain the applicable primary text and accounts confirmation.",
+          "lines": [
+            "Example: Level seven और seven hours पर amount तीन सौ पचास।",
+            "लेकिन original twenty eighteen letter की verified copy नहीं मिली।",
+            "इसलिए actual claim से पहले accounts से confirm करें।"
+          ],
+          "english_lines": [
+            "For example, Level 7 and seven hours gives ₹350.",
+            "But an authenticated original of the 2018 letter was not located.",
+            "Therefore confirm with accounts before making an actual claim."
+          ]
+        }
+      ],
+      "synthesis_input": "Local journey में normal duty point से distance check करें। Government training material eight kilometer radius का test बताता है। Example: temporary office normal office से आठ किलोमीटर के बाहर है। घर से distance देखकर ही final decision मत लें। Training slides local food पर fifteen, thirty five, fifty percent बताती हैं। Example: Level seven और seven hours पर amount तीन सौ पचास। लेकिन original twenty eighteen letter की verified copy नहीं मिली। इसलिए actual claim से पहले accounts से confirm करें।",
+      "caption_note": "The spoken percentage-list sentence was removed after recognition flagged a possible number error. The full provisional 15/35/50 list remains on screen and in the guide. Human review is still needed."
+    },
+    {
+      "audio": "07-field-foot.mp3",
+      "title": "Scientific fieldwork and journeys on foot",
+      "source": "DoE TA 2017 para 2(E)(iii), (vi); 2024 escalation / S1, S4",
+      "icon": "ship",
+      "beats": [
+        {
+          "heading": "07A  |  The special fieldwork clause is conditional",
+          "cards": [
+            [
+              "COVERED CASE",
+              "Ships / remote fieldwork"
+            ],
+            [
+              "PURPOSE",
+              "Scientific / data collection"
+            ],
+            [
+              "RATE",
+              "Food-equivalent"
+            ],
+            [
+              "APPROVAL",
+              "HoD / controlling officer"
+            ]
+          ],
+          "rule": "For the specified Government-ship or remote scientific/data-collection cases, the food-equivalent amount needs approval.",
+          "example": "A qualifying survey team on a remote foot/mule journey seeks HoD or controlling-officer approval.",
+          "trap": "It is not a blanket extra payment for every ship trip; the cited wording and facts matter.",
+          "key": "The specified amount may be sanctioned irrespective of actual food expenditure.",
+          "lines": [
+            "Specific scientific और data collection fieldwork के लिए clause है।",
+            "Rate food component के equivalent हो सकता है।",
+            "Head of Department या controlling officer का approval जरूरी है।",
+            "Example: remote survey में team foot या mule से जा रही है।",
+            "हर ship journey को automatic extra payment मत समझें।"
+          ],
+          "english_lines": [
+            "There is a clause for specified scientific and data-collection fieldwork.",
+            "The rate may be equivalent to the food component.",
+            "Approval from the Head of Department or controlling officer is required.",
+            "For example, a remote survey team travels on foot or by mule.",
+            "Do not treat every ship journey as an automatic extra payment."
+          ]
+        },
+        {
+          "heading": "07B  |  Actual distance travelled on foot",
+          "cards": [
+            [
+              "2017 RATE",
+              "₹12 per km"
+            ],
+            [
+              "FIRST RISE",
+              "₹15 per km"
+            ],
+            [
+              "DISTANCE",
+              "Actual foot kilometres"
+            ],
+            [
+              "CHECK",
+              "Eligibility / overlap"
+            ]
+          ],
+          "rule": "The 2017 foot allowance is ₹12/km, increasing 25% at the specified DA trigger.",
+          "example": "Four eligible kilometres actually walked at ₹15/km calculate to ₹60.",
+          "trap": "Do not apply the foot rate to scooter kilometres or claim the same expenditure twice.",
+          "key": "Check eligibility, route records and current orders before paying.",
+          "lines": [
+            "Foot journey के लिए base rate बारह रुपये per kilometer था।",
+            "पहले twenty five percent increase के बाद पंद्रह रुपये होता है।",
+            "Example: eligible journey में चार kilometer सच में पैदल चले।",
+            "Four into fifteen यानी साठ रुपये; conditions check करें।"
+          ],
+          "english_lines": [
+            "The base rate for a foot journey was ₹12 per kilometre.",
+            "After the first 25% increase it is ₹15.",
+            "For example, four eligible kilometres were actually walked.",
+            "Four times fifteen is ₹60; check the conditions."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "08-documents.mp3",
+      "title": "Documents, self-certification and boarding pass",
+      "source": "DoE TA 2017; city OM 2020; boarding-pass OM 2020 / S1, S7, S11",
+      "icon": "air",
+      "beats": [
+        {
+          "heading": "08A  |  Build a complete evidence pack",
+          "cards": [
+            [
+              "START",
+              "Tour approval"
+            ],
+            [
+              "JOURNEY",
+              "Tickets + dates / times"
+            ],
+            [
+              "STAY",
+              "Receipt or permitted self-cert"
+            ],
+            [
+              "FOOD",
+              "No food vouchers"
+            ]
+          ],
+          "rule": "Keep sanction, journey details, pay level, required travel and stay evidence, and prescribed certifications.",
+          "example": "A Level 10 officer keeps the hotel receipt and uses the permitted city-travel self-certification.",
+          "trap": "A voucher waiver for one head does not eliminate proof or sanction for every other head.",
+          "key": "Retain submission acknowledgement and avoid duplicate claims.",
+          "lines": [
+            "Claim pack में sanction, level, journey dates और tickets रखें।",
+            "Hotel और city travel के rules अलग हैं।",
+            "Example: Level ten hotel receipt रखे, city ride self certify करे।",
+            "Food component के लिए अलग food vouchers नहीं चाहिए।",
+            "Submit करने का acknowledgement भी संभाल कर रखें।"
+          ],
+          "english_lines": [
+            "Keep sanction, level, journey dates and tickets in the claim pack.",
+            "Hotel and city-travel documentation rules are different.",
+            "For example, Level 10 keeps the hotel receipt and self-certifies the city ride.",
+            "Separate food vouchers are not required for the food component.",
+            "Also retain acknowledgement of submission."
+          ]
+        },
+        {
+          "heading": "08B  |  Missing boarding pass: prescribed form",
+          "cards": [
+            [
+              "TOUR",
+              "2020 DoE OM"
+            ],
+            [
+              "NO PASS",
+              "Prescribed declaration"
+            ],
+            [
+              "LEVEL ≤10",
+              "Controlling officer countersigns"
+            ],
+            [
+              "HONESTY",
+              "No duplicate claim"
+            ]
+          ],
+          "rule": "For Central Government tour, the 2020 OM permits its prescribed declaration in lieu of a missing boarding pass.",
+          "example": "A Level 10 tour officer uses the annexed form and obtains controlling-officer countersignature.",
+          "trap": "The declaration includes actual travel and no double claim; do not extend it blindly to other journey types.",
+          "key": "A lost boarding pass does not mean inventing a replacement ticket.",
+          "lines": [
+            "Tour का boarding pass missing हो तो prescribed declaration देखें।",
+            "Level ten और नीचे controlling officer countersign करते हैं।",
+            "Example: Level ten officer form भरकर countersign करवाए।",
+            "Actual journey और no duplicate claim honestly declare करें।"
+          ],
+          "english_lines": [
+            "If a tour boarding pass is missing, consult the prescribed declaration.",
+            "At Level 10 and below the controlling officer countersigns.",
+            "For example, a Level 10 officer fills the form and gets it countersigned.",
+            "Honestly declare the actual journey and absence of a duplicate claim."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-claim-deadline.mp3",
+      "title": "Claim deadlines and submission proof",
+      "source": "DoE OMs 13 Mar 2018, 15 Jun 2021; CAG 2021 / S12, S13, S15",
+      "icon": "globe",
+      "beats": [
+        {
+          "heading": "09A  |  60 days and 180 days are not the same",
+          "cards": [
+            [
+              "TOUR",
+              "60 days"
+            ],
+            [
+              "TRANSFER",
+              "60 days"
+            ],
+            [
+              "TRAINING",
+              "60 days"
+            ],
+            [
+              "RETIREMENT",
+              "180 days"
+            ]
+          ],
+          "rule": "Ordinary tour, transfer and training claims retain 60 days; retirement was modified to 180 days.",
+          "example": "A 1 March tour makes the claim due for payment on 2 March; that is not the filing deadline.",
+          "trap": "Late initial filing may forfeit a claim; count under the order and submit early.",
+          "key": "The 2021 retirement modification took effect on issue and includes a reconsideration provision.",
+          "lines": [
+            "Tour, transfer और training claim की limit sixty days है।",
+            "Retirement claim के लिए order ने one hundred eighty days किए।",
+            "Journey के बाद अगले दिन से clock शुरू होने का rule देखें।",
+            "Example: one March tour end हो, claim two March due होता है।",
+            "Last day का wait न करें; late claim पर forfeiture हो सकता है।"
+          ],
+          "english_lines": [
+            "The claim limit for tour, transfer and training is 60 days.",
+            "The order changed retirement claims to 180 days.",
+            "Check the rule starting from the day after the journey.",
+            "A 1 March tour makes the claim due for payment on 2 March, not the filing deadline.",
+            "Do not wait until the last day; a late claim may be forfeited."
+          ]
+        },
+        {
+          "heading": "09B  |  Where submission counts",
+          "cards": [
+            [
+              "OWN CO",
+              "Treasury / cash section"
+            ],
+            [
+              "OTHER",
+              "Head / controlling officer"
+            ],
+            [
+              "ACKNOWLEDGE",
+              "Keep dated proof"
+            ],
+            [
+              "OVER 1 YEAR",
+              "Investigate abeyance"
+            ]
+          ],
+          "rule": "The submission point depends on whether the officer is their own controlling officer.",
+          "example": "An officer who is not their own CO keeps proof of timely submission to the Head of Office/CO.",
+          "trap": "Investigation of a claim kept in abeyance over one year is not an automatic waiver of initial lateness.",
+          "key": "The 2018 order also separately addresses family journeys and effects delivery.",
+          "lines": [
+            "अपना controlling officer होने पर treasury या cash section देखें।",
+            "बाकी cases में Head of Office या controlling officer को submit करें।",
+            "Example: officer ने समय पर Head of Office को claim दिया।",
+            "Dated acknowledgement से submission की date prove हो सकती है।",
+            "एक साल से ज्यादा abeyance का review automatic waiver नहीं है।"
+          ],
+          "english_lines": [
+            "If you are your own controlling officer, check Treasury or Cash Section.",
+            "In other cases submit to the Head of Office or controlling officer.",
+            "For example, an officer submits on time to the Head of Office.",
+            "A dated acknowledgement can establish the submission date.",
+            "Review of abeyance over one year is not an automatic waiver."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "10-advance-revision.mp3",
+      "title": "Advance adjustment and rate revisions",
+      "source": "Advances Compendium Rules 2, 50–51; DoE DA 2026 / S14–S17",
+      "icon": "globe",
+      "beats": [
+        {
+          "heading": "10A  |  Tour advance has its own clock",
+          "cards": [
+            [
+              "TOUR ADVANCE",
+              "Rule 51"
+            ],
+            [
+              "ADJUSTMENT",
+              "15 days"
+            ],
+            [
+              "LATE",
+              "Recovery / interest may apply"
+            ],
+            [
+              "SEPARATE",
+              "60-day claim rule"
+            ]
+          ],
+          "rule": "The advances compendium states adjustment within 15 days of tour completion or resumption of duty after it.",
+          "example": "If a tour advance was drawn, prepare the adjustment promptly instead of relying on the 60-day claim clock.",
+          "trap": "Recovery/interest and genuine-difficulty waivers need the applicable rule and competent authority.",
+          "key": "The old compendium and a CAG office circular were located; verify later changes and local adoption.",
+          "lines": [
+            "Tour advance लिया है तो एक अलग deadline check करें।",
+            "Compendium Rule fifty one में fifteen days adjustment लिखा है।",
+            "Tour complete या उसके बाद duty resume होने की date देखें।",
+            "Example: advance वाला officer जल्दी adjustment bill submit करे।",
+            "Late होने पर recovery या interest लग सकता है।"
+          ],
+          "english_lines": [
+            "If a tour advance was taken, check a separate deadline.",
+            "Compendium Rule 51 specifies adjustment within 15 days.",
+            "Check the date of tour completion or resumption of duty after it.",
+            "For example, an officer with an advance submits an adjustment bill promptly.",
+            "Recovery or interest may apply if it is late."
+          ]
+        },
+        {
+          "heading": "10B  |  Check the effective date, not a rumour",
+          "cards": [
+            [
+              "DA 50%",
+              "From 1 Jan 2024"
+            ],
+            [
+              "FIRST RISE",
+              "25% where specified"
+            ],
+            [
+              "DA 60%",
+              "From 1 Jan 2026"
+            ],
+            [
+              "NEXT",
+              "Verify later orders"
+            ]
+          ],
+          "rule": "The first 25% increase applies to specified amounts when Dearness Allowance reached 50%.",
+          "example": "The Level 7 full-day food amount ₹800 × 1.25 = ₹1,000, subject to applicability.",
+          "trap": "60% DA does not itself mean a second 50-point increase; later orders and service rules still need checking.",
+          "key": "Long halts, partial meals and the unauthenticated local-journey letter remain open checks.",
+          "lines": [
+            "Dearness Allowance fifty percent होने पर कुछ rates बढ़े।",
+            "Example: Level seven food आठ सौ से एक हजार हुआ।",
+            "Sixty percent DA आते ही दूसरा increase automatically नहीं होता।",
+            "Later order, service rules और open exceptions verify करें।",
+            "Detailed guide और source ledger में सारे examples मिलेंगे।"
+          ],
+          "english_lines": [
+            "Some rates rose when Dearness Allowance reached 50%.",
+            "For example, Level 7 food increased from ₹800 to ₹1,000.",
+            "A DA of 60% does not by itself trigger a second increase.",
+            "Verify later orders, service rules and open exceptions.",
+            "The detailed guide and source ledger contain the examples."
+          ]
+        }
+      ]
+    }
+  ]
+}

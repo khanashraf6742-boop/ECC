@@ -1,0 +1,62 @@
+BATCH 03 — CITY HINGLISH NARRATION SCRIPT
+The text below is the alignment basis; it is a best-effort representation, not a certified transcript.
+The audio was checked with automatic speech recognition, not human-reviewed for verbatim accuracy.
+Section 04 number words reflect ASR-suggested speech; its original synthesis input is included below.
+Section 06 removes a potentially misstated spoken percentage-list sentence; the complete list is visible and in the guide.
+All examples are hypothetical. Consult Batch-03-Guide.md and cited orders for details.
+
+01. Scope and an important train correction
+Sources: DoE TA OM 2017; DoE OM 30 Aug 2023 / S1, S2
+CAPTION ALIGNMENT BASIS:
+Hey everyone! Batch Three में Daily Allowance और claims सीखेंगे। Focus है Central Government civilian official travel। Example: Level seven officer train, hotel और food अलग check करे। हर example hypothetical है; latest order और sanction verify करें। एक important correction: पहले batches में ये train order miss हुआ था। Thirty August twenty twenty three का DoE order check करें। Vande Bharat की entitlement Shatabdi जैसी है। Humsafar की entitlement Rajdhani जैसी है। ये tour, training, transfer और retirement journeys पर apply होता है। Example: Level seven के लिए eligible chair car check करें।
+
+02. Food lump sum and the midnight clock
+Sources: DoE TA 2017 para 2(E)(iv)–(v); Posts 2024 / S1, S4
+CAPTION ALIGNMENT BASIS:
+Food component के लिए bills submit नहीं करने होते। हर calendar day की absence से percentage तय होता है। Six hours से कम पर thirty percent, six से twelve पर seventy। Twelve hours से ऊपर one hundred percent है। Example: Level seven पर seven hours का food सात सौ रुपये है। Absence midnight से midnight, हर दिन अलग count होती है। Example: Level seven tour रात eight से सुबह five तक है। पहले दिन four hours, अगले दिन five hours हैं। दोनों पर thirty percent यानी three hundred plus three hundred। Total food component six hundred रुपये होगा, बाकी conditions check करें।
+
+03. Free facilities and partial-meal cautions
+Sources: DoE OM 1 Feb 2018; 2017 para 2(E) / S1, S5
+CAPTION ALIGNMENT BASIS:
+अगर boarding और lodging दोनों free हों, special rule देखें। पुराना twenty five percent Daily Allowance बंद है। Eligible local travel पर खर्च हो तो rules के according claim हो सकता है। Example: official city ride में दो सौ रुपये खर्च हुए। Entitlement और proof check करके वही actual expense claim करें। लेकिन सिर्फ free breakfast को दोनों free मानना सही नहीं है। Partial meals के लिए इस order से fixed percentage assume न करें। Example: hotel breakfast free है, dinner खुद pay किया। Specific applicable instruction accounts office से confirm करें।
+
+04. Hotel entitlement, vouchers and GST
+Sources: DoE TA 2017 para 2(E)(ii); GST OM 29 Jun 2018 / S1, S6
+CAPTION ALIGNMENT BASIS:
+Hotel ceiling एक maximum है, automatic payment नहीं। Level eight तक general rule में self certification available है। Example: Level seven का eligible room cost आठ सौ रुपये है। तब room claim आठ सौ है, पूरा ceiling नहीं। Class X city की higher limit के लिए vouchers चाहिए। Hotel taxes entitlement के ऊपर reimburse हो सकते हैं। GST actual charge के eligible हिस्से पर calculate होता है। Example: आठ सौ room और hypothetical बारह percent tax। Tax छियानवे, total आठ सौ छियानवे; conditions लागू। Actual GST rate और invoice accounts से check करें।
+
+ORIGINAL SYNTHESIS INPUT:
+Hotel ceiling एक maximum है, automatic payment नहीं। Level eight तक general rule में self certification available है। Example: Level seven का eligible room cost आठ सौ रुपये है। तब room claim आठ सौ है, पूरा ceiling नहीं। Class X city की higher limit के लिए vouchers चाहिए। Hotel taxes entitlement के ऊपर reimburse हो सकते हैं। GST actual charge के eligible हिस्से पर calculate होता है। Example: आठ सौ room और hypothetical बारह percent tax। Tax ninety six, total eight hundred ninety six; conditions लागू। Actual GST rate और invoice accounts से check करें।
+
+05. City travel and station transfers
+Sources: DoE city travel OMs 2017, 22 Dec 2020; older clarification / S1, S7, S8
+CAPTION ALIGNMENT BASIS:
+Level nine से eleven के city travel में voucher waiver है। Self certification में travel period और vehicle number लिखें। Example: Level ten officer की eligible non AC ride तीन सौ पचास है। Claim actual खर्च के लिए है, ceiling की fixed payment नहीं। एक पुराने clarification में airport transfers अलग discuss हैं। लेकिन उसका आज का application accounts office से verify करें। Example: airport से hotel और hotel से meeting अलग rides हैं। एक ही ride को दो बार claim मत करें।
+
+06. Local journey: distance and provisional food
+Sources: SR 71 training material 2025; 2018 letter copy not authenticated / S9, S10
+CAPTION ALIGNMENT BASIS:
+Local journey में normal duty point से distance check करें। Government training material eight kilometer radius का test बताता है। Example: temporary office normal office से आठ किलोमीटर के बाहर है। घर से distance देखकर ही final decision मत लें। Example: Level seven और seven hours पर amount तीन सौ पचास। लेकिन original twenty eighteen letter की verified copy नहीं मिली। इसलिए actual claim से पहले accounts से confirm करें।
+
+ORIGINAL SYNTHESIS INPUT:
+Local journey में normal duty point से distance check करें। Government training material eight kilometer radius का test बताता है। Example: temporary office normal office से आठ किलोमीटर के बाहर है। घर से distance देखकर ही final decision मत लें। Training slides local food पर fifteen, thirty five, fifty percent बताती हैं। Example: Level seven और seven hours पर amount तीन सौ पचास। लेकिन original twenty eighteen letter की verified copy नहीं मिली। इसलिए actual claim से पहले accounts से confirm करें।
+
+07. Scientific fieldwork and journeys on foot
+Sources: DoE TA 2017 para 2(E)(iii), (vi); 2024 escalation / S1, S4
+CAPTION ALIGNMENT BASIS:
+Specific scientific और data collection fieldwork के लिए clause है। Rate food component के equivalent हो सकता है। Head of Department या controlling officer का approval जरूरी है। Example: remote survey में team foot या mule से जा रही है। हर ship journey को automatic extra payment मत समझें। Foot journey के लिए base rate बारह रुपये per kilometer था। पहले twenty five percent increase के बाद पंद्रह रुपये होता है। Example: eligible journey में चार kilometer सच में पैदल चले। Four into fifteen यानी साठ रुपये; conditions check करें।
+
+08. Documents, self-certification and boarding pass
+Sources: DoE TA 2017; city OM 2020; boarding-pass OM 2020 / S1, S7, S11
+CAPTION ALIGNMENT BASIS:
+Claim pack में sanction, level, journey dates और tickets रखें। Hotel और city travel के rules अलग हैं। Example: Level ten hotel receipt रखे, city ride self certify करे। Food component के लिए अलग food vouchers नहीं चाहिए। Submit करने का acknowledgement भी संभाल कर रखें। Tour का boarding pass missing हो तो prescribed declaration देखें। Level ten और नीचे controlling officer countersign करते हैं। Example: Level ten officer form भरकर countersign करवाए। Actual journey और no duplicate claim honestly declare करें।
+
+09. Claim deadlines and submission proof
+Sources: DoE OMs 13 Mar 2018, 15 Jun 2021; CAG 2021 / S12, S13, S15
+CAPTION ALIGNMENT BASIS:
+Tour, transfer और training claim की limit sixty days है। Retirement claim के लिए order ने one hundred eighty days किए। Journey के बाद अगले दिन से clock शुरू होने का rule देखें। Example: one March tour end हो, claim two March due होता है। Last day का wait न करें; late claim पर forfeiture हो सकता है। अपना controlling officer होने पर treasury या cash section देखें। बाकी cases में Head of Office या controlling officer को submit करें। Example: officer ने समय पर Head of Office को claim दिया। Dated acknowledgement से submission की date prove हो सकती है। एक साल से ज्यादा abeyance का review automatic waiver नहीं है।
+
+10. Advance adjustment and rate revisions
+Sources: Advances Compendium Rules 2, 50–51; DoE DA 2026 / S14–S17
+CAPTION ALIGNMENT BASIS:
+Tour advance लिया है तो एक अलग deadline check करें। Compendium Rule fifty one में fifteen days adjustment लिखा है। Tour complete या उसके बाद duty resume होने की date देखें। Example: advance वाला officer जल्दी adjustment bill submit करे। Late होने पर recovery या interest लग सकता है। Dearness Allowance fifty percent होने पर कुछ rates बढ़े। Example: Level seven food आठ सौ से एक हजार हुआ। Sixty percent DA आते ही दूसरा increase automatically नहीं होता। Later order, service rules और open exceptions verify करें। Detailed guide और source ledger में सारे examples मिलेंगे।

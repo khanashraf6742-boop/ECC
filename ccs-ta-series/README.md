@@ -1,6 +1,6 @@
 # CCS Travelling Allowance — batch-wise study series
 
-A learning series for Central Government civilian employees, based on the supplied TA guide and checked against selected Government orders. **Batches 1 and 2 are available.** This is not yet a comprehensive or certified consolidation of every applicable rule and amendment. Examples are hypothetical; check the applicable orders, sanctions and departmental instructions before making an actual claim.
+A learning series for Central Government civilian employees, based on the supplied TA guide and checked against selected Government orders. **Batches 1, 2 and 3 are available.** This is not yet a comprehensive or certified consolidation of every applicable rule and amendment. Examples are hypothetical; check the applicable orders, sanctions and departmental instructions before making an actual claim.
 
 ## Batch 1 — revised TA-focused edition
 
@@ -30,20 +30,35 @@ Batch 2 uses the selected voice and 20 illustrated, example-bearing screens. Its
 
 **Foreign-rate warning:** The 2023 MEA foreign-tour order is the latest relevant one located, not proof that no later instruction exists. Its official-scan extraction and unofficial copies conflict on the Level 2–9 percentage; do not calculate that row without a legible authoritative order and accounts guidance. The 2023 country list must be checked for later amendments and adoption. Both the video and captions use automated timing and recognition: **no complete human-verbatim audio review has been performed**. See [the caption check](batch-02/Caption-Check.md) and review player.
 
+## Batch 3 — Daily Allowance exceptions, documents and deadlines
+
+- [Open the illustrated course and source-linked guide](batch-03/Batch-03-Guide.html)
+- [Download the city-Hinglish lecture](batch-03/Batch-03-Lecture.mp4)
+- [Read the detailed guide and coverage ledger](batch-03/Batch-03-Guide.md)
+- [Download the audio](batch-03/Batch-03-Audio.mp3) · [Read the narration and edit notes](batch-03/Narration-hi.txt)
+- [Download Roman-Hinglish captions](batch-03/Captions-roman.vtt) · [Download the English translation](batch-03/Captions-en.vtt)
+- [Open the cue-by-cue human review player](batch-03/Caption-Review.html)
+
+Batch 3 adds practical examples for free facilities, the food clock, hotel/GST, self-certification, local journeys, scientific fieldwork, foot travel, evidence, advance adjustment and claim deadlines. Its 50-unit guide includes a source/coverage ledger.
+
+**Correction to the earlier videos:** the 30 August 2023 DoE order permitting Vande Bharat (Shatabdi entitlement) and Humsafar (Rajdhani entitlement) for tour, training, transfer and retirement was omitted in the originally delivered materials. Batch 3 and the earlier written-guide notices correct that omission; the Batch 1 and 2 videos themselves have not been re-rendered. See the [official-hosted order](https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf).
+
+**Limits:** The local-journey 15/35/50% interpretation relies on government training and an unauthenticated 2018-letter reproduction; verify the primary text with accounts. The old advances compendium and 2021 CAG circular support a distinct 15-day tour-advance adjustment, but later amendments and local application are not fully audited. The 2026 GFR compilation was located but Rule 290 was beyond available extraction; directly read 2018/2021 DoE deadline OMs were used. A potentially misread number-list sentence was edited from section 06; see the [caption check](batch-03/Caption-Check.md). Captions remain automatically aligned, **not fully human-verbatim reviewed**.
+
 ## Planned roadmap
 
 | Batch | Subject | Status |
 |---|---|---|
 | 01 | Official tour, Daily Allowance, road mileage, booking and claims; transfer overview | Revised edition available; further audit remains |
 | 02 | International, sea/river and remaining road entitlements | Batch available; Level 2–9 foreign rate and further source/human review remain open |
-| 03 | Remaining Daily Allowance exceptions, documentation and revisions | Planned; source audit pending |
+| 03 | Remaining Daily Allowance exceptions, documentation and revisions | Batch available; local source, later amendments and human review remain open |
 | 04 | Transfer, family, personal effects and special regions | Introduction in Batch 1; full source audit pending |
 | 05 | Retirement, death, re-employment and settlement journeys | Retirement CTG and selected re-employment branches introduced; full audit pending |
 | 06 | Training, long halts, disability and other special cases | Planned; source audit pending |
 | 07 | Technical resignation, joining time and transfer-TA liability | One specific case introduced; full audit pending |
 | 08 | Practice, case studies and final clause-by-clause concordance | Selected 2017 concordance supplied; full audit and final concordance pending |
 
-The roadmap can change as the primary-source audit progresses. The eventual goal is to cover all applicable rules, sub-rules, provisos, exceptions and explanations with practical examples, and identify obsolete, superseded or missing material. That goal **has not yet been achieved**. Batches 1 and 2 cite sources researched on 27 October 2026; later orders may affect an actual case.
+The roadmap can change as the primary-source audit progresses. The eventual goal is to cover all applicable rules, sub-rules, provisos, exceptions and explanations with practical examples, and identify obsolete, superseded or missing material. That goal **has not yet been achieved**. Batches 1–3 cite selected sources researched on 27 October 2026; later orders may affect an actual case.
 
 ## Run locally
 
@@ -51,3 +66,5 @@ From `batch-01`, run `python3 serve_course.py` and open `http://localhost:4173/`
 
 
 For Batch 2, from `batch-02` run `python3 serve_course.py 4175` and open `http://localhost:4175/`. Its range-capable server serves the series directory, so cross-batch links work. Rebuild the HTML with `build_guide.py`, and the media from the included narration and cached alignment with `build_batch_02.py --build`. Re-run `build_review.py` after changing the video or Roman VTT. The chapter 04 clip assembly is documented by `assemble_section_04.py`; regenerating audio requires fresh alignment. Automated checks do not replace a human caption review. Fonts are licensed in `batch-02/licenses/`; the model weights are not included.
+
+For Batch 3, from `batch-03` run `python3 serve_course.py 4177` and open `http://localhost:4177/`. Use the guide and caption review player together; run `build_guide.py`, `build_batch_03.py --build`, and `build_review.py` to regenerate the deliverables from the documented included sources. The section 06 audio edit is reproducible using `assemble_section_06.py` and requires fresh alignment afterward.

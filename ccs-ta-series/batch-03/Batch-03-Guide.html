@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <title>CCS Travelling Allowance — Batch 03</title>
+  <style>
+    :root { color-scheme: dark; --ink:#edf4ff; --muted:#b7c8dc; --bg:#070d1b;
+      --panel:#101b30; --line:#2a3a58; --teal:#45e0bd; --gold:#ffd56a; --violet:#c493ff; }
+    * { box-sizing: border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.7 system-ui,-apple-system,Segoe UI,sans-serif; }
+    a { color:#7edbff; text-underline-offset:3px; }
+    a:hover { color:#b1edff; }
+    a:focus-visible, video:focus-visible { outline:3px solid var(--gold); outline-offset:4px; }
+    .skip { position:absolute; left:-10000px; }
+    .skip:focus { left:1rem; top:1rem; z-index:5; background:#fff; color:#111; padding:.6rem; }
+    header { border-bottom:1px solid var(--line); background:linear-gradient(90deg,#0a1428 0%,rgba(10,20,40,.97) 47%,rgba(10,20,40,.28) 100%), url('assets/claim-illustration.png') right center / cover no-repeat #0a1428; }
+    .shell { width:min(1120px, calc(100% - 36px)); margin:0 auto; }
+    .topline { display:flex; flex-wrap:wrap; gap:1rem; align-items:center; justify-content:space-between;
+      padding:1rem 0; font-size:.78rem; letter-spacing:.11em; font-weight:700; text-transform:uppercase; color:var(--muted); }
+    .badge { color:var(--violet); border:1px solid #9256c9; border-radius:999px; padding:.25rem .7rem; }
+    .hero { padding:2.2rem 0 2.8rem; max-width:690px; }
+    .hero h1 { font-size:clamp(2.1rem,5vw,3.8rem); line-height:1.08; letter-spacing:-.04em; margin:.6rem 0 1rem; }
+    .hero p { color:var(--muted); max-width:70ch; margin:0; }
+    .chips { display:flex; flex-wrap:wrap; gap:.65rem; margin-top:1.3rem; }
+    .chip { border:1px solid var(--line); background:#101e32; color:#d5e9fa; border-radius:8px; padding:.35rem .65rem; font-size:.83rem; }
+    main { padding:2rem 0 4rem; }
+    .player, article { background:var(--panel); border:1px solid var(--line); border-radius:18px; }
+    .player { overflow:hidden; margin-bottom:1.5rem; }
+    .player-heading { padding:1.15rem 1.5rem .4rem; display:flex; flex-wrap:wrap; gap:1rem; justify-content:space-between; align-items:center; }
+    .player-heading h2 { margin:0; font-size:1.15rem; }
+    .player-heading span { color:var(--teal); font-size:.8rem; font-weight:700; }
+    video { display:block; background:#000; width:100%; aspect-ratio:16/9; }
+    @media (min-width:768px) { video::cue { font-size:75%; } }
+    .player p { color:var(--muted); font-size:.89rem; margin:0; padding:1rem 1.5rem 1.25rem; }
+    article { padding:clamp(1.2rem,4vw,3rem); }
+    article h1, article h2, article h3 { color:#f8fbff; line-height:1.25; scroll-margin-top:1rem; }
+    article h1 { font-size:2rem; margin:0 0 .6rem; }
+    article h2 { font-size:1.55rem; margin:2.7rem 0 1rem; padding-bottom:.55rem; border-bottom:1px solid var(--line); }
+    article h3 { font-size:1.15rem; margin:2rem 0 .6rem; color:#e5d3ff; }
+    article { overflow-wrap:anywhere; }
+    article p { margin:.7rem 0; } article strong { color:#fff; }
+    article p:has(strong:first-child) { padding:.25rem 0; }
+    article h3 + p strong:first-child { color:var(--teal); }
+    article table { width:100%; border-collapse:collapse; display:block; overflow-x:auto; margin:1.2rem 0 1.6rem; }
+    article th, article td { border:1px solid #344767; padding:.7rem .8rem; text-align:left; vertical-align:top; }
+    article th { background:#172942; color:var(--teal); }
+    article tr:nth-child(even) td { background:#122037; }
+    article hr { border:0; height:1px; background:var(--line); margin:2.3rem 0; }
+    article li { margin:.35rem 0; }
+    footer { border-top:1px solid var(--line); padding:1.5rem 0 3rem; color:var(--muted); font-size:.88rem; }
+    @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+    @media print { :root { color-scheme:light; } body { color:#111; background:#fff; }
+      header,.player,footer { display:none; } main { padding:0; } article { color:#111; border:0; padding:0; background:#fff; }
+      article h1,article h2,article h3,article strong,article h3 + p strong:first-child { color:#111; }
+      article a { color:#134e7b; } article tr:nth-child(even) td,article th { background:#eee; color:#111; }
+    }
+  </style>
+</head>
+<body>
+<a href="#guide" class="skip">Skip to the companion guide</a>
+<header><div class="shell">
+  <div class="topline"><span class="badge">Batch 03 / Study series</span><span>Central Government civilian context</span><span>Research: 27 Oct 2026</span></div>
+  <div class="hero"><span style="color:var(--teal);font-weight:700;letter-spacing:.1em;font-size:.8rem">TRAVEL. RULES. REAL-LIFE APPLICATION.</span>
+    <h1>Daily Allowance,<br>claims &amp; exceptions.</h1>
+    <p>Domestic DA exceptions, documentation, deadlines and revision checks — explained in city Hinglish with practical examples and links to official sources.</p>
+    <div class="chips"><span class="chip">20 illustrated teaching beats</span><span class="chip">Source-linked guide</span><span class="chip">City-Hinglish narration</span><span class="chip">2018 local-journey letter: verify</span></div>
+  </div>
+</div></header>
+<main class="shell">
+  <section class="player" aria-labelledby="watch-title">
+    <div class="player-heading"><h2 id="watch-title">Watch the Batch 3 lecture</h2><span>CITY HINGLISH · AUDIO-ALIGNED CAPTIONS</span></div>
+    <video controls preload="metadata" aria-label="Batch 3 narrated Travelling Allowance lecture">
+      <source src="Batch-03-Lecture.mp4" type="video/mp4">
+      <track src="Captions-en.vtt" kind="subtitles" srclang="en" label="English translation (automatic, optional)">
+      Your browser cannot play this video. <a href="Batch-03-Lecture.mp4">Download the MP4</a> or read the detailed guide below.
+    </video>
+    <p><strong>Subtitle check:</strong> The video has burned-in Roman-Hinglish, transliterated from the caption-alignment text. The optional English translation appears near the top to avoid the burned-in captions; placement may vary by player. Both tracks are automatically audio-aligned, and a separate automatic recognition pass checked the recording. Neither wording nor timing has been human-verified as verbatim. <a href="Caption-Check.md">How the check was done</a> · <a href="Caption-Review.html">Human cue-by-cue review</a> · <a href="Narration-hi.txt">Read narration script</a> · <a href="Captions-en.vtt">English subtitles</a> · <a href="Captions-roman.vtt">Roman-Hinglish subtitles</a> · <a href="Batch-03-Audio.mp3">Download audio</a> · <a href="Batch-03-Lecture.mp4">Download video</a></p>
+  </section>
+  <article id="guide" tabindex="-1"><h1 id="batch-03-daily-allowance-exceptions-documents-and-deadlines">Batch 03 — Daily Allowance Exceptions, Documents and Deadlines</h1>
+<p><strong>Research checked 27 October 2026.</strong> This is an educational guide to selected Central Government civilian <strong>official TA</strong>, not an authority for sanction or an exhaustive consolidation. The lecture uses the selected city-Hinglish voice; this companion is more detailed. Every numbered unit has a hypothetical application. Check the journey date, your service, sanctions, applicable later orders and your accounts office before filing.</p>
+<p><strong>Correction to Batches 1 and 2:</strong> The earlier videos and originally delivered guides omitted DoE OM <strong>30 August 2023</strong>. For tour, training, transfer and retirement journeys it permits <strong>Vande Bharat</strong> using the corresponding <strong>Shatabdi</strong> entitlement and <strong>Humsafar</strong> using the corresponding <strong>Rajdhani</strong> entitlement. The earlier videos have not been re-rendered and do not contain this correction. See units 03–05 and <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf">S2</a>. This is not an LTC instruction.</p>
+<p><strong>Important open checks:</strong> An authenticated original of the 12 September 2018 local-journey letter was <strong>not located</strong>; the 15/35/50% illustration is provisional, supported by government training but not proven by that training to be a generally binding OM. We found an older official advances compendium and a 2021 CAG office circular supporting the 15-day tour-advance rule, but have not exhaustively checked later changes to the compendium. The 2026 GFR compilation was located, but extraction was limited to the first 30 pages, so the text of Rule 290 in that compilation was not independently inspected; the 2018 and 2021 DoE orders were read directly. Long-halt, partial-meal, station-transfer and service-specific issues remain open. Neither narration nor captions have been completely reviewed by a human.</p>
+<p><a href="../README.md">Series roadmap</a> · <a href="../batch-01/Batch-01-Guide.html">Batch 1 guide</a> · <a href="../batch-02/Batch-02-Guide.html">Batch 2 guide</a> · <a href="Captions-roman.vtt">Roman captions</a> · <a href="Caption-Review.html">Caption-review player</a></p>
+<h2 id="a-scope-and-a-correction-to-earlier-batches">A. Scope and a correction to earlier batches</h2>
+<h3 id="01-which-rulebook">01 — Which rulebook?</h3>
+<p>Central Government civilian TA on official duty is the focus; Railway and Armed Forces personnel receive separate orders, and autonomous bodies may have their own approved rules. <strong>Example:</strong> A civilian officer funded from Defence Services Estimates checks the civilian instruction; a uniformed Armed Forces member checks the separate defence orders. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">S16</a></p>
+<h3 id="02-two-different-meanings-of-da">02 — Two different meanings of DA</h3>
+<p><strong>Daily Allowance</strong> on tour contains accommodation, city travel and food components. <strong>Dearness Allowance</strong> is the pay-linked index used in certain escalation clauses. <strong>Example:</strong> A Level 7 tour claim has food and hotel heads; the DA percentage on the pay slip informs specified rate revisions but is not itself a travel expense. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">S16</a></p>
+<h3 id="03-vande-bharat-and-humsafar-correction">03 — Vande Bharat and Humsafar: correction</h3>
+<p>The 30 August 2023 DoE order permits both trains for tour/training/transfer/retirement, with Vande Bharat treated like Shatabdi and Humsafar like Rajdhani for class entitlement. This is an explicit correction to the earlier series omission. <strong>Example:</strong> A Level 7 official checks the Shatabdi-equivalent chair-car entitlement on Vande Bharat, not an automatically higher class; confirm what class actually exists, approval and applicable amendments. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf">S2</a></p>
+<h3 id="04-tejas-is-another-order">04 — Tejas is another order</h3>
+<p>The 12 September 2022 DoE order allows Tejas for the same four journey categories with Shatabdi-equivalent entitlement. <strong>Example:</strong> Before booking Tejas for an approved transfer, a Level 10 employee checks the corresponding Shatabdi class rather than assuming executive class. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_12_09_2022_Eng.pdf">S3</a></p>
+<h3 id="05-not-a-licence-to-mix-official-ta-and-ltc">05 — Not a licence to mix official TA and LTC</h3>
+<p>The train orders here concern official TA. DoPT's LTC rules and orders have their own conditions and can change separately. <strong>Example:</strong> A family holiday under LTC is not made eligible merely because the officer may use the same train for an official tour. <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf">S2</a> <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_12_09_2022_Eng.pdf">S3</a> <a href="https://documents.doptcirculars.nic.in/D2/D02est/FAQs%20on%20LTC5hctT.pdf">S21</a></p>
+<h2 id="b-the-food-component-and-calendar-day-calculation">B. The food component and calendar-day calculation</h2>
+<h3 id="06-three-different-heads">06 — Three different heads</h3>
+<p>Hotel/guest-house and city-travel charges are reimbursements with mode, proof and ceiling conditions; food is a lump sum regulated by duration, without food vouchers. <strong>Example:</strong> ₹800 eligible room expense, ₹200 eligible city travel, and a separately calculated ₹300 food amount are not three identical flat allowances. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="07-the-three-time-bands">07 — The three time bands</h3>
+<p>For each midnight-to-midnight day, the 2017 order specifies <strong>30% for less than six hours</strong>, <strong>70% for 6–12 hours</strong>, and <strong>100% for more than 12 hours</strong> away from headquarters. At exact boundaries apply the order and obtain accounts advice if your department interprets the endpoints differently. <strong>Example:</strong> Seven hours on a qualifying Level 7 tour produces 70% of the applicable ₹1,000 illustrative full-day food figure, or ₹700. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a></p>
+<h3 id="08-midnight-is-the-boundary">08 — Midnight is the boundary</h3>
+<p>Calculate absence per calendar day, not by joining two pieces into a single rolling 24-hour period. <strong>Example:</strong> A qualifying Level 7 tour from 20:00 to 05:00 is four hours on day one and five hours on day two. With a ₹1,000 full-day food amount, 30% + 30% = <strong>₹600</strong>, assuming no special restriction. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a></p>
+<h3 id="09-six-and-twelve-hours">09 — Six and twelve hours</h3>
+<p>The order's middle band says “between 6–12 hours”; it labels the other bands “&lt;6” and “&gt;12.” On a straightforward reading six and twelve belong to the middle band, but consult the accounts authority for a disputed edge or a special order. <strong>Example:</strong> Exactly 12 hours ordinarily reads as 70%, not “more than 12 hours”; record actual departure and return times. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="10-food-vouchers-and-other-evidence">10 — Food vouchers and other evidence</h3>
+<p>No food vouchers are required under the lump-sum methodology; this does not eliminate evidence of the authorised tour, dates or time. <strong>Example:</strong> An officer keeps the tour approval and time records even though restaurant receipts are not attached. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="11-do-not-stack-overlapping-periods">11 — Do not stack overlapping periods</h3>
+<p>Count each eligible day's absence once and check leave, training and other departmental rules rather than inventing extra days. <strong>Example:</strong> An officer who returns to HQ for personal leave asks accounts how the specific period is treated before completing the food table. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h2 id="c-free-facilities-partial-meals-and-field-exceptions">C. Free facilities, partial meals and field exceptions</h2>
+<h3 id="12-both-boarding-and-lodging-free">12 — Both boarding and lodging free</h3>
+<p>The 1 February 2018 clarification discontinues the old <strong>25% DA</strong> arrangement when both boarding and lodging are free. It says eligible local travel expenditure can be claimed under the applicable city-travel rules. <strong>Example:</strong> If both are free and an eligible official city ride costs ₹200, that ₹200 is considered under the travel head, not as an automatic 25% food payment. <a href="https://doe.gov.in/files/cenetral-pay_document/OM_dt_01_02_18_Eng_0.pdf">S5</a></p>
+<h3 id="13-one-free-facility-is-not-automatically-both">13 — One free facility is not automatically both</h3>
+<p>The text of <a href="https://doe.gov.in/files/cenetral-pay_document/OM_dt_01_02_18_Eng_0.pdf">S5</a> concerns <strong>both</strong> free boarding and lodging; it does not by itself resolve every partial-meal or lodging-only case. <strong>Example:</strong> A hotel includes breakfast but an officer buys dinner. Ask accounts for the specific applicable instruction instead of mechanically deducting 25% or 50%.</p>
+<h3 id="14-government-vehicle-and-duplication">14 — Government vehicle and duplication</h3>
+<p>A claim for an actual eligible city-travel expense should not be duplicated where no such personal expense was incurred. Exact treatment depends on the applicable order and arrangement. <strong>Example:</strong> An office provides a vehicle and pays the operator directly; the employee must not also claim a fictitious personal taxi payment. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="15-scientificdata-collection-fieldwork">15 — Scientific/data-collection fieldwork</h3>
+<p>Para 2(E)(vi) addresses the specified Government-ship/boat or remote foot/mule scientific/data-collection situations, using a food-equivalent DA amount irrespective of actual food expenditure with approval of the Head of Department/controlling officer. It is not a general extra allowance for every ship passenger. <strong>Example:</strong> An authorised survey team in remote fieldwork seeks the required approval and records its route and purpose. The primary PDF's text extraction is garbled around this clause; consult the scan and competent authority for a contested interpretation. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="16-actual-foot-distance">16 — Actual foot distance</h3>
+<p>The original foot rate is ₹12 per kilometre actually travelled on foot, with the specified 25% escalation. On the first trigger the arithmetic is <strong>₹15/km</strong>. <strong>Example:</strong> Four eligible kilometres walked = ₹60; do not multiply the scooter portion of a mixed trip by the foot rate. Verify eligibility, proof, later orders and rounding. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a></p>
+<h3 id="17-long-halts-and-other-special-regimes-remain-open">17 — Long halts and other special regimes remain open</h3>
+<p>Training, temporary transfers, enforced halts, long halts, disability/escort and service-specific instructions require separate source checks. The 2025 government training slides are not a substitute for checking applicable FR/SR provisions and later decisions. <strong>Example:</strong> Do not declare an officer on 181 days of temporary duty categorically ineligible for all food payments solely from a generalised online table. Further audit is planned for Batch 6. <a href="https://mcrhrdi.gov.in/2025/splfc2025/weeks/week6/SPL%20FC%20TA%20RULES%20Nov%2025%20TPN%20Murthy%20%282%29.pdf">S9</a></p>
+<h2 id="d-accommodation-class-x-and-taxes">D. Accommodation, Class X and taxes</h2>
+<h3 id="18-ceiling-versus-payment">18 — Ceiling versus payment</h3>
+<p>A hotel ceiling is not a flat daily payment. Reimbursement is subject to eligible expense, ceiling and proof requirements. <strong>Example:</strong> If an otherwise eligible Level 7 officer pays ₹800 for a room, the room charge illustrated is ₹800, not the ₹937.50 non-X ceiling. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a></p>
+<h3 id="19-self-certification-through-level-8">19 — Self-certification through Level 8</h3>
+<p>The 2017 order permits, for Levels 8 and below, payment up to the ordinary ceiling without vouchers against a self-certified claim stating the period of stay and name of dwelling, etc. <strong>Example:</strong> A Level 7 officer records the hotel's name, actual stay period and expense in the prescribed self-certification, subject to applicable controls. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="20-higher-class-x-ceiling-has-a-voucher-condition">20 — Higher Class X ceiling has a voucher condition</h3>
+<p>For employees through Level 8 the 2017 Class X hotel ceiling is ₹1,000 against relevant vouchers; the first specified 25% increase gives an illustrative ₹1,250. <strong>Example:</strong> A Level 7 officer claiming ₹1,100 in a qualifying Class X city must check the voucher requirement, not apply the ordinary self-certification exception to this higher ceiling. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a></p>
+<h3 id="21-gst-is-outside-the-hotel-ceiling">21 — GST is outside the hotel ceiling</h3>
+<p>The 29 June 2018 DoE clarification makes the prescribed entitlement exclusive of taxes/GST; GST reimbursement is based on <strong>actual charges within entitlement</strong>. <strong>Example:</strong> An eligible ₹800 room with a hypothetical 12% tax has ₹96 tax, making ₹896, subject to actual tax law and other conditions. The example does not establish the GST rate that applies to any real invoice. <a href="https://doe.gov.in/files/whats_new_documents/DoE_OM_dated_29.06.2018_Eng.pdf">S6</a></p>
+<h3 id="22-an-over-ceiling-invoice-needs-care">22 — An over-ceiling invoice needs care</h3>
+<p>The GST formula is not “tax on the maximum ceiling regardless of expense,” and tax treatment of an over-ceiling booking should be checked on the eligible amount. <strong>Example:</strong> If a room costs ₹1,200 and the officer's applicable eligible room ceiling is ₹937.50, ask accounts to determine the admissible base and tax rather than assuming all charges are payable. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://doe.gov.in/files/whats_new_documents/DoE_OM_dated_29.06.2018_Eng.pdf">S6</a></p>
+<h2 id="e-within-city-travel-and-local-journeys">E. Within-city travel and local journeys</h2>
+<h3 id="23-self-certification-for-levels-911">23 — Self-certification for Levels 9–11</h3>
+<p>The 22 December 2020 OM removes the voucher-production condition for within-city tour travel for Levels 9–11, subject to self-certification including period of travel and vehicle number etc. The 2017 order already had a self-certification provision through Level 8. <strong>Example:</strong> An eligible Level 10 officer records the vehicle number and time for a ₹350 non-AC ride; the waiver does not make a ceiling an automatic payment. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf">S7</a></p>
+<h3 id="24-mode-and-ceiling-are-different-questions">24 — Mode and ceiling are different questions</h3>
+<p>Level 9–11 is a non-AC taxi ceiling; Levels 12–13 have AC taxi up to 50 km/day; Level 14+ has eligible AC taxi actuals commensurate with official engagements. <strong>Example:</strong> For Level 10, the illustrative first-escalation ceiling ₹338 × 1.25 = ₹422.50/day is a limit, not permission to claim a ₹422.50 flat amount or any ineligible mode. Check rounding and 13A's treatment. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a> <a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">S23</a></p>
+<h3 id="25-stationairport-transfers-older-source-open-application">25 — Station/airport transfers: older source, open application</h3>
+<p>A 17 February 2017 clarification under the 6th-CPC arrangement says certain residence/station and station/place-of-stay transfers continue in addition to within-city charges. Its continued application under subsequent 7th-CPC instructions, and any interaction with transfer/retirement rules, needs confirmation. <strong>Example:</strong> Itemise airport-to-hotel separately from hotel-to-meeting, and ask accounts how to classify them; never duplicate a ride. <a href="https://doe.gov.in/files/circulars_document/Travel_With_in_City_1.pdf">S8</a></p>
+<h3 id="26-local-journey-eight-kilometre-test">26 — Local journey: eight-kilometre test</h3>
+<p>The 2025 government training material describes SR 71 using a point outside an eight-kilometre radius from the <strong>duty point</strong>, not merely distance from home. Its slides are training material, not a consolidated primary law. <strong>Example:</strong> If temporary duty lies beyond eight kilometres from the normal office, examine the rule and authorised distance; a long route from home alone is not conclusive. <a href="https://mcrhrdi.gov.in/2025/splfc2025/weeks/week6/SPL%20FC%20TA%20RULES%20Nov%2025%20TPN%20Murthy%20%282%29.pdf">S9</a></p>
+<h3 id="27-local-journey-provisional-food-percentages">27 — Local journey: provisional food percentages</h3>
+<p>The same training material teaches food at 50% of the tour amount, giving <strong>15%, 35%, 50%</strong> for the corresponding time bands. An attributed DoE letter No. 904302/2018-E.IV of 12 September 2018 was found only in unofficial reproduction; we did <strong>not</strong> obtain an authenticated original or establish its general applicability. <strong>Example:</strong> If the applicable authority confirms this rule, a Level 7 officer absent seven hours uses 35% × ₹1,000 = ₹350. Until then it is an illustration, not a final claim instruction. <a href="https://mcrhrdi.gov.in/2025/splfc2025/weeks/week6/SPL%20FC%20TA%20RULES%20Nov%2025%20TPN%20Murthy%20%282%29.pdf">S9</a> <a href="https://www.staffnews.in/2018/09/7th-cpc-travelling-allowance-rules.html">S10</a></p>
+<h3 id="28-local-hotel-and-conveyance-are-not-automatic">28 — Local hotel and conveyance are not automatic</h3>
+<p>The training material presents hotel accommodation as not applicable and city travel/mileage as conditional for its local-journey example. Verify the authenticated text, distance and applicable delegation, rather than importing tour-hotel entitlements. <strong>Example:</strong> A same-city meeting does not automatically justify a hotel reimbursement. <a href="https://mcrhrdi.gov.in/2025/splfc2025/weeks/week6/SPL%20FC%20TA%20RULES%20Nov%2025%20TPN%20Murthy%20%282%29.pdf">S9</a> <a href="https://www.staffnews.in/2018/09/7th-cpc-travelling-allowance-rules.html">S10</a></p>
+<h3 id="29-a-case-specific-online-taxi-note-is-not-a-universal-rule">29 — A case-specific online taxi note is not a universal rule</h3>
+<p>The Ministry of Water Resources forwarded a DoE ID note concerning an OLA taxi in a particular case. That does not by itself establish unrestricted reimbursement of every app cab or service for every employee. <strong>Example:</strong> An officer using an app cab checks mode eligibility, sanction, ceiling and evidence for that journey. <a href="https://mowr.nic.in/core/Circulars/2018/Admin_08-08-2018_157.PDF">S20</a></p>
+<h2 id="f-documentation-and-controls">F. Documentation and controls</h2>
+<h3 id="30-start-with-authorisation">30 — Start with authorisation</h3>
+<p>Keep the competent authority's tour/training order, destination, purpose, period, pay level and any required booking approval. <strong>Example:</strong> An approved two-day workshop needs the date and location in the claim even when food vouchers are unnecessary. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="31-journey-evidence">31 — Journey evidence</h3>
+<p>Record departure and arrival dates and times, mode, class, ticket/fare and evidence required by the applicable instructions. <strong>Example:</strong> An officer retains a rail e-ticket and records the actual journey instead of relying only on a planned itinerary. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-061a86e52becc62-73205294.pdf">S15</a></p>
+<h3 id="32-stay-evidence">32 — Stay evidence</h3>
+<p>Keep hotel bills where mandatory, or a permitted self-certified statement of actual cost and stay details where the rule allows it. <strong>Example:</strong> A Level 10 officer retains the hotel invoice; Level 7 checks whether ordinary self-certification or the Class X voucher condition applies. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<h3 id="33-city-evidence">33 — City evidence</h3>
+<p>Keep the details required by the relevant self-certification or voucher rule, including journey period and vehicle number where specified. <strong>Example:</strong> A Level 11 officer claims an actual eligible taxi trip with those details under the 2020 OM. <a href="https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf">S7</a></p>
+<h3 id="34-boarding-pass-unavailable">34 — Boarding pass unavailable</h3>
+<p>For Central Government <strong>tour</strong> journeys the 23 June 2020 OM permits its prescribed declaration in lieu of a missing boarding pass. It includes details of travel, PNR, agency/airline, non-duplication and accountability for false declarations. <strong>Example:</strong> An officer who has neither a physical nor digital boarding pass fills the annexed declaration; they do not invent a pass or ticket. <a href="https://doe.gov.in/files/circulars_document/TA_Order_dated_23_06_2020_Eng.pdf">S11</a></p>
+<h3 id="35-countersignature-threshold-and-scope">35 — Countersignature threshold and scope</h3>
+<p>The 2020 declaration is countersigned by the controlling officer for officials <strong>Pay Level 10 and below</strong>. Its text says tour; do not assume it automatically applies to every training, transfer, LTC or retirement journey. <strong>Example:</strong> A Level 10 tour claimant obtains the countersignature before submission; a Level 11 claimant still completes the declaration honestly. <a href="https://doe.gov.in/files/circulars_document/TA_Order_dated_23_06_2020_Eng.pdf">S11</a></p>
+<h3 id="36-preserve-proof-of-submission">36 — Preserve proof of submission</h3>
+<p>Record the date and recipient and retain a signed receipt or reliable electronic acknowledgement. <strong>Example:</strong> An officer submits to the controlling officer on time and keeps the date-stamped acknowledgement even if accounts process it later. <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a></p>
+<h2 id="g-deadlines-advance-adjustment-and-recovery">G. Deadlines, advance adjustment and recovery</h2>
+<h3 id="37-tour-transfer-and-training-60-days">37 — Tour, transfer and training: 60 days</h3>
+<p>The 13 March 2018 OM sets 60 days succeeding completion, subject to forfeiture/deemed relinquishment if not preferred in time; the 2021 OM expressly retains 60 days for tour, transfer and training. The CAG 2021 circular describes the claim as falling <strong>due for payment</strong> on the day after the journey; that is not the next-day filing deadline. <strong>Example:</strong> A tour ends on 1 March, and the claim becomes due for payment on 2 March. Submit within the applicable 60-day period; file well before expiry and confirm the precise day count with accounts. <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a> <a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">S13</a> <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-061a86e52becc62-73205294.pdf">S15</a></p>
+<h3 id="38-retirement-180-days-not-a-general-tour-extension">38 — Retirement: 180 days, not a general tour extension</h3>
+<p>The 15 June 2021 OM changes retirement TA claims from 60 to <strong>180 days (six months)</strong> succeeding journey completion; it is effective from issue and permits reconsideration of specified claims left unsettled due to the old 60-day limit. <strong>Example:</strong> A retirement settlement journey after the order is checked under the retirement clock; an ordinary tour does not inherit that 180-day clock. <a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">S13</a></p>
+<h3 id="39-separate-family-journeys-and-effects">39 — Separate family journeys and effects</h3>
+<p>The 2018 OM separately reckons journeys by the employee and family, and measures effects/conveyance claims from delivery at the new station. Apply the 2021 retirement modification as relevant; do not assume one blanket date covers all components. <strong>Example:</strong> Family arrives after the officer and effects are delivered later: keep each actual date and ask accounts to apply the correct clock to each head. <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a> <a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">S13</a></p>
+<h3 id="40-where-does-the-clock-stop">40 — Where does the clock stop?</h3>
+<p>For an officer who is their own controlling officer, the 2018 order uses presentation at the Treasury/Cash Section; otherwise it uses submission to the Head of Office/controlling officer. A timely submission under the second category can count even if presented to Treasury later. <strong>Example:</strong> A non-self-controlling officer who submits to the Head of Office within time keeps the acknowledgement. <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a></p>
+<h3 id="41-abeyance-over-one-year">41 — Abeyance over one year</h3>
+<p>The 2018 order calls for Head-of-Department investigation if a claim has remained in abeyance for more than a year, and refers to genuineness, documents and valid reasons. It is <strong>not</strong> a blanket automatic cure for every initially late claim. <strong>Example:</strong> A timely filed claim held pending for 14 months may need investigation; do not presume a newly filed, otherwise forfeited claim is automatically revived. <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a></p>
+<h3 id="42-tour-advance-15-days-is-a-different-clock">42 — Tour advance: 15 days is a different clock</h3>
+<p>Rule 51 of the government-hosted <strong>2005 Compendium of Rules on Advances</strong> says an advance under the tour section is adjusted within <strong>15 days from completion of tour or the date the employee resumes duty after completing it</strong>. A 2021 CAG office circular applies 15 days when a tour advance is drawn. This is distinct from the ordinary 60-day claim period. <strong>Example:</strong> An officer who drew a tour advance prepares the adjustment bill immediately, rather than waiting until day 60. We have not exhaustively established subsequent amendments, local adoption or every date-counting edge; verify the sanction and current rules. <a href="https://delhishelterboard.in/main/wp-content/uploads/2014/11/Advances-Compendium-advances.pdf">S14</a> <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-061a86e52becc62-73205294.pdf">S15</a></p>
+<h3 id="43-default-interest-and-genuine-difficulties">43 — Default, interest and genuine difficulties</h3>
+<p>The 2005 compendium's decision under Rule 2 describes potential recovery and interest in default, including interest at 2 percentage points over the Provident Fund rate in specified cases; it also provides for Head-of-Department waiver in genuine difficulty. This is a historical text, not a present interest calculation or automatic outcome in every case. <strong>Example:</strong> If an advance adjustment is delayed due to a documented disruption, submit the facts and seek the competent authority's decision; do not self-calculate a penalty. <a href="https://delhishelterboard.in/main/wp-content/uploads/2014/11/Advances-Compendium-advances.pdf">S14</a> <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-061a86e52becc62-73205294.pdf">S15</a></p>
+<h3 id="44-recovery-is-not-automatically-forfeiture-of-reimbursement">44 — Recovery is not automatically forfeiture of reimbursement</h3>
+<p>The old compendium says the reimbursement claim is not forfeited <strong>merely because the advance is recovered</strong>. The separate TA-claim time limit still matters. <strong>Example:</strong> If an advance is recovered, an otherwise timely and valid reimbursement claim is not automatically lost solely for that reason; accounts must also check the claim deadline and all current conditions. <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a> <a href="https://delhishelterboard.in/main/wp-content/uploads/2014/11/Advances-Compendium-advances.pdf">S14</a></p>
+<h3 id="45-second-advance-normal-restriction-and-recorded-exception">45 — Second advance: normal restriction and recorded exception</h3>
+<p>The old compendium's Rule 50 normally requires an account of the first advance before a second. Its recorded Government decision allows a narrowly conditioned second advance for frequent urgent tours: the second journey within a week, bills within a week after the second journey, and no more than two outstanding, subject to competent sanction. Current status and adoption must be checked. <strong>Example:</strong> A second emergency tour two days after the first is not an automatic second advance; the officer requests competent approval and follows the applicable conditions. <a href="https://delhishelterboard.in/main/wp-content/uploads/2014/11/Advances-Compendium-advances.pdf">S14</a></p>
+<h2 id="h-revisions-special-categories-and-practical-review">H. Revisions, special categories and practical review</h2>
+<h3 id="46-first-25-escalation-targeted-not-universal">46 — First 25% escalation: targeted, not universal</h3>
+<p>The 2017 order specifies a 25% rise when Dearness Allowance increases by 50% for the stated hotel, food, certain city-travel, foot and other rates. The Department of Posts' 2024 implementation identifies specified heads after DA reached 50% from 1 January 2024. <strong>Example:</strong> Level 7 food ₹800 × 1.25 = ₹1,000, subject to eligibility and applicable orders; do not multiply every unrelated allowance. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a></p>
+<h3 id="47-60-da-is-not-another-50-point-trigger">47 — 60% DA is not another 50-point trigger</h3>
+<p>The DoE order of 22 April 2026 raises 7th-CPC Dearness Allowance to 60% from 1 January 2026. The DoE index listed it as the latest 7th-CPC DA order when checked; this is not proof no later order exists. <strong>Example:</strong> Moving from 50% to 60% is not, by itself, a second 50-percentage-point increase for the specified 25% clause. <a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">S16</a> <a href="https://doe.gov.in/orders-circulars/27">S17</a></p>
+<h3 id="48-selected-indicative-amounts-after-the-first-rise">48 — Selected indicative amounts after the first rise</h3>
+<p>The figures below are arithmetic from the 2017 schedule and first escalation, <strong>not independently certified current payment rates</strong>. Confirm applicability, taxes, rounding, later amendments and actual eligible expenditure. A separately scoped Ladakh government table corroborates numeric calculations but is not itself a universal Central order. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a> <a href="https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2024/05/202405061031185669.pdf">S22</a></p>
+<table>
+<thead>
+<tr>
+<th>Pay Level</th>
+<th style="text-align: right;">Hotel / day</th>
+<th style="text-align: right;">Food full day</th>
+<th>City travel / day</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5 and below</td>
+<td style="text-align: right;">₹562.50</td>
+<td style="text-align: right;">₹625</td>
+<td>Non-AC taxi ≤ ₹141.25</td>
+</tr>
+<tr>
+<td>6–8</td>
+<td style="text-align: right;">₹937.50</td>
+<td style="text-align: right;">₹1,000</td>
+<td>Non-AC taxi ≤ ₹281.25</td>
+</tr>
+<tr>
+<td>9–11</td>
+<td style="text-align: right;">₹2,812.50</td>
+<td style="text-align: right;">₹1,125</td>
+<td>Non-AC taxi ≤ ₹422.50</td>
+</tr>
+<tr>
+<td>12–13</td>
+<td style="text-align: right;">₹5,625</td>
+<td style="text-align: right;">₹1,250</td>
+<td>AC taxi ≤ 50 km</td>
+</tr>
+<tr>
+<td>14 and above</td>
+<td style="text-align: right;">₹9,375</td>
+<td style="text-align: right;">₹1,500</td>
+<td>Eligible AC taxi actuals</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Example:</strong> Level 7 eligible food on a day with seven hours away is ₹1,000 × 70% = ₹700; hotel and city charges are separate and actual/conditional.</p>
+<h3 id="49-non-official-committee-members-are-a-distinct-scheme">49 — Non-official committee members are a distinct scheme</h3>
+<p>The 14 September 2017 DoE order distinguishes retired officers, persons from various fields and eminent personalities, with conditions for local and outside members. Local non-officials receive the specified mileage treatment, not simply ordinary outstation TA/DA. <strong>Example:</strong> A local non-official invited to a board checks the non-official order rather than claiming a full government employee's outstation hotel allowance. Check current amendments and approvals. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_DA_English.pdf">S19</a></p>
+<h3 id="50-check-dont-assume">50 — Check, don't assume</h3>
+<p>Before a real claim verify journey type, current service instructions, rate effective date, approvals, each head's actual expense or lump-sum rule, supporting evidence, advance adjustment and submission acknowledgement. <strong>Example:</strong> A Level 7 officer's free hotel and food, ₹200 city ride and drawn advance require the both-free rule, city proof and 15-day advance check—not a single flat DA amount. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> <a href="https://doe.gov.in/files/cenetral-pay_document/OM_dt_01_02_18_Eng_0.pdf">S5</a> <a href="https://delhishelterboard.in/main/wp-content/uploads/2014/11/Advances-Compendium-advances.pdf">S14</a></p>
+<h2 id="coverage-and-source-status-ledger">Coverage and source-status ledger</h2>
+<table>
+<thead>
+<tr>
+<th>Topic / clause</th>
+<th>Coverage in this batch</th>
+<th>Source status and next action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2017 TA 2(E)(i)–(v), food timing, hotel and city</td>
+<td>Units 06–11, 18–24, 46–48</td>
+<td>Primary DoE read; examples subject to later orders, applicability and rounding.</td>
+</tr>
+<tr>
+<td>2017 2(E)(vi) ship / scientific fieldwork, foot rate</td>
+<td>Units 15–16</td>
+<td>Primary PDF clause is garbled in extraction; verify scan for disputed facts.</td>
+</tr>
+<tr>
+<td>Both free; hotel tax; Level 9–11; lost boarding pass</td>
+<td>Units 12–14, 21–22, 23, 34–35</td>
+<td>Primary DoE OMs read; partial meals and other journey types remain unresolved.</td>
+</tr>
+<tr>
+<td>Local-journey eight-km, 15/35/50%</td>
+<td>Units 26–28</td>
+<td>Government training and unofficial copy; <strong>2018 primary original not authenticated</strong>.</td>
+</tr>
+<tr>
+<td>Station/airport transfers</td>
+<td>Unit 25</td>
+<td>Older primary clarification read; later continuing application not independently established.</td>
+</tr>
+<tr>
+<td>Claim submission / retirement</td>
+<td>Units 37–41</td>
+<td>DoE 2018 and 2021 texts read. Rule 290 in 2026 GFR compilation beyond available extraction; verify separately.</td>
+</tr>
+<tr>
+<td>Tour advance, recovery and second advance</td>
+<td>Units 42–45</td>
+<td>Government-hosted 2005 compendium and CAG 2021 circular; later amendment/adoption check remains.</td>
+</tr>
+<tr>
+<td>2022 Tejas, 2023 Vande Bharat/Humsafar</td>
+<td>Units 03–05</td>
+<td>DoE 2022 and CAG-hosted DoE 2023 copies read; correction to earlier videos.</td>
+</tr>
+<tr>
+<td>Non-officials and app-cab case</td>
+<td>Units 29, 49</td>
+<td>Primary 2017 non-official order and case-specific ID note; do not generalise.</td>
+</tr>
+<tr>
+<td>Long halts, training, disability, specific GIDs, every FR/SR proviso</td>
+<td>Unit 17 and later roadmap</td>
+<td><strong>Not exhaustively audited</strong>; obtain primary current rules before claims.</td>
+</tr>
+<tr>
+<td>Audio and captions</td>
+<td>Separate caption check and review player</td>
+<td>Automated alignment/recognition only; <strong>full human-verbatim review not performed</strong>.</td>
+</tr>
+<tr>
+<td>Previous Batch 2 foreign DA Level 2–9</td>
+<td>Outside this domestic batch</td>
+<td>Official-scan extraction 75% versus unofficial 79% remains unresolved; verify an authoritative legible copy.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="source-register">Source register</h2>
+<p>Primary and official-hosted sources are identified explicitly; training and unofficial copies are not substitutes for binding law. Links are to documents as located on 27 October 2026.</p>
+<ul>
+<li><a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> DoE, <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">2017 TA implementation OM and Annexure</a>, particularly 2(A) and 2(E).</li>
+<li><a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf">S2</a> DoE, <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-06524e4ebcbcaf3-99366843.pdf">30 August 2023 Vande Bharat/Humsafar OM, CAG-hosted copy</a>.</li>
+<li><a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_12_09_2022_Eng.pdf">S3</a> DoE, <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_12_09_2022_Eng.pdf">12 September 2022 Tejas OM</a>.</li>
+<li><a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S4</a> Department of Posts, <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">5 June 2024 enhancement implementation</a>; it cites a DoE ID note and is a Posts implementation, not a new universal rate table.</li>
+<li><a href="https://doe.gov.in/files/cenetral-pay_document/OM_dt_01_02_18_Eng_0.pdf">S5</a> DoE, <a href="https://doe.gov.in/files/cenetral-pay_document/OM_dt_01_02_18_Eng_0.pdf">1 February 2018 free boarding and lodging clarification</a>.</li>
+<li><a href="https://doe.gov.in/files/whats_new_documents/DoE_OM_dated_29.06.2018_Eng.pdf">S6</a> DoE, <a href="https://doe.gov.in/files/whats_new_documents/DoE_OM_dated_29.06.2018_Eng.pdf">29 June 2018 hotel tax/GST clarification</a>.</li>
+<li><a href="https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf">S7</a> DoE, <a href="https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf">22 December 2020 city-travel self-certification, Levels 9–11</a>.</li>
+<li><a href="https://doe.gov.in/files/circulars_document/Travel_With_in_City_1.pdf">S8</a> DoE, <a href="https://doe.gov.in/files/circulars_document/Travel_With_in_City_1.pdf">17 February 2017 city travel/station transfers clarification</a>; older 6th-CPC context.</li>
+<li><a href="https://mcrhrdi.gov.in/2025/splfc2025/weeks/week6/SPL%20FC%20TA%20RULES%20Nov%2025%20TPN%20Murthy%20%282%29.pdf">S9</a> MCR HRD Institute, <a href="https://mcrhrdi.gov.in/2025/splfc2025/weeks/week6/SPL%20FC%20TA%20RULES%20Nov%2025%20TPN%20Murthy%20%282%29.pdf">2025 TA training slides</a>; educational, not an OM.</li>
+<li><a href="https://www.staffnews.in/2018/09/7th-cpc-travelling-allowance-rules.html">S10</a> <a href="https://www.staffnews.in/2018/09/7th-cpc-travelling-allowance-rules.html">Unofficial reproduction attributed to DoE letter No. 904302/2018-E.IV</a>; original and universal applicability <strong>not verified</strong>.</li>
+<li><a href="https://doe.gov.in/files/circulars_document/TA_Order_dated_23_06_2020_Eng.pdf">S11</a> DoE, <a href="https://doe.gov.in/files/circulars_document/TA_Order_dated_23_06_2020_Eng.pdf">23 June 2020 boarding-pass declaration and annexure</a>.</li>
+<li><a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a> DoE, <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">13 March 2018 TA claim deadline OM</a>.</li>
+<li><a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">S13</a> DoE, <a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">15 June 2021 retirement claim deadline modification</a>.</li>
+<li><a href="https://delhishelterboard.in/main/wp-content/uploads/2014/11/Advances-Compendium-advances.pdf">S14</a> Government-hosted <a href="https://delhishelterboard.in/main/wp-content/uploads/2014/11/Advances-Compendium-advances.pdf">2005 Compendium of Rules on Advances to Government Servants</a>, Rules 2 and 48–51; confirm subsequent amendments. Search-indexed text was used for Rules 50–51 because available PDF extraction stops at page 30.</li>
+<li><a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-061a86e52becc62-73205294.pdf">S15</a> CAG Kerala, <a href="https://cag.gov.in/uploads/ae_circulars_office_orders/CircularsOfficeOrders-061a86e52becc62-73205294.pdf">28 October 2021 office circular on TA claims and tour advances</a>; operational circular, not a universal new OM. Its airline-booking guidance predates later air-booking changes.</li>
+<li><a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">S16</a> DoE, <a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">22 April 2026 Dearness Allowance OM</a>, effective 1 January 2026.</li>
+<li><a href="https://doe.gov.in/orders-circulars/27">S17</a> DoE, <a href="https://doe.gov.in/orders-circulars/27">Dearness Allowance circular index</a>, checked 27 October 2026.</li>
+<li><a href="https://doe.gov.in/files/acts_rules_documents/GFRupdatedupto31012026.pdf">S18</a> DoE, <a href="https://doe.gov.in/files/acts_rules_documents/GFRupdatedupto31012026.pdf">GFR 2017 compilation updated through 31 January 2026</a>, located through the <a href="https://doe.gov.in/orders-circulars/31">DoE index</a>. Available extraction stops before Rule 290; see <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S12</a> and <a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">S13</a> for directly read deadline orders. Later GFR amendments require a further check.</li>
+<li><a href="https://doe.gov.in/files/cenetral-pay_document/TA_DA_English.pdf">S19</a> DoE, <a href="https://doe.gov.in/files/cenetral-pay_document/TA_DA_English.pdf">14 September 2017 TA/DA of non-official committee members</a>.</li>
+<li><a href="https://mowr.nic.in/core/Circulars/2018/Admin_08-08-2018_157.PDF">S20</a> Ministry of Water Resources, <a href="https://mowr.nic.in/core/Circulars/2018/Admin_08-08-2018_157.PDF">2018 forwarding of DoE case-specific online-taxi ID note</a>.</li>
+<li><a href="https://documents.doptcirculars.nic.in/D2/D02est/FAQs%20on%20LTC5hctT.pdf">S21</a> DoPT, <a href="https://documents.doptcirculars.nic.in/D2/D02est/FAQs%20on%20LTC5hctT.pdf">LTC FAQ</a>; a separate subject.</li>
+<li><a href="https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2024/05/202405061031185669.pdf">S22</a> UT Ladakh, <a href="https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2024/05/202405061031185669.pdf">2024 scoped numeric allowance table</a>; corroborative, not a universal order.</li>
+<li><a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">S23</a> DoE, <a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">4 September 2017 Level 13A entitlement</a>.</li>
+</ul>
+<h2 id="further-review-and-use">Further review and use</h2>
+<p>The video is a shorter orientation, not a substitute for these sources. The Roman captions are an automatically timed transliteration of the caption-alignment text (which includes ASR-suggested wording for one number phrase); the English track is a translation. Their wording and timing can be wrong. Use <a href="Caption-Review.html">the human review player</a> to record and export a cue-by-cue review before describing the captions as verified. Later batches will continue the audit; neither this guide nor the series presently covers every applicable rule, exception, GID or DoPT OM.</p></article>
+</main>
+<footer><div class="shell">Batch 03 is an educational resource, not a sanction. Check the latest applicable orders and your controlling/accounts authority before making a claim.</div></footer>
+</body>
+</html>

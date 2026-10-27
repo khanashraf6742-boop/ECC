@@ -1,0 +1,581 @@
+{
+  "disclosure": "UNEDITED AUTOMATIC RECOGNITION OUTPUT. It is not an authoritative transcript: it can translate, omit, hallucinate, or misspell words.",
+  "method": "Whisper small multilingual int8, language hint en, generic Hinglish style prompt, beam 3; no lesson text as prompt.",
+  "sections": [
+    {
+      "audio": "01-scope-trains.mp3",
+      "audio_sha256": "fcae88192a34e3cb64ff44723ba37ba841dc7292ba70d8d911223100febc95cf",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 16.7,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.08,
+              "text": " Hey everyone! Batch 3 mein daily allowance aur claims sikhenge. Fokus hai central government"
+            },
+            {
+              "start": 6.08,
+              "end": 12.26,
+              "text": " civilian official travel. Example, level 7 officer train, hotel aur food alak chek kari."
+            },
+            {
+              "start": 12.78,
+              "end": 16.54,
+              "text": " Har example, hypothetical hai. Latest order aur sanction verify kari."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 16.7,
+          "end": 38.0,
+          "segments": [
+            {
+              "start": 16.7,
+              "end": 23.28,
+              "text": " Eek important correction. Pehle batches mein ye train order miss hua tha. 30 August 2023 ka DOE"
+            },
+            {
+              "start": 23.28,
+              "end": 28.38,
+              "text": " order chek kare. Vande Bharat ki entitlement shatabdi jaisi hai, Hamsafar ki entitlement"
+            },
+            {
+              "start": 28.38,
+              "end": 33.7,
+              "text": " rajdhani jaisi hai. Ye tour, training, transfer aur retirement journeys par apply huta hai."
+            },
+            {
+              "start": 34.14,
+              "end": 37.58,
+              "text": " Example, level 7 ke liye eligible chair card chek karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-food-clock.mp3",
+      "audio_sha256": "cc066709a0bc4588116d6dc2d1f12e3b7207028e04549a85b3576f939cdb2316",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 17.6,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 3.12,
+              "text": " Food component ki liye bill submit nahi karene hote."
+            },
+            {
+              "start": 3.64,
+              "end": 7.12,
+              "text": " Har calendar day ki absence se percentage tha hote hain."
+            },
+            {
+              "start": 7.12,
+              "end": 13.18,
+              "text": " 6 hours se kum par 30%, 6 se 12 par 70, 12 hour se upar 100%."
+            },
+            {
+              "start": 13.18,
+              "end": 17.42,
+              "text": " Example, level 7 par 7 hours ka food saath so rupah hain."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 17.6,
+          "end": 36.04,
+          "segments": [
+            {
+              "start": 17.6,
+              "end": 24.26,
+              "text": " Absence midnight se midnight, har din alag count hoti hai. Example, level 7 tour rath aat se"
+            },
+            {
+              "start": 24.26,
+              "end": 30.96,
+              "text": " subhe paaj tak hai. Pehle din 4 hours, agle din 5 hours hai. Dono par 30%, yani 300 plus"
+            },
+            {
+              "start": 30.96,
+              "end": 35.68,
+              "text": " 300. Total food component 600 rupees ho ga. Baaki conditions check karen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-free-facilities.mp3",
+      "audio_sha256": "842ac3f4b532857403f18280e33173fa4563426c4ca59790e70bf559cef4e160",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 20.0,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.68,
+              "text": " Agar boarding aur lodging do no free ho, special rule dekhayin. Purana 25% daily allowance"
+            },
+            {
+              "start": 6.68,
+              "end": 11.74,
+              "text": " bandh hai, eligible local travel par kharch ho to rules ke according claim ho sakta hai."
+            },
+            {
+              "start": 12.28,
+              "end": 17.86,
+              "text": " Example, official city ride mein 200 rupee kharch huay, entitlement aur proof check karke"
+            },
+            {
+              "start": 17.86,
+              "end": 19.82,
+              "text": " vahi actual expense claim karein."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 20.0,
+          "end": 35.52,
+          "segments": [
+            {
+              "start": 20.0,
+              "end": 23.56,
+              "text": " Lekin sirf free breakfast ko dono free manna sahi nahi hai."
+            },
+            {
+              "start": 23.98,
+              "end": 27.64,
+              "text": " Partial meals ke liye is order se fixed percentage assume na karein."
+            },
+            {
+              "start": 28.04,
+              "end": 31.4,
+              "text": " Example, hotel breakfast free hai dinner khud pe kya."
+            },
+            {
+              "start": 31.9,
+              "end": 35.26,
+              "text": " Specific applicable instruction accounts office se konform karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-hotel-tax.mp3",
+      "audio_sha256": "7678c652d43e7c6fb5af02b1724b9747aedcbca129eea3a182f7f4a246312004",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 17.0,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.26,
+              "text": " Hotel ceiling geek maximum hai. Automatic payment nahi. Level 8 tak general rule mein self-certification"
+            },
+            {
+              "start": 6.26,
+              "end": 12.42,
+              "text": " available hai. Example, level 7 ka eligible room cost 800 rupai hai. Tab room claim 800"
+            },
+            {
+              "start": 12.42,
+              "end": 16.9,
+              "text": " hai. Pura ceiling nahi. Class X city ki higher limit ke liye vouchers chahiye."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 17.0,
+          "end": 34.36,
+          "segments": [
+            {
+              "start": 17.0,
+              "end": 22.54,
+              "text": " Hotel tax is entitlement ke upar reimburs ho sakte hai. GST actual charge ke eligible"
+            },
+            {
+              "start": 22.54,
+              "end": 28.44,
+              "text": " hisse par calculate hota hai. Example, artso room aur hypothetical 12% tax. Tax chiyan"
+            },
+            {
+              "start": 28.44,
+              "end": 33.92,
+              "text": " way, total artso chiyan way. Conditions lagu. Actual GST rate aur invoice account se chek"
+            },
+            {
+              "start": 33.92,
+              "end": 34.08,
+              "text": " karen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "05-city-travel.mp3",
+      "audio_sha256": "7cf72cf31a127f9b770eff4141dcb7c085b344f102d1e15734f1ff2c0e11bbe5",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 17.65,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 3.94,
+              "text": " Level 9-11 ka city travel mein voucher waver hai."
+            },
+            {
+              "start": 4.42,
+              "end": 7.94,
+              "text": " Self-certification mein travel period aur vehicle number likhen."
+            },
+            {
+              "start": 8.5,
+              "end": 13.4,
+              "text": " Example, level 10 officer ki eligible non-AC ride 350 hai."
+            },
+            {
+              "start": 13.88,
+              "end": 17.3,
+              "text": " Claim actual kharj ke liye hai. Ceiling ki fixed payment nahi."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 17.65,
+          "end": 32.12,
+          "segments": [
+            {
+              "start": 17.65,
+              "end": 23.47,
+              "text": " Ek purani clarifikation mein airport transfers alak discuss hain, likin uska aaj ka application"
+            },
+            {
+              "start": 23.47,
+              "end": 29.37,
+              "text": " accounts office se verify karein. Example, airport se hotel aur hotel se meeting alak rides"
+            },
+            {
+              "start": 29.37,
+              "end": 31.85,
+              "text": " hain. Ek hi ride ko do baar kliym mat karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-local-journeys.mp3",
+      "audio_sha256": "0e655956a7e5e23ca9b64e499d3af0ef30ad8cfdb343cce9b90b0c7abec51a34",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 15.5,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 7.6,
+              "text": " Local journey mein normal duty point se distance chekk karen. Government training material 8 km radius ka test batata hai."
+            },
+            {
+              "start": 8.04,
+              "end": 12.22,
+              "text": " Example, temporary office normal office se 8 km ke bahar hai."
+            },
+            {
+              "start": 12.82,
+              "end": 15.34,
+              "text": " Ghar si distance deek kar hi final decision mat liin."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 15.5,
+          "end": 27.37,
+          "segments": [
+            {
+              "start": 15.5,
+              "end": 19.44,
+              "text": " Example, level 7 aur 7 hours par amount 350."
+            },
+            {
+              "start": 20.3,
+              "end": 23.78,
+              "text": " Lekin original 2018 letter ki verified copy nahi mili."
+            },
+            {
+              "start": 24.06,
+              "end": 27.06,
+              "text": " Isli actual claim se pehli account se confirm karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "07-field-foot.mp3",
+      "audio_sha256": "0c3988344465cbc439c5122786bc8e43a3e4ed18d1d0fcbfedb159a044230e9e",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 19.4,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.16,
+              "text": " Specific scientific and data collection fieldwork ke liye clause hai. Rate food component ke"
+            },
+            {
+              "start": 6.16,
+              "end": 10.62,
+              "text": " equivalent ho sakta hai. Head of department ya controlling officer ka approval"
+            },
+            {
+              "start": 10.62,
+              "end": 15.78,
+              "text": " zeroori hai. Example, remote survey mein team foot ya mule se ja rahi hai."
+            },
+            {
+              "start": 16.22,
+              "end": 19.28,
+              "text": " Har ship journey ko automatic extra payment madh samjhen."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 19.4,
+          "end": 34.0,
+          "segments": [
+            {
+              "start": 19.4,
+              "end": 22.76,
+              "text": " Food journey ke liye base rate 12 rupee per kilometre tha."
+            },
+            {
+              "start": 23.24,
+              "end": 26.08,
+              "text": " Pehle 25% increase ke baat 15 rupee hota hai."
+            },
+            {
+              "start": 26.58,
+              "end": 30.22,
+              "text": " Example, eligible journey me 4 kilometre sach mein paidal chale."
+            },
+            {
+              "start": 30.56,
+              "end": 33.76,
+              "text": " 4 into 15 i.e. 60 rupee. Conditions check karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "08-documents.mp3",
+      "audio_sha256": "6a6f9d7c25bfe66f2bde9e13d67dd8f74d3221834620d19f03f9f93a7653b619",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 17.5,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.76,
+              "text": " Claim pack mein sanction, level, journey dates aur tickets rakhhen. Hotel aur city travel ke rules alag hai."
+            },
+            {
+              "start": 7.06,
+              "end": 14.66,
+              "text": " Example, level 10 hotel receipt rakhhen, city ride self-certify karen. Food component ke liye alag food vouchers nahi chahiye."
+            },
+            {
+              "start": 15.04,
+              "end": 17.48,
+              "text": " Submit karne ka acknowledgement bhi samhal kar rakhhen."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 17.5,
+          "end": 32.24,
+          "segments": [
+            {
+              "start": 17.5,
+              "end": 21.16,
+              "text": " Toor ka boarding pass missing hotu prescribe declaration dekhin."
+            },
+            {
+              "start": 21.64,
+              "end": 24.54,
+              "text": " Level 10 aur nichek controlling officer counter-sign kartein."
+            },
+            {
+              "start": 24.74,
+              "end": 28.22,
+              "text": " Example, level 10 officer form bharkar counter-sign karwai."
+            },
+            {
+              "start": 28.7,
+              "end": 31.96,
+              "text": " Actual journey aur no duplicate claim honestly declare karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-claim-deadline.mp3",
+      "audio_sha256": "4d82e5aaa09cf74c96f0e4cbae003a4d16c868a55992bec36407a1956a277c9a",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 19.8,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 3.96,
+              "text": " Tour, transfer aur training claim ki limit 60 days hai."
+            },
+            {
+              "start": 4.38,
+              "end": 7.18,
+              "text": " Retirement claim ke liye order ne 180 days kiye."
+            },
+            {
+              "start": 7.68,
+              "end": 10.84,
+              "text": " Journey ke baat agle din se clock shuru hone ka rule dekhayin."
+            },
+            {
+              "start": 11.28,
+              "end": 15.42,
+              "text": " Example, 1 march tour end ho, claim 2 march due hota hai."
+            },
+            {
+              "start": 15.9,
+              "end": 19.52,
+              "text": " Last day ka weight na karein, late clean par forfeature hosakta hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 19.8,
+          "end": 38.36,
+          "segments": [
+            {
+              "start": 19.8,
+              "end": 25.2,
+              "text": " Apna controlling officer huni par treasury ya cash section dekhhe. Baaki cases mein head of"
+            },
+            {
+              "start": 25.2,
+              "end": 30.34,
+              "text": " office ya controlling officer ko submit karein. Example, officer ne samay par head of office"
+            },
+            {
+              "start": 30.34,
+              "end": 35.84,
+              "text": " ko clean diya. Dated acknowledgement se submission ki date prove ho sakti hai. Eek saalsi zyada"
+            },
+            {
+              "start": 35.84,
+              "end": 38.02,
+              "text": " abiens ka review automatic waiver nahi hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "10-advance-revision.mp3",
+      "audio_sha256": "fdc75d6225b95c1b4708e346df34169ec42e59f8dc252cd6e889ce3071791ec7",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0.0,
+          "end": 18.5,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 3.36,
+              "text": " Toor advance liya hai to ek alag deadline chek karein."
+            },
+            {
+              "start": 3.64,
+              "end": 7.18,
+              "text": " Compendium rule 51 mein 15 days adjustment likha hai."
+            },
+            {
+              "start": 7.62,
+              "end": 11.08,
+              "text": " Toor complete ya uske baat duty resume honeki date dekhain."
+            },
+            {
+              "start": 11.54,
+              "end": 15.46,
+              "text": " Example, advance wala officer jaldi adjustment bill submit karein."
+            },
+            {
+              "start": 15.68,
+              "end": 18.28,
+              "text": " Late hone par recovery ya interest laksakta hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 18.5,
+          "end": 37.32,
+          "segments": [
+            {
+              "start": 18.5,
+              "end": 25.44,
+              "text": " Dearness allowance 50% hune par kuch rates bade. Example, level 7 food 800 se 1000 hua."
+            },
+            {
+              "start": 25.92,
+              "end": 29.56,
+              "text": " 60% DA atte hi, 2ra increase automatikli nahi hota."
+            },
+            {
+              "start": 29.94,
+              "end": 33.44,
+              "text": " Liter order, service rules aur open exceptions verify karein."
+            },
+            {
+              "start": 33.82,
+              "end": 36.9,
+              "text": " Detailed guide aur source ledger me saare examples milenge."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
