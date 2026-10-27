@@ -2,7 +2,21 @@
 
 Clause-reference-first lessons in everyday city Hinglish, with practical hypothetical examples. Selected teacher/questioner voices, important dates at the start and Roman-Hinglish video captions. Review date: **27 October 2026**.
 
-## Latest delivery: Batch 4
+## Latest delivery: Batch 5
+
+**Rules 8–11 — types, blocks, carry-over, destinations and fresh recruits** · master chapters 16–18 · 55 reference-first cards · all five official tables · 1080p · approximately 13:46.
+
+- **[Download / watch Batch 5 video](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-05-video.mp4)**
+- [PDF companion](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-05.pdf)
+- [MP3 audio](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-05-hinglish.mp3)
+- [Roman-Hinglish SRT](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-05-video.srt)
+- [Written lessons and all tables](batch-05.md)
+- [Scope, navigation, source limits and QA](BATCH-05-README.md)
+- [Source corrections and instruction audit](batch-05-source-review.md)
+
+Includes normal two-HT versus HT+AI choice, annual self-only option, conditional carry, outward-date accounting, separate family destinations, all block FAQs 13–20 and fresh FAQs 64–70. Table 4's unused-eighth exception and Table 5's 2033 eighth occasion are explicit. Parent instruments remain partial; wider specialist GIDs continue in their planned batches. Earlier batches remain available unchanged below.
+
+## Batch 4
 
 **Rule 7 — admissibility, leave and special service situations** · master chapters 10–15 · 77 teaching cards · 1080p · approximately 15:48.
 

@@ -1,0 +1,140 @@
+{
+  "selected_voices": {
+    "teacher": "voice-00",
+    "questioner": "voice-01"
+  },
+  "generation_calls": 10,
+  "successful_final_clips": 9,
+  "failed_calls": 1,
+  "retry_note": "Initial clip 05 generation was declined by service; ordinary educational wording was revised in source cards 22\u201328, then generated successfully in the same voice before final alignment. No failed clip was used.",
+  "source_clips_ignored": true,
+  "clips": [
+    {
+      "file": "b5-01.mp3",
+      "voice_id": "voice-01",
+      "text_sha256": "2a59fe778e69e62c69f6773c8e122c2fbbaa761f1b9362bdc4d208007f0e727e",
+      "source_clip_sha256": "b8b8f729b3f3ba589a9597d467840fadf3a4912e7b0c3511b5e11c1d0ddfc222",
+      "card_ids": []
+    },
+    {
+      "file": "b5-02.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "a1c724519c47a72f5e7a7ee60333730db339924d613abe130bc5ca982879fbd5",
+      "source_clip_sha256": "c8a5e287b2557b6170f928d416b62078d31f2251a3760c9b3cfd79341bf006d4",
+      "card_ids": [
+        "B5-01",
+        "B5-02",
+        "B5-03",
+        "B5-04",
+        "B5-05",
+        "B5-06",
+        "B5-07"
+      ]
+    },
+    {
+      "file": "b5-03.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "6004724849924128ab47b132e506f4f6f931b86f0474ef1f9ee27714cccab1a3",
+      "source_clip_sha256": "be570fa47ee716ab2bd3e1b989236d447afb32cfed9ba7f992de73d0545bee77",
+      "card_ids": [
+        "B5-08",
+        "B5-09",
+        "B5-10",
+        "B5-11",
+        "B5-12",
+        "B5-13",
+        "B5-14"
+      ]
+    },
+    {
+      "file": "b5-04.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "6337c509d45d0bfb0cac103b539e2745a943ee0e0226bb78057ef750b785066c",
+      "source_clip_sha256": "4c4021073ee3185b59ac0dfdda73990b110a9d3ab9a3cf3ca1ae4eb4f7fb1b18",
+      "card_ids": [
+        "B5-15",
+        "B5-16",
+        "B5-17",
+        "B5-18",
+        "B5-19",
+        "B5-20",
+        "B5-21"
+      ]
+    },
+    {
+      "file": "b5-05.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "f5d9919da17609c56c29620966edc9fa61668a05d1f28234f0026a5e09fccedb",
+      "source_clip_sha256": "43742cf308334a2e0df4f474da9d1e828e24d66164cd4576c46132c629832e36",
+      "card_ids": [
+        "B5-22",
+        "B5-23",
+        "B5-24",
+        "B5-25",
+        "B5-26",
+        "B5-27",
+        "B5-28"
+      ]
+    },
+    {
+      "file": "b5-06.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "417bb6e6370f559fdb6b8452ced1bb961328c516b39dff344abafc81b9e58565",
+      "source_clip_sha256": "bed1e5dfc00e6bce2c7dbc2de835510c1374810890a2a9475d394005dfe25edd",
+      "card_ids": [
+        "B5-29",
+        "B5-30",
+        "B5-31",
+        "B5-32",
+        "B5-33",
+        "B5-34",
+        "B5-35"
+      ]
+    },
+    {
+      "file": "b5-07.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "c9f330a1e29366ba6274b9cc02bc23bc6a4b6fbd7a67ec7a2b258719fb78d29b",
+      "source_clip_sha256": "25c3867e3fcfc37b0cddd501abc2d0e4f5526fffaf3d40c89491f500e31b0587",
+      "card_ids": [
+        "B5-36",
+        "B5-37",
+        "B5-38",
+        "B5-39",
+        "B5-40",
+        "B5-41",
+        "B5-42"
+      ]
+    },
+    {
+      "file": "b5-08.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "cabfb7d655270a58063aa3c63c1f9c8991065a816686bd6dbdae1d6ad9a1ed9a",
+      "source_clip_sha256": "ae91024862d2fdc27cf6e362340eb3d89d6cd7fcef2044080161370954ed0ef0",
+      "card_ids": [
+        "B5-43",
+        "B5-44",
+        "B5-45",
+        "B5-46",
+        "B5-47",
+        "B5-48",
+        "B5-49"
+      ]
+    },
+    {
+      "file": "b5-09.mp3",
+      "voice_id": "voice-00",
+      "text_sha256": "43ec91a32552469ec1752835ea50c9f6a783805a0eb18968e89a400a36ff583e",
+      "source_clip_sha256": "8d270a007ca464d3452bfc650f5fc4cedc765b79ecceb5c6b8dcaa53a1a0ff17",
+      "card_ids": [
+        "B5-50",
+        "B5-51",
+        "B5-52",
+        "B5-53",
+        "B5-54",
+        "B5-55"
+      ]
+    }
+  ],
+  "verification_limit": "Hashes bind the supplied scripts and actual input clips, not a certified automatic verification that every word was pronounced correctly."
+}

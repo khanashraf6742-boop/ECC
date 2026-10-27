@@ -1,0 +1,228 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Atkinson Hyperlegible,40,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,0,0,0,0,100,100,0,0,1,1,0,2,110,110,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.95,Default,,0,0,0,,Important dates pehle.
+Dialogue: 0,0:00:01.95,0:00:09.06,Default,,0,0,0,,Fresh recruit order, 23 September\N2008; fresh FAQs, 26 September 2014.
+Dialogue: 0,0:00:09.06,0:00:15.06,Default,,0,0,0,,HQ aur NCR clarification, 18 May 2015.
+Dialogue: 0,0:00:15.06,0:00:19.68,Default,,0,0,0,,Current official FAQ, 1 July 2025;\Nconsolidation, 3 September 2025.
+Dialogue: 0,0:00:19.68,0:00:23.18,Default,,0,0,0,,Ye issue dates hain, sab\Nbenefits ki new start dates nahi.
+Dialogue: 0,0:00:23.18,0:00:32.22,Default,,0,0,0,,Aaj 27 October 2026: regular block\N2026 to 2029; Home Town sub-blocks 2026
+Dialogue: 0,0:00:32.22,0:00:34.76,Default,,0,0,0,,to 2027 aur 2028 to 2029.
+Dialogue: 0,0:00:34.76,0:00:38.82,Default,,0,0,0,,Previous eligible LTC\Ncarry ka outward deadline,
+Dialogue: 0,0:00:38.82,0:00:43.51,Default,,0,0,0,,31 December 2026; All India\Npar extra condition hai.
+Dialogue: 0,0:00:43.51,0:00:46.56,Default,,0,0,0,,Fresh recruit: one year\Nservice ke baad calendar slots,
+Dialogue: 0,0:00:46.56,0:00:48.28,Default,,0,0,0,,unused slot par zero grace.
+Dialogue: 0,0:00:48.28,0:00:52.84,Default,,0,0,0,,Sir, exact rule ke baad simple explanation\Naur turant example dijiye; five
+Dialogue: 0,0:00:52.84,0:00:54.12,Default,,0,0,0,,tables bhi cover kijiye.
+Dialogue: 0,0:00:54.12,0:00:57.26,Default,,0,0,0,,Rule eight, clause a, frequency.
+Dialogue: 0,0:00:57.26,0:01:01.00,Default,,0,0,0,,Normal Home Town: two calendar\Nyears ke block mein one occasion.
+Dialogue: 0,0:01:01.00,0:01:06.80,Default,,0,0,0,,Example, Ravi ne 2026 mein li; same\N2026–27 block mein repeat nahi.
+Dialogue: 0,0:01:06.80,0:01:10.08,Default,,0,0,0,,Rule eight a; FAQs nineteen, seventy.
+Dialogue: 0,0:01:10.08,0:01:13.78,Default,,0,0,0,,Distance chhota ho sakta hai; HQ\Naur Home Town alag places hon.
+Dialogue: 0,0:01:13.78,0:01:18.46,Default,,0,0,0,,Example, Neha ka Home Town nearby\Nhai; distance alone se reject nahi.
+Dialogue: 0,0:01:18.46,0:01:20.84,Default,,0,0,0,,Rule eight, clause b, frequency.
+Dialogue: 0,0:01:20.84,0:01:23.85,Default,,0,0,0,,All India: four calendar\Nyears mein one occasion,
+Dialogue: 0,0:01:23.85,0:01:26.22,Default,,0,0,0,,distance chahe jitna ho; India ke andar.
+Dialogue: 0,0:01:26.22,0:01:32.54,Default,,0,0,0,,Example, Ravi 2026 mein Goa gaya;\N2028 ka second All India nahi.
+Dialogue: 0,0:01:32.54,0:01:34.70,Default,,0,0,0,,Rule eight b, proviso, adjustment.
+Dialogue: 0,0:01:34.70,0:01:38.80,Default,,0,0,0,,All India extra third occasion nahi;\None Home Town ko replace karta hai.
+Dialogue: 0,0:01:38.80,0:01:43.80,Default,,0,0,0,,Example, Neha: 2026–27 All India li;\Nusi slot ki extra Home Town nahi.
+Dialogue: 0,0:01:43.80,0:01:47.36,Default,,0,0,0,,Rule eight a and b, normal choice.
+Dialogue: 0,0:01:47.36,0:01:50.00,Default,,0,0,0,,Two Home Town bhi allowed; All\NIndia lena compulsory nahi.
+Dialogue: 0,0:01:50.00,0:01:57.30,Default,,0,0,0,,Example, Ravi: 2026–27 aur 2028–29,\Ndono mein Home Town choose karta hai.
+Dialogue: 0,0:01:57.30,0:01:59.98,Default,,0,0,0,,Rule eight b, proviso, journey date.
+Dialogue: 0,0:01:59.98,0:02:03.86,Default,,0,0,0,,Outward date par Home Town slot\Navailable ho; future slot advance nahi.
+Dialogue: 0,0:02:03.86,0:02:09.30,Default,,0,0,0,,Example, Neha ne 2026–27 Home Town\Nuse ki; 2027 mein usi slot par
+Dialogue: 0,0:02:09.30,0:02:10.67,Default,,0,0,0,,All India nahi.
+Dialogue: 0,0:02:10.67,0:02:13.86,Default,,0,0,0,,Rule eight, clause c, family location.
+Dialogue: 0,0:02:13.86,0:02:15.30,Default,,0,0,0,,Family Home Town par away rehti hai?
+Dialogue: 0,0:02:15.30,0:02:17.05,Default,,0,0,0,,Self-only annual option dekho.
+Dialogue: 0,0:02:17.05,0:02:20.36,Default,,0,0,0,,Example, Delhi-posted Ravi ki family\NJaipur mein; khud yearly visit
+Dialogue: 0,0:02:20.36,0:02:21.36,Default,,0,0,0,,option leta hai.
+Dialogue: 0,0:02:21.36,0:02:24.26,Default,,0,0,0,,Rule eight c, full trade-off.
+Dialogue: 0,0:02:24.26,0:02:28.43,Default,,0,0,0,,Self annual choose kiya, toh family\NLTC aur All India saath nahi.
+Dialogue: 0,0:02:28.43,0:02:33.40,Default,,0,0,0,,Example, Neha annual self Home Town\Nleti hai; extra family Goa claim nahi.
+Dialogue: 0,0:02:33.40,0:02:36.69,Default,,0,0,0,,Rule eight c; Rule ten, distinction.
+Dialogue: 0,0:02:36.69,0:02:38.32,Default,,0,0,0,,Ye normal annual option hai,
+Dialogue: 0,0:02:38.32,0:02:41.72,Default,,0,0,0,,posted-staff package nahi;\Nblanket annual grace nahi.
+Dialogue: 0,0:02:41.72,0:02:45.60,Default,,0,0,0,,Example, Ravi unused annual visit\Nko normal two-year carry bolkar
+Dialogue: 0,0:02:45.60,0:02:46.94,Default,,0,0,0,,add nahi karta.
+Dialogue: 0,0:02:46.94,0:02:48.64,Default,,0,0,0,,Rule nine, separate groups.
+Dialogue: 0,0:02:48.64,0:02:52.14,Default,,0,0,0,,Employee aur family alag groups,\Nalag time travel kar sakte hain.
+Dialogue: 0,0:02:52.14,0:02:57.07,Default,,0,0,0,,Example, Ravi March mein, wife June mein\Nsame available occasion use karti hai.
+Dialogue: 0,0:02:57.07,0:02:58.95,Default,,0,0,0,,Rule nine, outward date.
+Dialogue: 0,0:02:58.95,0:03:02.18,Default,,0,0,0,,Block outward journey se count hota\Nhai, return ya booking se nahi.
+Dialogue: 0,0:03:02.18,0:03:07.76,Default,,0,0,0,,Example, Neha 30 December 2025 nikli,\NJanuary return; charge old block.
+Dialogue: 0,0:03:07.76,0:03:09.51,Default,,0,0,0,,Rule nine, each group ki date.
+Dialogue: 0,0:03:09.51,0:03:13.76,Default,,0,0,0,,Har group ki outward date dekho; January\Nmein eligible old carry bhi possible.
+Dialogue: 0,0:03:13.76,0:03:16.48,Default,,0,0,0,,Example, Ravi December gaya; family January,
+Dialogue: 0,0:03:16.48,0:03:19.04,Default,,0,0,0,,office old carry ya current charge check kare.
+Dialogue: 0,0:03:19.04,0:03:21.60,Default,,0,0,0,,Rule nine, grace-period sentence.
+Dialogue: 0,0:03:21.60,0:03:24.86,Default,,0,0,0,,Grace deadline outward start ki\Nhai; return next year ho sakta hai.
+Dialogue: 0,0:03:24.86,0:03:30.14,Default,,0,0,0,,Example, Neha eligible carry par 31\NDecember 2026 nikli, January return.
+Dialogue: 0,0:03:30.14,0:03:31.76,Default,,0,0,0,,Rule nine; FAQ seven.
+Dialogue: 0,0:03:31.76,0:03:36.04,Default,,0,0,0,,Same sub-block: kisi ka Home Town, kisi\Nka All India allowed, quota ke andar.
+Dialogue: 0,0:03:36.04,0:03:40.06,Default,,0,0,0,,Example, Ravi Home Town gaya; wife\Navailable adjusted slot par Goa jaati hai.
+Dialogue: 0,0:03:40.06,0:03:43.34,Default,,0,0,0,,Rule eleven, family destinations.
+Dialogue: 0,0:03:43.34,0:03:46.86,Default,,0,0,0,,All India par sabko employee ki\Nsame jagah jaana zaroori nahi.
+Dialogue: 0,0:03:46.86,0:03:52.06,Default,,0,0,0,,Example, Ravi Goa gaya; wife apni\Navailable occasion par Kochi jaati hai.
+Dialogue: 0,0:03:52.06,0:03:54.58,Default,,0,0,0,,Rule eleven, read with Rule six.
+Dialogue: 0,0:03:54.58,0:03:58.54,Default,,0,0,0,,Different destination allowed, par\Ndeclaration aur change approval skip nahi.
+Dialogue: 0,0:03:58.54,0:04:03.44,Default,,0,0,0,,Example, Neha Goa se Kochi change\Nchahti hai; required approval leti hai.
+Dialogue: 0,0:04:03.44,0:04:05.67,Default,,0,0,0,,Rule ten, main provision.
+Dialogue: 0,0:04:05.67,0:04:12.14,Default,,0,0,0,,Unused normal LTC: next block ka\Nfirst year, poora next block nahi.
+Dialogue: 0,0:04:12.14,0:04:18.28,Default,,0,0,0,,Example, Ravi ki 2024–25 Home Town\Nunused; outward by 31 December 2026.
+Dialogue: 0,0:04:18.28,0:04:20.06,Default,,0,0,0,,Rule ten, proviso, second sub-block.
+Dialogue: 0,0:04:20.06,0:04:24.54,Default,,0,0,0,,Old All India carry: second sub-block\NHome Town bhi unused carry ho.
+Dialogue: 0,0:04:24.54,0:04:30.68,Default,,0,0,0,,Example, Neha ki 2024–25 Home Town\Nunused; eligible old All India
+Dialogue: 0,0:04:30.68,0:04:33.22,Default,,0,0,0,,2026 mein adjust. Rule\Nten, proviso, used slot.
+Dialogue: 0,0:04:33.22,0:04:36.26,Default,,0,0,0,,Second Home Town already use ki?
+Dialogue: 0,0:04:36.26,0:04:38.82,Default,,0,0,0,,Us par old All India carry nahi.
+Dialogue: 0,0:04:38.82,0:04:43.82,Default,,0,0,0,,Example, Ravi 2024 mein Home Town gaya;\N2026 mein old All India replace nahi.
+Dialogue: 0,0:04:43.82,0:04:46.76,Default,,0,0,0,,Rule ten proviso; FAQ seventeen.
+Dialogue: 0,0:04:46.76,0:04:52.08,Default,,0,0,0,,HQ equals Home Town: unused All India\Ncarry ko Home Town condition nahi.
+Dialogue: 0,0:04:52.08,0:04:57.72,Default,,0,0,0,,Example, Neha Jaipur HQ aur Home\NTown; unused 2022–25 All India,
+Dialogue: 0,0:04:57.72,0:04:59.52,Default,,0,0,0,,eligible 2026 carry.
+Dialogue: 0,0:04:59.52,0:05:01.46,Default,,0,0,0,,Rule ten with Rule nine, ledger.
+Dialogue: 0,0:05:01.46,0:05:04.98,Default,,0,0,0,,Old carry aur new slot alag charge\Nkaro; dono ko new block mat likho.
+Dialogue: 0,0:05:04.98,0:05:13.32,Default,,0,0,0,,Example, Ravi 2026 mein old 2024–25 aur\Nnew 2026–27 Home Town alag use karta hai.
+Dialogue: 0,0:05:13.32,0:05:16.20,Default,,0,0,0,,FAQ eighteen; Rule ten, approval.
+Dialogue: 0,0:05:16.20,0:05:22.18,Default,,0,0,0,,Grace automatically milti hai, lekin\Nregular LTC aur leave approval lena hai.
+Dialogue: 0,0:05:22.18,0:05:25.94,Default,,0,0,0,,Example, Neha regular sanction\Nleti hai; grace ke liye special
+Dialogue: 0,0:05:25.94,0:05:27.58,Default,,0,0,0,,order nahi chahiye.
+Dialogue: 0,0:05:27.58,0:05:29.96,Default,,0,0,0,,FAQ thirteen, current block.
+Dialogue: 0,0:05:29.96,0:05:33.54,Default,,0,0,0,,FAQ issue hua tab 2022–25 block tha.
+Dialogue: 0,0:05:33.54,0:05:36.47,Default,,0,0,0,,Aaj regular block 2026–29 hai.
+Dialogue: 0,0:05:36.47,0:05:42.38,Default,,0,0,0,,Example, Ravi October 2026 form mein\Ncurrent block 2026–29 likhta hai.
+Dialogue: 0,0:05:42.38,0:05:45.12,Default,,0,0,0,,FAQs fourteen, nineteen; Table one.
+Dialogue: 0,0:05:45.12,0:05:48.64,Default,,0,0,0,,Table one: same HQ aur Home Town.
+Dialogue: 0,0:05:48.64,0:05:56.08,Default,,0,0,0,,Blocks 2018–21, 2022–25, 2026–29:\Neach mein one All India only.
+Dialogue: 0,0:05:56.08,0:06:00.66,Default,,0,0,0,,Example, Neha ka HQ aur Home Town Jaipur\Nhai; normal scheme mein separate Home
+Dialogue: 0,0:06:00.66,0:06:02.22,Default,,0,0,0,,Town LTC nahi.
+Dialogue: 0,0:06:02.22,0:06:04.86,Default,,0,0,0,,FAQ fifteen; Table two, option one.
+Dialogue: 0,0:06:04.86,0:06:10.16,Default,,0,0,0,,Table two option one: 2022–23 mein\NHome Town; 2024–25 mein All India.
+Dialogue: 0,0:06:10.16,0:06:18.06,Default,,0,0,0,,Example, Ravi 2026–27 Home Town,\N2028–29 adjusted All India leta hai.
+Dialogue: 0,0:06:18.06,0:06:20.56,Default,,0,0,0,,FAQ fifteen; Table two, option two.
+Dialogue: 0,0:06:20.56,0:06:27.22,Default,,0,0,0,,Table two option two: 2022–23 mein\NAll India; 2024–25 mein Home Town.
+Dialogue: 0,0:06:27.22,0:06:33.32,Default,,0,0,0,,Example, Neha 2026–27 All India,\N2028–29 Home Town choose karti hai.
+Dialogue: 0,0:06:33.32,0:06:35.07,Default,,0,0,0,,FAQ sixteen, case one.
+Dialogue: 0,0:06:35.07,0:06:42.40,Default,,0,0,0,,Case one, 2022 mein: old 2020–21\Ncarry aur new 2022–23 LTC.
+Dialogue: 0,0:06:42.40,0:06:47.02,Default,,0,0,0,,Example, Ravi 2022 mein dono eligible Home\NTown trips alag blocks par charge karta hai.
+Dialogue: 0,0:06:47.02,0:06:48.96,Default,,0,0,0,,FAQ sixteen, case two.
+Dialogue: 0,0:06:48.96,0:06:56.46,Default,,0,0,0,,Case two, 2024 mein: old 2022–23\Ncarry aur new 2024–25 LTC.
+Dialogue: 0,0:06:56.46,0:06:59.94,Default,,0,0,0,,Example, Neha 2024 mein dono\NHome Town trips ke separate block
+Dialogue: 0,0:06:59.94,0:07:01.10,Default,,0,0,0,,records rakhti hai.
+Dialogue: 0,0:07:01.10,0:07:03.89,Default,,0,0,0,,FAQ sixteen, case three.
+Dialogue: 0,0:07:03.89,0:07:11.44,Default,,0,0,0,,2026 example: old 2024–25\Ncarry plus new 2026–27 slot.
+Dialogue: 0,0:07:11.44,0:07:16.70,Default,,0,0,0,,Example, Ravi old Home Town June, new\NHome Town October mein use karta hai.
+Dialogue: 0,0:07:16.70,0:07:19.02,Default,,0,0,0,,FAQ seventeen, case one.
+Dialogue: 0,0:07:19.02,0:07:26.85,Default,,0,0,0,,Same HQ case: 2022 mein old\N2018–21 plus new 2022–25 All India.
+Dialogue: 0,0:07:26.85,0:07:32.74,Default,,0,0,0,,Example, Neha ne 2022 mein old aur\Nnew eligible All India alag use kiye.
+Dialogue: 0,0:07:32.74,0:07:35.18,Default,,0,0,0,,FAQ seventeen, case two.
+Dialogue: 0,0:07:35.18,0:07:42.58,Default,,0,0,0,,Same HQ: 2026 mein old 2022–25 aur\Nnew 2026–29 All India possible.
+Dialogue: 0,0:07:42.58,0:07:47.86,Default,,0,0,0,,Example, Ravi old carry June mein, new\Nblock Goa trip October mein leta hai.
+Dialogue: 0,0:07:47.86,0:07:50.04,Default,,0,0,0,,FAQ eighteen, block extension.
+Dialogue: 0,0:07:50.04,0:07:54.90,Default,,0,0,0,,Grace old slot ke liye hai; new\Nregular block calendar shift nahi hota.
+Dialogue: 0,0:07:54.90,0:08:00.62,Default,,0,0,0,,Example, Neha old carry 2026 mein leti\Nhai; new block phir bhi 2026–29 hi.
+Dialogue: 0,0:08:00.62,0:08:03.70,Default,,0,0,0,,FAQ twenty, Delhi NCR.
+Dialogue: 0,0:08:03.70,0:08:08.58,Default,,0,0,0,,Other-State NCR town ko Delhi HQ mat\Nmaano; accepted Home Town check karo.
+Dialogue: 0,0:08:08.58,0:08:13.50,Default,,0,0,0,,Example, Delhi HQ, accepted Home Town\NMeerut: Neha eligible Home Town claim
+Dialogue: 0,0:08:13.50,0:08:14.53,Default,,0,0,0,,check karti hai.
+Dialogue: 0,0:08:14.53,0:08:16.52,Default,,0,0,0,,Rule ten, Government decision one.
+Dialogue: 0,0:08:16.52,0:08:24.48,Default,,0,0,0,,2002–03 Home Town, linked 2002–05 All\NIndia: one-time extension 30 June 2005
+Dialogue: 0,0:08:24.48,0:08:26.08,Default,,0,0,0,,tak thi; ab expired.
+Dialogue: 0,0:08:26.08,0:08:31.44,Default,,0,0,0,,Example, Ravi 2026 claim par old June\N2005 concession apply nahi karta.
+Dialogue: 0,0:08:31.44,0:08:34.76,Default,,0,0,0,,FAQ sixty four, fresh pattern.
+Dialogue: 0,0:08:34.76,0:08:36.88,Default,,0,0,0,,First two personal four-year\Nblocks: three Home Town,
+Dialogue: 0,0:08:36.88,0:08:39.16,Default,,0,0,0,,one All India; phir same repeat.
+Dialogue: 0,0:08:39.16,0:08:43.60,Default,,0,0,0,,Example, Neha ka first slot Home Town\Nhai; first year Goa All India nahi.
+Dialogue: 0,0:08:43.60,0:08:46.96,Default,,0,0,0,,FAQ sixty five, initial appointment.
+Dialogue: 0,0:08:46.96,0:08:50.26,Default,,0,0,0,,Government job change se initial\Njoining clock reset nahi hoti.
+Dialogue: 0,0:08:50.26,0:08:54.40,Default,,0,0,0,,Example, Ravi technical resignation\Nse new post join karta hai; fresh
+Dialogue: 0,0:08:54.40,0:08:56.18,Default,,0,0,0,,count restart nahi.
+Dialogue: 0,0:08:56.18,0:08:59.07,Default,,0,0,0,,FAQ sixty five; Rule seven one.
+Dialogue: 0,0:08:59.07,0:09:03.35,Default,,0,0,0,,Joining day se LTC nahi; one year\Nservice complete hone par first slot.
+Dialogue: 0,0:09:03.35,0:09:09.04,Default,,0,0,0,,Example, Neha joined 1 January\N2025; eligible 1 January 2026,
+Dialogue: 0,0:09:09.04,0:09:10.20,Default,,0,0,0,,joining year NIL.
+Dialogue: 0,0:09:10.20,0:09:13.99,Default,,0,0,0,,FAQs sixty four, sixty five; official tables.
+Dialogue: 0,0:09:13.99,0:09:17.58,Default,,0,0,0,,Joining clock aur eligible\Ncalendar slots alag; official eight
+Dialogue: 0,0:09:17.58,0:09:19.08,Default,,0,0,0,,slots follow karo.
+Dialogue: 0,0:09:19.08,0:09:25.53,Default,,0,0,0,,Example, Ravi joined January 2025;\Neighth All India 2033 hai, 2032 nahi.
+Dialogue: 0,0:09:25.53,0:09:28.24,Default,,0,0,0,,FAQ sixty six, normal option.
+Dialogue: 0,0:09:28.24,0:09:31.84,Default,,0,0,0,,Normal scheme choose ki, toh us\Nfour-year block mein fresh pattern nahi.
+Dialogue: 0,0:09:31.84,0:09:35.72,Default,,0,0,0,,Example, Neha normal option leti\Nhai; same block mein extra fresh
+Dialogue: 0,0:09:35.72,0:09:37.00,Default,,0,0,0,,annual slot nahi.
+Dialogue: 0,0:09:37.00,0:09:38.46,Default,,0,0,0,,FAQ sixty seven, no carry.
+Dialogue: 0,0:09:38.46,0:09:41.11,Default,,0,0,0,,Fresh annual slot unused?
+Dialogue: 0,0:09:41.11,0:09:43.76,Default,,0,0,0,,Year-end lapse; next year extra slot nahi.
+Dialogue: 0,0:09:43.76,0:09:49.78,Default,,0,0,0,,Example, Ravi 2026 Home Town skip karta\Nhai; 2027 mein two slots nahi milte.
+Dialogue: 0,0:09:49.78,0:09:52.70,Default,,0,0,0,,FAQ sixty eight a; Table four, used eighth.
+Dialogue: 0,0:09:52.70,0:09:57.43,Default,,0,0,0,,Second sub-block start par transition,\Neighth All India used: Home Town only.
+Dialogue: 0,0:09:57.43,0:10:03.30,Default,,0,0,0,,Example, Neha eighth All India 2023\Nmein leti hai; 2024–25 mein Home Town.
+Dialogue: 0,0:10:03.30,0:10:06.16,Default,,0,0,0,,Table four, explanation two, forgone eighth.
+Dialogue: 0,0:10:06.16,0:10:08.04,Default,,0,0,0,,Eighth All India unused thi?
+Dialogue: 0,0:10:08.04,0:10:10.70,Default,,0,0,0,,Following sub-block mein Home\NTown ya All India choice.
+Dialogue: 0,0:10:10.70,0:10:16.18,Default,,0,0,0,,Example, Ravi 2023 eighth skip karta\Nhai; 2024–25 mein All India choose
+Dialogue: 0,0:10:16.18,0:10:16.90,Default,,0,0,0,,kar sakta hai.
+Dialogue: 0,0:10:16.90,0:10:19.88,Default,,0,0,0,,FAQ sixty eight b; Table three.
+Dialogue: 0,0:10:19.88,0:10:24.28,Default,,0,0,0,,Second sub-block ke second year par\Ntransition: illustrated year NIL.
+Dialogue: 0,0:10:24.28,0:10:31.76,Default,,0,0,0,,Example, Neha ki eighth 2024; 2025\Nnew regular LTC nahi, 2026 se normal.
+Dialogue: 0,0:10:31.76,0:10:35.16,Default,,0,0,0,,FAQ sixty eight c; Table five.
+Dialogue: 0,0:10:35.16,0:10:39.14,Default,,0,0,0,,New full regular block start ho, toh\Nusual normal entitlement se transition.
+Dialogue: 0,0:10:39.14,0:10:45.24,Default,,0,0,0,,Example, Ravi ki eighth 2033;\N2034–37 mein normal block rights,
+Dialogue: 0,0:10:45.24,0:10:46.62,Default,,0,0,0,,rules unchanged hon toh.
+Dialogue: 0,0:10:46.62,0:10:49.70,Default,,0,0,0,,FAQ sixty nine; Table four, explanation one.
+Dialogue: 0,0:10:49.70,0:10:54.88,Default,,0,0,0,,31 December joiner: next year 31\NDecember first slot ka only day.
+Dialogue: 0,0:10:54.88,0:11:00.48,Default,,0,0,0,,Example, Neha joined 2015 end;\Nfirst outward slot 31 December
+Dialogue: 0,0:11:00.48,0:11:02.12,Default,,0,0,0,,2016, warna lapse.
+Dialogue: 0,0:11:02.12,0:11:04.72,Default,,0,0,0,,FAQ seventy, same HQ fresh recruit.
+Dialogue: 0,0:11:04.72,0:11:09.84,Default,,0,0,0,,Fresh HQ equals Home Town: only fourth\Naur eighth All India slots usable.
+Dialogue: 0,0:11:09.84,0:11:14.32,Default,,0,0,0,,Example, Ravi ki first three Home Town\Nslots unusable; first-year All India nahi.
+Dialogue: 0,0:11:14.32,0:11:16.78,Default,,0,0,0,,Table three, gate aur first three slots.
+Dialogue: 0,0:11:16.78,0:11:20.42,Default,,0,0,0,,Joined 1 September 2016;\NNIL through 31 August 2017.
+Dialogue: 0,0:11:20.42,0:11:24.20,Default,,0,0,0,,Home Town: 1 September to\NDecember 2017, phir 2018, 2019.
+Dialogue: 0,0:11:24.20,0:11:33.18,Default,,0,0,0,,Example, Neha joined September 2016;\NAugust 2017 journey abhi eligible nahi.
+Dialogue: 0,0:11:33.18,0:11:35.50,Default,,0,0,0,,Table three, slots four to eight.
+Dialogue: 0,0:11:35.50,0:11:41.51,Default,,0,0,0,,Full years January to December: All\NIndia 2020; Home Town 2021, 2022,
+Dialogue: 0,0:11:41.51,0:11:44.24,Default,,0,0,0,,2023; All India 2024.
+Dialogue: 0,0:11:44.24,0:11:48.54,Default,,0,0,0,,Example, Neha seventh slot 2023 mein\NGoa All India nahi choose karti.
+Dialogue: 0,0:11:48.54,0:11:51.06,Default,,0,0,0,,Table three, final rows aur explanations.
+Dialogue: 0,0:11:51.06,0:11:54.88,Default,,0,0,0,,Table three end: 2025 NIL; normal 2026–29.
+Dialogue: 0,0:11:54.88,0:11:57.46,Default,,0,0,0,,Calendar slots eligibility se.
+Dialogue: 0,0:11:57.46,0:12:02.64,Default,,0,0,0,,Example, Neha 2025 mein new regular\Ntrip book nahi karti; 2026 entitlement
+Dialogue: 0,0:12:02.64,0:12:03.62,Default,,0,0,0,,check karti hai.
+Dialogue: 0,0:12:03.62,0:12:07.13,Default,,0,0,0,,Table four, gate aur first occasion.
+Dialogue: 0,0:12:07.13,0:12:12.72,Default,,0,0,0,,Joined 31 December 2015; NIL\Nthrough 30 December 2016.
+Dialogue: 0,0:12:12.72,0:12:15.98,Default,,0,0,0,,First Home Town: only 31 December 2016.
+Dialogue: 0,0:12:15.98,0:12:22.00,Default,,0,0,0,,Example, Ravi first slot miss karta hai;\N2017 mein expired first add nahi hoti.
+Dialogue: 0,0:12:22.00,0:12:24.64,Default,,0,0,0,,Table four, slots two to eight.
+Dialogue: 0,0:12:24.64,0:12:31.54,Default,,0,0,0,,Home Town 2017, 2018; All India\N2019; Home Town 2020, 2021,
+Dialogue: 0,0:12:31.54,0:12:35.10,Default,,0,0,0,,2022; All India 2023.
+Dialogue: 0,0:12:35.10,0:12:40.74,Default,,0,0,0,,Example, Ravi fourth All India 2019 mein\Nuse karta hai; third 2018 mein nahi.
+Dialogue: 0,0:12:40.74,0:12:43.57,Default,,0,0,0,,Table four, transition aur explanation two.
+Dialogue: 0,0:12:43.57,0:12:49.64,Default,,0,0,0,,2024–25 Home Town; eighth forgone\Nho toh All India choice bhi.
+Dialogue: 0,0:12:49.64,0:12:51.93,Default,,0,0,0,,Normal 2026–29.
+Dialogue: 0,0:12:51.93,0:12:56.48,Default,,0,0,0,,Example, Ravi eighth skip karta\Nhai; 2024–25 choice ko annual
+Dialogue: 0,0:12:56.48,0:12:57.36,Default,,0,0,0,,carry nahi bolta.
+Dialogue: 0,0:12:57.36,0:13:00.42,Default,,0,0,0,,Table five, gate aur first three slots.
+Dialogue: 0,0:13:00.42,0:13:09.40,Default,,0,0,0,,Table five: 2025 NIL; eligible 1 January\N2026; Home Town 2026, 2027, 2028.
+Dialogue: 0,0:13:09.40,0:13:15.24,Default,,0,0,0,,Example, Neha joined January 2025;\N2026 first Home Town available,
+Dialogue: 0,0:13:15.24,0:13:16.82,Default,,0,0,0,,other conditions ke saath.
+Dialogue: 0,0:13:16.82,0:13:19.14,Default,,0,0,0,,Table five, slots four to eight.
+Dialogue: 0,0:13:19.14,0:13:25.12,Default,,0,0,0,,All India 2029; Home Town 2030,\N2031, 2032; All India 2033,
+Dialogue: 0,0:13:25.12,0:13:26.18,Default,,0,0,0,,rules unchanged hon toh.
+Dialogue: 0,0:13:26.18,0:13:31.90,Default,,0,0,0,,Example, Neha ke 2032 seventh slot\Nko eighth All India mat banao.
+Dialogue: 0,0:13:31.90,0:13:35.43,Default,,0,0,0,,Table five, final row aur explanation.
+Dialogue: 0,0:13:35.43,0:13:40.82,Default,,0,0,0,,2034–37 normal block hai; fresh pattern\Nrepeat nahi, future rules verify karo.
+Dialogue: 0,0:13:40.82,0:13:44.72,Default,,0,0,0,,Example, Neha 2034 normal Home\NTown ya adjusted All India rights
+Dialogue: 0,0:13:44.72,0:13:45.80,Default,,0,0,0,,check karti hai.

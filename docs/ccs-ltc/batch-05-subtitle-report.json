@@ -1,0 +1,1585 @@
+{
+  "source_script_sha256": "6b2bf456b2983878c0d72f985e3d1c1017fec309f0c215f191ede7d0022cfe90",
+  "source_script_file": "batch-05-narration.json",
+  "alignment": "chapter-local MFCC / DTW against Hindi eSpeak NG reference speech",
+  "frame_step_seconds": 0.02,
+  "timing_precision_note": "20ms analysis grid is not a verified 20ms synchronization-accuracy guarantee. Automatic phrase alignment, not certified word-level timing.",
+  "language": "Roman-script city Hinglish; reviewed reversible transliteration, not translation",
+  "chapters": [
+    {
+      "chapter": 1,
+      "dtw_normalized_distance": 0.5737826308823457,
+      "reference_seconds": 55.639,
+      "raw_cue_count": 13,
+      "cue_count": 13
+    },
+    {
+      "chapter": 2,
+      "dtw_normalized_distance": 0.5768155407755594,
+      "reference_seconds": 93.059,
+      "raw_cue_count": 25,
+      "cue_count": 25
+    },
+    {
+      "chapter": 3,
+      "dtw_normalized_distance": 0.5609361961581247,
+      "reference_seconds": 84.577,
+      "raw_cue_count": 24,
+      "cue_count": 24
+    },
+    {
+      "chapter": 4,
+      "dtw_normalized_distance": 0.562425972914373,
+      "reference_seconds": 94.203,
+      "raw_cue_count": 24,
+      "cue_count": 23
+    },
+    {
+      "chapter": 5,
+      "dtw_normalized_distance": 0.5753440021549933,
+      "reference_seconds": 109.788,
+      "raw_cue_count": 27,
+      "cue_count": 26
+    },
+    {
+      "chapter": 6,
+      "dtw_normalized_distance": 0.580165305172616,
+      "reference_seconds": 100.085,
+      "raw_cue_count": 24,
+      "cue_count": 24
+    },
+    {
+      "chapter": 7,
+      "dtw_normalized_distance": 0.563148590756285,
+      "reference_seconds": 98.955,
+      "raw_cue_count": 28,
+      "cue_count": 28
+    },
+    {
+      "chapter": 8,
+      "dtw_normalized_distance": 0.5738133307877258,
+      "reference_seconds": 112.254,
+      "raw_cue_count": 28,
+      "cue_count": 27
+    },
+    {
+      "chapter": 9,
+      "dtw_normalized_distance": 0.5916088954644724,
+      "reference_seconds": 102.846,
+      "raw_cue_count": 25,
+      "cue_count": 25
+    }
+  ],
+  "cues": [
+    {
+      "chapter": 1,
+      "start": 0.0,
+      "end": 1.95,
+      "text": "Important dates pehle.",
+      "spoken_text": "Important dates पहले."
+    },
+    {
+      "chapter": 1,
+      "start": 1.95,
+      "end": 9.06,
+      "text": "Fresh recruit order, 23 September 2008; fresh FAQs, 26 September 2014.",
+      "spoken_text": "Fresh recruit order, 23 September 2008; fresh FAQs, 26 September 2014."
+    },
+    {
+      "chapter": 1,
+      "start": 9.06,
+      "end": 15.06,
+      "text": "HQ aur NCR clarification, 18 May 2015.",
+      "spoken_text": "HQ और NCR clarification, 18 May 2015."
+    },
+    {
+      "chapter": 1,
+      "start": 15.06,
+      "end": 19.68,
+      "text": "Current official FAQ, 1 July 2025; consolidation, 3 September 2025.",
+      "spoken_text": "Current official FAQ, 1 July 2025; consolidation, 3 September 2025."
+    },
+    {
+      "chapter": 1,
+      "start": 19.68,
+      "end": 23.18,
+      "text": "Ye issue dates hain, sab benefits ki new start dates nahi.",
+      "spoken_text": "Ye issue dates हैं, सब benefits की new start dates नहीं."
+    },
+    {
+      "chapter": 1,
+      "start": 23.18,
+      "end": 32.22,
+      "text": "Aaj 27 October 2026: regular block 2026 to 2029; Home Town sub-blocks 2026",
+      "spoken_text": "Aaj 27 October 2026: regular block 2026 to 2029; Home Town sub-blocks 2026"
+    },
+    {
+      "chapter": 1,
+      "start": 32.22,
+      "end": 34.76,
+      "text": "to 2027 aur 2028 to 2029.",
+      "spoken_text": "to 2027 और 2028 to 2029."
+    },
+    {
+      "chapter": 1,
+      "start": 34.76,
+      "end": 38.82,
+      "text": "Previous eligible LTC carry ka outward deadline,",
+      "spoken_text": "Previous eligible LTC carry का outward deadline,"
+    },
+    {
+      "chapter": 1,
+      "start": 38.82,
+      "end": 43.51,
+      "text": "31 December 2026; All India par extra condition hai.",
+      "spoken_text": "31 December 2026; All India पर extra condition है."
+    },
+    {
+      "chapter": 1,
+      "start": 43.51,
+      "end": 46.56,
+      "text": "Fresh recruit: one year service ke baad calendar slots,",
+      "spoken_text": "Fresh recruit: one year service के बाद calendar slots,"
+    },
+    {
+      "chapter": 1,
+      "start": 46.56,
+      "end": 48.28,
+      "text": "unused slot par zero grace.",
+      "spoken_text": "unused slot पर zero grace."
+    },
+    {
+      "chapter": 1,
+      "start": 48.28,
+      "end": 52.84,
+      "text": "Sir, exact rule ke baad simple explanation aur turant example dijiye; five",
+      "spoken_text": "Sir, exact rule के बाद simple explanation और तुरंत example दीजिए; five"
+    },
+    {
+      "chapter": 1,
+      "start": 52.84,
+      "end": 54.12,
+      "text": "tables bhi cover kijiye.",
+      "spoken_text": "tables भी cover कीजिए."
+    },
+    {
+      "chapter": 2,
+      "start": 54.12,
+      "end": 57.26,
+      "text": "Rule eight, clause a, frequency.",
+      "spoken_text": "Rule eight, clause a, frequency."
+    },
+    {
+      "chapter": 2,
+      "start": 57.26,
+      "end": 61.0,
+      "text": "Normal Home Town: two calendar years ke block mein one occasion.",
+      "spoken_text": "Normal Home Town: two calendar years के block में one occasion."
+    },
+    {
+      "chapter": 2,
+      "start": 61.0,
+      "end": 66.8,
+      "text": "Example, Ravi ne 2026 mein li; same 2026–27 block mein repeat nahi.",
+      "spoken_text": "Example, Ravi ने 2026 में ली; same 2026–27 block में repeat नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 66.8,
+      "end": 70.08,
+      "text": "Rule eight a; FAQs nineteen, seventy.",
+      "spoken_text": "Rule eight a; FAQs nineteen, seventy."
+    },
+    {
+      "chapter": 2,
+      "start": 70.08,
+      "end": 73.78,
+      "text": "Distance chhota ho sakta hai; HQ aur Home Town alag places hon.",
+      "spoken_text": "Distance छोटा हो सकता है; HQ और Home Town अलग places हों."
+    },
+    {
+      "chapter": 2,
+      "start": 73.78,
+      "end": 78.46,
+      "text": "Example, Neha ka Home Town nearby hai; distance alone se reject nahi.",
+      "spoken_text": "Example, Neha का Home Town nearby है; distance alone से reject नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 78.46,
+      "end": 80.84,
+      "text": "Rule eight, clause b, frequency.",
+      "spoken_text": "Rule eight, clause b, frequency."
+    },
+    {
+      "chapter": 2,
+      "start": 80.84,
+      "end": 83.85,
+      "text": "All India: four calendar years mein one occasion,",
+      "spoken_text": "All India: four calendar years में one occasion,"
+    },
+    {
+      "chapter": 2,
+      "start": 83.85,
+      "end": 86.22,
+      "text": "distance chahe jitna ho; India ke andar.",
+      "spoken_text": "distance चाहे जितना हो; India के अंदर."
+    },
+    {
+      "chapter": 2,
+      "start": 86.22,
+      "end": 92.54,
+      "text": "Example, Ravi 2026 mein Goa gaya; 2028 ka second All India nahi.",
+      "spoken_text": "Example, Ravi 2026 में Goa गया; 2028 का second All India नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 92.54,
+      "end": 94.7,
+      "text": "Rule eight b, proviso, adjustment.",
+      "spoken_text": "Rule eight b, proviso, adjustment."
+    },
+    {
+      "chapter": 2,
+      "start": 94.7,
+      "end": 98.8,
+      "text": "All India extra third occasion nahi; one Home Town ko replace karta hai.",
+      "spoken_text": "All India extra third occasion नहीं; one Home Town को replace करता है."
+    },
+    {
+      "chapter": 2,
+      "start": 98.8,
+      "end": 103.8,
+      "text": "Example, Neha: 2026–27 All India li; usi slot ki extra Home Town nahi.",
+      "spoken_text": "Example, Neha: 2026–27 All India ली; उसी slot की extra Home Town नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 103.8,
+      "end": 107.36,
+      "text": "Rule eight a and b, normal choice.",
+      "spoken_text": "Rule eight a and b, normal choice."
+    },
+    {
+      "chapter": 2,
+      "start": 107.36,
+      "end": 110.0,
+      "text": "Two Home Town bhi allowed; All India lena compulsory nahi.",
+      "spoken_text": "Two Home Town भी allowed; All India लेना compulsory नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 110.0,
+      "end": 117.3,
+      "text": "Example, Ravi: 2026–27 aur 2028–29, dono mein Home Town choose karta hai.",
+      "spoken_text": "Example, Ravi: 2026–27 और 2028–29, दोनों में Home Town choose करता है."
+    },
+    {
+      "chapter": 2,
+      "start": 117.3,
+      "end": 119.98,
+      "text": "Rule eight b, proviso, journey date.",
+      "spoken_text": "Rule eight b, proviso, journey date."
+    },
+    {
+      "chapter": 2,
+      "start": 119.98,
+      "end": 123.86,
+      "text": "Outward date par Home Town slot available ho; future slot advance nahi.",
+      "spoken_text": "Outward date पर Home Town slot available हो; future slot advance नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 123.86,
+      "end": 129.3,
+      "text": "Example, Neha ne 2026–27 Home Town use ki; 2027 mein usi slot par",
+      "spoken_text": "Example, Neha ने 2026–27 Home Town use की; 2027 में उसी slot पर"
+    },
+    {
+      "chapter": 2,
+      "start": 129.3,
+      "end": 130.67,
+      "text": "All India nahi.",
+      "spoken_text": "All India नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 130.67,
+      "end": 133.86,
+      "text": "Rule eight, clause c, family location.",
+      "spoken_text": "Rule eight, clause c, family location."
+    },
+    {
+      "chapter": 2,
+      "start": 133.86,
+      "end": 135.3,
+      "text": "Family Home Town par away rehti hai?",
+      "spoken_text": "Family Home Town पर away रहती है?"
+    },
+    {
+      "chapter": 2,
+      "start": 135.3,
+      "end": 137.05,
+      "text": "Self-only annual option dekho.",
+      "spoken_text": "Self-only annual option देखो."
+    },
+    {
+      "chapter": 2,
+      "start": 137.05,
+      "end": 140.36,
+      "text": "Example, Delhi-posted Ravi ki family Jaipur mein; khud yearly visit",
+      "spoken_text": "Example, Delhi-posted Ravi की family Jaipur में; खुद yearly visit"
+    },
+    {
+      "chapter": 2,
+      "start": 140.36,
+      "end": 141.36,
+      "text": "option leta hai.",
+      "spoken_text": "option लेता है."
+    },
+    {
+      "chapter": 3,
+      "start": 141.36,
+      "end": 144.26,
+      "text": "Rule eight c, full trade-off.",
+      "spoken_text": "Rule eight c, full trade-off."
+    },
+    {
+      "chapter": 3,
+      "start": 144.26,
+      "end": 148.43,
+      "text": "Self annual choose kiya, toh family LTC aur All India saath nahi.",
+      "spoken_text": "Self annual choose किया, तो family LTC और All India साथ नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 148.43,
+      "end": 153.4,
+      "text": "Example, Neha annual self Home Town leti hai; extra family Goa claim nahi.",
+      "spoken_text": "Example, Neha annual self Home Town लेती है; extra family Goa claim नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 153.4,
+      "end": 156.69,
+      "text": "Rule eight c; Rule ten, distinction.",
+      "spoken_text": "Rule eight c; Rule ten, distinction."
+    },
+    {
+      "chapter": 3,
+      "start": 156.69,
+      "end": 158.32,
+      "text": "Ye normal annual option hai,",
+      "spoken_text": "Ye normal annual option है,"
+    },
+    {
+      "chapter": 3,
+      "start": 158.32,
+      "end": 161.72,
+      "text": "posted-staff package nahi; blanket annual grace nahi.",
+      "spoken_text": "posted-staff package नहीं; blanket annual grace नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 161.72,
+      "end": 165.6,
+      "text": "Example, Ravi unused annual visit ko normal two-year carry bolkar",
+      "spoken_text": "Example, Ravi unused annual visit को normal two-year carry बोलकर"
+    },
+    {
+      "chapter": 3,
+      "start": 165.6,
+      "end": 166.94,
+      "text": "add nahi karta.",
+      "spoken_text": "add नहीं करता."
+    },
+    {
+      "chapter": 3,
+      "start": 166.94,
+      "end": 168.64,
+      "text": "Rule nine, separate groups.",
+      "spoken_text": "Rule nine, separate groups."
+    },
+    {
+      "chapter": 3,
+      "start": 168.64,
+      "end": 172.14,
+      "text": "Employee aur family alag groups, alag time travel kar sakte hain.",
+      "spoken_text": "Employee और family अलग groups, अलग time travel कर सकते हैं."
+    },
+    {
+      "chapter": 3,
+      "start": 172.14,
+      "end": 177.07,
+      "text": "Example, Ravi March mein, wife June mein same available occasion use karti hai.",
+      "spoken_text": "Example, Ravi March में, wife June में same available occasion use करती है."
+    },
+    {
+      "chapter": 3,
+      "start": 177.07,
+      "end": 178.95,
+      "text": "Rule nine, outward date.",
+      "spoken_text": "Rule nine, outward date."
+    },
+    {
+      "chapter": 3,
+      "start": 178.95,
+      "end": 182.18,
+      "text": "Block outward journey se count hota hai, return ya booking se nahi.",
+      "spoken_text": "Block outward journey से count होता है, return या booking से नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 182.18,
+      "end": 187.76,
+      "text": "Example, Neha 30 December 2025 nikli, January return; charge old block.",
+      "spoken_text": "Example, Neha 30 December 2025 निकली, January return; charge old block."
+    },
+    {
+      "chapter": 3,
+      "start": 187.76,
+      "end": 189.51,
+      "text": "Rule nine, each group ki date.",
+      "spoken_text": "Rule nine, each group की date."
+    },
+    {
+      "chapter": 3,
+      "start": 189.51,
+      "end": 193.76,
+      "text": "Har group ki outward date dekho; January mein eligible old carry bhi possible.",
+      "spoken_text": "Har group की outward date देखो; January में eligible old carry भी possible."
+    },
+    {
+      "chapter": 3,
+      "start": 193.76,
+      "end": 196.48,
+      "text": "Example, Ravi December gaya; family January,",
+      "spoken_text": "Example, Ravi December गया; family January,"
+    },
+    {
+      "chapter": 3,
+      "start": 196.48,
+      "end": 199.04,
+      "text": "office old carry ya current charge check kare.",
+      "spoken_text": "office old carry या current charge check करे."
+    },
+    {
+      "chapter": 3,
+      "start": 199.04,
+      "end": 201.6,
+      "text": "Rule nine, grace-period sentence.",
+      "spoken_text": "Rule nine, grace-period sentence."
+    },
+    {
+      "chapter": 3,
+      "start": 201.6,
+      "end": 204.86,
+      "text": "Grace deadline outward start ki hai; return next year ho sakta hai.",
+      "spoken_text": "Grace deadline outward start की है; return next year हो सकता है."
+    },
+    {
+      "chapter": 3,
+      "start": 204.86,
+      "end": 210.14,
+      "text": "Example, Neha eligible carry par 31 December 2026 nikli, January return.",
+      "spoken_text": "Example, Neha eligible carry पर 31 December 2026 निकली, January return."
+    },
+    {
+      "chapter": 3,
+      "start": 210.14,
+      "end": 211.76,
+      "text": "Rule nine; FAQ seven.",
+      "spoken_text": "Rule nine; FAQ seven."
+    },
+    {
+      "chapter": 3,
+      "start": 211.76,
+      "end": 216.04,
+      "text": "Same sub-block: kisi ka Home Town, kisi ka All India allowed, quota ke andar.",
+      "spoken_text": "Same sub-block: किसी का Home Town, किसी का All India allowed, quota के अंदर."
+    },
+    {
+      "chapter": 3,
+      "start": 216.04,
+      "end": 220.06,
+      "text": "Example, Ravi Home Town gaya; wife available adjusted slot par Goa jaati hai.",
+      "spoken_text": "Example, Ravi Home Town गया; wife available adjusted slot पर Goa जाती है."
+    },
+    {
+      "chapter": 4,
+      "start": 220.06,
+      "end": 223.34,
+      "text": "Rule eleven, family destinations.",
+      "spoken_text": "Rule eleven, family destinations."
+    },
+    {
+      "chapter": 4,
+      "start": 223.34,
+      "end": 226.86,
+      "text": "All India par sabko employee ki same jagah jaana zaroori nahi.",
+      "spoken_text": "All India पर सबको employee की same जगह जाना जरूरी नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 226.86,
+      "end": 232.06,
+      "text": "Example, Ravi Goa gaya; wife apni available occasion par Kochi jaati hai.",
+      "spoken_text": "Example, Ravi Goa गया; wife अपनी available occasion पर Kochi जाती है."
+    },
+    {
+      "chapter": 4,
+      "start": 232.06,
+      "end": 234.58,
+      "text": "Rule eleven, read with Rule six.",
+      "spoken_text": "Rule eleven, read with Rule six."
+    },
+    {
+      "chapter": 4,
+      "start": 234.58,
+      "end": 238.54,
+      "text": "Different destination allowed, par declaration aur change approval skip nahi.",
+      "spoken_text": "Different destination allowed, पर declaration और change approval skip नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 238.54,
+      "end": 243.44,
+      "text": "Example, Neha Goa se Kochi change chahti hai; required approval leti hai.",
+      "spoken_text": "Example, Neha Goa से Kochi change चाहती है; required approval लेती है."
+    },
+    {
+      "chapter": 4,
+      "start": 243.44,
+      "end": 245.67,
+      "text": "Rule ten, main provision.",
+      "spoken_text": "Rule ten, main provision."
+    },
+    {
+      "chapter": 4,
+      "start": 245.67,
+      "end": 252.14,
+      "text": "Unused normal LTC: next block ka first year, poora next block nahi.",
+      "spoken_text": "Unused normal LTC: next block का first year, पूरा next block नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 252.14,
+      "end": 258.28,
+      "text": "Example, Ravi ki 2024–25 Home Town unused; outward by 31 December 2026.",
+      "spoken_text": "Example, Ravi की 2024–25 Home Town unused; outward by 31 December 2026."
+    },
+    {
+      "chapter": 4,
+      "start": 258.28,
+      "end": 260.06,
+      "text": "Rule ten, proviso, second sub-block.",
+      "spoken_text": "Rule ten, proviso, second sub-block."
+    },
+    {
+      "chapter": 4,
+      "start": 260.06,
+      "end": 264.54,
+      "text": "Old All India carry: second sub-block Home Town bhi unused carry ho.",
+      "spoken_text": "Old All India carry: second sub-block Home Town भी unused carry हो."
+    },
+    {
+      "chapter": 4,
+      "start": 264.54,
+      "end": 270.68,
+      "text": "Example, Neha ki 2024–25 Home Town unused; eligible old All India",
+      "spoken_text": "Example, Neha की 2024–25 Home Town unused; eligible old All India"
+    },
+    {
+      "chapter": 4,
+      "start": 270.68,
+      "end": 273.22,
+      "text": "2026 mein adjust. Rule ten, proviso, used slot.",
+      "spoken_text": "2026 में adjust. Rule ten, proviso, used slot."
+    },
+    {
+      "chapter": 4,
+      "start": 273.22,
+      "end": 276.26,
+      "text": "Second Home Town already use ki?",
+      "spoken_text": "Second Home Town already use की?"
+    },
+    {
+      "chapter": 4,
+      "start": 276.26,
+      "end": 278.82,
+      "text": "Us par old All India carry nahi.",
+      "spoken_text": "Us पर old All India carry नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 278.82,
+      "end": 283.82,
+      "text": "Example, Ravi 2024 mein Home Town gaya; 2026 mein old All India replace nahi.",
+      "spoken_text": "Example, Ravi 2024 में Home Town गया; 2026 में old All India replace नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 283.82,
+      "end": 286.76,
+      "text": "Rule ten proviso; FAQ seventeen.",
+      "spoken_text": "Rule ten proviso; FAQ seventeen."
+    },
+    {
+      "chapter": 4,
+      "start": 286.76,
+      "end": 292.08,
+      "text": "HQ equals Home Town: unused All India carry ko Home Town condition nahi.",
+      "spoken_text": "HQ equals Home Town: unused All India carry को Home Town condition नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 292.08,
+      "end": 297.72,
+      "text": "Example, Neha Jaipur HQ aur Home Town; unused 2022–25 All India,",
+      "spoken_text": "Example, Neha Jaipur HQ और Home Town; unused 2022–25 All India,"
+    },
+    {
+      "chapter": 4,
+      "start": 297.72,
+      "end": 299.52,
+      "text": "eligible 2026 carry.",
+      "spoken_text": "eligible 2026 carry."
+    },
+    {
+      "chapter": 4,
+      "start": 299.52,
+      "end": 301.46,
+      "text": "Rule ten with Rule nine, ledger.",
+      "spoken_text": "Rule ten with Rule nine, ledger."
+    },
+    {
+      "chapter": 4,
+      "start": 301.46,
+      "end": 304.98,
+      "text": "Old carry aur new slot alag charge karo; dono ko new block mat likho.",
+      "spoken_text": "Old carry और new slot अलग charge करो; दोनों को new block मत लिखो."
+    },
+    {
+      "chapter": 4,
+      "start": 304.98,
+      "end": 313.32,
+      "text": "Example, Ravi 2026 mein old 2024–25 aur new 2026–27 Home Town alag use karta hai.",
+      "spoken_text": "Example, Ravi 2026 में old 2024–25 और new 2026–27 Home Town अलग use करता है."
+    },
+    {
+      "chapter": 5,
+      "start": 313.32,
+      "end": 316.2,
+      "text": "FAQ eighteen; Rule ten, approval.",
+      "spoken_text": "FAQ eighteen; Rule ten, approval."
+    },
+    {
+      "chapter": 5,
+      "start": 316.2,
+      "end": 322.18,
+      "text": "Grace automatically milti hai, lekin regular LTC aur leave approval lena hai.",
+      "spoken_text": "Grace automatically मिलती है, लेकिन regular LTC और leave approval लेना है."
+    },
+    {
+      "chapter": 5,
+      "start": 322.18,
+      "end": 325.94,
+      "text": "Example, Neha regular sanction leti hai; grace ke liye special",
+      "spoken_text": "Example, Neha regular sanction लेती है; grace के लिए special"
+    },
+    {
+      "chapter": 5,
+      "start": 325.94,
+      "end": 327.58,
+      "text": "order nahi chahiye.",
+      "spoken_text": "order नहीं चाहिये."
+    },
+    {
+      "chapter": 5,
+      "start": 327.58,
+      "end": 329.96,
+      "text": "FAQ thirteen, current block.",
+      "spoken_text": "FAQ thirteen, current block."
+    },
+    {
+      "chapter": 5,
+      "start": 329.96,
+      "end": 333.54,
+      "text": "FAQ issue hua tab 2022–25 block tha.",
+      "spoken_text": "FAQ issue हुआ तब 2022–25 block था."
+    },
+    {
+      "chapter": 5,
+      "start": 333.54,
+      "end": 336.47,
+      "text": "Aaj regular block 2026–29 hai.",
+      "spoken_text": "Aaj regular block 2026–29 है."
+    },
+    {
+      "chapter": 5,
+      "start": 336.47,
+      "end": 342.38,
+      "text": "Example, Ravi October 2026 form mein current block 2026–29 likhta hai.",
+      "spoken_text": "Example, Ravi October 2026 form में current block 2026–29 लिखता है."
+    },
+    {
+      "chapter": 5,
+      "start": 342.38,
+      "end": 345.12,
+      "text": "FAQs fourteen, nineteen; Table one.",
+      "spoken_text": "FAQs fourteen, nineteen; Table one."
+    },
+    {
+      "chapter": 5,
+      "start": 345.12,
+      "end": 348.64,
+      "text": "Table one: same HQ aur Home Town.",
+      "spoken_text": "Table one: same HQ और Home Town."
+    },
+    {
+      "chapter": 5,
+      "start": 348.64,
+      "end": 356.08,
+      "text": "Blocks 2018–21, 2022–25, 2026–29: each mein one All India only.",
+      "spoken_text": "Blocks 2018–21, 2022–25, 2026–29: each में one All India only."
+    },
+    {
+      "chapter": 5,
+      "start": 356.08,
+      "end": 360.66,
+      "text": "Example, Neha ka HQ aur Home Town Jaipur hai; normal scheme mein separate Home",
+      "spoken_text": "Example, Neha का HQ और Home Town Jaipur है; normal scheme में separate Home"
+    },
+    {
+      "chapter": 5,
+      "start": 360.66,
+      "end": 362.22,
+      "text": "Town LTC nahi.",
+      "spoken_text": "Town LTC नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 362.22,
+      "end": 364.86,
+      "text": "FAQ fifteen; Table two, option one.",
+      "spoken_text": "FAQ fifteen; Table two, option one."
+    },
+    {
+      "chapter": 5,
+      "start": 364.86,
+      "end": 370.16,
+      "text": "Table two option one: 2022–23 mein Home Town; 2024–25 mein All India.",
+      "spoken_text": "Table two option one: 2022–23 में Home Town; 2024–25 में All India."
+    },
+    {
+      "chapter": 5,
+      "start": 370.16,
+      "end": 378.06,
+      "text": "Example, Ravi 2026–27 Home Town, 2028–29 adjusted All India leta hai.",
+      "spoken_text": "Example, Ravi 2026–27 Home Town, 2028–29 adjusted All India लेता है."
+    },
+    {
+      "chapter": 5,
+      "start": 378.06,
+      "end": 380.56,
+      "text": "FAQ fifteen; Table two, option two.",
+      "spoken_text": "FAQ fifteen; Table two, option two."
+    },
+    {
+      "chapter": 5,
+      "start": 380.56,
+      "end": 387.22,
+      "text": "Table two option two: 2022–23 mein All India; 2024–25 mein Home Town.",
+      "spoken_text": "Table two option two: 2022–23 में All India; 2024–25 में Home Town."
+    },
+    {
+      "chapter": 5,
+      "start": 387.22,
+      "end": 393.32,
+      "text": "Example, Neha 2026–27 All India, 2028–29 Home Town choose karti hai.",
+      "spoken_text": "Example, Neha 2026–27 All India, 2028–29 Home Town choose करती है."
+    },
+    {
+      "chapter": 5,
+      "start": 393.32,
+      "end": 395.07,
+      "text": "FAQ sixteen, case one.",
+      "spoken_text": "FAQ sixteen, case one."
+    },
+    {
+      "chapter": 5,
+      "start": 395.07,
+      "end": 402.4,
+      "text": "Case one, 2022 mein: old 2020–21 carry aur new 2022–23 LTC.",
+      "spoken_text": "Case one, 2022 में: old 2020–21 carry और new 2022–23 LTC."
+    },
+    {
+      "chapter": 5,
+      "start": 402.4,
+      "end": 407.02,
+      "text": "Example, Ravi 2022 mein dono eligible Home Town trips alag blocks par charge karta hai.",
+      "spoken_text": "Example, Ravi 2022 में दोनों eligible Home Town trips अलग blocks पर charge करता है."
+    },
+    {
+      "chapter": 5,
+      "start": 407.02,
+      "end": 408.96,
+      "text": "FAQ sixteen, case two.",
+      "spoken_text": "FAQ sixteen, case two."
+    },
+    {
+      "chapter": 5,
+      "start": 408.96,
+      "end": 416.46,
+      "text": "Case two, 2024 mein: old 2022–23 carry aur new 2024–25 LTC.",
+      "spoken_text": "Case two, 2024 में: old 2022–23 carry और new 2024–25 LTC."
+    },
+    {
+      "chapter": 5,
+      "start": 416.46,
+      "end": 419.94,
+      "text": "Example, Neha 2024 mein dono Home Town trips ke separate block",
+      "spoken_text": "Example, Neha 2024 में दोनों Home Town trips के separate block"
+    },
+    {
+      "chapter": 5,
+      "start": 419.94,
+      "end": 421.1,
+      "text": "records rakhti hai.",
+      "spoken_text": "records रखती है."
+    },
+    {
+      "chapter": 6,
+      "start": 421.1,
+      "end": 423.89,
+      "text": "FAQ sixteen, case three.",
+      "spoken_text": "FAQ sixteen, case three."
+    },
+    {
+      "chapter": 6,
+      "start": 423.89,
+      "end": 431.44,
+      "text": "2026 example: old 2024–25 carry plus new 2026–27 slot.",
+      "spoken_text": "2026 example: old 2024–25 carry plus new 2026–27 slot."
+    },
+    {
+      "chapter": 6,
+      "start": 431.44,
+      "end": 436.7,
+      "text": "Example, Ravi old Home Town June, new Home Town October mein use karta hai.",
+      "spoken_text": "Example, Ravi old Home Town June, new Home Town October में use करता है."
+    },
+    {
+      "chapter": 6,
+      "start": 436.7,
+      "end": 439.02,
+      "text": "FAQ seventeen, case one.",
+      "spoken_text": "FAQ seventeen, case one."
+    },
+    {
+      "chapter": 6,
+      "start": 439.02,
+      "end": 446.85,
+      "text": "Same HQ case: 2022 mein old 2018–21 plus new 2022–25 All India.",
+      "spoken_text": "Same HQ case: 2022 में old 2018–21 plus new 2022–25 All India."
+    },
+    {
+      "chapter": 6,
+      "start": 446.85,
+      "end": 452.74,
+      "text": "Example, Neha ne 2022 mein old aur new eligible All India alag use kiye.",
+      "spoken_text": "Example, Neha ने 2022 में old और new eligible All India अलग use किए."
+    },
+    {
+      "chapter": 6,
+      "start": 452.74,
+      "end": 455.18,
+      "text": "FAQ seventeen, case two.",
+      "spoken_text": "FAQ seventeen, case two."
+    },
+    {
+      "chapter": 6,
+      "start": 455.18,
+      "end": 462.58,
+      "text": "Same HQ: 2026 mein old 2022–25 aur new 2026–29 All India possible.",
+      "spoken_text": "Same HQ: 2026 में old 2022–25 और new 2026–29 All India possible."
+    },
+    {
+      "chapter": 6,
+      "start": 462.58,
+      "end": 467.86,
+      "text": "Example, Ravi old carry June mein, new block Goa trip October mein leta hai.",
+      "spoken_text": "Example, Ravi old carry June में, new block Goa trip October में लेता है."
+    },
+    {
+      "chapter": 6,
+      "start": 467.86,
+      "end": 470.04,
+      "text": "FAQ eighteen, block extension.",
+      "spoken_text": "FAQ eighteen, block extension."
+    },
+    {
+      "chapter": 6,
+      "start": 470.04,
+      "end": 474.9,
+      "text": "Grace old slot ke liye hai; new regular block calendar shift nahi hota.",
+      "spoken_text": "Grace old slot के लिए है; new regular block calendar shift नहीं होता."
+    },
+    {
+      "chapter": 6,
+      "start": 474.9,
+      "end": 480.62,
+      "text": "Example, Neha old carry 2026 mein leti hai; new block phir bhi 2026–29 hi.",
+      "spoken_text": "Example, Neha old carry 2026 में लेती है; new block फिर भी 2026–29 ही."
+    },
+    {
+      "chapter": 6,
+      "start": 480.62,
+      "end": 483.7,
+      "text": "FAQ twenty, Delhi NCR.",
+      "spoken_text": "FAQ twenty, Delhi NCR."
+    },
+    {
+      "chapter": 6,
+      "start": 483.7,
+      "end": 488.58,
+      "text": "Other-State NCR town ko Delhi HQ mat maano; accepted Home Town check karo.",
+      "spoken_text": "Other-State NCR town को Delhi HQ मत मानो; accepted Home Town check करो."
+    },
+    {
+      "chapter": 6,
+      "start": 488.58,
+      "end": 493.5,
+      "text": "Example, Delhi HQ, accepted Home Town Meerut: Neha eligible Home Town claim",
+      "spoken_text": "Example, Delhi HQ, accepted Home Town Meerut: Neha eligible Home Town claim"
+    },
+    {
+      "chapter": 6,
+      "start": 493.5,
+      "end": 494.53,
+      "text": "check karti hai.",
+      "spoken_text": "check करती है."
+    },
+    {
+      "chapter": 6,
+      "start": 494.53,
+      "end": 496.52,
+      "text": "Rule ten, Government decision one.",
+      "spoken_text": "Rule ten, Government decision one."
+    },
+    {
+      "chapter": 6,
+      "start": 496.52,
+      "end": 504.48,
+      "text": "2002–03 Home Town, linked 2002–05 All India: one-time extension 30 June 2005",
+      "spoken_text": "2002–03 Home Town, linked 2002–05 All India: one-time extension 30 June 2005"
+    },
+    {
+      "chapter": 6,
+      "start": 504.48,
+      "end": 506.08,
+      "text": "tak thi; ab expired.",
+      "spoken_text": "तक थी; अब expired."
+    },
+    {
+      "chapter": 6,
+      "start": 506.08,
+      "end": 511.44,
+      "text": "Example, Ravi 2026 claim par old June 2005 concession apply nahi karta.",
+      "spoken_text": "Example, Ravi 2026 claim पर old June 2005 concession apply नहीं करता."
+    },
+    {
+      "chapter": 6,
+      "start": 511.44,
+      "end": 514.76,
+      "text": "FAQ sixty four, fresh pattern.",
+      "spoken_text": "FAQ sixty four, fresh pattern."
+    },
+    {
+      "chapter": 6,
+      "start": 514.76,
+      "end": 516.88,
+      "text": "First two personal four-year blocks: three Home Town,",
+      "spoken_text": "First two personal four-year blocks: three Home Town,"
+    },
+    {
+      "chapter": 6,
+      "start": 516.88,
+      "end": 519.16,
+      "text": "one All India; phir same repeat.",
+      "spoken_text": "one All India; फिर same repeat."
+    },
+    {
+      "chapter": 6,
+      "start": 519.16,
+      "end": 523.6,
+      "text": "Example, Neha ka first slot Home Town hai; first year Goa All India nahi.",
+      "spoken_text": "Example, Neha का first slot Home Town है; first year Goa All India नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 523.6,
+      "end": 526.96,
+      "text": "FAQ sixty five, initial appointment.",
+      "spoken_text": "FAQ sixty five, initial appointment."
+    },
+    {
+      "chapter": 7,
+      "start": 526.96,
+      "end": 530.26,
+      "text": "Government job change se initial joining clock reset nahi hoti.",
+      "spoken_text": "Government job change से initial joining clock reset नहीं होती."
+    },
+    {
+      "chapter": 7,
+      "start": 530.26,
+      "end": 534.4,
+      "text": "Example, Ravi technical resignation se new post join karta hai; fresh",
+      "spoken_text": "Example, Ravi technical resignation से new post join करता है; fresh"
+    },
+    {
+      "chapter": 7,
+      "start": 534.4,
+      "end": 536.18,
+      "text": "count restart nahi.",
+      "spoken_text": "count restart नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 536.18,
+      "end": 539.07,
+      "text": "FAQ sixty five; Rule seven one.",
+      "spoken_text": "FAQ sixty five; Rule seven one."
+    },
+    {
+      "chapter": 7,
+      "start": 539.07,
+      "end": 543.35,
+      "text": "Joining day se LTC nahi; one year service complete hone par first slot.",
+      "spoken_text": "Joining day से LTC नहीं; one year service complete होने पर first slot."
+    },
+    {
+      "chapter": 7,
+      "start": 543.35,
+      "end": 549.04,
+      "text": "Example, Neha joined 1 January 2025; eligible 1 January 2026,",
+      "spoken_text": "Example, Neha joined 1 January 2025; eligible 1 January 2026,"
+    },
+    {
+      "chapter": 7,
+      "start": 549.04,
+      "end": 550.2,
+      "text": "joining year NIL.",
+      "spoken_text": "joining year NIL."
+    },
+    {
+      "chapter": 7,
+      "start": 550.2,
+      "end": 553.99,
+      "text": "FAQs sixty four, sixty five; official tables.",
+      "spoken_text": "FAQs sixty four, sixty five; official tables."
+    },
+    {
+      "chapter": 7,
+      "start": 553.99,
+      "end": 557.58,
+      "text": "Joining clock aur eligible calendar slots alag; official eight",
+      "spoken_text": "Joining clock और eligible calendar slots अलग; official eight"
+    },
+    {
+      "chapter": 7,
+      "start": 557.58,
+      "end": 559.08,
+      "text": "slots follow karo.",
+      "spoken_text": "slots follow करो."
+    },
+    {
+      "chapter": 7,
+      "start": 559.08,
+      "end": 565.53,
+      "text": "Example, Ravi joined January 2025; eighth All India 2033 hai, 2032 nahi.",
+      "spoken_text": "Example, Ravi joined January 2025; eighth All India 2033 है, 2032 नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 565.53,
+      "end": 568.24,
+      "text": "FAQ sixty six, normal option.",
+      "spoken_text": "FAQ sixty six, normal option."
+    },
+    {
+      "chapter": 7,
+      "start": 568.24,
+      "end": 571.84,
+      "text": "Normal scheme choose ki, toh us four-year block mein fresh pattern nahi.",
+      "spoken_text": "Normal scheme choose की, तो उस four-year block में fresh pattern नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 571.84,
+      "end": 575.72,
+      "text": "Example, Neha normal option leti hai; same block mein extra fresh",
+      "spoken_text": "Example, Neha normal option लेती है; same block में extra fresh"
+    },
+    {
+      "chapter": 7,
+      "start": 575.72,
+      "end": 577.0,
+      "text": "annual slot nahi.",
+      "spoken_text": "annual slot नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 577.0,
+      "end": 578.46,
+      "text": "FAQ sixty seven, no carry.",
+      "spoken_text": "FAQ sixty seven, no carry."
+    },
+    {
+      "chapter": 7,
+      "start": 578.46,
+      "end": 581.11,
+      "text": "Fresh annual slot unused?",
+      "spoken_text": "Fresh annual slot unused?"
+    },
+    {
+      "chapter": 7,
+      "start": 581.11,
+      "end": 583.76,
+      "text": "Year-end lapse; next year extra slot nahi.",
+      "spoken_text": "Year-end lapse; next year extra slot नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 583.76,
+      "end": 589.78,
+      "text": "Example, Ravi 2026 Home Town skip karta hai; 2027 mein two slots nahi milte.",
+      "spoken_text": "Example, Ravi 2026 Home Town skip करता है; 2027 में two slots नहीं मिलते."
+    },
+    {
+      "chapter": 7,
+      "start": 589.78,
+      "end": 592.7,
+      "text": "FAQ sixty eight a; Table four, used eighth.",
+      "spoken_text": "FAQ sixty eight a; Table four, used eighth."
+    },
+    {
+      "chapter": 7,
+      "start": 592.7,
+      "end": 597.43,
+      "text": "Second sub-block start par transition, eighth All India used: Home Town only.",
+      "spoken_text": "Second sub-block start पर transition, eighth All India used: Home Town only."
+    },
+    {
+      "chapter": 7,
+      "start": 597.43,
+      "end": 603.3,
+      "text": "Example, Neha eighth All India 2023 mein leti hai; 2024–25 mein Home Town.",
+      "spoken_text": "Example, Neha eighth All India 2023 में लेती है; 2024–25 में Home Town."
+    },
+    {
+      "chapter": 7,
+      "start": 603.3,
+      "end": 606.16,
+      "text": "Table four, explanation two, forgone eighth.",
+      "spoken_text": "Table four, explanation two, forgone eighth."
+    },
+    {
+      "chapter": 7,
+      "start": 606.16,
+      "end": 608.04,
+      "text": "Eighth All India unused thi?",
+      "spoken_text": "Eighth All India unused थी?"
+    },
+    {
+      "chapter": 7,
+      "start": 608.04,
+      "end": 610.7,
+      "text": "Following sub-block mein Home Town ya All India choice.",
+      "spoken_text": "Following sub-block में Home Town या All India choice."
+    },
+    {
+      "chapter": 7,
+      "start": 610.7,
+      "end": 616.18,
+      "text": "Example, Ravi 2023 eighth skip karta hai; 2024–25 mein All India choose",
+      "spoken_text": "Example, Ravi 2023 eighth skip करता है; 2024–25 में All India choose"
+    },
+    {
+      "chapter": 7,
+      "start": 616.18,
+      "end": 616.9,
+      "text": "kar sakta hai.",
+      "spoken_text": "कर सकता है."
+    },
+    {
+      "chapter": 8,
+      "start": 616.9,
+      "end": 619.88,
+      "text": "FAQ sixty eight b; Table three.",
+      "spoken_text": "FAQ sixty eight b; Table three."
+    },
+    {
+      "chapter": 8,
+      "start": 619.88,
+      "end": 624.28,
+      "text": "Second sub-block ke second year par transition: illustrated year NIL.",
+      "spoken_text": "Second sub-block के second year पर transition: illustrated year NIL."
+    },
+    {
+      "chapter": 8,
+      "start": 624.28,
+      "end": 631.76,
+      "text": "Example, Neha ki eighth 2024; 2025 new regular LTC nahi, 2026 se normal.",
+      "spoken_text": "Example, Neha की eighth 2024; 2025 new regular LTC नहीं, 2026 से normal."
+    },
+    {
+      "chapter": 8,
+      "start": 631.76,
+      "end": 635.16,
+      "text": "FAQ sixty eight c; Table five.",
+      "spoken_text": "FAQ sixty eight c; Table five."
+    },
+    {
+      "chapter": 8,
+      "start": 635.16,
+      "end": 639.14,
+      "text": "New full regular block start ho, toh usual normal entitlement se transition.",
+      "spoken_text": "New full regular block start हो, तो usual normal entitlement से transition."
+    },
+    {
+      "chapter": 8,
+      "start": 639.14,
+      "end": 645.24,
+      "text": "Example, Ravi ki eighth 2033; 2034–37 mein normal block rights,",
+      "spoken_text": "Example, Ravi की eighth 2033; 2034–37 में normal block rights,"
+    },
+    {
+      "chapter": 8,
+      "start": 645.24,
+      "end": 646.62,
+      "text": "rules unchanged hon toh.",
+      "spoken_text": "rules unchanged हों तो."
+    },
+    {
+      "chapter": 8,
+      "start": 646.62,
+      "end": 649.7,
+      "text": "FAQ sixty nine; Table four, explanation one.",
+      "spoken_text": "FAQ sixty nine; Table four, explanation one."
+    },
+    {
+      "chapter": 8,
+      "start": 649.7,
+      "end": 654.88,
+      "text": "31 December joiner: next year 31 December first slot ka only day.",
+      "spoken_text": "31 December joiner: next year 31 December first slot का only day."
+    },
+    {
+      "chapter": 8,
+      "start": 654.88,
+      "end": 660.48,
+      "text": "Example, Neha joined 2015 end; first outward slot 31 December",
+      "spoken_text": "Example, Neha joined 2015 end; first outward slot 31 December"
+    },
+    {
+      "chapter": 8,
+      "start": 660.48,
+      "end": 662.12,
+      "text": "2016, warna lapse.",
+      "spoken_text": "2016, वरना lapse."
+    },
+    {
+      "chapter": 8,
+      "start": 662.12,
+      "end": 664.72,
+      "text": "FAQ seventy, same HQ fresh recruit.",
+      "spoken_text": "FAQ seventy, same HQ fresh recruit."
+    },
+    {
+      "chapter": 8,
+      "start": 664.72,
+      "end": 669.84,
+      "text": "Fresh HQ equals Home Town: only fourth aur eighth All India slots usable.",
+      "spoken_text": "Fresh HQ equals Home Town: only fourth और eighth All India slots usable."
+    },
+    {
+      "chapter": 8,
+      "start": 669.84,
+      "end": 674.32,
+      "text": "Example, Ravi ki first three Home Town slots unusable; first-year All India nahi.",
+      "spoken_text": "Example, Ravi की first three Home Town slots unusable; first-year All India नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 674.32,
+      "end": 676.78,
+      "text": "Table three, gate aur first three slots.",
+      "spoken_text": "Table three, gate और first three slots."
+    },
+    {
+      "chapter": 8,
+      "start": 676.78,
+      "end": 680.42,
+      "text": "Joined 1 September 2016; NIL through 31 August 2017.",
+      "spoken_text": "Joined 1 September 2016; NIL through 31 August 2017."
+    },
+    {
+      "chapter": 8,
+      "start": 680.42,
+      "end": 684.2,
+      "text": "Home Town: 1 September to December 2017, phir 2018, 2019.",
+      "spoken_text": "Home Town: 1 September to December 2017, फिर 2018, 2019."
+    },
+    {
+      "chapter": 8,
+      "start": 684.2,
+      "end": 693.18,
+      "text": "Example, Neha joined September 2016; August 2017 journey abhi eligible nahi.",
+      "spoken_text": "Example, Neha joined September 2016; August 2017 journey अभी eligible नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 693.18,
+      "end": 695.5,
+      "text": "Table three, slots four to eight.",
+      "spoken_text": "Table three, slots four to eight."
+    },
+    {
+      "chapter": 8,
+      "start": 695.5,
+      "end": 701.51,
+      "text": "Full years January to December: All India 2020; Home Town 2021, 2022,",
+      "spoken_text": "Full years January to December: All India 2020; Home Town 2021, 2022,"
+    },
+    {
+      "chapter": 8,
+      "start": 701.51,
+      "end": 704.24,
+      "text": "2023; All India 2024.",
+      "spoken_text": "2023; All India 2024."
+    },
+    {
+      "chapter": 8,
+      "start": 704.24,
+      "end": 708.54,
+      "text": "Example, Neha seventh slot 2023 mein Goa All India nahi choose karti.",
+      "spoken_text": "Example, Neha seventh slot 2023 में Goa All India नहीं choose करती."
+    },
+    {
+      "chapter": 8,
+      "start": 708.54,
+      "end": 711.06,
+      "text": "Table three, final rows aur explanations.",
+      "spoken_text": "Table three, final rows और explanations."
+    },
+    {
+      "chapter": 8,
+      "start": 711.06,
+      "end": 714.88,
+      "text": "Table three end: 2025 NIL; normal 2026–29.",
+      "spoken_text": "Table three end: 2025 NIL; normal 2026–29."
+    },
+    {
+      "chapter": 8,
+      "start": 714.88,
+      "end": 717.46,
+      "text": "Calendar slots eligibility se.",
+      "spoken_text": "Calendar slots eligibility से."
+    },
+    {
+      "chapter": 8,
+      "start": 717.46,
+      "end": 722.64,
+      "text": "Example, Neha 2025 mein new regular trip book nahi karti; 2026 entitlement",
+      "spoken_text": "Example, Neha 2025 में new regular trip book नहीं करती; 2026 entitlement"
+    },
+    {
+      "chapter": 8,
+      "start": 722.64,
+      "end": 723.62,
+      "text": "check karti hai.",
+      "spoken_text": "check करती है."
+    },
+    {
+      "chapter": 9,
+      "start": 723.62,
+      "end": 727.13,
+      "text": "Table four, gate aur first occasion.",
+      "spoken_text": "Table four, gate और first occasion."
+    },
+    {
+      "chapter": 9,
+      "start": 727.13,
+      "end": 732.72,
+      "text": "Joined 31 December 2015; NIL through 30 December 2016.",
+      "spoken_text": "Joined 31 December 2015; NIL through 30 December 2016."
+    },
+    {
+      "chapter": 9,
+      "start": 732.72,
+      "end": 735.98,
+      "text": "First Home Town: only 31 December 2016.",
+      "spoken_text": "First Home Town: only 31 December 2016."
+    },
+    {
+      "chapter": 9,
+      "start": 735.98,
+      "end": 742.0,
+      "text": "Example, Ravi first slot miss karta hai; 2017 mein expired first add nahi hoti.",
+      "spoken_text": "Example, Ravi first slot miss करता है; 2017 में expired first add नहीं होती."
+    },
+    {
+      "chapter": 9,
+      "start": 742.0,
+      "end": 744.64,
+      "text": "Table four, slots two to eight.",
+      "spoken_text": "Table four, slots two to eight."
+    },
+    {
+      "chapter": 9,
+      "start": 744.64,
+      "end": 751.54,
+      "text": "Home Town 2017, 2018; All India 2019; Home Town 2020, 2021,",
+      "spoken_text": "Home Town 2017, 2018; All India 2019; Home Town 2020, 2021,"
+    },
+    {
+      "chapter": 9,
+      "start": 751.54,
+      "end": 755.1,
+      "text": "2022; All India 2023.",
+      "spoken_text": "2022; All India 2023."
+    },
+    {
+      "chapter": 9,
+      "start": 755.1,
+      "end": 760.74,
+      "text": "Example, Ravi fourth All India 2019 mein use karta hai; third 2018 mein nahi.",
+      "spoken_text": "Example, Ravi fourth All India 2019 में use करता है; third 2018 में नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 760.74,
+      "end": 763.57,
+      "text": "Table four, transition aur explanation two.",
+      "spoken_text": "Table four, transition और explanation two."
+    },
+    {
+      "chapter": 9,
+      "start": 763.57,
+      "end": 769.64,
+      "text": "2024–25 Home Town; eighth forgone ho toh All India choice bhi.",
+      "spoken_text": "2024–25 Home Town; eighth forgone हो तो All India choice भी."
+    },
+    {
+      "chapter": 9,
+      "start": 769.64,
+      "end": 771.93,
+      "text": "Normal 2026–29.",
+      "spoken_text": "Normal 2026–29."
+    },
+    {
+      "chapter": 9,
+      "start": 771.93,
+      "end": 776.48,
+      "text": "Example, Ravi eighth skip karta hai; 2024–25 choice ko annual",
+      "spoken_text": "Example, Ravi eighth skip करता है; 2024–25 choice को annual"
+    },
+    {
+      "chapter": 9,
+      "start": 776.48,
+      "end": 777.36,
+      "text": "carry nahi bolta.",
+      "spoken_text": "carry नहीं बोलता."
+    },
+    {
+      "chapter": 9,
+      "start": 777.36,
+      "end": 780.42,
+      "text": "Table five, gate aur first three slots.",
+      "spoken_text": "Table five, gate और first three slots."
+    },
+    {
+      "chapter": 9,
+      "start": 780.42,
+      "end": 789.4,
+      "text": "Table five: 2025 NIL; eligible 1 January 2026; Home Town 2026, 2027, 2028.",
+      "spoken_text": "Table five: 2025 NIL; eligible 1 January 2026; Home Town 2026, 2027, 2028."
+    },
+    {
+      "chapter": 9,
+      "start": 789.4,
+      "end": 795.24,
+      "text": "Example, Neha joined January 2025; 2026 first Home Town available,",
+      "spoken_text": "Example, Neha joined January 2025; 2026 first Home Town available,"
+    },
+    {
+      "chapter": 9,
+      "start": 795.24,
+      "end": 796.82,
+      "text": "other conditions ke saath.",
+      "spoken_text": "other conditions के साथ."
+    },
+    {
+      "chapter": 9,
+      "start": 796.82,
+      "end": 799.14,
+      "text": "Table five, slots four to eight.",
+      "spoken_text": "Table five, slots four to eight."
+    },
+    {
+      "chapter": 9,
+      "start": 799.14,
+      "end": 805.12,
+      "text": "All India 2029; Home Town 2030, 2031, 2032; All India 2033,",
+      "spoken_text": "All India 2029; Home Town 2030, 2031, 2032; All India 2033,"
+    },
+    {
+      "chapter": 9,
+      "start": 805.12,
+      "end": 806.18,
+      "text": "rules unchanged hon toh.",
+      "spoken_text": "rules unchanged हों तो."
+    },
+    {
+      "chapter": 9,
+      "start": 806.18,
+      "end": 811.9,
+      "text": "Example, Neha ke 2032 seventh slot ko eighth All India mat banao.",
+      "spoken_text": "Example, Neha के 2032 seventh slot को eighth All India मत बनाओ."
+    },
+    {
+      "chapter": 9,
+      "start": 811.9,
+      "end": 815.43,
+      "text": "Table five, final row aur explanation.",
+      "spoken_text": "Table five, final row और explanation."
+    },
+    {
+      "chapter": 9,
+      "start": 815.43,
+      "end": 820.82,
+      "text": "2034–37 normal block hai; fresh pattern repeat nahi, future rules verify karo.",
+      "spoken_text": "2034–37 normal block है; fresh pattern repeat नहीं, future rules verify करो."
+    },
+    {
+      "chapter": 9,
+      "start": 820.82,
+      "end": 824.72,
+      "text": "Example, Neha 2034 normal Home Town ya adjusted All India rights",
+      "spoken_text": "Example, Neha 2034 normal Home Town या adjusted All India rights"
+    },
+    {
+      "chapter": 9,
+      "start": 824.72,
+      "end": 825.8,
+      "text": "check karti hai.",
+      "spoken_text": "check करती है."
+    }
+  ],
+  "full_decode_check": "passed",
+  "audio_stream_unchanged": true,
+  "audio_sha256": "SHA256=1e69a2f965aa3d94299feedfcc245d73a417a02f779b1def101bade78660e04a",
+  "burned_in": true,
+  "video_bytes": 17719540
+}

@@ -1,0 +1,182 @@
+{
+  "status": "technical checks passed; sampled final-video and PDF visual review completed",
+  "reviewed_on": "2026-10-27",
+  "cards": 55,
+  "tables": 5,
+  "pdf_pages": 24,
+  "video_seconds": 825.8,
+  "video_bytes": 17719540,
+  "video_size": [
+    1920,
+    1080
+  ],
+  "chapters": 9,
+  "subtitle_cues": 215,
+  "tests": {
+    "passed": 74,
+    "failed": 0
+  },
+  "coverage": {
+    "covered_lines": 442,
+    "num_statements": 458,
+    "percent_covered": 94.93243243243244,
+    "percent_covered_display": "95",
+    "missing_lines": 16,
+    "excluded_lines": 0,
+    "percent_statements_covered": 96.5065502183406,
+    "percent_statements_covered_display": "97",
+    "num_branches": 134,
+    "num_partial_branches": 12,
+    "covered_branches": 120,
+    "missing_branches": 14,
+    "percent_branches_covered": 89.55223880597015,
+    "percent_branches_covered_display": "90"
+  },
+  "caption_band_height": 144,
+  "caption_devanagari_absent": true,
+  "static_html_safe": true,
+  "pdf_all_card_ids": true,
+  "pdf_text_bounds": "all pages tested by test_batch5",
+  "preservation_baseline": "7774ac7500f0433304215a0f90af04515fbf33db",
+  "earlier_delivery_files_byte_identical": 72,
+  "sample_frames": [
+    {
+      "id": "OPEN-LEGAL",
+      "time_seconds": 5.505,
+      "file": "OPEN-LEGAL-final.png",
+      "sha256": "25f06aa736f1d93b80019e163bc0f2015b22abf5a3db5c7ffcc6268d41370c19"
+    },
+    {
+      "id": "OPEN-PRACTICAL",
+      "time_seconds": 33.489999999999995,
+      "file": "OPEN-PRACTICAL-final.png",
+      "sha256": "d60950683ff171a2b37e36e24e6aa2eff26066270c0bcbf86d9e2d074d5c73af"
+    },
+    {
+      "id": "B5-05",
+      "time_seconds": 108.68,
+      "file": "B5-05-final.png",
+      "sha256": "dda9e90e538fb691052f9edec796ba9f0a06e36714b24d3ee1c3167803f7d3df"
+    },
+    {
+      "id": "B5-18",
+      "time_seconds": 262.3,
+      "file": "B5-18-final.png",
+      "sha256": "6007e37d12306a876914ea771c4741e33945e076a830abc9c4d0192dbfbbef15"
+    },
+    {
+      "id": "B5-22",
+      "time_seconds": 319.19,
+      "file": "B5-22-final.png",
+      "sha256": "4129f65f054bfff0322287021b8ef2c83982b6d4072fb79903441fd2097b48aa"
+    },
+    {
+      "id": "B5-24",
+      "time_seconds": 346.88,
+      "file": "B5-24-final.png",
+      "sha256": "d7e3066a5b40b7feaf28eaed1c3c0b06c2fac738efd3e1d86b78c2ea45129e75"
+    },
+    {
+      "id": "B5-33",
+      "time_seconds": 486.14,
+      "file": "B5-33-final.png",
+      "sha256": "3d08f03d9c60692926a3ce7ac83c44fe364ae80a53de3a5f9df4e77afc57f1e9"
+    },
+    {
+      "id": "B5-42",
+      "time_seconds": 607.0999999999999,
+      "file": "B5-42-final.png",
+      "sha256": "70a307141f66f3b11d027f8eccc6bd7aef841d93192ec2998098e59e9c383a2b"
+    },
+    {
+      "id": "B5-47",
+      "time_seconds": 678.5999999999999,
+      "file": "B5-47-final.png",
+      "sha256": "baf2dc17db9ab405bcf83e1be0ac1da19e734f2eb9c96b1144ff7dbcd744c0d1"
+    },
+    {
+      "id": "B5-50",
+      "time_seconds": 729.925,
+      "file": "B5-50-final.png",
+      "sha256": "46694a650745c90890cb33f500f831081260a1e635ef29e05dd8627058eb19a5"
+    },
+    {
+      "id": "B5-52",
+      "time_seconds": 766.605,
+      "file": "B5-52-final.png",
+      "sha256": "a7654538bb383a1b6034cefc63e60d0e1a0c5a676f19ecc986f8b0d0966cb1b7"
+    },
+    {
+      "id": "B5-54",
+      "time_seconds": 802.13,
+      "file": "B5-54-final.png",
+      "sha256": "f5c898a8c9ff00a54544b40f1da7396a42a98953e01de36706c2c33a4a0dd9f7"
+    }
+  ],
+  "visual_review": {
+    "status": "completed",
+    "reviewed_on": "2026-10-27",
+    "final_frame_ids": [
+      "OPEN-LEGAL",
+      "OPEN-PRACTICAL",
+      "B5-05",
+      "B5-18",
+      "B5-22",
+      "B5-24",
+      "B5-33",
+      "B5-42",
+      "B5-47",
+      "B5-50",
+      "B5-52",
+      "B5-54"
+    ],
+    "frame_count": 12,
+    "pdf_pages": [
+      1,
+      5,
+      6,
+      7,
+      16
+    ],
+    "observations": "Reviewed actual captioned final-video frames via two six-frame review sheets and five PDF pages. Reference headings, example panels, calendar rows and notes are readable; main content stays above the caption band. No clipping observed in these samples. Not a full manual listening or word-level synchronization audit."
+  },
+  "artifact_sha256": {
+    "batch-05-audio-provenance.json": "1f83fdf95bfeb92a9f52769c11384f3aec325d29b39113be4c59f18e2ca749b5",
+    "batch-05-hinglish.mp3": "a69d179b36b7fe5c529fd308398038416a3b20a6df74efdb84f18ee80188f3e6",
+    "batch-05-narration.json": "6b2bf456b2983878c0d72f985e3d1c1017fec309f0c215f191ede7d0022cfe90",
+    "batch-05-source-review.md": "0916c9bec3e9775ff54fc531bc7df58c30cd1f3a95dd910a66f0d0129143b9fc",
+    "batch-05-subtitle-report.json": "84c3dd195afad1f2c6e8f6ee69dd8f19727ca5d6239a69526001d77b9f326163",
+    "batch-05-video-poster.jpg": "db0f342da46ab10e71c2a9f0fdd7b5bf69082c769ec10090bad57936cecbad6e",
+    "batch-05-video-report.json": "e1baf84993c2891ad9308f741567987114d1165335ea532f2059769c7b72d00d",
+    "batch-05-video.ass": "42d74cef2da37e9a648b15be5fc8aae6cec13875ab077380699738a7f5117a93",
+    "batch-05-video.mp4": "ac59108b356b46f2b57431473a47659267b5ceb492249f8c52fb430ec5e971b3",
+    "batch-05-video.srt": "106e1df4cf49658b74eee957eba4e7fcd425b2bb8793c57aa4b2b448f538921c",
+    "batch-05-video.vtt": "0cdd7f202862264c9ccb5c6231a688ac43eb537214ab5e662c73cc7cf46dbc35",
+    "batch-05.html": "3d1696579a6f0becd330b37f6a876a3fb21c941953450ce57951dca5a6b761f5",
+    "batch-05.json": "161ce307734ed2449b7749ed35be6cdb4f31eba0798bc8f9c7518212697ecee6",
+    "batch-05.md": "f7f77f567ba6ee61372690fce23e999e16f64af87473c39e7fbd0dfeb98fd106",
+    "batch-05.pdf": "8481ceae5639fb694941a5ec5a14ab981b72242dfd98d3c4c344ac0c77ebe465"
+  },
+  "gid_register_records": 122,
+  "gid_status_counts": {
+    "covered-in-batch-2": 23,
+    "covered-in-batch-3": 7,
+    "covered-in-batch-4": 44,
+    "covered-in-updated-batch-1": 2,
+    "pending-topic-batch": 38,
+    "excluded-from-current-instruction": 3,
+    "partially-covered-in-batch-2": 2,
+    "covered-in-batch-5": 3
+  },
+  "full_series_not_complete": true,
+  "subtitle_metrics": {
+    "min_seconds": 0.7200000000000273,
+    "max_seconds": 9.04,
+    "max_characters": 87,
+    "max_characters_per_second": 25.00000000000004
+  },
+  "review_limit": "Technical checks and sampled visual review are not a legal guarantee, certified word-level synchronization, or a complete manual listening audit. Initial tiny-model ASR samples hallucinated repetitive numbers and are inconclusive, not positive verification of every spoken word.",
+  "all_prior_gid_pointers_retained": true,
+  "register_idempotence_test": "passed on baseline and repeated rebuild",
+  "final_artifact_hash_check": "passed"
+}

@@ -1,0 +1,1030 @@
+{
+  "file": "batch-05-video.mp4",
+  "bytes": 17719540,
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 825.8,
+  "fps": 10,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode_check": "passed",
+  "embedded_chapter_check": "passed",
+  "source_script_sha256": "6b2bf456b2983878c0d72f985e3d1c1017fec309f0c215f191ede7d0022cfe90",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Important legal dates, practical blocks and deadlines",
+      "start_seconds": 0.0,
+      "end_seconds": 54.12,
+      "card_ids": [],
+      "voice_id": "voice-01",
+      "source_clip_file": "b5-01.mp3",
+      "source_text_sha256": "2a59fe778e69e62c69f6773c8e122c2fbbaa761f1b9362bdc4d208007f0e727e",
+      "source_clip_sha256": "b8b8f729b3f3ba589a9597d467840fadf3a4912e7b0c3511b5e11c1d0ddfc222"
+    },
+    {
+      "number": 2,
+      "title": "Rule 8: frequency, normal choices and annual option",
+      "start_seconds": 54.12,
+      "end_seconds": 141.36,
+      "card_ids": [
+        "B5-01",
+        "B5-02",
+        "B5-03",
+        "B5-04",
+        "B5-05",
+        "B5-06",
+        "B5-07"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-02.mp3",
+      "source_text_sha256": "a1c724519c47a72f5e7a7ee60333730db339924d613abe130bc5ca982879fbd5",
+      "source_clip_sha256": "c8a5e287b2557b6170f928d416b62078d31f2251a3760c9b3cfd79341bf006d4"
+    },
+    {
+      "number": 3,
+      "title": "Annual trade-off; Rule 9 separate groups and outward dates",
+      "start_seconds": 141.36,
+      "end_seconds": 220.06,
+      "card_ids": [
+        "B5-08",
+        "B5-09",
+        "B5-10",
+        "B5-11",
+        "B5-12",
+        "B5-13",
+        "B5-14"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-03.mp3",
+      "source_text_sha256": "6004724849924128ab47b132e506f4f6f931b86f0474ef1f9ee27714cccab1a3",
+      "source_clip_sha256": "be570fa47ee716ab2bd3e1b989236d447afb32cfed9ba7f992de73d0545bee77"
+    },
+    {
+      "number": 4,
+      "title": "Rule 11 destinations; Rule 10 conditional carry and ledgers",
+      "start_seconds": 220.06,
+      "end_seconds": 313.32,
+      "card_ids": [
+        "B5-15",
+        "B5-16",
+        "B5-17",
+        "B5-18",
+        "B5-19",
+        "B5-20",
+        "B5-21"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-04.mp3",
+      "source_text_sha256": "6337c509d45d0bfb0cac103b539e2745a943ee0e0226bb78057ef750b785066c",
+      "source_clip_sha256": "4c4021073ee3185b59ac0dfdda73990b110a9d3ab9a3cf3ca1ae4eb4f7fb1b18"
+    },
+    {
+      "number": 5,
+      "title": "FAQ 13–16: automatic grace, blocks, HQ and Tables 1–2",
+      "start_seconds": 313.32,
+      "end_seconds": 421.1,
+      "card_ids": [
+        "B5-22",
+        "B5-23",
+        "B5-24",
+        "B5-25",
+        "B5-26",
+        "B5-27",
+        "B5-28"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-05.mp3",
+      "source_text_sha256": "f5d9919da17609c56c29620966edc9fa61668a05d1f28234f0026a5e09fccedb",
+      "source_clip_sha256": "43742cf308334a2e0df4f474da9d1e828e24d66164cd4576c46132c629832e36"
+    },
+    {
+      "number": 6,
+      "title": "FAQ 16–20, expired GID and the fresh-recruit pattern",
+      "start_seconds": 421.1,
+      "end_seconds": 523.6,
+      "card_ids": [
+        "B5-29",
+        "B5-30",
+        "B5-31",
+        "B5-32",
+        "B5-33",
+        "B5-34",
+        "B5-35"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-06.mp3",
+      "source_text_sha256": "417bb6e6370f559fdb6b8452ced1bb961328c516b39dff344abafc81b9e58565",
+      "source_clip_sha256": "bed1e5dfc00e6bce2c7dbc2de835510c1374810890a2a9475d394005dfe25edd"
+    },
+    {
+      "number": 7,
+      "title": "FAQ 65–68: service clocks, election, annual lapse and transition exception",
+      "start_seconds": 523.6,
+      "end_seconds": 616.9,
+      "card_ids": [
+        "B5-36",
+        "B5-37",
+        "B5-38",
+        "B5-39",
+        "B5-40",
+        "B5-41",
+        "B5-42"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-07.mp3",
+      "source_text_sha256": "c9f330a1e29366ba6274b9cc02bc23bc6a4b6fbd7a67ec7a2b258719fb78d29b",
+      "source_clip_sha256": "25c3867e3fcfc37b0cddd501abc2d0e4f5526fffaf3d40c89491f500e31b0587"
+    },
+    {
+      "number": 8,
+      "title": "FAQ 68–70 and the complete Table 3 calendar",
+      "start_seconds": 616.9,
+      "end_seconds": 723.62,
+      "card_ids": [
+        "B5-43",
+        "B5-44",
+        "B5-45",
+        "B5-46",
+        "B5-47",
+        "B5-48",
+        "B5-49"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-08.mp3",
+      "source_text_sha256": "cabfb7d655270a58063aa3c63c1f9c8991065a816686bd6dbdae1d6ad9a1ed9a",
+      "source_clip_sha256": "ae91024862d2fdc27cf6e362340eb3d89d6cd7fcef2044080161370954ed0ef0"
+    },
+    {
+      "number": 9,
+      "title": "Tables 4–5: every year, footnotes and future-rule qualification",
+      "start_seconds": 723.62,
+      "end_seconds": 825.8,
+      "card_ids": [
+        "B5-50",
+        "B5-51",
+        "B5-52",
+        "B5-53",
+        "B5-54",
+        "B5-55"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b5-09.mp3",
+      "source_text_sha256": "43ec91a32552469ec1752835ea50c9f6a783805a0eb18968e89a400a36ff583e",
+      "source_clip_sha256": "8d270a007ca464d3452bfc650f5fc4cedc765b79ecceb5c6b8dcaa53a1a0ff17"
+    }
+  ],
+  "pages": [
+    {
+      "id": "OPEN-LEGAL",
+      "start_seconds": 0.0,
+      "chapter": 1,
+      "end_seconds": 23.18,
+      "layout": {
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "OPEN-PRACTICAL",
+      "start_seconds": 23.18,
+      "chapter": 1,
+      "end_seconds": 54.12,
+      "layout": {
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-01",
+      "start_seconds": 54.12,
+      "chapter": 2,
+      "end_seconds": 66.8,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-02",
+      "start_seconds": 66.8,
+      "chapter": 2,
+      "end_seconds": 78.46,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-03",
+      "start_seconds": 78.46,
+      "chapter": 2,
+      "end_seconds": 92.54,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-04",
+      "start_seconds": 92.54,
+      "chapter": 2,
+      "end_seconds": 103.8,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-05",
+      "start_seconds": 103.8,
+      "chapter": 2,
+      "end_seconds": 117.3,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-06",
+      "start_seconds": 117.3,
+      "chapter": 2,
+      "end_seconds": 130.67,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-07",
+      "start_seconds": 130.67,
+      "chapter": 2,
+      "end_seconds": 141.36,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-08",
+      "start_seconds": 141.36,
+      "chapter": 3,
+      "end_seconds": 153.4,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-09",
+      "start_seconds": 153.4,
+      "chapter": 3,
+      "end_seconds": 166.94,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-10",
+      "start_seconds": 166.94,
+      "chapter": 3,
+      "end_seconds": 177.07,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-11",
+      "start_seconds": 177.07,
+      "chapter": 3,
+      "end_seconds": 187.76,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-12",
+      "start_seconds": 187.76,
+      "chapter": 3,
+      "end_seconds": 199.04,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-13",
+      "start_seconds": 199.04,
+      "chapter": 3,
+      "end_seconds": 210.14,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-14",
+      "start_seconds": 210.14,
+      "chapter": 3,
+      "end_seconds": 220.06,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-15",
+      "start_seconds": 220.06,
+      "chapter": 4,
+      "end_seconds": 232.06,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-16",
+      "start_seconds": 232.06,
+      "chapter": 4,
+      "end_seconds": 243.44,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-17",
+      "start_seconds": 243.44,
+      "chapter": 4,
+      "end_seconds": 258.28,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-18",
+      "start_seconds": 258.28,
+      "chapter": 4,
+      "end_seconds": 272.68,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-19",
+      "start_seconds": 272.68,
+      "chapter": 4,
+      "end_seconds": 283.82,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-20",
+      "start_seconds": 283.82,
+      "chapter": 4,
+      "end_seconds": 299.52,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-21",
+      "start_seconds": 299.52,
+      "chapter": 4,
+      "end_seconds": 313.32,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-22",
+      "start_seconds": 313.32,
+      "chapter": 5,
+      "end_seconds": 327.58,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-23",
+      "start_seconds": 327.58,
+      "chapter": 5,
+      "end_seconds": 342.38,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-24",
+      "start_seconds": 342.38,
+      "chapter": 5,
+      "end_seconds": 362.22,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-25",
+      "start_seconds": 362.22,
+      "chapter": 5,
+      "end_seconds": 378.06,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-26",
+      "start_seconds": 378.06,
+      "chapter": 5,
+      "end_seconds": 393.32,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-27",
+      "start_seconds": 393.32,
+      "chapter": 5,
+      "end_seconds": 407.02,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-28",
+      "start_seconds": 407.02,
+      "chapter": 5,
+      "end_seconds": 421.1,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-29",
+      "start_seconds": 421.1,
+      "chapter": 6,
+      "end_seconds": 436.7,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-30",
+      "start_seconds": 436.7,
+      "chapter": 6,
+      "end_seconds": 452.74,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-31",
+      "start_seconds": 452.74,
+      "chapter": 6,
+      "end_seconds": 467.86,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-32",
+      "start_seconds": 467.86,
+      "chapter": 6,
+      "end_seconds": 480.62,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-33",
+      "start_seconds": 480.62,
+      "chapter": 6,
+      "end_seconds": 494.53,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-34",
+      "start_seconds": 494.53,
+      "chapter": 6,
+      "end_seconds": 511.44,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-35",
+      "start_seconds": 511.44,
+      "chapter": 6,
+      "end_seconds": 523.6,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-36",
+      "start_seconds": 523.6,
+      "chapter": 7,
+      "end_seconds": 536.18,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-37",
+      "start_seconds": 536.18,
+      "chapter": 7,
+      "end_seconds": 550.2,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-38",
+      "start_seconds": 550.2,
+      "chapter": 7,
+      "end_seconds": 565.53,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-39",
+      "start_seconds": 565.53,
+      "chapter": 7,
+      "end_seconds": 577.0,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-40",
+      "start_seconds": 577.0,
+      "chapter": 7,
+      "end_seconds": 589.78,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-41",
+      "start_seconds": 589.78,
+      "chapter": 7,
+      "end_seconds": 603.3,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-42",
+      "start_seconds": 603.3,
+      "chapter": 7,
+      "end_seconds": 616.9,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-43",
+      "start_seconds": 616.9,
+      "chapter": 8,
+      "end_seconds": 631.76,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-44",
+      "start_seconds": 631.76,
+      "chapter": 8,
+      "end_seconds": 646.62,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-45",
+      "start_seconds": 646.62,
+      "chapter": 8,
+      "end_seconds": 662.12,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-46",
+      "start_seconds": 662.12,
+      "chapter": 8,
+      "end_seconds": 674.32,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-47",
+      "start_seconds": 674.32,
+      "chapter": 8,
+      "end_seconds": 693.18,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-48",
+      "start_seconds": 693.18,
+      "chapter": 8,
+      "end_seconds": 708.54,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-49",
+      "start_seconds": 708.54,
+      "chapter": 8,
+      "end_seconds": 723.62,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-50",
+      "start_seconds": 723.62,
+      "chapter": 9,
+      "end_seconds": 742.0,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-51",
+      "start_seconds": 742.0,
+      "chapter": 9,
+      "end_seconds": 760.74,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-52",
+      "start_seconds": 760.74,
+      "chapter": 9,
+      "end_seconds": 777.36,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-53",
+      "start_seconds": 777.36,
+      "chapter": 9,
+      "end_seconds": 796.82,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-54",
+      "start_seconds": 796.82,
+      "chapter": 9,
+      "end_seconds": 811.9,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B5-55",
+      "start_seconds": 811.9,
+      "chapter": 9,
+      "end_seconds": 825.8,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    }
+  ],
+  "subtitles": {
+    "burned_in": true,
+    "script": "Roman Hinglish",
+    "srt": "batch-05-video.srt",
+    "vtt": "batch-05-video.vtt",
+    "caption_band_height": 144
+  },
+  "review_limit": "Automatic acoustic phrase alignment and technical checks; not a certified word-level or full manual listening audit."
+}

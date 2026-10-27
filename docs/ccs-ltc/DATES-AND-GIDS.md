@@ -1,6 +1,6 @@
 # Important LTC dates and GIDs — video revision
 
-> **Series update — Batches 2, 3 and 4 delivered:** see [Batch 2 family lessons](BATCH-02-README.md), [Batch 3 hometown/destination lesson](BATCH-03-README.md) and [Batch 4 admissibility, leave and special service cases](BATCH-04-README.md). The current register has **119 overlapping records**, including the added technical-resignation, posted-staff, combination and CCL instruction groups; counts are not independent OMs. The 112-record inventory and source-refresh account below remain the retained **Batch 1 release snapshot**, not current completion. Later topic/GID batches remain pending in the CSV.
+> **Series update — Batches 2–5 delivered:** [Batch 2 family](BATCH-02-README.md), [Batch 3 hometown/destination](BATCH-03-README.md), [Batch 4 admissibility/leave](BATCH-04-README.md), [Batch 5 types, blocks and fresh recruits](BATCH-05-README.md). The current register has **122 overlapping records**, not independent OMs. Batch 5 adds three scoped 2008/2014 fresh-recruit and 2015 HQ/NCR instruction groups, verified via current official guidance with older-original retrieval limits disclosed. All prior pointers remain. The 112-record account below is the retained **Batch 1 release snapshot**, not current completion; other topics/GIDs remain pending.
 
 Review date: **27 October 2026**. This is the opening companion to the revised Batch 1 video. Hindi is written in **Roman-script city Hinglish**, not translated into formal English. Examples are hypotheticals.
 
