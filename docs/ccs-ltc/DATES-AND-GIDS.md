@@ -1,6 +1,6 @@
 # Important LTC dates and GIDs — video revision
 
-> **Series update — Batches 2 and 3 delivered:** see [Batch 2 downloads, scope and QA](BATCH-02-README.md) and [Batch 3 hometown/destination lesson](BATCH-03-README.md). The current register has **115 records** (including three additional family/child instruction groups). The 112-record inventory and source-refresh account below describe the retained **Batch 1 release snapshot**, not current completion of the series. The official CSIR-hosted 2025 consolidation was successfully refreshed for the Batch 2 family review. Remaining topics/GIDs are still pending as recorded in the current CSV.
+> **Series update — Batches 2, 3 and 4 delivered:** see [Batch 2 family lessons](BATCH-02-README.md), [Batch 3 hometown/destination lesson](BATCH-03-README.md) and [Batch 4 admissibility, leave and special service cases](BATCH-04-README.md). The current register has **119 overlapping records**, including the added technical-resignation, posted-staff, combination and CCL instruction groups; counts are not independent OMs. The 112-record inventory and source-refresh account below remain the retained **Batch 1 release snapshot**, not current completion. Later topic/GID batches remain pending in the CSV.
 
 Review date: **27 October 2026**. This is the opening companion to the revised Batch 1 video. Hindi is written in **Roman-script city Hinglish**, not translated into formal English. Examples are hypotheticals.
 

@@ -1,0 +1,1900 @@
+{
+  "source_script_sha256": "7ce87f778b6b7a090826330afc1d59f8e94adedb93e40a2b39ee86cda538117b",
+  "source_script_file": "batch-04-narration.json",
+  "alignment": "chapter-local MFCC / DTW against Hindi eSpeak NG reference speech",
+  "frame_step_seconds": 0.02,
+  "timing_precision_note": "20ms analysis grid is not a verified 20ms synchronization-accuracy guarantee. Automatic phrase alignment, not certified word-level timing.",
+  "language": "Roman-script city Hinglish; reviewed reversible transliteration, not translation",
+  "chapters": [
+    {
+      "chapter": 1,
+      "dtw_normalized_distance": 0.5779947904864553,
+      "reference_seconds": 56.844,
+      "raw_cue_count": 17,
+      "cue_count": 17
+    },
+    {
+      "chapter": 2,
+      "dtw_normalized_distance": 0.5646113086132766,
+      "reference_seconds": 98.067,
+      "raw_cue_count": 29,
+      "cue_count": 29
+    },
+    {
+      "chapter": 3,
+      "dtw_normalized_distance": 0.5633334927741909,
+      "reference_seconds": 92.878,
+      "raw_cue_count": 24,
+      "cue_count": 24
+    },
+    {
+      "chapter": 4,
+      "dtw_normalized_distance": 0.5556410973728572,
+      "reference_seconds": 87.944,
+      "raw_cue_count": 25,
+      "cue_count": 25
+    },
+    {
+      "chapter": 5,
+      "dtw_normalized_distance": 0.5665645941848599,
+      "reference_seconds": 100.706,
+      "raw_cue_count": 25,
+      "cue_count": 25
+    },
+    {
+      "chapter": 6,
+      "dtw_normalized_distance": 0.5628522322454733,
+      "reference_seconds": 103.714,
+      "raw_cue_count": 27,
+      "cue_count": 27
+    },
+    {
+      "chapter": 7,
+      "dtw_normalized_distance": 0.5386286002553577,
+      "reference_seconds": 104.895,
+      "raw_cue_count": 27,
+      "cue_count": 27
+    },
+    {
+      "chapter": 8,
+      "dtw_normalized_distance": 0.570026544575367,
+      "reference_seconds": 101.51,
+      "raw_cue_count": 29,
+      "cue_count": 29
+    },
+    {
+      "chapter": 9,
+      "dtw_normalized_distance": 0.5698346697491508,
+      "reference_seconds": 96.696,
+      "raw_cue_count": 26,
+      "cue_count": 26
+    },
+    {
+      "chapter": 10,
+      "dtw_normalized_distance": 0.573780770894664,
+      "reference_seconds": 99.122,
+      "raw_cue_count": 30,
+      "cue_count": 30
+    }
+  ],
+  "cues": [
+    {
+      "chapter": 1,
+      "start": 0.0,
+      "end": 2.49,
+      "text": "Batch four, Rule seven.",
+      "spoken_text": "Batch four, Rule seven."
+    },
+    {
+      "chapter": 1,
+      "start": 2.49,
+      "end": 6.28,
+      "text": "Important dates: eleven October nineteen fifty six,",
+      "spoken_text": "Important dates: eleven October nineteen fifty six,"
+    },
+    {
+      "chapter": 1,
+      "start": 6.28,
+      "end": 9.17,
+      "text": "records; nineteen July nineteen sixty,",
+      "spoken_text": "records; nineteen July nineteen sixty,"
+    },
+    {
+      "chapter": 1,
+      "start": 9.17,
+      "end": 13.04,
+      "text": "tour transfer; seven August nineteen sixty five, training.",
+      "spoken_text": "tour transfer; seven August nineteen sixty five, training."
+    },
+    {
+      "chapter": 1,
+      "start": 13.04,
+      "end": 15.18,
+      "text": "Thirty March nineteen eighty eight,",
+      "spoken_text": "Thirty March nineteen eighty eight,"
+    },
+    {
+      "chapter": 1,
+      "start": 15.18,
+      "end": 19.16,
+      "text": "study leave; nine July nineteen ninety one, escort.",
+      "spoken_text": "study leave; nine July nineteen ninety one, escort."
+    },
+    {
+      "chapter": 1,
+      "start": 19.16,
+      "end": 23.18,
+      "text": "Seventeen August twenty sixteen aur twenty four November twenty twenty",
+      "spoken_text": "Seventeen August twenty sixteen और twenty four November twenty twenty"
+    },
+    {
+      "chapter": 1,
+      "start": 23.18,
+      "end": 24.6,
+      "text": "two, technical resignation.",
+      "spoken_text": "two, technical resignation."
+    },
+    {
+      "chapter": 1,
+      "start": 24.6,
+      "end": 29.32,
+      "text": "Three April twenty eighteen, CCL; twenty four April twenty eighteen,",
+      "spoken_text": "Three April twenty eighteen, CCL; twenty four April twenty eighteen,"
+    },
+    {
+      "chapter": 1,
+      "start": 29.32,
+      "end": 32.8,
+      "text": "posted staff package effective one July twenty seventeen; twenty eight",
+      "spoken_text": "posted staff package effective one July twenty seventeen; twenty eight"
+    },
+    {
+      "chapter": 1,
+      "start": 32.8,
+      "end": 37.8,
+      "text": "February twenty twenty, emergency destination clarification.",
+      "spoken_text": "February twenty twenty, emergency destination clarification."
+    },
+    {
+      "chapter": 1,
+      "start": 37.8,
+      "end": 42.26,
+      "text": "One July aur three September twenty twenty five, FAQ aur consolidation.",
+      "spoken_text": "One July और three September twenty twenty five, FAQ और consolidation."
+    },
+    {
+      "chapter": 1,
+      "start": 42.26,
+      "end": 46.32,
+      "text": "Aaj regular block twenty twenty six to twenty nine hai.",
+      "spoken_text": "Aaj regular block twenty twenty six to twenty nine है."
+    },
+    {
+      "chapter": 1,
+      "start": 46.32,
+      "end": 48.94,
+      "text": "Conditional previous block carryover deadline thirty one December",
+      "spoken_text": "Conditional previous block carryover deadline thirty one December"
+    },
+    {
+      "chapter": 1,
+      "start": 48.94,
+      "end": 50.36,
+      "text": "twenty twenty six.",
+      "spoken_text": "twenty twenty six."
+    },
+    {
+      "chapter": 1,
+      "start": 50.36,
+      "end": 53.52,
+      "text": "Self ya family journey date par applicable one year service check karo.",
+      "spoken_text": "Self या family journey date पर applicable one year service check करो."
+    },
+    {
+      "chapter": 1,
+      "start": 53.52,
+      "end": 57.06,
+      "text": "Sir, exact references aur examples se samjhaiye.",
+      "spoken_text": "Sir, exact references और examples से समझाइये."
+    },
+    {
+      "chapter": 2,
+      "start": 57.06,
+      "end": 59.17,
+      "text": "Rule seven, subrule one.",
+      "spoken_text": "Rule seven, subrule one."
+    },
+    {
+      "chapter": 2,
+      "start": 59.17,
+      "end": 63.19,
+      "text": "Categories one aur three: one year continuous Central service",
+      "spoken_text": "Categories one और three: one year continuous Central service"
+    },
+    {
+      "chapter": 2,
+      "start": 63.19,
+      "end": 64.94,
+      "text": "plus other conditions.",
+      "spoken_text": "plus other conditions."
+    },
+    {
+      "chapter": 2,
+      "start": 64.94,
+      "end": 69.09,
+      "text": "Example, Ravi: ten months service; leave alone enough nahi.",
+      "spoken_text": "Example, Ravi: ten months service; leave alone enough नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 69.09,
+      "end": 71.96,
+      "text": "Rule seven, subrule one, journey date.",
+      "spoken_text": "Rule seven, subrule one, journey date."
+    },
+    {
+      "chapter": 2,
+      "start": 71.96,
+      "end": 75.66,
+      "text": "Service gate actual self ya family journey date par check karo.",
+      "spoken_text": "Service gate actual self या family journey date पर check करो."
+    },
+    {
+      "chapter": 2,
+      "start": 75.66,
+      "end": 79.58,
+      "text": "Example, Family ten months par gayi; later eligibility cure nahi.",
+      "spoken_text": "Example, Family ten months पर गयी; later eligibility cure नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 79.58,
+      "end": 82.64,
+      "text": "Rule seven, subrule two; FAQ twenty five.",
+      "spoken_text": "Rule seven, subrule two; FAQ twenty five."
+    },
+    {
+      "chapter": 2,
+      "start": 82.64,
+      "end": 87.04,
+      "text": "Casual aur special casual leave allowed; leave properly approved ho.",
+      "spoken_text": "Casual और special casual leave allowed; leave properly approved हो."
+    },
+    {
+      "chapter": 2,
+      "start": 87.04,
+      "end": 91.62,
+      "text": "Example, Neha casual leave par jaaye; earned leave compulsory nahi.",
+      "spoken_text": "Example, Neha casual leave पर जाये; earned leave compulsory नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 91.62,
+      "end": 94.44,
+      "text": "Rule seven GID one, vacation paragraph.",
+      "spoken_text": "Rule seven GID one, vacation paragraph."
+    },
+    {
+      "chapter": 2,
+      "start": 94.44,
+      "end": 97.86,
+      "text": "Vacation department ki vacation regular leave count hoti hai.",
+      "spoken_text": "Vacation department की vacation regular leave count होती है."
+    },
+    {
+      "chapter": 2,
+      "start": 97.86,
+      "end": 101.18,
+      "text": "Example, Teacher vacation par jaaye; office weekend alag hai.",
+      "spoken_text": "Example, Teacher vacation पर जाये; office weekend अलग है."
+    },
+    {
+      "chapter": 2,
+      "start": 101.18,
+      "end": 104.32,
+      "text": "FAQ twenty seven; Rule seven Note two.",
+      "spoken_text": "FAQ twenty seven; Rule seven Note two."
+    },
+    {
+      "chapter": 2,
+      "start": 104.32,
+      "end": 107.68,
+      "text": "Self ka weekend only trip bina leave LTC nahi.",
+      "spoken_text": "Self का weekend only trip बिना leave LTC नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 107.68,
+      "end": 111.24,
+      "text": "Example, Ravi Saturday Sunday ghooma, leave zero; claim assume nahi.",
+      "spoken_text": "Example, Ravi Saturday Sunday घूमा, leave zero; claim assume नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 111.24,
+      "end": 113.4,
+      "text": "FAQ twenty six.",
+      "spoken_text": "FAQ twenty six."
+    },
+    {
+      "chapter": 2,
+      "start": 113.4,
+      "end": 116.5,
+      "text": "Family only journey par employee ko leave necessary nahi.",
+      "spoken_text": "Family only journey पर employee को leave necessary नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 116.5,
+      "end": 120.48,
+      "text": "Example, Neha office mein, eligible spouse hometown jaaye.",
+      "spoken_text": "Example, Neha office में, eligible spouse hometown जाये."
+    },
+    {
+      "chapter": 2,
+      "start": 120.48,
+      "end": 123.42,
+      "text": "Rule seven, subrule two; CCL instruction.",
+      "spoken_text": "Rule seven, subrule two; CCL instruction."
+    },
+    {
+      "chapter": 2,
+      "start": 123.42,
+      "end": 126.82,
+      "text": "CCL valid leave hai, extra LTC occasion nahi.",
+      "spoken_text": "CCL valid leave है, extra LTC occasion नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 126.82,
+      "end": 130.1,
+      "text": "Example, Three CCL spells se three bonus trips nahi.",
+      "spoken_text": "Example, Three CCL spells से three bonus trips नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 130.1,
+      "end": 131.66,
+      "text": "Rule seven GID two.",
+      "spoken_text": "Rule seven GID two."
+    },
+    {
+      "chapter": 2,
+      "start": 131.66,
+      "end": 135.14,
+      "text": "Regular leave ke baad resign, duty return nahi: concession inadmissible.",
+      "spoken_text": "Regular leave के बाद resign, duty return नहीं: concession inadmissible."
+    },
+    {
+      "chapter": 2,
+      "start": 135.14,
+      "end": 139.4,
+      "text": "Example, Ravi trip ke baad job chhod de; normal claim fail.",
+      "spoken_text": "Example, Ravi trip के बाद job छोड़ दे; normal claim fail."
+    },
+    {
+      "chapter": 2,
+      "start": 139.4,
+      "end": 141.66,
+      "text": "Twenty twenty two order, two point one point one.",
+      "spoken_text": "Twenty twenty two order, two point one point one."
+    },
+    {
+      "chapter": 2,
+      "start": 141.66,
+      "end": 145.66,
+      "text": "Proper channel selection aur administrative resignation qualify,",
+      "spoken_text": "Proper channel selection और administrative resignation qualify,"
+    },
+    {
+      "chapter": 2,
+      "start": 145.66,
+      "end": 146.78,
+      "text": "label alone nahi.",
+      "spoken_text": "label alone नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 146.78,
+      "end": 150.56,
+      "text": "Example, Letter mein technical word nahi; qualifying facts matter.",
+      "spoken_text": "Example, Letter में technical word नहीं; qualifying facts matter."
+    },
+    {
+      "chapter": 3,
+      "start": 150.56,
+      "end": 154.25,
+      "text": "Twenty twenty two order, two point one point two, one.",
+      "spoken_text": "Twenty twenty two order, two point one point two, one."
+    },
+    {
+      "chapter": 3,
+      "start": 154.25,
+      "end": 158.64,
+      "text": "Pre service application joining par immediately disclose karo.",
+      "spoken_text": "Pre service application joining पर immediately disclose करो."
+    },
+    {
+      "chapter": 3,
+      "start": 158.64,
+      "end": 162.22,
+      "text": "Example, Neha joining par pending application disclose kare.",
+      "spoken_text": "Example, Neha joining पर pending application disclose करे."
+    },
+    {
+      "chapter": 3,
+      "start": 162.22,
+      "end": 166.6,
+      "text": "Twenty twenty two order, two point one point two, two.",
+      "spoken_text": "Twenty twenty two order, two point one point two, two."
+    },
+    {
+      "chapter": 3,
+      "start": 166.6,
+      "end": 171.02,
+      "text": "Resignation mein pre service applied Government job ka specific request do.",
+      "spoken_text": "Resignation में pre service applied Government job का specific request दो."
+    },
+    {
+      "chapter": 3,
+      "start": 171.02,
+      "end": 174.4,
+      "text": "Example, Neha new selection ka purpose clearly likhe.",
+      "spoken_text": "Example, Neha new selection का purpose clearly लिखे."
+    },
+    {
+      "chapter": 3,
+      "start": 174.4,
+      "end": 178.76,
+      "text": "Twenty twenty two order, two point one point two, three.",
+      "spoken_text": "Twenty twenty two order, two point one point two, three."
+    },
+    {
+      "chapter": 3,
+      "start": 178.76,
+      "end": 182.98,
+      "text": "Authority satisfy ho ki application proper channel se forward hoti.",
+      "spoken_text": "Authority satisfy हो की application proper channel से forward होती."
+    },
+    {
+      "chapter": 3,
+      "start": 182.98,
+      "end": 186.91,
+      "text": "Example, Forwarding allowed nahi, toh automatic benefit nahi.",
+      "spoken_text": "Example, Forwarding allowed नहीं, तो automatic benefit नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 186.91,
+      "end": 188.87,
+      "text": "Twenty twenty two order, two point three.",
+      "spoken_text": "Twenty twenty two order, two point three."
+    },
+    {
+      "chapter": 3,
+      "start": 188.87,
+      "end": 194.34,
+      "text": "Eligible technical resignation par LTC carry, used trips bhi record hon.",
+      "spoken_text": "Eligible technical resignation पर LTC carry, used trips भी record हों."
+    },
+    {
+      "chapter": 3,
+      "start": 194.34,
+      "end": 197.48,
+      "text": "Example, New office se same used trip repeat nahi.",
+      "spoken_text": "Example, New office से same used trip repeat नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 197.48,
+      "end": 201.72,
+      "text": "Twenty twenty two order, two point three, eight year period.",
+      "spoken_text": "Twenty twenty two order, two point three, eight year period."
+    },
+    {
+      "chapter": 3,
+      "start": 201.72,
+      "end": 205.78,
+      "text": "Fresh recruit eight years initial appointment se; reset nahi.",
+      "spoken_text": "Fresh recruit eight years initial appointment से; reset नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 205.78,
+      "end": 208.44,
+      "text": "Example, Four served, four remain; eight new nahi.",
+      "spoken_text": "Example, Four served, four remain; eight new नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 208.44,
+      "end": 212.56,
+      "text": "Rule seven, subrule one; technical resignation comparison.",
+      "spoken_text": "Rule seven, subrule one; technical resignation comparison."
+    },
+    {
+      "chapter": 3,
+      "start": 212.56,
+      "end": 216.62,
+      "text": "Private service automatically Central qualifying service nahi.",
+      "spoken_text": "Private service automatically Central qualifying service नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 216.62,
+      "end": 221.08,
+      "text": "Example, Private firm ke five years se Central one year gate satisfy nahi.",
+      "spoken_text": "Example, Private firm के five years से Central one year gate satisfy नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 221.08,
+      "end": 224.92,
+      "text": "Rule seven GID fifteen; FAQ twelve, self.",
+      "spoken_text": "Rule seven GID fifteen; FAQ twelve, self."
+    },
+    {
+      "chapter": 3,
+      "start": 224.92,
+      "end": 227.25,
+      "text": "Suspension mein self LTC nahi.",
+      "spoken_text": "Suspension में self LTC नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 227.25,
+      "end": 231.8,
+      "text": "Example, Ravi suspended hai; apna holiday self LTC na claim kare.",
+      "spoken_text": "Example, Ravi suspended है; अपना holiday self LTC न claim करे."
+    },
+    {
+      "chapter": 3,
+      "start": 231.8,
+      "end": 235.08,
+      "text": "Rule seven GID fifteen; FAQ twelve, family.",
+      "spoken_text": "Rule seven GID fifteen; FAQ twelve, family."
+    },
+    {
+      "chapter": 3,
+      "start": 235.08,
+      "end": 239.76,
+      "text": "Suspension mein eligible family LTC, employee ko leave nahi chahiye.",
+      "spoken_text": "Suspension में eligible family LTC, employee को leave नहीं चाहिये."
+    },
+    {
+      "chapter": 3,
+      "start": 239.76,
+      "end": 244.22,
+      "text": "Example, Ravi ghar par, spouse hometown; normal family block use hoga.",
+      "spoken_text": "Example, Ravi घर पर, spouse hometown; normal family block use होगा."
+    },
+    {
+      "chapter": 4,
+      "start": 244.22,
+      "end": 247.99,
+      "text": "Rule seven GID one, route paragraph.",
+      "spoken_text": "Rule seven GID one, route paragraph."
+    },
+    {
+      "chapter": 4,
+      "start": 247.99,
+      "end": 252.58,
+      "text": "Normal actual fare HQ hometown cap ke andar; specific exceptions alag.",
+      "spoken_text": "Normal actual fare HQ hometown cap के अंदर; specific exceptions अलग."
+    },
+    {
+      "chapter": 4,
+      "start": 252.58,
+      "end": 257.54,
+      "text": "Example, Actual four thousand, cap three: ceiling three thousand.",
+      "spoken_text": "Example, Actual four thousand, cap three: ceiling three thousand."
+    },
+    {
+      "chapter": 4,
+      "start": 257.54,
+      "end": 260.7,
+      "text": "Rule seven GID one, rail class paragraph.",
+      "spoken_text": "Rule seven GID one, rail class paragraph."
+    },
+    {
+      "chapter": 4,
+      "start": 260.7,
+      "end": 263.88,
+      "text": "Rail class journey time ki entitlement se decide hoti hai.",
+      "spoken_text": "Rail class journey time की entitlement से decide होती है."
+    },
+    {
+      "chapter": 4,
+      "start": 263.88,
+      "end": 268.08,
+      "text": "Example, Later promotion se earlier travel class upgrade nahi.",
+      "spoken_text": "Example, Later promotion से earlier travel class upgrade नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 268.08,
+      "end": 271.34,
+      "text": "Rule seven GID one, prior intimation.",
+      "spoken_text": "Rule seven GID one, prior intimation."
+    },
+    {
+      "chapter": 4,
+      "start": 271.34,
+      "end": 274.02,
+      "text": "Journey se pehle Controlling Officer ko inform karo.",
+      "spoken_text": "Journey से पहले Controlling Officer को inform करो."
+    },
+    {
+      "chapter": 4,
+      "start": 274.02,
+      "end": 278.23,
+      "text": "Example, Ticket booking ki, par prior office intimation bhi chahiye.",
+      "spoken_text": "Example, Ticket booking की, पर prior office intimation भी चाहिये."
+    },
+    {
+      "chapter": 4,
+      "start": 278.23,
+      "end": 281.36,
+      "text": "Rule seven GID one, journey evidence.",
+      "spoken_text": "Rule seven GID one, journey evidence."
+    },
+    {
+      "chapter": 4,
+      "start": 281.36,
+      "end": 284.36,
+      "text": "Actual journey evidence do, booking alone enough nahi.",
+      "spoken_text": "Actual journey evidence दो, booking alone enough नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 284.36,
+      "end": 288.38,
+      "text": "Example, Cancelled email ticket se actual trip prove nahi.",
+      "spoken_text": "Example, Cancelled email ticket से actual trip prove नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 288.38,
+      "end": 290.7,
+      "text": "Rule seven GID one, assistance record.",
+      "spoken_text": "Rule seven GID one, assistance record."
+    },
+    {
+      "chapter": 4,
+      "start": 290.7,
+      "end": 295.7,
+      "text": "Gazetted ka Accounts record, others ka service record; outward dates rakho.",
+      "spoken_text": "Gazetted का Accounts record, others का service record; outward dates रखो."
+    },
+    {
+      "chapter": 4,
+      "start": 295.7,
+      "end": 299.67,
+      "text": "Example, Transfer par old LTC dates new office ko dein.",
+      "spoken_text": "Example, Transfer पर old LTC dates new office को दें."
+    },
+    {
+      "chapter": 4,
+      "start": 299.67,
+      "end": 301.98,
+      "text": "Rule seven GID one, every leave entry.",
+      "spoken_text": "Rule seven GID one, every leave entry."
+    },
+    {
+      "chapter": 4,
+      "start": 301.98,
+      "end": 305.82,
+      "text": "Recorded leave par LTC li ya nahi, custodian record kare.",
+      "spoken_text": "Recorded leave पर LTC ली या नहीं, custodian record करे."
+    },
+    {
+      "chapter": 4,
+      "start": 305.82,
+      "end": 310.26,
+      "text": "Example, Earned leave mein LTC nahi li; non use bhi note ho.",
+      "spoken_text": "Example, Earned leave में LTC नहीं ली; non use भी note हो."
+    },
+    {
+      "chapter": 4,
+      "start": 310.26,
+      "end": 313.48,
+      "text": "Rule seven GID three, hometown outside India.",
+      "spoken_text": "Rule seven GID three, hometown outside India."
+    },
+    {
+      "chapter": 4,
+      "start": 313.48,
+      "end": 316.76,
+      "text": "Foreign hometown assistance specified Indian railhead ya nearest",
+      "spoken_text": "Foreign hometown assistance specified Indian railhead या nearest"
+    },
+    {
+      "chapter": 4,
+      "start": 316.76,
+      "end": 317.7,
+      "text": "port station tak.",
+      "spoken_text": "port station तक."
+    },
+    {
+      "chapter": 4,
+      "start": 317.7,
+      "end": 321.8,
+      "text": "Example, Foreign hometown ka full international fare nahi.",
+      "spoken_text": "Example, Foreign hometown का full international fare नहीं."
+    },
+    {
+      "chapter": 4,
+      "start": 321.8,
+      "end": 324.4,
+      "text": "Rule seven GID three, separate claims.",
+      "spoken_text": "Rule seven GID three, separate claims."
+    },
+    {
+      "chapter": 4,
+      "start": 324.4,
+      "end": 328.2,
+      "text": "Separate round trip claims possible; express one leg exceptions bhi hain.",
+      "spoken_text": "Separate round trip claims possible; express one leg exceptions भी हैं."
+    },
+    {
+      "chapter": 4,
+      "start": 328.2,
+      "end": 332.08,
+      "text": "Example, Qualifying new spouse return only claim reject nahi.",
+      "spoken_text": "Example, Qualifying new spouse return only claim reject नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 332.08,
+      "end": 337.22,
+      "text": "Rule seven GID seven, transfer one, regularisation A.",
+      "spoken_text": "Rule seven GID seven, transfer one, regularisation A."
+    },
+    {
+      "chapter": 5,
+      "start": 337.22,
+      "end": 342.14,
+      "text": "Via home excess distance beyond transfer TA hi additional LTC basis hai.",
+      "spoken_text": "Via home excess distance beyond transfer TA ही additional LTC basis है."
+    },
+    {
+      "chapter": 5,
+      "start": 342.14,
+      "end": 347.34,
+      "text": "Example, Twelve hundred via home, eight hundred covered: four hundred extra.",
+      "spoken_text": "Example, Twelve hundred via home, eight hundred covered: four hundred extra."
+    },
+    {
+      "chapter": 5,
+      "start": 347.34,
+      "end": 350.08,
+      "text": "Rule seven GID seven, transfer option.",
+      "spoken_text": "Rule seven GID seven, transfer option."
+    },
+    {
+      "chapter": 5,
+      "start": 350.08,
+      "end": 355.64,
+      "text": "Transfer claim par self family option do; unused LTC advance TA mein adjust.",
+      "spoken_text": "Transfer claim पर self family option दो; unused LTC advance TA में adjust."
+    },
+    {
+      "chapter": 5,
+      "start": 355.64,
+      "end": 359.59,
+      "text": "Example, Small excess par LTC preserve, advance settle.",
+      "spoken_text": "Example, Small excess पर LTC preserve, advance settle."
+    },
+    {
+      "chapter": 5,
+      "start": 359.59,
+      "end": 362.56,
+      "text": "Rule seven GID seven, tour two A.",
+      "spoken_text": "Rule seven GID seven, tour two A."
+    },
+    {
+      "chapter": 5,
+      "start": 362.56,
+      "end": 368.38,
+      "text": "Prior permission: tour to home to HQ LTC; HQ to tour official TA.",
+      "spoken_text": "Prior permission: tour to home to HQ LTC; HQ to tour official TA."
+    },
+    {
+      "chapter": 5,
+      "start": 368.38,
+      "end": 373.36,
+      "text": "Example, Delhi tour, Jaipur home, Mumbai HQ: legs separate karo.",
+      "spoken_text": "Example, Delhi tour, Jaipur home, Mumbai HQ: legs separate करो."
+    },
+    {
+      "chapter": 5,
+      "start": 373.36,
+      "end": 376.38,
+      "text": "Rule seven GID seven, tour two B.",
+      "spoken_text": "Rule seven GID seven, tour two B."
+    },
+    {
+      "chapter": 5,
+      "start": 376.38,
+      "end": 382.34,
+      "text": "Prior permission: HQ to home LTC; home to tour to HQ official TA.",
+      "spoken_text": "Prior permission: HQ to home LTC; home to tour to HQ official TA."
+    },
+    {
+      "chapter": 5,
+      "start": 382.34,
+      "end": 385.72,
+      "text": "Example, Mumbai Jaipur Delhi route ka double fare nahi.",
+      "spoken_text": "Example, Mumbai Jaipur Delhi route का double fare नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 385.72,
+      "end": 390.26,
+      "text": "Rule seven GID seven, Finance order twenty three April nineteen forty eight.",
+      "spoken_text": "Rule seven GID seven, Finance order twenty three April nineteen forty eight."
+    },
+    {
+      "chapter": 5,
+      "start": 390.26,
+      "end": 395.0,
+      "text": "HQ ke bahar charge transfer par prescribed Joint Secretary approval check karo.",
+      "spoken_text": "HQ के बाहर charge transfer पर prescribed Joint Secretary approval check करो."
+    },
+    {
+      "chapter": 5,
+      "start": 395.0,
+      "end": 398.78,
+      "text": "Example, Charge elsewhere transfer hua; approval verify karo.",
+      "spoken_text": "Example, Charge elsewhere transfer हुआ; approval verify करो."
+    },
+    {
+      "chapter": 5,
+      "start": 398.78,
+      "end": 402.4,
+      "text": "Seven February twenty zero seven order, paragraphs one to four.",
+      "spoken_text": "Seven February twenty zero seven order, paragraphs one to four."
+    },
+    {
+      "chapter": 5,
+      "start": 402.4,
+      "end": 406.85,
+      "text": "All India par bhi combination rules; TA Finance instructions se regulate.",
+      "spoken_text": "All India पर भी combination rules; TA Finance instructions से regulate."
+    },
+    {
+      "chapter": 5,
+      "start": 406.85,
+      "end": 408.98,
+      "text": "Audit staff bhi included.",
+      "spoken_text": "Audit staff भी included."
+    },
+    {
+      "chapter": 5,
+      "start": 408.98,
+      "end": 412.64,
+      "text": "Example, Transfer plus Kochi LTC mein common fare duplicate nahi.",
+      "spoken_text": "Example, Transfer plus Kochi LTC में common fare duplicate नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 412.64,
+      "end": 414.64,
+      "text": "Rule seven GID eight, one.",
+      "spoken_text": "Rule seven GID eight, one."
+    },
+    {
+      "chapter": 5,
+      "start": 414.64,
+      "end": 419.26,
+      "text": "Same foreign post return: approved Indian disembarkation port LTC anchor.",
+      "spoken_text": "Same foreign post return: approved Indian disembarkation port LTC anchor."
+    },
+    {
+      "chapter": 5,
+      "start": 419.26,
+      "end": 423.32,
+      "text": "Example, London Mumbai Jaipur: London leg LTC nahi.",
+      "spoken_text": "Example, London Mumbai Jaipur: London leg LTC नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 423.32,
+      "end": 425.96,
+      "text": "Rule seven GID eight, two A.",
+      "spoken_text": "Rule seven GID eight, two A."
+    },
+    {
+      "chapter": 5,
+      "start": 425.96,
+      "end": 430.2,
+      "text": "India transfer: IFS transfer TA beyond via home excess hi LTC.",
+      "spoken_text": "India transfer: IFS transfer TA beyond via home excess ही LTC."
+    },
+    {
+      "chapter": 5,
+      "start": 430.2,
+      "end": 433.52,
+      "text": "Example, Port home HQ: same fare double nahi.",
+      "spoken_text": "Example, Port home HQ: same fare double नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 433.52,
+      "end": 436.32,
+      "text": "Rule seven GID eight, two B.",
+      "spoken_text": "Rule seven GID eight, two B."
+    },
+    {
+      "chapter": 6,
+      "start": 436.32,
+      "end": 441.92,
+      "text": "Foreign transfer: Indian HQ home port excess hi additional LTC.",
+      "spoken_text": "Foreign transfer: Indian HQ home port excess ही additional LTC."
+    },
+    {
+      "chapter": 6,
+      "start": 441.92,
+      "end": 447.26,
+      "text": "Example, Delhi Jaipur Mumbai port; transfer covered fare repeat nahi.",
+      "spoken_text": "Example, Delhi Jaipur Mumbai port; transfer covered fare repeat नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 447.26,
+      "end": 449.28,
+      "text": "Rule seven GID eight, three.",
+      "spoken_text": "Rule seven GID eight, three."
+    },
+    {
+      "chapter": 6,
+      "start": 449.28,
+      "end": 454.82,
+      "text": "Foreign posts ke beech Indian port home port excess calculate karo.",
+      "spoken_text": "Foreign posts के बीच Indian port home port excess calculate करो."
+    },
+    {
+      "chapter": 6,
+      "start": 454.82,
+      "end": 459.66,
+      "text": "Example, Mumbai entry, Jaipur home, Delhi exit: overlap deduct.",
+      "spoken_text": "Example, Mumbai entry, Jaipur home, Delhi exit: overlap deduct."
+    },
+    {
+      "chapter": 6,
+      "start": 459.66,
+      "end": 462.66,
+      "text": "Rule seven GID ten, normal journey.",
+      "spoken_text": "Rule seven GID ten, normal journey."
+    },
+    {
+      "chapter": 6,
+      "start": 462.66,
+      "end": 467.18,
+      "text": "Nepal Aid posting: nearest actual Indian railway station anchor.",
+      "spoken_text": "Nepal Aid posting: nearest actual Indian railway station anchor."
+    },
+    {
+      "chapter": 6,
+      "start": 467.18,
+      "end": 472.54,
+      "text": "Example, Nearest station X; convenient airport Y substitute nahi.",
+      "spoken_text": "Example, Nearest station X; convenient airport Y substitute नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 472.54,
+      "end": 475.72,
+      "text": "Rule seven GID ten, transfer paragraph.",
+      "spoken_text": "Rule seven GID ten, transfer paragraph."
+    },
+    {
+      "chapter": 6,
+      "start": 475.72,
+      "end": 481.96,
+      "text": "Entry to home LTC; home to HQ transfer TA direct entry HQ cap tak.",
+      "spoken_text": "Entry to home LTC; home to HQ transfer TA direct entry HQ cap तक."
+    },
+    {
+      "chapter": 6,
+      "start": 481.96,
+      "end": 486.84,
+      "text": "Example, Home en route ho toh transfer TA only option check karo.",
+      "spoken_text": "Example, Home en route हो तो transfer TA only option check करो."
+    },
+    {
+      "chapter": 6,
+      "start": 486.84,
+      "end": 489.36,
+      "text": "Rule seven GID eleven, block condition.",
+      "spoken_text": "Rule seven GID eleven, block condition."
+    },
+    {
+      "chapter": 6,
+      "start": 489.36,
+      "end": 493.16,
+      "text": "AIS Centre State move par same used block duplicate nahi.",
+      "spoken_text": "AIS Centre State move पर same used block duplicate नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 493.16,
+      "end": 499.04,
+      "text": "Example, State LTC used; Central deputation se block reopen nahi.",
+      "spoken_text": "Example, State LTC used; Central deputation से block reopen नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 499.04,
+      "end": 502.04,
+      "text": "Rule seven GID eleven, current expenditure.",
+      "spoken_text": "Rule seven GID eleven, current expenditure."
+    },
+    {
+      "chapter": 6,
+      "start": 502.04,
+      "end": 507.04,
+      "text": "Central deputation mein availed AIS LTC ka expense Centre bear kare.",
+      "spoken_text": "Central deputation में availed AIS LTC का expense Centre bear करे."
+    },
+    {
+      "chapter": 6,
+      "start": 507.04,
+      "end": 511.38,
+      "text": "Example, Family Central deputation mein travelled: Centre liability.",
+      "spoken_text": "Example, Family Central deputation में travelled: Centre liability."
+    },
+    {
+      "chapter": 6,
+      "start": 511.38,
+      "end": 513.92,
+      "text": "Rule seven GID eleven, unused concession.",
+      "spoken_text": "Rule seven GID eleven, unused concession."
+    },
+    {
+      "chapter": 6,
+      "start": 513.92,
+      "end": 518.74,
+      "text": "Central deputation ka earned unused concession expense concerned State ka.",
+      "spoken_text": "Central deputation का earned unused concession expense concerned State का."
+    },
+    {
+      "chapter": 6,
+      "start": 518.74,
+      "end": 523.3,
+      "text": "Example, Reversion ke baad valid use par automatic Centre bill nahi.",
+      "spoken_text": "Example, Reversion के बाद valid use पर automatic Centre bill नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 523.3,
+      "end": 525.74,
+      "text": "Rule seven GID twelve, option.",
+      "spoken_text": "Rule seven GID twelve, option."
+    },
+    {
+      "chapter": 6,
+      "start": 525.74,
+      "end": 530.07,
+      "text": "Non top PSU par PSU ya Central option, dono mix nahi.",
+      "spoken_text": "Non top PSU पर PSU या Central option, दोनों mix नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 530.07,
+      "end": 533.14,
+      "text": "Example, Central fare plus PSU extra occasion combine nahi.",
+      "spoken_text": "Example, Central fare plus PSU extra occasion combine नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 533.14,
+      "end": 536.86,
+      "text": "Rule seven GID twelve, no duplication.",
+      "spoken_text": "Rule seven GID twelve, no duplication."
+    },
+    {
+      "chapter": 6,
+      "start": 536.86,
+      "end": 540.52,
+      "text": "Centre PSU aur return par used block duplicate nahi.",
+      "spoken_text": "Centre PSU और return पर used block duplicate नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 540.52,
+      "end": 544.62,
+      "text": "Example, Central family trip used; same block PSU repeat nahi.",
+      "spoken_text": "Example, Central family trip used; same block PSU repeat नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 544.62,
+      "end": 548.78,
+      "text": "Rule seven GID twelve, unused option.",
+      "spoken_text": "Rule seven GID twelve, unused option."
+    },
+    {
+      "chapter": 7,
+      "start": 548.78,
+      "end": 554.5,
+      "text": "PSU option unused ho, reversion par available block Central rules se.",
+      "spoken_text": "PSU option unused हो, reversion पर available block Central rules से."
+    },
+    {
+      "chapter": 7,
+      "start": 554.5,
+      "end": 559.52,
+      "text": "Example, Form sign hua, trip nahi; actual use alag fact hai.",
+      "spoken_text": "Example, Form sign हुआ, trip नहीं; actual use अलग fact है."
+    },
+    {
+      "chapter": 7,
+      "start": 559.52,
+      "end": 561.38,
+      "text": "Rule seven GID fourteen.",
+      "spoken_text": "Rule seven GID fourteen."
+    },
+    {
+      "chapter": 7,
+      "start": 561.38,
+      "end": 566.11,
+      "text": "PSU later LTC rules revise kare, fresh option allow ho sakta hai.",
+      "spoken_text": "PSU later LTC rules revise करे, fresh option allow हो सकता है."
+    },
+    {
+      "chapter": 7,
+      "start": 566.11,
+      "end": 570.1,
+      "text": "Example, Earlier option ke baad revision hua; office reconsider kare.",
+      "spoken_text": "Example, Earlier option के बाद revision हुआ; office reconsider करे."
+    },
+    {
+      "chapter": 7,
+      "start": 570.1,
+      "end": 573.44,
+      "text": "Rule seven GID sixteen, PSU scheme exists.",
+      "spoken_text": "Rule seven GID sixteen, PSU scheme exists."
+    },
+    {
+      "chapter": 7,
+      "start": 573.44,
+      "end": 577.42,
+      "text": "Top PSU post mein PSU LTC ho toh wahi concession.",
+      "spoken_text": "Top PSU post में PSU LTC हो तो वही concession."
+    },
+    {
+      "chapter": 7,
+      "start": 577.42,
+      "end": 581.12,
+      "text": "Example, Top Director par non top option blindly nahi.",
+      "spoken_text": "Example, Top Director पर non top option blindly नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 581.12,
+      "end": 584.13,
+      "text": "Rule seven GID sixteen, no PSU scheme.",
+      "spoken_text": "Rule seven GID sixteen, no PSU scheme."
+    },
+    {
+      "chapter": 7,
+      "start": 584.13,
+      "end": 588.72,
+      "text": "Top PSU mein LTC nahi: express foreign service order provision chahiye.",
+      "spoken_text": "Top PSU में LTC नहीं: express foreign service order provision चाहिये."
+    },
+    {
+      "chapter": 7,
+      "start": 588.72,
+      "end": 592.32,
+      "text": "Example, Order silent: Central LTC automatic nahi.",
+      "spoken_text": "Example, Order silent: Central LTC automatic नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 592.32,
+      "end": 595.26,
+      "text": "Rule seven GID sixteen, terms and cost.",
+      "spoken_text": "Rule seven GID sixteen, terms and cost."
+    },
+    {
+      "chapter": 7,
+      "start": 595.26,
+      "end": 599.4,
+      "text": "Existing terms PSU consultation se modify hon; cost PSU ka.",
+      "spoken_text": "Existing terms PSU consultation से modify हों; cost PSU का."
+    },
+    {
+      "chapter": 7,
+      "start": 599.4,
+      "end": 603.3,
+      "text": "Example, Provision add hua; parent Ministry par automatic debit nahi.",
+      "spoken_text": "Example, Provision add हुआ; parent Ministry पर automatic debit नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 603.3,
+      "end": 605.74,
+      "text": "Rule seven GID seventeen, A.",
+      "spoken_text": "Rule seven GID seventeen, A."
+    },
+    {
+      "chapter": 7,
+      "start": 605.74,
+      "end": 610.86,
+      "text": "Study self: actual fare ya HQ destination admissible cap, jo less.",
+      "spoken_text": "Study self: actual fare या HQ destination admissible cap, जो less."
+    },
+    {
+      "chapter": 7,
+      "start": 610.86,
+      "end": 615.16,
+      "text": "Example, Actual eight thousand, cap five: ceiling five thousand.",
+      "spoken_text": "Example, Actual eight thousand, cap five: ceiling five thousand."
+    },
+    {
+      "chapter": 7,
+      "start": 615.16,
+      "end": 617.56,
+      "text": "Rule seven GID seventeen, B one.",
+      "spoken_text": "Rule seven GID seventeen, B one."
+    },
+    {
+      "chapter": 7,
+      "start": 617.56,
+      "end": 620.62,
+      "text": "Study station par saath family: clause A wala cap.",
+      "spoken_text": "Study station पर साथ family: clause A वाला cap."
+    },
+    {
+      "chapter": 7,
+      "start": 620.62,
+      "end": 623.96,
+      "text": "Example, Family Pune study station par; HQ ceiling ignore nahi.",
+      "spoken_text": "Example, Family Pune study station पर; HQ ceiling ignore नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 623.96,
+      "end": 627.04,
+      "text": "Rule seven GID seventeen, B two.",
+      "spoken_text": "Rule seven GID seventeen, B two."
+    },
+    {
+      "chapter": 7,
+      "start": 627.04,
+      "end": 630.46,
+      "text": "Family study station par nahi: normal later family terms.",
+      "spoken_text": "Family study station पर नहीं: normal later family terms."
+    },
+    {
+      "chapter": 7,
+      "start": 630.46,
+      "end": 634.32,
+      "text": "Example, Study Pune, family Jaipur; family origin Pune invent nahi.",
+      "spoken_text": "Example, Study Pune, family Jaipur; family origin Pune invent नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 634.32,
+      "end": 637.46,
+      "text": "Rule seven GID twenty, one read with two.",
+      "spoken_text": "Rule seven GID twenty, one read with two."
+    },
+    {
+      "chapter": 7,
+      "start": 637.46,
+      "end": 642.28,
+      "text": "Automatic HQ line isolated nahi; clause two aur SR fifty nine check karo.",
+      "spoken_text": "Automatic HQ line isolated नहीं; clause two और SR fifty nine check करो."
+    },
+    {
+      "chapter": 7,
+      "start": 642.28,
+      "end": 646.46,
+      "text": "Example, Delhi HQ, Pune course: venue alone HQ shift nahi.",
+      "spoken_text": "Example, Delhi HQ, Pune course: venue alone HQ shift नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 646.46,
+      "end": 649.86,
+      "text": "Rule seven GID twenty, two, SR fifty nine.",
+      "spoken_text": "Rule seven GID twenty, two, SR fifty nine."
+    },
+    {
+      "chapter": 8,
+      "start": 649.86,
+      "end": 655.58,
+      "text": "Competent SR fifty nine change se new HQ LTC mein reckon hoga.",
+      "spoken_text": "Competent SR fifty nine change से new HQ LTC में reckon होगा."
+    },
+    {
+      "chapter": 8,
+      "start": 655.58,
+      "end": 658.93,
+      "text": "Example, Valid Pune HQ order: old Delhi blindly nahi.",
+      "spoken_text": "Example, Valid Pune HQ order: old Delhi blindly नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 658.93,
+      "end": 662.7,
+      "text": "Rule seven GID twenty, two, domestic self.",
+      "spoken_text": "Rule seven GID twenty, two, domestic self."
+    },
+    {
+      "chapter": 8,
+      "start": 662.7,
+      "end": 666.76,
+      "text": "Unchanged HQ domestic self: regular leave, training home,",
+      "spoken_text": "Unchanged HQ domestic self: regular leave, training home,"
+    },
+    {
+      "chapter": 8,
+      "start": 666.76,
+      "end": 669.12,
+      "text": "return training ya HQ.",
+      "spoken_text": "return training या HQ."
+    },
+    {
+      "chapter": 8,
+      "start": 669.12,
+      "end": 674.02,
+      "text": "Example, Pune Jaipur Delhi return; relevant legs verify karo.",
+      "spoken_text": "Example, Pune Jaipur Delhi return; relevant legs verify करो."
+    },
+    {
+      "chapter": 8,
+      "start": 674.02,
+      "end": 676.98,
+      "text": "Rule seven GID twenty, two, domestic family.",
+      "spoken_text": "Rule seven GID twenty, two, domestic family."
+    },
+    {
+      "chapter": 8,
+      "start": 676.98,
+      "end": 682.08,
+      "text": "Domestic family original HQ anchor; later family residence rules bhi check.",
+      "spoken_text": "Domestic family original HQ anchor; later family residence rules भी check."
+    },
+    {
+      "chapter": 8,
+      "start": 682.08,
+      "end": 686.52,
+      "text": "Example, Self Pune se, family Delhi anchor; same origin assume nahi.",
+      "spoken_text": "Example, Self Pune से, family Delhi anchor; same origin assume नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 686.52,
+      "end": 690.08,
+      "text": "Rule seven GID twenty, three, self.",
+      "spoken_text": "Rule seven GID twenty, three, self."
+    },
+    {
+      "chapter": 8,
+      "start": 690.08,
+      "end": 695.78,
+      "text": "Foreign training self: original ya SR fifty nine HQ hometown return cap.",
+      "spoken_text": "Foreign training self: original या SR fifty nine HQ hometown return cap."
+    },
+    {
+      "chapter": 8,
+      "start": 695.78,
+      "end": 699.58,
+      "text": "Example, London training flight ka full fare automatic nahi.",
+      "spoken_text": "Example, London training flight का full fare automatic नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 699.58,
+      "end": 702.06,
+      "text": "Rule seven GID twenty, three, family.",
+      "spoken_text": "Rule seven GID twenty, three, family."
+    },
+    {
+      "chapter": 8,
+      "start": 702.06,
+      "end": 706.29,
+      "text": "Foreign training family: training se pehle HQ onward anchor;",
+      "spoken_text": "Foreign training family: training से पहले HQ onward anchor;"
+    },
+    {
+      "chapter": 8,
+      "start": 706.29,
+      "end": 707.7,
+      "text": "later rules apply.",
+      "spoken_text": "later rules apply."
+    },
+    {
+      "chapter": 8,
+      "start": 707.7,
+      "end": 711.18,
+      "text": "Example, Delhi to London training; family anchor simply London nahi.",
+      "spoken_text": "Example, Delhi to London training; family anchor simply London नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 711.18,
+      "end": 714.23,
+      "text": "Rule seven GID nineteen, one.",
+      "spoken_text": "Rule seven GID nineteen, one."
+    },
+    {
+      "chapter": 8,
+      "start": 714.23,
+      "end": 717.06,
+      "text": "Har escort occasion par prior HoD approval.",
+      "spoken_text": "Har escort occasion पर prior HoD approval."
+    },
+    {
+      "chapter": 8,
+      "start": 717.06,
+      "end": 719.78,
+      "text": "Example, New trip par fresh prior approval lo.",
+      "spoken_text": "Example, New trip पर fresh prior approval लो."
+    },
+    {
+      "chapter": 8,
+      "start": 719.78,
+      "end": 722.22,
+      "text": "Rule seven GID nineteen, two.",
+      "spoken_text": "Rule seven GID nineteen, two."
+    },
+    {
+      "chapter": 8,
+      "start": 722.22,
+      "end": 726.76,
+      "text": "Disability se escort necessary ho; doubt mein HoD final.",
+      "spoken_text": "Disability से escort necessary हो; doubt में HoD final."
+    },
+    {
+      "chapter": 8,
+      "start": 726.76,
+      "end": 730.58,
+      "text": "Example, Ravi ko journey help essential; authority facts examine kare.",
+      "spoken_text": "Example, Ravi को journey help essential; authority facts examine करे."
+    },
+    {
+      "chapter": 8,
+      "start": 730.58,
+      "end": 732.16,
+      "text": "Rule seven GID nineteen, three.",
+      "spoken_text": "Rule seven GID nineteen, three."
+    },
+    {
+      "chapter": 8,
+      "start": 732.16,
+      "end": 736.06,
+      "text": "Adult family member nahi ho; busy hona same test nahi.",
+      "spoken_text": "Adult family member नहीं हो; busy होना same test नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 736.06,
+      "end": 740.1,
+      "text": "Example, Adult family busy: condition automatic pass nahi.",
+      "spoken_text": "Example, Adult family busy: condition automatic pass नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 740.1,
+      "end": 741.28,
+      "text": "Rule seven GID nineteen, four.",
+      "spoken_text": "Rule seven GID nineteen, four."
+    },
+    {
+      "chapter": 8,
+      "start": 741.28,
+      "end": 745.32,
+      "text": "Employee escort applicable Railways State Roadways concessions use karein.",
+      "spoken_text": "Employee escort applicable Railways State Roadways concessions use करें."
+    },
+    {
+      "chapter": 8,
+      "start": 745.32,
+      "end": 749.32,
+      "text": "Example, Concessional fare paid; full regular fare bill nahi.",
+      "spoken_text": "Example, Concessional fare paid; full regular fare bill नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 749.32,
+      "end": 752.47,
+      "text": "Rule seven GID nineteen, five.",
+      "spoken_text": "Rule seven GID nineteen, five."
+    },
+    {
+      "chapter": 9,
+      "start": 752.47,
+      "end": 757.58,
+      "text": "Koi aur LTC entitled person accompany na kare; all five conditions apply.",
+      "spoken_text": "Koi और LTC entitled person accompany न करे; all five conditions apply."
+    },
+    {
+      "chapter": 9,
+      "start": 757.58,
+      "end": 762.32,
+      "text": "Example, LTC eligible companion saath: extra escort automatic nahi.",
+      "spoken_text": "Example, LTC eligible companion साथ: extra escort automatic नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 762.32,
+      "end": 765.9,
+      "text": "Twenty four April twenty eighteen order, four.",
+      "spoken_text": "Twenty four April twenty eighteen order, four."
+    },
+    {
+      "chapter": 9,
+      "start": 765.9,
+      "end": 770.24,
+      "text": "NER, Ladakh, A and N, Lakshadweep posting; family left behind,",
+      "spoken_text": "NER, Ladakh, A and N, Lakshadweep posting; family left behind,"
+    },
+    {
+      "chapter": 9,
+      "start": 770.24,
+      "end": 771.88,
+      "text": "family transfer TA nahi.",
+      "spoken_text": "family transfer TA नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 771.88,
+      "end": 776.54,
+      "text": "Example, Lakshadweep posted, family Delhi; tourist visit alag case.",
+      "spoken_text": "Example, Lakshadweep posted, family Delhi; tourist visit अलग case."
+    },
+    {
+      "chapter": 9,
+      "start": 776.54,
+      "end": 780.76,
+      "text": "Twenty four April twenty eighteen order, four, one and two.",
+      "spoken_text": "Twenty four April twenty eighteen order, four, one and two."
+    },
+    {
+      "chapter": 9,
+      "start": 780.76,
+      "end": 784.48,
+      "text": "Normal scheme ya annual alternative; in lieu, bonus nahi.",
+      "spoken_text": "Normal scheme या annual alternative; in lieu, bonus नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 784.48,
+      "end": 788.3,
+      "text": "Example, Annual option li; normal quota automatically add nahi.",
+      "spoken_text": "Example, Annual option ली; normal quota automatically add नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 788.3,
+      "end": 792.86,
+      "text": "Twenty four April twenty eighteen order, four, two, employee limb.",
+      "spoken_text": "Twenty four April twenty eighteen order, four, two, employee limb."
+    },
+    {
+      "chapter": 9,
+      "start": 792.86,
+      "end": 796.44,
+      "text": "Annual self once: posting se hometown ya family residence.",
+      "spoken_text": "Annual self once: posting से hometown या family residence."
+    },
+    {
+      "chapter": 9,
+      "start": 796.44,
+      "end": 799.1,
+      "text": "Example, Ladakh posting, family Delhi: random Goa nahi.",
+      "spoken_text": "Example, Ladakh posting, family Delhi: random Goa नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 799.1,
+      "end": 804.44,
+      "text": "Twenty four April twenty eighteen order, four, two, family limb.",
+      "spoken_text": "Twenty four April twenty eighteen order, four, two, family limb."
+    },
+    {
+      "chapter": 9,
+      "start": 804.44,
+      "end": 808.76,
+      "text": "Annual family: spouse dependent children posting station visit.",
+      "spoken_text": "Annual family: spouse dependent children posting station visit."
+    },
+    {
+      "chapter": 9,
+      "start": 808.76,
+      "end": 812.58,
+      "text": "Example, Parent ordinary family ho, special annual limb automatic nahi.",
+      "spoken_text": "Example, Parent ordinary family हो, special annual limb automatic नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 812.58,
+      "end": 815.76,
+      "text": "Twenty four April twenty eighteen order, five.",
+      "spoken_text": "Twenty four April twenty eighteen order, five."
+    },
+    {
+      "chapter": 9,
+      "start": 815.76,
+      "end": 819.42,
+      "text": "Emergency: two additional career occasions, restricted family,",
+      "spoken_text": "Emergency: two additional career occasions, restricted family,"
+    },
+    {
+      "chapter": 9,
+      "start": 819.42,
+      "end": 820.68,
+      "text": "normal mode class.",
+      "spoken_text": "normal mode class."
+    },
+    {
+      "chapter": 9,
+      "start": 820.68,
+      "end": 823.66,
+      "text": "Example, Two used; new block se quota reset nahi.",
+      "spoken_text": "Example, Two used; new block से quota reset नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 823.66,
+      "end": 826.84,
+      "text": "Twenty eight February twenty twenty order, three.",
+      "spoken_text": "Twenty eight February twenty twenty order, three."
+    },
+    {
+      "chapter": 9,
+      "start": 826.84,
+      "end": 830.46,
+      "text": "Emergency mein hometown ya declared posting duration family residence.",
+      "spoken_text": "Emergency में hometown या declared posting duration family residence."
+    },
+    {
+      "chapter": 9,
+      "start": 830.46,
+      "end": 834.41,
+      "text": "Example, Family Delhi declared: emergency mein Delhi possible.",
+      "spoken_text": "Example, Family Delhi declared: emergency में Delhi possible."
+    },
+    {
+      "chapter": 9,
+      "start": 834.41,
+      "end": 837.48,
+      "text": "Rule seven GID eighteen, current option.",
+      "spoken_text": "Rule seven GID eighteen, current option."
+    },
+    {
+      "chapter": 9,
+      "start": 837.48,
+      "end": 841.16,
+      "text": "Saath rehne par bhi separate hometown option; self children duplicate nahi.",
+      "spoken_text": "Saath रहने पर भी separate hometown option; self children duplicate नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 841.16,
+      "end": 845.24,
+      "text": "Example, Ravi Neha one house: separate option deny nahi.",
+      "spoken_text": "Example, Ravi Neha one house: separate option deny नहीं."
+    },
+    {
+      "chapter": 10,
+      "start": 845.24,
+      "end": 849.56,
+      "text": "Rule eight B; Rule seven fresh recruit comparison.",
+      "spoken_text": "Rule eight B; Rule seven fresh recruit comparison."
+    },
+    {
+      "chapter": 10,
+      "start": 849.56,
+      "end": 854.04,
+      "text": "Regular two hometown plus extra All India nahi; fresh",
+      "spoken_text": "Regular two hometown plus extra All India नहीं; fresh"
+    },
+    {
+      "chapter": 10,
+      "start": 854.04,
+      "end": 855.8,
+      "text": "recruit pattern separate.",
+      "spoken_text": "recruit pattern separate."
+    },
+    {
+      "chapter": 10,
+      "start": 855.8,
+      "end": 860.5,
+      "text": "Example, Normal employee three trips automatically claim nahi kare.",
+      "spoken_text": "Example, Normal employee three trips automatically claim नहीं करे."
+    },
+    {
+      "chapter": 10,
+      "start": 860.5,
+      "end": 864.28,
+      "text": "Rule nine; FAQ twenty two, nil fare comparison.",
+      "spoken_text": "Rule nine; FAQ twenty two, nil fare comparison."
+    },
+    {
+      "chapter": 10,
+      "start": 864.28,
+      "end": 869.56,
+      "text": "Actual availed LTC par no bill se occasion automatically unused nahi.",
+      "spoken_text": "Actual availed LTC पर no bill से occasion automatically unused नहीं."
+    },
+    {
+      "chapter": 10,
+      "start": 869.56,
+      "end": 874.3,
+      "text": "Example, Declared performed nil fare trip; same occasion repeat assume nahi.",
+      "spoken_text": "Example, Declared performed nil fare trip; same occasion repeat assume नहीं."
+    },
+    {
+      "chapter": 10,
+      "start": 874.3,
+      "end": 877.62,
+      "text": "Rule nine; Rule fifteen, cancellation context.",
+      "spoken_text": "Rule nine; Rule fifteen, cancellation context."
+    },
+    {
+      "chapter": 10,
+      "start": 877.62,
+      "end": 880.56,
+      "text": "Travel nahi hui: booking alone use nahi; advance",
+      "spoken_text": "Travel नहीं हुई: booking alone use नहीं; advance"
+    },
+    {
+      "chapter": 10,
+      "start": 880.56,
+      "end": 883.32,
+      "text": "settle, cancellation record.",
+      "spoken_text": "settle, cancellation record."
+    },
+    {
+      "chapter": 10,
+      "start": 883.32,
+      "end": 889.14,
+      "text": "Example, Tickets cancel, journey zero: performed nil claim se alag.",
+      "spoken_text": "Example, Tickets cancel, journey zero: performed nil claim से अलग."
+    },
+    {
+      "chapter": 10,
+      "start": 889.14,
+      "end": 890.96,
+      "text": "Rule fifteen GID one, A.",
+      "spoken_text": "Rule fifteen GID one, A."
+    },
+    {
+      "chapter": 10,
+      "start": 890.96,
+      "end": 894.36,
+      "text": "Lending office leave; borrowing TA Controlling Officer advance,",
+      "spoken_text": "Lending office leave; borrowing TA Controlling Officer advance,"
+    },
+    {
+      "chapter": 10,
+      "start": 894.36,
+      "end": 895.0,
+      "text": "copy lending ko.",
+      "spoken_text": "copy lending को."
+    },
+    {
+      "chapter": 10,
+      "start": 895.0,
+      "end": 899.69,
+      "text": "Example, Reversion par seedha leave: offices coordinate karein.",
+      "spoken_text": "Example, Reversion पर सीधा leave: offices coordinate करें."
+    },
+    {
+      "chapter": 10,
+      "start": 899.69,
+      "end": 901.88,
+      "text": "Rule fifteen GID one, B.",
+      "spoken_text": "Rule fifteen GID one, B."
+    },
+    {
+      "chapter": 10,
+      "start": 901.88,
+      "end": 905.5,
+      "text": "Same reversion procedure self, self family, family only par.",
+      "spoken_text": "Same reversion procedure self, self family, family only पर."
+    },
+    {
+      "chapter": 10,
+      "start": 905.5,
+      "end": 910.55,
+      "text": "Example, Employee travel nahi, spouse kare; coordination phir bhi.",
+      "spoken_text": "Example, Employee travel नहीं, spouse करे; coordination फिर भी."
+    },
+    {
+      "chapter": 10,
+      "start": 910.55,
+      "end": 913.22,
+      "text": "Rule fifteen GID one, C.",
+      "spoken_text": "Rule fifteen GID one, C."
+    },
+    {
+      "chapter": 10,
+      "start": 913.22,
+      "end": 916.86,
+      "text": "Borrowing advance ultimately liable office account mein adjust.",
+      "spoken_text": "Borrowing advance ultimately liable office account में adjust."
+    },
+    {
+      "chapter": 10,
+      "start": 916.86,
+      "end": 920.54,
+      "text": "Example, Borrowing office paid; liable office ko final debit.",
+      "spoken_text": "Example, Borrowing office paid; liable office को final debit."
+    },
+    {
+      "chapter": 10,
+      "start": 920.54,
+      "end": 922.32,
+      "text": "Rule thirteen Note four.",
+      "spoken_text": "Rule thirteen Note four."
+    },
+    {
+      "chapter": 10,
+      "start": 922.32,
+      "end": 926.82,
+      "text": "Qualifying rail LTC: Indian Railways website e ticket charge allowed.",
+      "spoken_text": "Qualifying rail LTC: Indian Railways website e ticket charge allowed."
+    },
+    {
+      "chapter": 10,
+      "start": 926.82,
+      "end": 929.74,
+      "text": "Example, Private holiday booking charge same permission nahi.",
+      "spoken_text": "Example, Private holiday booking charge same permission नहीं."
+    },
+    {
+      "chapter": 10,
+      "start": 929.74,
+      "end": 931.92,
+      "text": "Rule thirteen Note five.",
+      "spoken_text": "Rule thirteen Note five."
+    },
+    {
+      "chapter": 10,
+      "start": 931.92,
+      "end": 934.38,
+      "text": "Agent fee aur railway website charge alag.",
+      "spoken_text": "Agent fee और railway website charge अलग."
+    },
+    {
+      "chapter": 10,
+      "start": 934.38,
+      "end": 938.36,
+      "text": "Example, Agent extra five hundred: railway charge approval enough nahi.",
+      "spoken_text": "Example, Agent extra five hundred: railway charge approval enough नहीं."
+    },
+    {
+      "chapter": 10,
+      "start": 938.36,
+      "end": 940.32,
+      "text": "Rule thirteen Note six.",
+      "spoken_text": "Rule thirteen Note six."
+    },
+    {
+      "chapter": 10,
+      "start": 940.32,
+      "end": 944.18,
+      "text": "Eligible fare ka statutory tax allowed; optional agent fee alag.",
+      "spoken_text": "Eligible fare का statutory tax allowed; optional agent fee अलग."
+    },
+    {
+      "chapter": 10,
+      "start": 944.18,
+      "end": 948.22,
+      "text": "Example, Ravi ka statutory tax allowed; private agent fee nahi.",
+      "spoken_text": "Example, Ravi का statutory tax allowed; private agent fee नहीं."
+    }
+  ],
+  "full_decode_check": "passed",
+  "audio_stream_unchanged": true,
+  "audio_sha256": "SHA256=aedfe10aadb9ed8ac5f8728deca7f059daf364391385922f2c86be31b2e62f5c",
+  "burned_in": true,
+  "video_bytes": 20695849
+}

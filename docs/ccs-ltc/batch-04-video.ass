@@ -1,0 +1,272 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Atkinson Hyperlegible,40,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,0,0,0,0,100,100,0,0,1,1,0,2,110,110,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.49,Default,,0,0,0,,Batch four, Rule seven.
+Dialogue: 0,0:00:02.49,0:00:06.28,Default,,0,0,0,,Important dates: eleven\NOctober nineteen fifty six,
+Dialogue: 0,0:00:06.28,0:00:09.17,Default,,0,0,0,,records; nineteen July nineteen sixty,
+Dialogue: 0,0:00:09.17,0:00:13.04,Default,,0,0,0,,tour transfer; seven August\Nnineteen sixty five, training.
+Dialogue: 0,0:00:13.04,0:00:15.18,Default,,0,0,0,,Thirty March nineteen eighty eight,
+Dialogue: 0,0:00:15.18,0:00:19.16,Default,,0,0,0,,study leave; nine July\Nnineteen ninety one, escort.
+Dialogue: 0,0:00:19.16,0:00:23.18,Default,,0,0,0,,Seventeen August twenty sixteen aur\Ntwenty four November twenty twenty
+Dialogue: 0,0:00:23.18,0:00:24.60,Default,,0,0,0,,two, technical resignation.
+Dialogue: 0,0:00:24.60,0:00:29.32,Default,,0,0,0,,Three April twenty eighteen, CCL;\Ntwenty four April twenty eighteen,
+Dialogue: 0,0:00:29.32,0:00:32.80,Default,,0,0,0,,posted staff package effective one\NJuly twenty seventeen; twenty eight
+Dialogue: 0,0:00:32.80,0:00:37.80,Default,,0,0,0,,February twenty twenty, emergency\Ndestination clarification.
+Dialogue: 0,0:00:37.80,0:00:42.26,Default,,0,0,0,,One July aur three September twenty\Ntwenty five, FAQ aur consolidation.
+Dialogue: 0,0:00:42.26,0:00:46.32,Default,,0,0,0,,Aaj regular block twenty\Ntwenty six to twenty nine hai.
+Dialogue: 0,0:00:46.32,0:00:48.94,Default,,0,0,0,,Conditional previous block carryover\Ndeadline thirty one December
+Dialogue: 0,0:00:48.94,0:00:50.36,Default,,0,0,0,,twenty twenty six.
+Dialogue: 0,0:00:50.36,0:00:53.52,Default,,0,0,0,,Self ya family journey date par\Napplicable one year service check karo.
+Dialogue: 0,0:00:53.52,0:00:57.06,Default,,0,0,0,,Sir, exact references aur\Nexamples se samjhaiye.
+Dialogue: 0,0:00:57.06,0:00:59.17,Default,,0,0,0,,Rule seven, subrule one.
+Dialogue: 0,0:00:59.17,0:01:03.19,Default,,0,0,0,,Categories one aur three: one\Nyear continuous Central service
+Dialogue: 0,0:01:03.19,0:01:04.94,Default,,0,0,0,,plus other conditions.
+Dialogue: 0,0:01:04.94,0:01:09.09,Default,,0,0,0,,Example, Ravi: ten months\Nservice; leave alone enough nahi.
+Dialogue: 0,0:01:09.09,0:01:11.96,Default,,0,0,0,,Rule seven, subrule one, journey date.
+Dialogue: 0,0:01:11.96,0:01:15.66,Default,,0,0,0,,Service gate actual self ya family\Njourney date par check karo.
+Dialogue: 0,0:01:15.66,0:01:19.58,Default,,0,0,0,,Example, Family ten months par\Ngayi; later eligibility cure nahi.
+Dialogue: 0,0:01:19.58,0:01:22.64,Default,,0,0,0,,Rule seven, subrule two; FAQ twenty five.
+Dialogue: 0,0:01:22.64,0:01:27.04,Default,,0,0,0,,Casual aur special casual leave\Nallowed; leave properly approved ho.
+Dialogue: 0,0:01:27.04,0:01:31.62,Default,,0,0,0,,Example, Neha casual leave par\Njaaye; earned leave compulsory nahi.
+Dialogue: 0,0:01:31.62,0:01:34.44,Default,,0,0,0,,Rule seven GID one, vacation paragraph.
+Dialogue: 0,0:01:34.44,0:01:37.86,Default,,0,0,0,,Vacation department ki vacation\Nregular leave count hoti hai.
+Dialogue: 0,0:01:37.86,0:01:41.18,Default,,0,0,0,,Example, Teacher vacation par\Njaaye; office weekend alag hai.
+Dialogue: 0,0:01:41.18,0:01:44.32,Default,,0,0,0,,FAQ twenty seven; Rule seven Note two.
+Dialogue: 0,0:01:44.32,0:01:47.68,Default,,0,0,0,,Self ka weekend only trip bina leave LTC nahi.
+Dialogue: 0,0:01:47.68,0:01:51.24,Default,,0,0,0,,Example, Ravi Saturday Sunday ghooma,\Nleave zero; claim assume nahi.
+Dialogue: 0,0:01:51.24,0:01:53.40,Default,,0,0,0,,FAQ twenty six.
+Dialogue: 0,0:01:53.40,0:01:56.50,Default,,0,0,0,,Family only journey par employee\Nko leave necessary nahi.
+Dialogue: 0,0:01:56.50,0:02:00.48,Default,,0,0,0,,Example, Neha office mein,\Neligible spouse hometown jaaye.
+Dialogue: 0,0:02:00.48,0:02:03.42,Default,,0,0,0,,Rule seven, subrule two; CCL instruction.
+Dialogue: 0,0:02:03.42,0:02:06.82,Default,,0,0,0,,CCL valid leave hai, extra LTC occasion nahi.
+Dialogue: 0,0:02:06.82,0:02:10.10,Default,,0,0,0,,Example, Three CCL spells\Nse three bonus trips nahi.
+Dialogue: 0,0:02:10.10,0:02:11.66,Default,,0,0,0,,Rule seven GID two.
+Dialogue: 0,0:02:11.66,0:02:15.14,Default,,0,0,0,,Regular leave ke baad resign, duty\Nreturn nahi: concession inadmissible.
+Dialogue: 0,0:02:15.14,0:02:19.40,Default,,0,0,0,,Example, Ravi trip ke baad job\Nchhod de; normal claim fail.
+Dialogue: 0,0:02:19.40,0:02:21.66,Default,,0,0,0,,Twenty twenty two order,\Ntwo point one point one.
+Dialogue: 0,0:02:21.66,0:02:25.66,Default,,0,0,0,,Proper channel selection aur\Nadministrative resignation qualify,
+Dialogue: 0,0:02:25.66,0:02:26.78,Default,,0,0,0,,label alone nahi.
+Dialogue: 0,0:02:26.78,0:02:30.56,Default,,0,0,0,,Example, Letter mein technical\Nword nahi; qualifying facts matter.
+Dialogue: 0,0:02:30.56,0:02:34.25,Default,,0,0,0,,Twenty twenty two order, two\Npoint one point two, one.
+Dialogue: 0,0:02:34.25,0:02:38.64,Default,,0,0,0,,Pre service application joining\Npar immediately disclose karo.
+Dialogue: 0,0:02:38.64,0:02:42.22,Default,,0,0,0,,Example, Neha joining par pending\Napplication disclose kare.
+Dialogue: 0,0:02:42.22,0:02:46.60,Default,,0,0,0,,Twenty twenty two order, two\Npoint one point two, two.
+Dialogue: 0,0:02:46.60,0:02:51.02,Default,,0,0,0,,Resignation mein pre service applied\NGovernment job ka specific request do.
+Dialogue: 0,0:02:51.02,0:02:54.40,Default,,0,0,0,,Example, Neha new selection\Nka purpose clearly likhe.
+Dialogue: 0,0:02:54.40,0:02:58.76,Default,,0,0,0,,Twenty twenty two order, two\Npoint one point two, three.
+Dialogue: 0,0:02:58.76,0:03:02.98,Default,,0,0,0,,Authority satisfy ho ki application\Nproper channel se forward hoti.
+Dialogue: 0,0:03:02.98,0:03:06.91,Default,,0,0,0,,Example, Forwarding allowed\Nnahi, toh automatic benefit nahi.
+Dialogue: 0,0:03:06.91,0:03:08.87,Default,,0,0,0,,Twenty twenty two order, two point three.
+Dialogue: 0,0:03:08.87,0:03:14.34,Default,,0,0,0,,Eligible technical resignation par\NLTC carry, used trips bhi record hon.
+Dialogue: 0,0:03:14.34,0:03:17.48,Default,,0,0,0,,Example, New office se\Nsame used trip repeat nahi.
+Dialogue: 0,0:03:17.48,0:03:21.72,Default,,0,0,0,,Twenty twenty two order, two\Npoint three, eight year period.
+Dialogue: 0,0:03:21.72,0:03:25.78,Default,,0,0,0,,Fresh recruit eight years initial\Nappointment se; reset nahi.
+Dialogue: 0,0:03:25.78,0:03:28.44,Default,,0,0,0,,Example, Four served, four\Nremain; eight new nahi.
+Dialogue: 0,0:03:28.44,0:03:32.56,Default,,0,0,0,,Rule seven, subrule one;\Ntechnical resignation comparison.
+Dialogue: 0,0:03:32.56,0:03:36.62,Default,,0,0,0,,Private service automatically\NCentral qualifying service nahi.
+Dialogue: 0,0:03:36.62,0:03:41.08,Default,,0,0,0,,Example, Private firm ke five years\Nse Central one year gate satisfy nahi.
+Dialogue: 0,0:03:41.08,0:03:44.92,Default,,0,0,0,,Rule seven GID fifteen; FAQ twelve, self.
+Dialogue: 0,0:03:44.92,0:03:47.25,Default,,0,0,0,,Suspension mein self LTC nahi.
+Dialogue: 0,0:03:47.25,0:03:51.80,Default,,0,0,0,,Example, Ravi suspended hai; apna\Nholiday self LTC na claim kare.
+Dialogue: 0,0:03:51.80,0:03:55.08,Default,,0,0,0,,Rule seven GID fifteen; FAQ twelve, family.
+Dialogue: 0,0:03:55.08,0:03:59.76,Default,,0,0,0,,Suspension mein eligible family\NLTC, employee ko leave nahi chahiye.
+Dialogue: 0,0:03:59.76,0:04:04.22,Default,,0,0,0,,Example, Ravi ghar par, spouse\Nhometown; normal family block use hoga.
+Dialogue: 0,0:04:04.22,0:04:07.99,Default,,0,0,0,,Rule seven GID one, route paragraph.
+Dialogue: 0,0:04:07.99,0:04:12.58,Default,,0,0,0,,Normal actual fare HQ hometown cap\Nke andar; specific exceptions alag.
+Dialogue: 0,0:04:12.58,0:04:17.54,Default,,0,0,0,,Example, Actual four thousand,\Ncap three: ceiling three thousand.
+Dialogue: 0,0:04:17.54,0:04:20.70,Default,,0,0,0,,Rule seven GID one, rail class paragraph.
+Dialogue: 0,0:04:20.70,0:04:23.88,Default,,0,0,0,,Rail class journey time ki\Nentitlement se decide hoti hai.
+Dialogue: 0,0:04:23.88,0:04:28.08,Default,,0,0,0,,Example, Later promotion se\Nearlier travel class upgrade nahi.
+Dialogue: 0,0:04:28.08,0:04:31.34,Default,,0,0,0,,Rule seven GID one, prior intimation.
+Dialogue: 0,0:04:31.34,0:04:34.02,Default,,0,0,0,,Journey se pehle Controlling\NOfficer ko inform karo.
+Dialogue: 0,0:04:34.02,0:04:38.23,Default,,0,0,0,,Example, Ticket booking ki, par\Nprior office intimation bhi chahiye.
+Dialogue: 0,0:04:38.23,0:04:41.36,Default,,0,0,0,,Rule seven GID one, journey evidence.
+Dialogue: 0,0:04:41.36,0:04:44.36,Default,,0,0,0,,Actual journey evidence do,\Nbooking alone enough nahi.
+Dialogue: 0,0:04:44.36,0:04:48.38,Default,,0,0,0,,Example, Cancelled email ticket\Nse actual trip prove nahi.
+Dialogue: 0,0:04:48.38,0:04:50.70,Default,,0,0,0,,Rule seven GID one, assistance record.
+Dialogue: 0,0:04:50.70,0:04:55.70,Default,,0,0,0,,Gazetted ka Accounts record, others ka\Nservice record; outward dates rakho.
+Dialogue: 0,0:04:55.70,0:04:59.67,Default,,0,0,0,,Example, Transfer par old\NLTC dates new office ko dein.
+Dialogue: 0,0:04:59.67,0:05:01.98,Default,,0,0,0,,Rule seven GID one, every leave entry.
+Dialogue: 0,0:05:01.98,0:05:05.82,Default,,0,0,0,,Recorded leave par LTC li ya\Nnahi, custodian record kare.
+Dialogue: 0,0:05:05.82,0:05:10.26,Default,,0,0,0,,Example, Earned leave mein LTC\Nnahi li; non use bhi note ho.
+Dialogue: 0,0:05:10.26,0:05:13.48,Default,,0,0,0,,Rule seven GID three, hometown outside India.
+Dialogue: 0,0:05:13.48,0:05:16.76,Default,,0,0,0,,Foreign hometown assistance\Nspecified Indian railhead ya nearest
+Dialogue: 0,0:05:16.76,0:05:17.70,Default,,0,0,0,,port station tak.
+Dialogue: 0,0:05:17.70,0:05:21.80,Default,,0,0,0,,Example, Foreign hometown ka\Nfull international fare nahi.
+Dialogue: 0,0:05:21.80,0:05:24.40,Default,,0,0,0,,Rule seven GID three, separate claims.
+Dialogue: 0,0:05:24.40,0:05:28.20,Default,,0,0,0,,Separate round trip claims possible;\Nexpress one leg exceptions bhi hain.
+Dialogue: 0,0:05:28.20,0:05:32.08,Default,,0,0,0,,Example, Qualifying new spouse\Nreturn only claim reject nahi.
+Dialogue: 0,0:05:32.08,0:05:37.22,Default,,0,0,0,,Rule seven GID seven, transfer\None, regularisation A.
+Dialogue: 0,0:05:37.22,0:05:42.14,Default,,0,0,0,,Via home excess distance beyond\Ntransfer TA hi additional LTC basis hai.
+Dialogue: 0,0:05:42.14,0:05:47.34,Default,,0,0,0,,Example, Twelve hundred via home, eight\Nhundred covered: four hundred extra.
+Dialogue: 0,0:05:47.34,0:05:50.08,Default,,0,0,0,,Rule seven GID seven, transfer option.
+Dialogue: 0,0:05:50.08,0:05:55.64,Default,,0,0,0,,Transfer claim par self family option\Ndo; unused LTC advance TA mein adjust.
+Dialogue: 0,0:05:55.64,0:05:59.59,Default,,0,0,0,,Example, Small excess par\NLTC preserve, advance settle.
+Dialogue: 0,0:05:59.59,0:06:02.56,Default,,0,0,0,,Rule seven GID seven, tour two A.
+Dialogue: 0,0:06:02.56,0:06:08.38,Default,,0,0,0,,Prior permission: tour to home to\NHQ LTC; HQ to tour official TA.
+Dialogue: 0,0:06:08.38,0:06:13.36,Default,,0,0,0,,Example, Delhi tour, Jaipur home,\NMumbai HQ: legs separate karo.
+Dialogue: 0,0:06:13.36,0:06:16.38,Default,,0,0,0,,Rule seven GID seven, tour two B.
+Dialogue: 0,0:06:16.38,0:06:22.34,Default,,0,0,0,,Prior permission: HQ to home LTC;\Nhome to tour to HQ official TA.
+Dialogue: 0,0:06:22.34,0:06:25.72,Default,,0,0,0,,Example, Mumbai Jaipur Delhi\Nroute ka double fare nahi.
+Dialogue: 0,0:06:25.72,0:06:30.26,Default,,0,0,0,,Rule seven GID seven, Finance order\Ntwenty three April nineteen forty eight.
+Dialogue: 0,0:06:30.26,0:06:35.00,Default,,0,0,0,,HQ ke bahar charge transfer par prescribed\NJoint Secretary approval check karo.
+Dialogue: 0,0:06:35.00,0:06:38.78,Default,,0,0,0,,Example, Charge elsewhere transfer\Nhua; approval verify karo.
+Dialogue: 0,0:06:38.78,0:06:42.40,Default,,0,0,0,,Seven February twenty zero seven\Norder, paragraphs one to four.
+Dialogue: 0,0:06:42.40,0:06:46.85,Default,,0,0,0,,All India par bhi combination rules;\NTA Finance instructions se regulate.
+Dialogue: 0,0:06:46.85,0:06:48.98,Default,,0,0,0,,Audit staff bhi included.
+Dialogue: 0,0:06:48.98,0:06:52.64,Default,,0,0,0,,Example, Transfer plus Kochi LTC\Nmein common fare duplicate nahi.
+Dialogue: 0,0:06:52.64,0:06:54.64,Default,,0,0,0,,Rule seven GID eight, one.
+Dialogue: 0,0:06:54.64,0:06:59.26,Default,,0,0,0,,Same foreign post return: approved\NIndian disembarkation port LTC anchor.
+Dialogue: 0,0:06:59.26,0:07:03.32,Default,,0,0,0,,Example, London Mumbai\NJaipur: London leg LTC nahi.
+Dialogue: 0,0:07:03.32,0:07:05.96,Default,,0,0,0,,Rule seven GID eight, two A.
+Dialogue: 0,0:07:05.96,0:07:10.20,Default,,0,0,0,,India transfer: IFS transfer TA\Nbeyond via home excess hi LTC.
+Dialogue: 0,0:07:10.20,0:07:13.52,Default,,0,0,0,,Example, Port home HQ: same fare double nahi.
+Dialogue: 0,0:07:13.52,0:07:16.32,Default,,0,0,0,,Rule seven GID eight, two B.
+Dialogue: 0,0:07:16.32,0:07:21.92,Default,,0,0,0,,Foreign transfer: Indian HQ home\Nport excess hi additional LTC.
+Dialogue: 0,0:07:21.92,0:07:27.26,Default,,0,0,0,,Example, Delhi Jaipur Mumbai port;\Ntransfer covered fare repeat nahi.
+Dialogue: 0,0:07:27.26,0:07:29.28,Default,,0,0,0,,Rule seven GID eight, three.
+Dialogue: 0,0:07:29.28,0:07:34.82,Default,,0,0,0,,Foreign posts ke beech Indian port\Nhome port excess calculate karo.
+Dialogue: 0,0:07:34.82,0:07:39.66,Default,,0,0,0,,Example, Mumbai entry, Jaipur\Nhome, Delhi exit: overlap deduct.
+Dialogue: 0,0:07:39.66,0:07:42.66,Default,,0,0,0,,Rule seven GID ten, normal journey.
+Dialogue: 0,0:07:42.66,0:07:47.18,Default,,0,0,0,,Nepal Aid posting: nearest actual\NIndian railway station anchor.
+Dialogue: 0,0:07:47.18,0:07:52.54,Default,,0,0,0,,Example, Nearest station X;\Nconvenient airport Y substitute nahi.
+Dialogue: 0,0:07:52.54,0:07:55.72,Default,,0,0,0,,Rule seven GID ten, transfer paragraph.
+Dialogue: 0,0:07:55.72,0:08:01.96,Default,,0,0,0,,Entry to home LTC; home to HQ\Ntransfer TA direct entry HQ cap tak.
+Dialogue: 0,0:08:01.96,0:08:06.84,Default,,0,0,0,,Example, Home en route ho toh\Ntransfer TA only option check karo.
+Dialogue: 0,0:08:06.84,0:08:09.36,Default,,0,0,0,,Rule seven GID eleven, block condition.
+Dialogue: 0,0:08:09.36,0:08:13.16,Default,,0,0,0,,AIS Centre State move par same\Nused block duplicate nahi.
+Dialogue: 0,0:08:13.16,0:08:19.04,Default,,0,0,0,,Example, State LTC used; Central\Ndeputation se block reopen nahi.
+Dialogue: 0,0:08:19.04,0:08:22.04,Default,,0,0,0,,Rule seven GID eleven, current expenditure.
+Dialogue: 0,0:08:22.04,0:08:27.04,Default,,0,0,0,,Central deputation mein availed AIS\NLTC ka expense Centre bear kare.
+Dialogue: 0,0:08:27.04,0:08:31.38,Default,,0,0,0,,Example, Family Central deputation\Nmein travelled: Centre liability.
+Dialogue: 0,0:08:31.38,0:08:33.92,Default,,0,0,0,,Rule seven GID eleven, unused concession.
+Dialogue: 0,0:08:33.92,0:08:38.74,Default,,0,0,0,,Central deputation ka earned unused\Nconcession expense concerned State ka.
+Dialogue: 0,0:08:38.74,0:08:43.30,Default,,0,0,0,,Example, Reversion ke baad valid\Nuse par automatic Centre bill nahi.
+Dialogue: 0,0:08:43.30,0:08:45.74,Default,,0,0,0,,Rule seven GID twelve, option.
+Dialogue: 0,0:08:45.74,0:08:50.07,Default,,0,0,0,,Non top PSU par PSU ya\NCentral option, dono mix nahi.
+Dialogue: 0,0:08:50.07,0:08:53.14,Default,,0,0,0,,Example, Central fare plus PSU\Nextra occasion combine nahi.
+Dialogue: 0,0:08:53.14,0:08:56.86,Default,,0,0,0,,Rule seven GID twelve, no duplication.
+Dialogue: 0,0:08:56.86,0:09:00.52,Default,,0,0,0,,Centre PSU aur return par\Nused block duplicate nahi.
+Dialogue: 0,0:09:00.52,0:09:04.62,Default,,0,0,0,,Example, Central family trip\Nused; same block PSU repeat nahi.
+Dialogue: 0,0:09:04.62,0:09:08.78,Default,,0,0,0,,Rule seven GID twelve, unused option.
+Dialogue: 0,0:09:08.78,0:09:14.50,Default,,0,0,0,,PSU option unused ho, reversion par\Navailable block Central rules se.
+Dialogue: 0,0:09:14.50,0:09:19.52,Default,,0,0,0,,Example, Form sign hua, trip\Nnahi; actual use alag fact hai.
+Dialogue: 0,0:09:19.52,0:09:21.38,Default,,0,0,0,,Rule seven GID fourteen.
+Dialogue: 0,0:09:21.38,0:09:26.11,Default,,0,0,0,,PSU later LTC rules revise kare,\Nfresh option allow ho sakta hai.
+Dialogue: 0,0:09:26.11,0:09:30.10,Default,,0,0,0,,Example, Earlier option ke baad\Nrevision hua; office reconsider kare.
+Dialogue: 0,0:09:30.10,0:09:33.44,Default,,0,0,0,,Rule seven GID sixteen, PSU scheme exists.
+Dialogue: 0,0:09:33.44,0:09:37.42,Default,,0,0,0,,Top PSU post mein PSU LTC\Nho toh wahi concession.
+Dialogue: 0,0:09:37.42,0:09:41.12,Default,,0,0,0,,Example, Top Director par\Nnon top option blindly nahi.
+Dialogue: 0,0:09:41.12,0:09:44.13,Default,,0,0,0,,Rule seven GID sixteen, no PSU scheme.
+Dialogue: 0,0:09:44.13,0:09:48.72,Default,,0,0,0,,Top PSU mein LTC nahi: express foreign\Nservice order provision chahiye.
+Dialogue: 0,0:09:48.72,0:09:52.32,Default,,0,0,0,,Example, Order silent:\NCentral LTC automatic nahi.
+Dialogue: 0,0:09:52.32,0:09:55.26,Default,,0,0,0,,Rule seven GID sixteen, terms and cost.
+Dialogue: 0,0:09:55.26,0:09:59.40,Default,,0,0,0,,Existing terms PSU consultation\Nse modify hon; cost PSU ka.
+Dialogue: 0,0:09:59.40,0:10:03.30,Default,,0,0,0,,Example, Provision add hua; parent\NMinistry par automatic debit nahi.
+Dialogue: 0,0:10:03.30,0:10:05.74,Default,,0,0,0,,Rule seven GID seventeen, A.
+Dialogue: 0,0:10:05.74,0:10:10.86,Default,,0,0,0,,Study self: actual fare ya HQ\Ndestination admissible cap, jo less.
+Dialogue: 0,0:10:10.86,0:10:15.16,Default,,0,0,0,,Example, Actual eight thousand,\Ncap five: ceiling five thousand.
+Dialogue: 0,0:10:15.16,0:10:17.56,Default,,0,0,0,,Rule seven GID seventeen, B one.
+Dialogue: 0,0:10:17.56,0:10:20.62,Default,,0,0,0,,Study station par saath\Nfamily: clause A wala cap.
+Dialogue: 0,0:10:20.62,0:10:23.96,Default,,0,0,0,,Example, Family Pune study station\Npar; HQ ceiling ignore nahi.
+Dialogue: 0,0:10:23.96,0:10:27.04,Default,,0,0,0,,Rule seven GID seventeen, B two.
+Dialogue: 0,0:10:27.04,0:10:30.46,Default,,0,0,0,,Family study station par nahi:\Nnormal later family terms.
+Dialogue: 0,0:10:30.46,0:10:34.32,Default,,0,0,0,,Example, Study Pune, family Jaipur;\Nfamily origin Pune invent nahi.
+Dialogue: 0,0:10:34.32,0:10:37.46,Default,,0,0,0,,Rule seven GID twenty, one read with two.
+Dialogue: 0,0:10:37.46,0:10:42.28,Default,,0,0,0,,Automatic HQ line isolated nahi; clause\Ntwo aur SR fifty nine check karo.
+Dialogue: 0,0:10:42.28,0:10:46.46,Default,,0,0,0,,Example, Delhi HQ, Pune course:\Nvenue alone HQ shift nahi.
+Dialogue: 0,0:10:46.46,0:10:49.86,Default,,0,0,0,,Rule seven GID twenty, two, SR fifty nine.
+Dialogue: 0,0:10:49.86,0:10:55.58,Default,,0,0,0,,Competent SR fifty nine change\Nse new HQ LTC mein reckon hoga.
+Dialogue: 0,0:10:55.58,0:10:58.93,Default,,0,0,0,,Example, Valid Pune HQ order:\Nold Delhi blindly nahi.
+Dialogue: 0,0:10:58.93,0:11:02.70,Default,,0,0,0,,Rule seven GID twenty, two, domestic self.
+Dialogue: 0,0:11:02.70,0:11:06.76,Default,,0,0,0,,Unchanged HQ domestic self:\Nregular leave, training home,
+Dialogue: 0,0:11:06.76,0:11:09.12,Default,,0,0,0,,return training ya HQ.
+Dialogue: 0,0:11:09.12,0:11:14.02,Default,,0,0,0,,Example, Pune Jaipur Delhi\Nreturn; relevant legs verify karo.
+Dialogue: 0,0:11:14.02,0:11:16.98,Default,,0,0,0,,Rule seven GID twenty, two, domestic family.
+Dialogue: 0,0:11:16.98,0:11:22.08,Default,,0,0,0,,Domestic family original HQ anchor;\Nlater family residence rules bhi check.
+Dialogue: 0,0:11:22.08,0:11:26.52,Default,,0,0,0,,Example, Self Pune se, family Delhi\Nanchor; same origin assume nahi.
+Dialogue: 0,0:11:26.52,0:11:30.08,Default,,0,0,0,,Rule seven GID twenty, three, self.
+Dialogue: 0,0:11:30.08,0:11:35.78,Default,,0,0,0,,Foreign training self: original ya\NSR fifty nine HQ hometown return cap.
+Dialogue: 0,0:11:35.78,0:11:39.58,Default,,0,0,0,,Example, London training flight\Nka full fare automatic nahi.
+Dialogue: 0,0:11:39.58,0:11:42.06,Default,,0,0,0,,Rule seven GID twenty, three, family.
+Dialogue: 0,0:11:42.06,0:11:46.29,Default,,0,0,0,,Foreign training family: training\Nse pehle HQ onward anchor;
+Dialogue: 0,0:11:46.29,0:11:47.70,Default,,0,0,0,,later rules apply.
+Dialogue: 0,0:11:47.70,0:11:51.18,Default,,0,0,0,,Example, Delhi to London training;\Nfamily anchor simply London nahi.
+Dialogue: 0,0:11:51.18,0:11:54.23,Default,,0,0,0,,Rule seven GID nineteen, one.
+Dialogue: 0,0:11:54.23,0:11:57.06,Default,,0,0,0,,Har escort occasion par prior HoD approval.
+Dialogue: 0,0:11:57.06,0:11:59.78,Default,,0,0,0,,Example, New trip par fresh prior approval lo.
+Dialogue: 0,0:11:59.78,0:12:02.22,Default,,0,0,0,,Rule seven GID nineteen, two.
+Dialogue: 0,0:12:02.22,0:12:06.76,Default,,0,0,0,,Disability se escort necessary\Nho; doubt mein HoD final.
+Dialogue: 0,0:12:06.76,0:12:10.58,Default,,0,0,0,,Example, Ravi ko journey help\Nessential; authority facts examine kare.
+Dialogue: 0,0:12:10.58,0:12:12.16,Default,,0,0,0,,Rule seven GID nineteen, three.
+Dialogue: 0,0:12:12.16,0:12:16.06,Default,,0,0,0,,Adult family member nahi ho;\Nbusy hona same test nahi.
+Dialogue: 0,0:12:16.06,0:12:20.10,Default,,0,0,0,,Example, Adult family busy:\Ncondition automatic pass nahi.
+Dialogue: 0,0:12:20.10,0:12:21.28,Default,,0,0,0,,Rule seven GID nineteen, four.
+Dialogue: 0,0:12:21.28,0:12:25.32,Default,,0,0,0,,Employee escort applicable Railways\NState Roadways concessions use karein.
+Dialogue: 0,0:12:25.32,0:12:29.32,Default,,0,0,0,,Example, Concessional fare paid;\Nfull regular fare bill nahi.
+Dialogue: 0,0:12:29.32,0:12:32.47,Default,,0,0,0,,Rule seven GID nineteen, five.
+Dialogue: 0,0:12:32.47,0:12:37.58,Default,,0,0,0,,Koi aur LTC entitled person accompany\Nna kare; all five conditions apply.
+Dialogue: 0,0:12:37.58,0:12:42.32,Default,,0,0,0,,Example, LTC eligible companion\Nsaath: extra escort automatic nahi.
+Dialogue: 0,0:12:42.32,0:12:45.90,Default,,0,0,0,,Twenty four April twenty eighteen order, four.
+Dialogue: 0,0:12:45.90,0:12:50.24,Default,,0,0,0,,NER, Ladakh, A and N, Lakshadweep\Nposting; family left behind,
+Dialogue: 0,0:12:50.24,0:12:51.88,Default,,0,0,0,,family transfer TA nahi.
+Dialogue: 0,0:12:51.88,0:12:56.54,Default,,0,0,0,,Example, Lakshadweep posted, family\NDelhi; tourist visit alag case.
+Dialogue: 0,0:12:56.54,0:13:00.76,Default,,0,0,0,,Twenty four April twenty eighteen\Norder, four, one and two.
+Dialogue: 0,0:13:00.76,0:13:04.48,Default,,0,0,0,,Normal scheme ya annual\Nalternative; in lieu, bonus nahi.
+Dialogue: 0,0:13:04.48,0:13:08.30,Default,,0,0,0,,Example, Annual option li; normal\Nquota automatically add nahi.
+Dialogue: 0,0:13:08.30,0:13:12.86,Default,,0,0,0,,Twenty four April twenty eighteen\Norder, four, two, employee limb.
+Dialogue: 0,0:13:12.86,0:13:16.44,Default,,0,0,0,,Annual self once: posting se\Nhometown ya family residence.
+Dialogue: 0,0:13:16.44,0:13:19.10,Default,,0,0,0,,Example, Ladakh posting,\Nfamily Delhi: random Goa nahi.
+Dialogue: 0,0:13:19.10,0:13:24.44,Default,,0,0,0,,Twenty four April twenty eighteen\Norder, four, two, family limb.
+Dialogue: 0,0:13:24.44,0:13:28.76,Default,,0,0,0,,Annual family: spouse dependent\Nchildren posting station visit.
+Dialogue: 0,0:13:28.76,0:13:32.58,Default,,0,0,0,,Example, Parent ordinary family ho,\Nspecial annual limb automatic nahi.
+Dialogue: 0,0:13:32.58,0:13:35.76,Default,,0,0,0,,Twenty four April twenty eighteen order, five.
+Dialogue: 0,0:13:35.76,0:13:39.42,Default,,0,0,0,,Emergency: two additional career\Noccasions, restricted family,
+Dialogue: 0,0:13:39.42,0:13:40.68,Default,,0,0,0,,normal mode class.
+Dialogue: 0,0:13:40.68,0:13:43.66,Default,,0,0,0,,Example, Two used; new\Nblock se quota reset nahi.
+Dialogue: 0,0:13:43.66,0:13:46.84,Default,,0,0,0,,Twenty eight February\Ntwenty twenty order, three.
+Dialogue: 0,0:13:46.84,0:13:50.46,Default,,0,0,0,,Emergency mein hometown ya declared\Nposting duration family residence.
+Dialogue: 0,0:13:50.46,0:13:54.41,Default,,0,0,0,,Example, Family Delhi declared:\Nemergency mein Delhi possible.
+Dialogue: 0,0:13:54.41,0:13:57.48,Default,,0,0,0,,Rule seven GID eighteen, current option.
+Dialogue: 0,0:13:57.48,0:14:01.16,Default,,0,0,0,,Saath rehne par bhi separate hometown\Noption; self children duplicate nahi.
+Dialogue: 0,0:14:01.16,0:14:05.24,Default,,0,0,0,,Example, Ravi Neha one house:\Nseparate option deny nahi.
+Dialogue: 0,0:14:05.24,0:14:09.56,Default,,0,0,0,,Rule eight B; Rule seven\Nfresh recruit comparison.
+Dialogue: 0,0:14:09.56,0:14:14.04,Default,,0,0,0,,Regular two hometown plus\Nextra All India nahi; fresh
+Dialogue: 0,0:14:14.04,0:14:15.80,Default,,0,0,0,,recruit pattern separate.
+Dialogue: 0,0:14:15.80,0:14:20.50,Default,,0,0,0,,Example, Normal employee three\Ntrips automatically claim nahi kare.
+Dialogue: 0,0:14:20.50,0:14:24.28,Default,,0,0,0,,Rule nine; FAQ twenty\Ntwo, nil fare comparison.
+Dialogue: 0,0:14:24.28,0:14:29.56,Default,,0,0,0,,Actual availed LTC par no bill se\Noccasion automatically unused nahi.
+Dialogue: 0,0:14:29.56,0:14:34.30,Default,,0,0,0,,Example, Declared performed nil fare\Ntrip; same occasion repeat assume nahi.
+Dialogue: 0,0:14:34.30,0:14:37.62,Default,,0,0,0,,Rule nine; Rule fifteen, cancellation context.
+Dialogue: 0,0:14:37.62,0:14:40.56,Default,,0,0,0,,Travel nahi hui: booking\Nalone use nahi; advance
+Dialogue: 0,0:14:40.56,0:14:43.32,Default,,0,0,0,,settle, cancellation record.
+Dialogue: 0,0:14:43.32,0:14:49.14,Default,,0,0,0,,Example, Tickets cancel, journey\Nzero: performed nil claim se alag.
+Dialogue: 0,0:14:49.14,0:14:50.96,Default,,0,0,0,,Rule fifteen GID one, A.
+Dialogue: 0,0:14:50.96,0:14:54.36,Default,,0,0,0,,Lending office leave; borrowing\NTA Controlling Officer advance,
+Dialogue: 0,0:14:54.36,0:14:55.00,Default,,0,0,0,,copy lending ko.
+Dialogue: 0,0:14:55.00,0:14:59.69,Default,,0,0,0,,Example, Reversion par seedha\Nleave: offices coordinate karein.
+Dialogue: 0,0:14:59.69,0:15:01.88,Default,,0,0,0,,Rule fifteen GID one, B.
+Dialogue: 0,0:15:01.88,0:15:05.50,Default,,0,0,0,,Same reversion procedure self,\Nself family, family only par.
+Dialogue: 0,0:15:05.50,0:15:10.55,Default,,0,0,0,,Example, Employee travel nahi,\Nspouse kare; coordination phir bhi.
+Dialogue: 0,0:15:10.55,0:15:13.22,Default,,0,0,0,,Rule fifteen GID one, C.
+Dialogue: 0,0:15:13.22,0:15:16.86,Default,,0,0,0,,Borrowing advance ultimately\Nliable office account mein adjust.
+Dialogue: 0,0:15:16.86,0:15:20.54,Default,,0,0,0,,Example, Borrowing office paid;\Nliable office ko final debit.
+Dialogue: 0,0:15:20.54,0:15:22.32,Default,,0,0,0,,Rule thirteen Note four.
+Dialogue: 0,0:15:22.32,0:15:26.82,Default,,0,0,0,,Qualifying rail LTC: Indian Railways\Nwebsite e ticket charge allowed.
+Dialogue: 0,0:15:26.82,0:15:29.74,Default,,0,0,0,,Example, Private holiday booking\Ncharge same permission nahi.
+Dialogue: 0,0:15:29.74,0:15:31.92,Default,,0,0,0,,Rule thirteen Note five.
+Dialogue: 0,0:15:31.92,0:15:34.38,Default,,0,0,0,,Agent fee aur railway website charge alag.
+Dialogue: 0,0:15:34.38,0:15:38.36,Default,,0,0,0,,Example, Agent extra five hundred:\Nrailway charge approval enough nahi.
+Dialogue: 0,0:15:38.36,0:15:40.32,Default,,0,0,0,,Rule thirteen Note six.
+Dialogue: 0,0:15:40.32,0:15:44.18,Default,,0,0,0,,Eligible fare ka statutory tax\Nallowed; optional agent fee alag.
+Dialogue: 0,0:15:44.18,0:15:48.22,Default,,0,0,0,,Example, Ravi ka statutory tax\Nallowed; private agent fee nahi.

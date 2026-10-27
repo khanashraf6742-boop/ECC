@@ -1,0 +1,4 @@
+# Preserve generated Batch 4 media byte-for-byte; PDF xref whitespace is structural.
+batch-04.pdf binary
+batch-04-video.mp4 binary
+batch-04-hinglish.mp3 binary

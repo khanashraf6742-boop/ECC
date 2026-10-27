@@ -2,7 +2,20 @@
 
 Clause-reference-first lessons in everyday city Hinglish, with practical hypothetical examples. Selected teacher/questioner voices, important dates at the start and Roman-Hinglish video captions. Review date: **27 October 2026**.
 
-## Latest delivery: Batch 3
+## Latest delivery: Batch 4
+
+**Rule 7 — admissibility, leave and special service situations** · master chapters 10–15 · 77 teaching cards · 1080p · approximately 15:48.
+
+- **[Download / watch Batch 4 video](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-04-video.mp4)**
+- [PDF companion](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-04.pdf)
+- [MP3 audio](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-04-hinglish.mp3)
+- [Roman-Hinglish SRT](https://github.com/khanashraf6742-boop/ECC/raw/refs/heads/arena/393900f9-ecc/docs/ccs-ltc/batch-04-video.srt)
+- [Written lesson and sources](batch-04.md)
+- [Scope, chapters, speech repair, evidence limits and QA](BATCH-04-README.md)
+
+Includes service/leave gates; technical resignation; suspension; tour/transfer, Missions and Nepal cases; AIS/PSU options and cost; study/training HQ; all five escort safeguards; posted-staff annual election and Emergency Passage; selected advance/booking/levy comparisons. The skipped PSU narration passage was repaired in the same selected voice before final alignment and rendering. The earlier written-only hold is superseded by this complete multimedia release. Wider specialist topics/GIDs remain batchwise.
+
+## Batch 3
 
 **Rules 5–6 — hometown and advance All-India destination declarations** · master chapter 9 · 32 reference-led teaching cards · 1080p · approximately 10:16.
 
@@ -36,7 +49,7 @@ The batch covers all Rule 4 limbs and three child-number exceptions; applicable 
 - [Batch 1 video, scope and evidence limits](VIDEO-README.md)
 - [Dates and GID opening companion](DATES-AND-GIDS.md)
 
-Batch 1 media and written editions are retained unchanged. Its old written roadmap is a release snapshot; Batches 2–3 completion is recorded above and in the shared register.
+Batch 1 media and written editions are retained unchanged. Its old written roadmap is a release snapshot; Batches 2–4 completion is recorded above and in the shared register.
 
 ## Series status and legal caution
 

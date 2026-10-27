@@ -2,8 +2,6 @@
 
 Reviewed: 27 October 2026. Selected voices: teacher voice-00, questioner voice-01.
 
-**Written companion release; video/audio not yet released.** A speech omission was detected during acoustic QA. See `BATCH-04-README.md`.
-
 ## Important dates first
 
 - **11.10.1956:** Rule 7 GID (1): normal route ceiling, vacation, class, intimation, evidence and assistance records.
@@ -1161,7 +1159,7 @@ Deputation advance | Lending office: leave; borrowing TA CO: advance | Forward a
 
 **Simple city Hinglish:** Borrowing advance ultimately liable office account mein adjust.
 
-**Immediate hypothetical example:** Paying office necessarily cost bearer nahi.
+**Immediate hypothetical example:** Borrowing office paid; liable office ko final debit.
 
 **Watch out:** Do not generalise AIS or PSU cost allocations to every deputation.
 
@@ -1206,7 +1204,7 @@ Deputation advance | Lending office: leave; borrowing TA CO: advance | Forward a
 
 **Simple city Hinglish:** Eligible fare ka statutory tax allowed; optional agent fee alag.
 
-**Immediate hypothetical example:** Government levy private convenience fee nahi.
+**Immediate hypothetical example:** Ravi ka statutory tax allowed; private agent fee nahi.
 
 **Watch out:** No current tax percentage or obsolete tax regime is asserted.
 

@@ -1,0 +1,130 @@
+{
+  "status": "passed: technical checks and nine final-video sample-frame visual inspections",
+  "reviewed_on": "2026-10-27",
+  "cards": 77,
+  "pdf_pages": 28,
+  "video_seconds": 948.22,
+  "video_size": [
+    1920,
+    1080
+  ],
+  "video_bytes": 20695849,
+  "chapters": 10,
+  "subtitle_cues": 259,
+  "tests": {
+    "passed": 51,
+    "failed": 0
+  },
+  "coverage": {
+    "covered_lines": 362,
+    "num_statements": 379,
+    "percent_covered": 93.42915811088295,
+    "percent_covered_display": "93",
+    "missing_lines": 17,
+    "excluded_lines": 0,
+    "percent_statements_covered": 95.51451187335093,
+    "percent_statements_covered_display": "96",
+    "num_branches": 108,
+    "num_partial_branches": 13,
+    "covered_branches": 93,
+    "missing_branches": 15,
+    "percent_branches_covered": 86.11111111111111,
+    "percent_branches_covered_display": "86"
+  },
+  "pdf_all_card_ids": true,
+  "pdf_text_bounds_passed": true,
+  "caption_devanagari_absent": true,
+  "static_html_safe": true,
+  "earlier_delivery_files_byte_identical": 41,
+  "preservation_baseline": "490038a3bffc50fdacc8df07c475ef8c5e7c3433",
+  "sample_frames": [
+    {
+      "id": "OPEN-LEGAL",
+      "time_seconds": 4.385,
+      "file": "OPEN-LEGAL-final.png",
+      "sha256": "9ac56bad1ebc5f4f9652ff4ae8444a3543206144a58ebfe6977a704da9a6c678"
+    },
+    {
+      "id": "OPEN-PRACTICAL",
+      "time_seconds": 47.629999999999995,
+      "file": "OPEN-PRACTICAL-final.png",
+      "sha256": "11c0d34f044457b242d221701b9c0e873c97b36ad58fec394fb411748e9165d7"
+    },
+    {
+      "id": "B4-01",
+      "time_seconds": 61.18,
+      "file": "B4-01-final.png",
+      "sha256": "6adfdbc2980d4ea72e125f7ce4b28f991b6c17a32bbab795d0f92c0cb47ddd90"
+    },
+    {
+      "id": "B4-43",
+      "time_seconds": 551.64,
+      "file": "B4-43-final.png",
+      "sha256": "7bd4484ec8db126c67760b30a31e76f07991f01cf4131e2114fcba92d80d67be"
+    },
+    {
+      "id": "B4-51",
+      "time_seconds": 639.87,
+      "file": "B4-51-final.png",
+      "sha256": "5b48d2444671b9139634d73650b26aad7aed65cd4992aa40b1612c7e709f2a85"
+    },
+    {
+      "id": "B4-59",
+      "time_seconds": 734.1099999999999,
+      "file": "B4-59-final.png",
+      "sha256": "8471629c53784bd605d7c994eb773cab0a72ceeaf2c836e98d537c27ab627a59"
+    },
+    {
+      "id": "B4-63",
+      "time_seconds": 782.62,
+      "file": "B4-63-final.png",
+      "sha256": "ce6c53f2f0b70059c3942a2c0cd5bdb2f2db87fd52afadfd74f245e5fdf34e73"
+    },
+    {
+      "id": "B4-74",
+      "time_seconds": 918.7,
+      "file": "B4-74-final.png",
+      "sha256": "379402bda15f2bfb5152657c9a5bf42010b03b4ab9facc8e9f8579046d219f89"
+    },
+    {
+      "id": "B4-77",
+      "time_seconds": 946.2,
+      "file": "B4-77-final.png",
+      "sha256": "db414458eeff00ff6b1aeee2fc7202ed50c3183440a9ad2fbff7bca526068672"
+    }
+  ],
+  "gid_register_records": 119,
+  "gid_register_status_counts": {
+    "covered-in-batch-2": 23,
+    "covered-in-batch-3": 7,
+    "covered-in-batch-4": 44,
+    "covered-in-updated-batch-1": 2,
+    "pending-topic-batch": 38,
+    "excluded-from-current-instruction": 3,
+    "partially-covered-in-batch-2": 2
+  },
+  "full_series_not_complete": true,
+  "audio_repair": "See batch-04-audio-repair.json; selected voice-00 retained",
+  "review_limit": "Acoustic phrase alignment, technical checks and limited ASR diagnostics; not certified word-level timing or a complete manual listening audit.",
+  "sample_frames_visually_reviewed": 9,
+  "pdf_sample_pages_visually_reviewed": [
+    1,
+    5,
+    19
+  ],
+  "subtitle_metrics": {
+    "min_duration_seconds": 0.6399999999999864,
+    "max_duration_seconds": 6.239999999999952,
+    "max_characters": 79,
+    "max_characters_per_second": 25.4237288135604
+  },
+  "deliverable_sha256": {
+    "batch-04-video.mp4": "c32671565e4ed71ed3ef7ebe003cb67917cb4d4a7db63449b087a5c4a5a3c1d5",
+    "batch-04-hinglish.mp3": "264e2a7e3c76c714e9d7b99a61c5711f2f7348285c80647f258267eb1750fa10",
+    "batch-04.pdf": "cc03dd7315d563233f4cb2df58c252526d88e5d5774b8f1096e3325b5e0bee36",
+    "batch-04-video.srt": "f0b81d5f20a114632f8ebe1f9566988bb8677b840d85c128f3a19fc6fbe3bad0",
+    "batch-04-narration.json": "7ce87f778b6b7a090826330afc1d59f8e94adedb93e40a2b39ee86cda538117b"
+  },
+  "all_prior_gid_video_pointers_retained": true,
+  "gid_register_rebuild_idempotent": true
+}

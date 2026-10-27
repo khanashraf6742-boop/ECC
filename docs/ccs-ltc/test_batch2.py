@@ -172,7 +172,14 @@ class BatchTwoTests(unittest.TestCase):
     def test_partial_topics_and_all_six_illustrations_are_honest(self):
         with (ROOT / 'gid-coverage-register.csv').open() as file:
             rows = list(csv.DictReader(file))
-        for ident in ('7.20', '7.20.iii', 'M-2025-FAQ', 'M-2025-GUIDE'):
+        # A later completed training batch may expand cumulative coverage, but
+        # never erase B2 teaching pointers or falsely complete wider parent OMs.
+        for ident in ('7.20', '7.20.iii'):
+            row = next(r for r in rows if r['id'] == ident)
+            expanded = 'B4-' in row['video_card']
+            self.assertEqual(row['coverage_status'], 'covered-in-batch-4' if expanded else 'partially-covered-in-batch-2')
+            self.assertIn('B2-', row['video_card'])
+        for ident in ('M-2025-FAQ', 'M-2025-GUIDE'):
             self.assertEqual(next(r['coverage_status'] for r in rows if r['id'] == ident), 'partially-covered-in-batch-2')
         for ident in ('7.5.I.i', '7.5.I.ii', '7.5.II.i', '7.5.II.ii', '7.5.II.iii', '7.5.II.iv'):
             self.assertEqual(next(r['coverage_status'] for r in rows if r['id'] == ident), 'covered-in-batch-2')

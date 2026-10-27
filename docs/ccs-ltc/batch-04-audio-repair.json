@@ -1,0 +1,22 @@
+{
+  "voice_id": "voice-00",
+  "repair_card": "B4-43",
+  "operation": "prepend newly generated missing card to original chapter body starting at B4-44; no time-stretch or voice substitution",
+  "parts": [
+    {
+      "file": "b4-43-repair.mp3",
+      "duration_seconds": 14.688,
+      "sha256": "e0e82f6551f6319ecb5400eaec5635016b6bb24f546dff738d9e0e8c0a67e2da"
+    },
+    {
+      "file": "b4-07-original-omitted-43.mp3",
+      "duration_seconds": 87.264,
+      "sha256": "22bf4262df55735dc10e7a0562a89b2893afadeac4b86abf0ea6fb5f2469f585"
+    }
+  ],
+  "combined": {
+    "duration_seconds": 101.88,
+    "sha256": "aad7119ca3848837ac090b3c20fc77a1264346972e4b416b2d9dc76261ec9e12"
+  },
+  "verification": "Tiny multilingual ASR diagnostic recognises Rule 7 GID12 unused option, reversion available block Central rules and immediate Form sign/trip example; recognition is not a certified transcription."
+}

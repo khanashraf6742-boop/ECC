@@ -1,0 +1,957 @@
+{
+  "title": "CCS LTC Batch 4: Rule 7, leave and special service situations",
+  "reviewed_on": "2026-10-27",
+  "master_chapters": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "sources": {
+    "H": {
+      "title": "Government-hosted CCS (LTC) Rules compilation: Rules 4(e), 5, 6; Rule 5 GID (1); Rule 7 GID (4)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s30f46c64b74a6c964c674853a89796c8e/uploads/2022/11/2022112351.pdf",
+      "use": "Full Rule 6 text; exact GID numbering and 1958 instructions. Current operative clauses are distinguished from expired transitional paragraphs. Not an original Gazette scan."
+    },
+    "G25": {
+      "title": "DoPT DOPT-1752820096240, 03.09.2025; CSIR forwarding 22.09.2025",
+      "url": "https://www.csir.res.in/sites/default/files/2025-09/guidelines_on_ltc.pdf",
+      "use": "Current consolidation, Rule 5 normal-residence test and source-priority paragraph 2. Its Rule 6 summary has an internally inconsistent timing sentence; this edition flags rather than silently treats it as an amendment."
+    },
+    "F25": {
+      "title": "DoPT 31011/07/2025 PP.A-IV, 01.07.2025, especially FAQs 19 and 20",
+      "url": "https://documents.doptcirculars.nic.in/D2/D02est/FAQs%20on%20LTC5hctT.pdf",
+      "use": "HQ=hometown and Delhi/other-state NCR clarifications, citing OM 31011/4/2007-Estt.(A-IV), 18.05.2015. The entire FAQ/2015 OM is not represented as covered here."
+    },
+    "T22": {
+      "title": "DoPT DOPT-1669266628362, 24.11.2022, Technical Resignation and Lien, paras 2.1 and 2.3",
+      "url": "https://nests.tribal.gov.in/WriteReadData/RTF1984/1728993835.pdf",
+      "use": "Official government-hosted reproduction of the 2022 DoPT consolidation, appended to a NESTS forwarding letter. Only DoPT technical-resignation/LTC text is used, not NESTS pension or bank instructions."
+    },
+    "P18": {
+      "title": "DoPT 31011/12/2015-Estt.A-IV, 24.04.2018, paras 4-6",
+      "url": "https://www.referencer.in/LTC_Rules/Files_Original/20180424-31011_12_2015-Estt-A-IV.pdf",
+      "use": "Full DoPT document reproduced on a NON-government host; independently government-hosted standalone original not retrieved. Official 2025 Rule 7 note 14 corroborates the subject/current substance. Annual option is IN LIEU, not stacked; effect 01.07.2017."
+    },
+    "P20": {
+      "title": "DoPT 31011/12/2015-Estt.(A-IV), 28.02.2020, paras 1-3",
+      "url": "https://www.referencer.in/LTC_Rules/Files_Original/20200228-31011_12_2015-Estt.(A-lV).pdf",
+      "use": "Full DoPT document reproduced on a NON-government host; official 2025 consolidation corroborates continuing Emergency Passage subject, but the standalone primary-hosted scan was not independently retrieved. Declared selected-family-residence destination clarified."
+    },
+    "C07": {
+      "title": "DoPT 31011/3/2006-Estt.(A), 07.02.2007, paras 1-4",
+      "url": "https://www.referencer.in/LTC_Rules/Files_Original/20070207-31011_3_2006_Estt.A.pdf",
+      "use": "Full reproduced DoPT document, NON-government host. Extension to All India also expressly cited in official 2025 Rule 7 note 8. Historical pending/decided-case transition not revived."
+    }
+  },
+  "cards": [
+    {
+      "ref": "Rule 7(1), read with Rule 1(3)(i)/(iii) and Rule 2",
+      "title": "One year: identify the covered category",
+      "spoken_ref_roman": "Rule seven, subrule one.",
+      "rule": "For Rule 1(3)(i) civil/Defence-civilian and (iii) contract categories, one year continuous Central Government service must be completed on the journey date. Rule 2 and other category-specific conditions still apply; inclusion is not an unconditional concession.",
+      "explanation_roman": "Categories one aur three: one year continuous Central service plus other conditions.",
+      "example_roman": "Ravi: ten months service; leave alone enough nahi.",
+      "trap": "Do not replace continuous service with probation completion or assume all categories have identical service tests.",
+      "source": "H;G25",
+      "id": "B4-01"
+    },
+    {
+      "ref": "Rule 7(1): employee or family journey date",
+      "title": "Check the actual traveller’s date",
+      "spoken_ref_roman": "Rule seven, subrule one, journey date.",
+      "rule": "The one-year test is applied on the date of the journey performed by the employee or family, as applicable, not the application, ticket purchase or bill date. Separate family travel does not borrow the employee's later eligibility date.",
+      "explanation_roman": "Service gate actual self ya family journey date par check karo.",
+      "example_roman": "Family ten months par gayi; later eligibility cure nahi.",
+      "trap": "For fresh recruits, personal occasion calendars are a separate Batch 5 question.",
+      "source": "H;G25",
+      "id": "B4-02"
+    },
+    {
+      "ref": "Rule 7(2); FAQ 25; OM 03.04.2018",
+      "title": "Casual and special casual leave count",
+      "spoken_ref_roman": "Rule seven, subrule two; FAQ twenty five.",
+      "rule": "LTC is admissible during any period of leave, including casual and special casual leave; Child Care Leave is expressly recognised. The relevant kind of leave must itself be due/admissible and sanctioned as required; an LTC allowance does not create leave.",
+      "explanation_roman": "Casual aur special casual leave allowed; leave properly approved ho.",
+      "example_roman": "Neha casual leave par jaaye; earned leave compulsory nahi.",
+      "trap": "LTC eligibility is not a direction that every leave application must be sanctioned.",
+      "source": "H;G25;F25",
+      "id": "B4-03"
+    },
+    {
+      "ref": "Rule 7 GID (1), vacation paragraph; OM 11.10.1956",
+      "title": "Vacation departments: vacation counts as leave",
+      "spoken_ref_roman": "Rule seven GID one, vacation paragraph.",
+      "rule": "Vacation is treated as regular leave for this concession for government servants serving in a vacation department. It is a specific deeming instruction, not permission to treat every employee's ordinary weekend as vacation.",
+      "explanation_roman": "Vacation department ki vacation regular leave count hoti hai.",
+      "example_roman": "Teacher vacation par jaaye; office weekend alag hai.",
+      "trap": "Department/vacation status and other entitlement conditions still need checking.",
+      "source": "H;G25",
+      "id": "B4-04"
+    },
+    {
+      "ref": "FAQ 27; 2025 Rule 7 Note 2",
+      "title": "Weekend-only travel is not enough for self",
+      "spoken_ref_roman": "FAQ twenty seven; Rule seven Note two.",
+      "rule": "When the employee avails LTC, weekend/holidays alone without leave are insufficient. Due-and-admissible leave is required. Do not invent a universal number of leave days, or require every travel hour to fall within leave while ignoring authorised prefix/suffix rules.",
+      "explanation_roman": "Self ka weekend only trip bina leave LTC nahi.",
+      "example_roman": "Ravi Saturday Sunday ghooma, leave zero; claim assume nahi.",
+      "trap": "A proper leave spell with permissible prefixed/suffixed holidays is a different factual case.",
+      "source": "F25;G25",
+      "id": "B4-05"
+    },
+    {
+      "ref": "FAQ 26; Rule 9 separate-family travel comparison",
+      "title": "Family-only travel: employee need not take leave",
+      "spoken_ref_roman": "FAQ twenty six.",
+      "rule": "If only family members travel, the employee need not avail leave merely to enable their LTC. Eligibility, declaration, evidence and the employee's applicable family/block entitlement remain required.",
+      "explanation_roman": "Family only journey par employee ko leave necessary nahi.",
+      "example_roman": "Neha office mein, eligible spouse hometown jaaye.",
+      "trap": "Do not apply the employee-traveller weekend prohibition as a blanket family-only bar.",
+      "source": "F25;H",
+      "id": "B4-06"
+    },
+    {
+      "ref": "Rule 7(2); OM 13018/6/2013-Estt(L), 03.04.2018; Rule 9",
+      "title": "CCL does not create bonus LTC occasions",
+      "spoken_ref_roman": "Rule seven, subrule two; CCL instruction.",
+      "rule": "Child Care Leave is a qualifying leave setting, not an extra LTC occasion or a new block. Repeated CCL spells do not multiply entitlement. CCL's own purpose/sanction restrictions remain applicable; saying CCL has zero effect on all administration would be overbroad.",
+      "explanation_roman": "CCL valid leave hai, extra LTC occasion nahi.",
+      "example_roman": "Three CCL spells se three bonus trips nahi.",
+      "trap": "Normal entitlement and outward-date block accounting still apply.",
+      "source": "G25;F25;H",
+      "id": "B4-07"
+    },
+    {
+      "ref": "Rule 7 GID (2): ordinary resignation after leave",
+      "title": "Resigning without returning to duty",
+      "spoken_ref_roman": "Rule seven GID two.",
+      "rule": "The concession is not admissible to a government servant who proceeds on regular leave and then resigns without returning to duty. This is not a blanket statement about every technical resignation, nor an absolute determination of every possible Rule 18 relaxation.",
+      "explanation_roman": "Regular leave ke baad resign, duty return nahi: concession inadmissible.",
+      "example_roman": "Ravi trip ke baad job chhod de; normal claim fail.",
+      "trap": "Technical resignation preserving eligible service is examined separately; do not copy the master's absolute no-relaxation assertion.",
+      "source": "H",
+      "id": "B4-08"
+    },
+    {
+      "ref": "DoPT 24.11.2022 para 2.1.1; 17.08.2016 origin",
+      "title": "Technical resignation is a qualifying process",
+      "spoken_ref_roman": "Twenty twenty two order, two point one point one.",
+      "rule": "Applied through proper channel to a government post, selected, and required to resign for administrative reasons: qualifying resignation is technical even if the letter omits that word. Other resignations, blocked forwarding and ad hoc-post cases do not automatically earn this past-service benefit.",
+      "explanation_roman": "Proper channel selection aur administrative resignation qualify, label alone nahi.",
+      "example_roman": "Letter mein technical word nahi; qualifying facts matter.",
+      "trap": "This is not automatic protection for every private/PSU/State-to-Centre move.",
+      "source": "T22;G25",
+      "id": "B4-09"
+    },
+    {
+      "ref": "DoPT 24.11.2022 para 2.1.2(i)",
+      "title": "Pre-joining application: immediate disclosure",
+      "spoken_ref_roman": "Twenty twenty two order, two point one point two, one.",
+      "rule": "For an application made before joining government service, the special route requires immediate intimation of those application details on joining; this is the first of three cumulative conditions.",
+      "explanation_roman": "Pre service application joining par immediately disclose karo.",
+      "example_roman": "Neha joining par pending application disclose kare.",
+      "trap": "Not a universal exemption from the proper-channel system.",
+      "source": "T22",
+      "id": "B4-10"
+    },
+    {
+      "ref": "DoPT 24.11.2022 para 2.1.2(ii)",
+      "title": "Pre-joining application: specific resignation request",
+      "spoken_ref_roman": "Twenty twenty two order, two point one point two, two.",
+      "rule": "At resignation, specifically request treatment for taking up the other government appointment applied for before entering service. This does not dispense with the other two paragraph 2.1.2 conditions.",
+      "explanation_roman": "Resignation mein pre service applied Government job ka specific request do.",
+      "example_roman": "Neha new selection ka purpose clearly likhe.",
+      "trap": "Factual qualifying circumstances, not a magic heading, control.",
+      "source": "T22",
+      "id": "B4-11"
+    },
+    {
+      "ref": "DoPT 24.11.2022 para 2.1.2(iii)",
+      "title": "Pre-joining application: authority’s satisfaction",
+      "spoken_ref_roman": "Twenty twenty two order, two point one point two, three.",
+      "rule": "The accepting authority must be satisfied that, had the employee already been serving when applying, the application would have been forwarded through proper channel. All three pre-service-application conditions must be assessed.",
+      "explanation_roman": "Authority satisfy ho ki application proper channel se forward hoti.",
+      "example_roman": "Forwarding allowed nahi, toh automatic benefit nahi.",
+      "trap": "Do not reduce the three conditions to employee self-certification alone.",
+      "source": "T22",
+      "id": "B4-12"
+    },
+    {
+      "ref": "DoPT 24.11.2022 para 2.3; 2025 Rule 7 Note 4",
+      "title": "LTC entitlement can carry with technical resignation",
+      "spoken_ref_roman": "Twenty twenty two order, two point three.",
+      "rule": "A Central Government servant joining another government post after technical resignation may carry LTC entitlement forward. Records of occasions already used must move too; carry-forward between offices is not a new block or a second reimbursement.",
+      "explanation_roman": "Eligible technical resignation par LTC carry, used trips bhi record hon.",
+      "example_roman": "New office se same used trip repeat nahi.",
+      "trap": "This is office-to-office preservation, not Rule 10 grace-year extension.",
+      "source": "T22;G25",
+      "id": "B4-13"
+    },
+    {
+      "ref": "DoPT 24.11.2022 para 2.3: eight-year period",
+      "title": "The initial appointment date does not restart",
+      "spoken_ref_roman": "Twenty twenty two order, two point three, eight year period.",
+      "rule": "A qualifying move within eight years preserves fresh-recruit treatment for the remainder of eight years from the INITIAL government appointment, not a fresh eight years at each new department. The consolidation itself gives four years served plus four remaining as illustration.",
+      "explanation_roman": "Fresh recruit eight years initial appointment se; reset nahi.",
+      "example_roman": "Four served, four remain; eight new nahi.",
+      "trap": "Exact personal occasion accounting is taught in Batch 5.",
+      "source": "T22;G25",
+      "id": "B4-14"
+    },
+    {
+      "ref": "Rule 7(1); DoPT 24.11.2022 para 2.3: lateral-entry comparison",
+      "title": "Prior private work is not automatically Central service",
+      "spoken_ref_roman": "Rule seven, subrule one; technical resignation comparison.",
+      "rule": "Do not treat previous private/PSU/State employment as continuous Central service or a preserved Central fresh-recruit cycle merely because it was called government-related. Examine actual appointment/deputation and any applicable service-preservation instruction; AIS and autonomous-body deputation have distinct rules.",
+      "explanation_roman": "Private service automatically Central qualifying service nahi.",
+      "example_roman": "Private firm ke five years se Central one year gate satisfy nahi.",
+      "trap": "Not a blanket denial of every specially authorised deputation/service-continuity benefit.",
+      "source": "H;T22",
+      "id": "B4-15"
+    },
+    {
+      "ref": "Rule 7 GID (15); FAQ 12: employee",
+      "title": "Suspension: no self LTC",
+      "spoken_ref_roman": "Rule seven GID fifteen; FAQ twelve, self.",
+      "rule": "A suspended employee cannot avail self LTC: leave, including casual leave, is not available during suspension. Suspension is not retirement/resignation; family eligibility is separately preserved because service continues.",
+      "explanation_roman": "Suspension mein self LTC nahi.",
+      "example_roman": "Ravi suspended hai; apna holiday self LTC na claim kare.",
+      "trap": "Do not invent a right to cure suspension by applying for casual leave.",
+      "source": "H;G25;F25",
+      "id": "B4-16"
+    },
+    {
+      "ref": "Rule 7 GID (15); FAQs 12 and 26: family",
+      "title": "Suspension: eligible family may still travel",
+      "spoken_ref_roman": "Rule seven GID fifteen; FAQ twelve, family.",
+      "rule": "Family remains eligible during employee suspension, subject to normal family/block conditions. Employee need not personally travel or obtain leave for a family-only journey. This is not a second independent family scheme or a change of the accepted hometown.",
+      "explanation_roman": "Suspension mein eligible family LTC, employee ko leave nahi chahiye.",
+      "example_roman": "Ravi ghar par, spouse hometown; normal family block use hoga.",
+      "trap": "Ordinary eligibility survives; dismissal/removal and other restrictions require their own analysis.",
+      "source": "H;G25;F25",
+      "id": "B4-17"
+    },
+    {
+      "ref": "Rule 7 GID (1), route/actual-distance opening; OM 11.10.1956",
+      "title": "Starting away from HQ does not remove the cap",
+      "spoken_ref_roman": "Rule seven GID one, route paragraph.",
+      "rule": "The normal hometown journey is to home and back but need not start/end at HQ. Assistance for actual distance travelled is limited to the amount admissible for the HQ-home journey. Apply later specific exceptions, notably the 2017 family-to-HQ concession, rather than mechanically overriding them.",
+      "explanation_roman": "Normal actual fare HQ hometown cap ke andar; specific exceptions alag.",
+      "example_roman": "Actual four thousand, cap three: ceiling three thousand.",
+      "trap": "Figures are illustrative; no universal rupee ceiling. Rule 13 details follow later.",
+      "source": "H;G25",
+      "id": "B4-18"
+    },
+    {
+      "ref": "Rule 7 GID (1), rail-class paragraph; 2025 Note 1(ii)",
+      "title": "Entitlement is time-specific",
+      "spoken_ref_roman": "Rule seven GID one, rail class paragraph.",
+      "rule": "Rail accommodation class for employee/family is the class admissible under the normal rules WHEN THE JOURNEY IS UNDERTAKEN. Sanction date, joining date and a later promotion do not replace that test; apply the current Rule 12 framework rather than obsolete pay tables.",
+      "explanation_roman": "Rail class journey time ki entitlement se decide hoti hai.",
+      "example_roman": "Later promotion se earlier travel class upgrade nahi.",
+      "trap": "Different legs may require their own date-specific examination.",
+      "source": "H;G25",
+      "id": "B4-19"
+    },
+    {
+      "ref": "Rule 7 GID (1), prior-intimation paragraph; 2025 Note 1(iii)",
+      "title": "Inform the CO before travelling",
+      "spoken_ref_roman": "Rule seven GID one, prior intimation.",
+      "rule": "Inform the Controlling Officer before journeys for which LTC assistance will be claimed. This is distinct from sanctioning leave, declaring the All-India destination under Rule 6, or drawing an advance.",
+      "explanation_roman": "Journey se pehle Controlling Officer ko inform karo.",
+      "example_roman": "Ticket booking ki, par prior office intimation bhi chahiye.",
+      "trap": "A ticket booking is not by itself a declaration or approval.",
+      "source": "H;G25",
+      "id": "B4-20"
+    },
+    {
+      "ref": "Rule 7 GID (1), actual-journey evidence paragraph",
+      "title": "A booking is not proof of travel",
+      "spoken_ref_roman": "Rule seven GID one, journey evidence.",
+      "rule": "Produce evidence of actually performing the journey, such as ticket serial numbers and applicable records. A booked but cancelled ticket is not actual travel. Particular proof/boarding-pass instructions are addressed in the procedure batch; no new universal affidavit substitute is created here.",
+      "explanation_roman": "Actual journey evidence do, booking alone enough nahi.",
+      "example_roman": "Cancelled email ticket se actual trip prove nahi.",
+      "trap": "Evidence must support the actual persons, dates and route claimed.",
+      "source": "H;G25",
+      "id": "B4-21"
+    },
+    {
+      "ref": "Rule 7 GID (1), assistance-record paragraph",
+      "title": "Keep an assistance record and outward dates",
+      "spoken_ref_roman": "Rule seven GID one, assistance record.",
+      "rule": "Maintain all assistance granted: the historical instruction places gazetted-officer records with the Accounts Officer and non-gazetted entries in service books/appropriate records, including outward home-journey commencement dates. Follow the applicable current record system; modern digital systems do not justify no audit trail.",
+      "explanation_roman": "Gazetted ka Accounts record, others ka service record; outward dates rakho.",
+      "example_roman": "Transfer par old LTC dates new office ko dein.",
+      "trap": "The allocation is the source wording, not a claim that every modern office uses paper only.",
+      "source": "H;G25",
+      "id": "B4-22"
+    },
+    {
+      "ref": "Rule 7 GID (1), every-leave entry; 2025 Note 1(iv)",
+      "title": "Record both use and non-use of LTC",
+      "spoken_ref_roman": "Rule seven GID one, every leave entry.",
+      "rule": "The service-record custodian must indicate on every occasion of leave entered in that record whether travel assistance was or was not availed. The requirement concerns leave entered in that record, not an invented service-book entry for every casual-leave day.",
+      "explanation_roman": "Recorded leave par LTC li ya nahi, custodian record kare.",
+      "example_roman": "Earned leave mein LTC nahi li; non use bhi note ho.",
+      "trap": "This helps prevent duplicate claims, but is not the only eligibility check.",
+      "source": "H;G25",
+      "id": "B4-23"
+    },
+    {
+      "ref": "Rule 7 GID (3), hometown outside India; OM 04.09.1957",
+      "title": "Foreign hometown: limited Indian-side assistance",
+      "spoken_ref_roman": "Rule seven GID three, hometown outside India.",
+      "rule": "A foreign hometown may be declared subject to CO satisfaction. Assistance is limited to shortest-route travel up to/from the Indian railway station nearest hometown, or the railway station for the Indian port of embarkation/disembarkation nearest hometown. It is not foreign-side or international-airfare reimbursement.",
+      "explanation_roman": "Foreign hometown assistance specified Indian railhead ya nearest port station tak.",
+      "example_roman": "Foreign hometown ka full international fare nahi.",
+      "trap": "Nearest port means the Indian port nearest the hometown, not any convenient gateway.",
+      "source": "H;G25",
+      "id": "B4-24"
+    },
+    {
+      "ref": "Rule 7 GID (3), separate-claims paragraph, read with GID (5)",
+      "title": "Separate family claims: do not erase one-leg exceptions",
+      "spoken_ref_roman": "Rule seven GID three, separate claims.",
+      "rule": "Employee/family travelling separately may present separate claims; the normal instruction requires each claim for outward and inward journeys. Read the express single-leg situations in GID (5), fully taught in Batch 2, rather than imposing an absolute two-leg bar.",
+      "explanation_roman": "Separate round trip claims possible; express one leg exceptions bhi hain.",
+      "example_roman": "Qualifying new spouse return only claim reject nahi.",
+      "trap": "Do not invent transfer/retirement as an automatic single-leg exemption.",
+      "source": "H",
+      "id": "B4-25"
+    },
+    {
+      "ref": "Rule 7 GID (7)(i), regularisation (a); OM 19.07.1960",
+      "title": "Transfer via hometown: incremental distance only",
+      "spoken_ref_roman": "Rule seven GID seven, transfer one, regularisation A.",
+      "rule": "Old HQ to hometown on regular leave, then to new HQ: minimum transfer TA under SR 124/126, as applicable. Additional LTC is only to the extent the combined via-hometown distance exceeds the distance for which transfer TA is admissible, subject to applicable fares/entitlement. Distance arithmetic is not a second payment for the same segment.",
+      "explanation_roman": "Via home excess distance beyond transfer TA hi additional LTC basis hai.",
+      "example_roman": "Twelve hundred via home, eight hundred covered: four hundred extra.",
+      "trap": "Illustrative kilometres, not reimbursement at an invented per-kilometre rate.",
+      "source": "H;G25",
+      "id": "B4-26"
+    },
+    {
+      "ref": "Rule 7 GID (7), regularisation (a), option and advance paragraphs",
+      "title": "You may preserve LTC instead of charging a tiny excess",
+      "spoken_ref_roman": "Rule seven GID seven, transfer option.",
+      "rule": "An employee may elect not to avail LTC in the combination, preserving an available occasion within its block subject to conditions. Exercise the option for self and family when preferring the transfer-TA claim. If LTC is not availed, adjust any LTC advance against TA entitlement. The old compilation has a broken sentence before this option; do not invent its missing words.",
+      "explanation_roman": "Transfer claim par self family option do; unused LTC advance TA mein adjust.",
+      "example_roman": "Small excess par LTC preserve, advance settle.",
+      "trap": "An election is not permission to claim already-paid TA again as LTC.",
+      "source": "H",
+      "id": "B4-27"
+    },
+    {
+      "ref": "Rule 7 GID (7)(ii)(a), regularisation (b)",
+      "title": "Tour station -> hometown -> HQ",
+      "spoken_ref_roman": "Rule seven GID seven, tour two A.",
+      "rule": "With proper prior permission, HQ-to-tour-station travel attracts tour TA. Tour station to hometown and back to HQ is considered for LTC, deeming tour station the onward starting point, subject to the usual admissible assistance ceiling referenced in the instruction.",
+      "explanation_roman": "Prior permission: tour to home to HQ LTC; HQ to tour official TA.",
+      "example_roman": "Delhi tour, Jaipur home, Mumbai HQ: legs separate karo.",
+      "trap": "Not unrestricted reimbursement of every tour detour.",
+      "source": "H",
+      "id": "B4-28"
+    },
+    {
+      "ref": "Rule 7 GID (7)(ii)(b), regularisation (c)",
+      "title": "HQ -> hometown -> tour station -> HQ",
+      "spoken_ref_roman": "Rule seven GID seven, tour two B.",
+      "rule": "With proper prior permission, LTC as admissible covers HQ to hometown; tour TA covers hometown to tour station and back to HQ, regulated under the governing tour rules. Do not replace the split with two full overlapping round-trip claims.",
+      "explanation_roman": "Prior permission: HQ to home LTC; home to tour to HQ official TA.",
+      "example_roman": "Mumbai Jaipur Delhi route ka double fare nahi.",
+      "trap": "Actual admissible tour TA still requires Finance instructions.",
+      "source": "H",
+      "id": "B4-29"
+    },
+    {
+      "ref": "Rule 7 GID (7), extract of Finance OM 23.04.1948",
+      "title": "A specific Joint Secretary approval safeguard",
+      "spoken_ref_roman": "Rule seven GID seven, Finance order twenty three April nineteen forty eight.",
+      "rule": "The cited safeguard deals with transfer of charge of office elsewhere than HQ: orders in such cases must be issued by an officer not below Joint Secretary of a Government of India Ministry or embody that officer's approval. GID (7) directs compliance in its tour-combination cases. It is not a new universal Joint Secretary sanction rule for all LTC.",
+      "explanation_roman": "HQ ke bahar charge transfer par prescribed Joint Secretary approval check karo.",
+      "example_roman": "Charge elsewhere transfer hua; approval verify karo.",
+      "trap": "Do not confuse this precise safeguard with general LTC sanction authority.",
+      "source": "H",
+      "id": "B4-30"
+    },
+    {
+      "ref": "OM 31011/3/2006, 07.02.2007 paras 1-4; Rule 7 GID (7)",
+      "title": "All-India LTC may also combine with tour/transfer",
+      "spoken_ref_roman": "Seven February twenty zero seven order, paragraphs one to four.",
+      "rule": "The 1960 combination provisions extend to All-India LTC. Tour/transfer TA remain governed by Finance instructions. Effective from issue, including then-pending claims; already decided past cases were not reopened. Audit and Accounts personnel were included after CAG consultation. These historical transition words are not a fresh reopening right.",
+      "explanation_roman": "All India par bhi combination rules; TA Finance instructions se regulate. Audit staff bhi included.",
+      "example_roman": "Transfer plus Kochi LTC mein common fare duplicate nahi.",
+      "trap": "Full reproduced OM is on a non-government host; 2025 official consolidation corroborates the extension.",
+      "source": "H;G25;C07",
+      "id": "B4-31"
+    },
+    {
+      "ref": "Rule 7 GID (8)(i); OM 06.07.1959",
+      "title": "Mission staff returning to the same foreign post",
+      "spoken_ref_roman": "Rule seven GID eight, one.",
+      "rule": "For India-based officers/staff in Indian Missions/Posts abroad coming on home leave and returning to the same post, the Indian port of disembarkation on the approved route is the LTC starting point; reimbursement is at par with eligible employees in India. Local recruits remain excluded under Rule 1.",
+      "explanation_roman": "Same foreign post return: approved Indian disembarkation port LTC anchor.",
+      "example_roman": "London Mumbai Jaipur: London leg LTC nahi.",
+      "trap": "Do not generalise the Nepal rail-station anchor to all foreign postings.",
+      "source": "H;G25",
+      "id": "B4-32"
+    },
+    {
+      "ref": "Rule 7 GID (8)(ii)(a): transfer to India",
+      "title": "Mission -> Indian port -> home -> new Indian HQ",
+      "spoken_ref_roman": "Rule seven GID eight, two A.",
+      "rule": "Transfer to an Indian post via hometown: minimum transfer TA under applicable IFS Rules; additional LTC only for via-home distance from port of disembarkation to new HQ exceeding transfer-TA-covered distance. Where home lies en route or excess is negligible, claiming only transfer TA is preferable.",
+      "explanation_roman": "India transfer: IFS transfer TA beyond via home excess hi LTC.",
+      "example_roman": "Port home HQ: same fare double nahi.",
+      "trap": "Current IFS/TA rates must be checked separately; this is not an international fare sanction.",
+      "source": "H",
+      "id": "B4-33"
+    },
+    {
+      "ref": "Rule 7 GID (8)(ii)(b): transfer from India",
+      "title": "Indian HQ -> home -> port -> overseas post",
+      "spoken_ref_roman": "Rule seven GID eight, two B.",
+      "rule": "Transfer from an Indian post to a foreign post via hometown: minimum IFS transfer TA; additional LTC only for Indian HQ-home-port distance exceeding transfer-TA-covered distance. Home en route/negligible excess favours transfer TA alone.",
+      "explanation_roman": "Foreign transfer: Indian HQ home port excess hi additional LTC.",
+      "example_roman": "Delhi Jaipur Mumbai port; transfer covered fare repeat nahi.",
+      "trap": "The foreign leg is not automatically converted into LTC.",
+      "source": "H",
+      "id": "B4-34"
+    },
+    {
+      "ref": "Rule 7 GID (8)(iii): transfer between foreign posts",
+      "title": "Foreign-to-foreign transfer via India",
+      "spoken_ref_roman": "Rule seven GID eight, three.",
+      "rule": "Transfer to another foreign country via India: minimum applicable IFS transfer TA, with additional LTC only for Indian disembarkation-port to home to embarkation-port distance exceeding transfer-TA coverage. If home is en route/negligible excess, transfer TA throughout and no LTC is the advantageous stated alternative.",
+      "explanation_roman": "Foreign posts ke beech Indian port home port excess calculate karo.",
+      "example_roman": "Mumbai entry, Jaipur home, Delhi exit: overlap deduct.",
+      "trap": "Being in India between postings does not create a new LTC occasion.",
+      "source": "H",
+      "id": "B4-35"
+    },
+    {
+      "ref": "Rule 7 GID (10), first sentence; OMs 10.09.1959/14.03.1980",
+      "title": "Nepal Aid Programme: nearest Indian railway station",
+      "spoken_ref_roman": "Rule seven GID ten, normal journey.",
+      "rule": "For Indian Aid Mission staff and other personnel sent to Nepal under India's Aid Programme, the Indian commencement/end point is the nearest railway station in India to the Nepal posting, from which onward/return travel actually occurs. Do not substitute any convenient airport.",
+      "explanation_roman": "Nepal Aid posting: nearest actual Indian railway station anchor.",
+      "example_roman": "Nearest station X; convenient airport Y substitute nahi.",
+      "trap": "Not an instruction covering every person employed anywhere in Nepal.",
+      "source": "H;G25",
+      "id": "B4-36"
+    },
+    {
+      "ref": "Rule 7 GID (10), home-leave-cum-transfer paragraph",
+      "title": "Nepal return-transfer: split at hometown",
+      "spoken_ref_roman": "Rule seven GID ten, transfer paragraph.",
+      "rule": "On home-leave-cum-transfer to India: entry point to hometown is LTC; hometown to new HQ is transfer TA capped at direct Indian-entry-point-to-HQ entitlement. If home is en route, only transfer TA throughout is preferable and no LTC is then admissible.",
+      "explanation_roman": "Entry to home LTC; home to HQ transfer TA direct entry HQ cap tak.",
+      "example_roman": "Home en route ho toh transfer TA only option check karo.",
+      "trap": "This specific split differs from a generic full round-trip assumption.",
+      "source": "H",
+      "id": "B4-37"
+    },
+    {
+      "ref": "Rule 7 GID (11), first paragraph; OM 15.07.1969",
+      "title": "AIS deputation: no Centre/State duplicate block",
+      "spoken_ref_roman": "Rule seven GID eleven, block condition.",
+      "rule": "AIS officer/family cannot claim a block at the Centre already availed under the State before deputation; on return to State, a block already availed while serving Union cannot be claimed again. Check member-wise usage and governing AIS framework; this is not a blanket migration of every AIS condition into CCS.",
+      "explanation_roman": "AIS Centre State move par same used block duplicate nahi.",
+      "example_roman": "State LTC used; Central deputation se block reopen nahi.",
+      "trap": "Family claims and block records must travel with the officer.",
+      "source": "H",
+      "id": "B4-38"
+    },
+    {
+      "ref": "Rule 7 GID (11), expenditure during deputation",
+      "title": "AIS: cost while serving the Centre",
+      "spoken_ref_roman": "Rule seven GID eleven, current expenditure.",
+      "rule": "Expenditure for concessions actually availed by AIS officers and/or family during Central deputation is borne by the Central Government under the instruction.",
+      "explanation_roman": "Central deputation mein availed AIS LTC ka expense Centre bear kare.",
+      "example_roman": "Family Central deputation mein travelled: Centre liability.",
+      "trap": "Financial liability and eligibility are different questions.",
+      "source": "H",
+      "id": "B4-39"
+    },
+    {
+      "ref": "Rule 7 GID (11), earned-but-unused concession",
+      "title": "AIS: unused entitlement after return to State",
+      "spoken_ref_roman": "Rule seven GID eleven, unused concession.",
+      "rule": "Concession earned during Central deputation but not availed during that deputation has its expenditure borne by the State Government concerned when availed in the relevant situation. A preserved liability allocation does not override block/expiry rules.",
+      "explanation_roman": "Central deputation ka earned unused concession expense concerned State ka.",
+      "example_roman": "Reversion ke baad valid use par automatic Centre bill nahi.",
+      "trap": "The instruction allocates cost; it does not create unlimited carryover.",
+      "source": "H",
+      "id": "B4-40"
+    },
+    {
+      "ref": "Rule 7 GID (12), opening; OM 07.07.1971",
+      "title": "Non-top PSU deputation: choose one scheme",
+      "spoken_ref_roman": "Rule seven GID twelve, option.",
+      "rule": "For deputation to OTHER THAN top PSU posts, employee may choose the corresponding PSU employees' concession or Central rules, whichever is more favourable. This is an election, not a hybrid of the best parts of both schemes.",
+      "explanation_roman": "Non top PSU par PSU ya Central option, dono mix nahi.",
+      "example_roman": "Central fare plus PSU extra occasion combine nahi.",
+      "trap": "Top-level posts have a different instruction.",
+      "source": "H;G25",
+      "id": "B4-41"
+    },
+    {
+      "ref": "Rule 7 GID (12), same-block prohibition in both directions",
+      "title": "PSU/Centre transitions do not duplicate LTC",
+      "spoken_ref_roman": "Rule seven GID twelve, no duplication.",
+      "rule": "If self/family already availed Central concession in the two-year block, PSU concession is not again available for those persons for that block; conversely PSU usage prevents a repeat Central concession on reversion for that block. Preserve actual records and later applicable block mechanics.",
+      "explanation_roman": "Centre PSU aur return par used block duplicate nahi.",
+      "example_roman": "Central family trip used; same block PSU repeat nahi.",
+      "trap": "Do not read an office move as a new personal LTC block.",
+      "source": "H",
+      "id": "B4-42"
+    },
+    {
+      "ref": "Rule 7 GID (12), option not actually availed",
+      "title": "Unused PSU option on reversion",
+      "spoken_ref_roman": "Rule seven GID twelve, unused option.",
+      "rule": "If the officer chose the PSU scheme but could not actually avail it during the deputation, on reversion the concession for an available particular block is under Central rules only. Merely selecting an option is not proof a journey occurred.",
+      "explanation_roman": "PSU option unused ho, reversion par available block Central rules se.",
+      "example_roman": "Form sign hua, trip nahi; actual use alag fact hai.",
+      "trap": "Availability still depends on the block and other conditions.",
+      "source": "H",
+      "id": "B4-43"
+    },
+    {
+      "ref": "Rule 7 GID (14); OM 16.01.1976",
+      "title": "A PSU rule revision can reopen the option",
+      "spoken_ref_roman": "Rule seven GID fourteen.",
+      "rule": "A fresh option may be allowed when the PSU revises its LTC rules after the deputationist joined and exercised the earlier 1971 option. It is not an unrestricted right to switch whenever a preferred trip arises.",
+      "explanation_roman": "PSU later LTC rules revise kare, fresh option allow ho sakta hai.",
+      "example_roman": "Earlier option ke baad revision hua; office reconsider kare.",
+      "trap": "May be allowed does not mean both schemes can be claimed simultaneously.",
+      "source": "H;G25",
+      "id": "B4-44"
+    },
+    {
+      "ref": "Rule 7 GID (16), PSU has LTC; OM 06.03.1984",
+      "title": "Top PSU post with its own concession",
+      "spoken_ref_roman": "Rule seven GID sixteen, PSU scheme exists.",
+      "rule": "For a top-level PSU deputation, if the undertaking has its LTC concession, deputationist government employees are entitled only to that concession under this instruction. Do not apply the non-top favourable-option rule automatically.",
+      "explanation_roman": "Top PSU post mein PSU LTC ho toh wahi concession.",
+      "example_roman": "Top Director par non top option blindly nahi.",
+      "trap": "Identify top/non-top status from applicable deputation terms.",
+      "source": "H;G25",
+      "id": "B4-45"
+    },
+    {
+      "ref": "Rule 7 GID (16), no PSU LTC and express foreign-service terms",
+      "title": "Top PSU post without LTC: express provision needed",
+      "spoken_ref_roman": "Rule seven GID sixteen, no PSU scheme.",
+      "rule": "Where top-level PSU has no LTC, Central-type LTC requires an express admissibility provision in the foreign-service order. Absence of a PSU scheme alone is not sufficient sanction.",
+      "explanation_roman": "Top PSU mein LTC nahi: express foreign service order provision chahiye.",
+      "example_roman": "Order silent: Central LTC automatic nahi.",
+      "trap": "Foreign service here is an employment/deputation term, not necessarily posting abroad.",
+      "source": "H;G25",
+      "id": "B4-46"
+    },
+    {
+      "ref": "Rule 7 GID (16), existing deputations and cost",
+      "title": "Modify terms where necessary; PSU pays",
+      "spoken_ref_roman": "Rule seven GID sixteen, terms and cost.",
+      "rule": "For officers already on foreign service with undertakings lacking LTC, consult the undertaking to modify deputation terms suitably. The undertaking bears the concession cost in all these cases; eligibility does not shift liability to an arbitrary Central office.",
+      "explanation_roman": "Existing terms PSU consultation se modify hon; cost PSU ka.",
+      "example_roman": "Provision add hua; parent Ministry par automatic debit nahi.",
+      "trap": "An application for amendment is not itself the completed amendment.",
+      "source": "H",
+      "id": "B4-47"
+    },
+    {
+      "ref": "Rule 7 GID (17)(a); OM 30.03.1988",
+      "title": "Study leave: self, actual fare versus HQ ceiling",
+      "spoken_ref_roman": "Rule seven GID seventeen, A.",
+      "rule": "Self may avail LTC from study-leave station to hometown/any place in India, limited to admissible HQ-to-destination fare or actual expenditure, whichever less. Study leave does not create an unlimited fare from a distant study location.",
+      "explanation_roman": "Study self: actual fare ya HQ destination admissible cap, jo less.",
+      "example_roman": "Actual eight thousand, cap five: ceiling five thousand.",
+      "trap": "Hypothetical figures; eligible class/route and available occasion also matter.",
+      "source": "H;G25",
+      "id": "B4-48"
+    },
+    {
+      "ref": "Rule 7 GID (17)(b)(i)",
+      "title": "Study leave: family staying at study station",
+      "spoken_ref_roman": "Rule seven GID seventeen, B one.",
+      "rule": "Family living with the employee at the study-leave place uses the same actual-versus-HQ ceiling as clause (a); family-definition and dependency conditions are still applicable.",
+      "explanation_roman": "Study station par saath family: clause A wala cap.",
+      "example_roman": "Family Pune study station par; HQ ceiling ignore nahi.",
+      "trap": "Study leave does not convert an ineligible relative into family.",
+      "source": "H",
+      "id": "B4-49"
+    },
+    {
+      "ref": "Rule 7 GID (17)(b)(ii)",
+      "title": "Study leave: family not at study station",
+      "spoken_ref_roman": "Rule seven GID seventeen, B two.",
+      "rule": "Family not staying at the study station is regulated under normal LTC terms, including later applicable family-away-from-HQ and 2017 HQ-visit instructions. Do not apply study-station origin mechanically.",
+      "explanation_roman": "Family study station par nahi: normal later family terms.",
+      "example_roman": "Study Pune, family Jaipur; family origin Pune invent nahi.",
+      "trap": "The 2017 qualifying family-to-HQ full-fare rule remains relevant.",
+      "source": "H;G25",
+      "id": "B4-50"
+    },
+    {
+      "ref": "Rule 7 GID (20)(i), read with (ii); OM 07.08.1965",
+      "title": "Training: flag the apparently automatic-HQ sentence",
+      "spoken_ref_roman": "Rule seven GID twenty, one read with two.",
+      "rule": "Clause (i) calls training station automatically HQ, but detailed clause (ii) says original HQ normally continues unless competent authority changes it under SR 59. The 2025 summary repeats the tension. Do not apply the isolated automatic line to every trainee; examine the actual competent SR 59/HQ order and detailed rule, and refer unresolved disputes to the competent office.",
+      "explanation_roman": "Automatic HQ line isolated nahi; clause two aur SR fifty nine check karo.",
+      "example_roman": "Delhi HQ, Pune course: venue alone HQ shift nahi.",
+      "trap": "Source inconsistency is disclosed, not certified away by an invented amendment.",
+      "source": "H;G25",
+      "id": "B4-51"
+    },
+    {
+      "ref": "Rule 7 GID (20)(ii): SR 59 headquarters change",
+      "title": "Training with an authorised HQ change",
+      "spoken_ref_roman": "Rule seven GID twenty, two, SR fifty nine.",
+      "rule": "Normally retain original HQ; if competent authority changes it under SR 59 for tour TA, the new HQ is reckoned for LTC too. Distinguish an authorised HQ change from travel to a temporary training venue.",
+      "explanation_roman": "Competent SR fifty nine change se new HQ LTC mein reckon hoga.",
+      "example_roman": "Valid Pune HQ order: old Delhi blindly nahi.",
+      "trap": "The training order and the HQ-change authority are not automatically interchangeable.",
+      "source": "H;G25",
+      "id": "B4-52"
+    },
+    {
+      "ref": "Rule 7 GID (20)(ii): domestic training, self",
+      "title": "Unchanged HQ: self travels from training station",
+      "spoken_ref_roman": "Rule seven GID twenty, two, domestic self.",
+      "rule": "If HQ unchanged during Indian training, trainee is on tour from original HQ under SR 164. On regular leave, self LTC is from training place to hometown and back to training place OR HQ on expiry of regular leave, as applicable, subject to the governing combination/entitlement rules.",
+      "explanation_roman": "Unchanged HQ domestic self: regular leave, training home, return training ya HQ.",
+      "example_roman": "Pune Jaipur Delhi return; relevant legs verify karo.",
+      "trap": "This is not the same as foreign-training full international fare.",
+      "source": "H",
+      "id": "B4-53"
+    },
+    {
+      "ref": "Rule 7 GID (20)(ii): domestic training, family",
+      "title": "Unchanged HQ: family’s starting point",
+      "spoken_ref_roman": "Rule seven GID twenty, two, domestic family.",
+      "rule": "For the unchanged-HQ domestic-training situation, the family's onward starting point continues to be the employee's HQ. Later applicable family-residence/HQ-visit rules must also be reconciled; no new universal requirement to reside at HQ is created.",
+      "explanation_roman": "Domestic family original HQ anchor; later family residence rules bhi check.",
+      "example_roman": "Self Pune se, family Delhi anchor; same origin assume nahi.",
+      "trap": "Read with the later 1987/2017 family instructions, not obsolete co-residence language.",
+      "source": "H;G25",
+      "id": "B4-54"
+    },
+    {
+      "ref": "Rule 7 GID (20)(iii): foreign training, self",
+      "title": "Foreign training: government liability is capped",
+      "spoken_ref_roman": "Rule seven GID twenty, three, self.",
+      "rule": "For training abroad, self liability is limited to what Government would have borne for hometown-return travel from the HQ from which training began or the HQ declared under SR 59. Training abroad does not automatically fund all international flights under LTC.",
+      "explanation_roman": "Foreign training self: original ya SR fifty nine HQ hometown return cap.",
+      "example_roman": "London training flight ka full fare automatic nahi.",
+      "trap": "A ceiling is not an additional international travel permission.",
+      "source": "H;G25",
+      "id": "B4-55"
+    },
+    {
+      "ref": "Rule 7 GID (20)(iii): foreign training, family",
+      "title": "Foreign training: family anchor remains in India",
+      "spoken_ref_roman": "Rule seven GID twenty, three, family.",
+      "rule": "For family, HQ from which the employee left for foreign training is the stated onward starting point. Reconcile later family-residence and HQ-visit instructions instead of automatically making the overseas training address a new unrestricted origin.",
+      "explanation_roman": "Foreign training family: training se pehle HQ onward anchor; later rules apply.",
+      "example_roman": "Delhi to London training; family anchor simply London nahi.",
+      "trap": "Batch 2's short comparison is expanded here, not erased.",
+      "source": "H;G25",
+      "id": "B4-56"
+    },
+    {
+      "ref": "Rule 7 GID (19)(i); OM 09.07.1991",
+      "title": "Escort condition 1: prior HoD approval each time",
+      "spoken_ref_roman": "Rule seven GID nineteen, one.",
+      "rule": "Escort LTC for the eligible single employee with disability requires prior Head-of-Department approval on EACH occasion. Approval for a past trip does not become a standing permission.",
+      "explanation_roman": "Har escort occasion par prior HoD approval.",
+      "example_roman": "New trip par fresh prior approval lo.",
+      "trap": "Respectful terminology is used; source heading retains older language.",
+      "source": "H;G25",
+      "id": "B4-57"
+    },
+    {
+      "ref": "Rule 7 GID (19)(ii)",
+      "title": "Escort condition 2: disability must necessitate help",
+      "spoken_ref_roman": "Rule seven GID nineteen, two.",
+      "rule": "The physical disability must necessitate an escort for the journey; in doubt the HoD's decision is final under this instruction. Do not invent a universal disability-percentage threshold not stated here.",
+      "explanation_roman": "Disability se escort necessary ho; doubt mein HoD final.",
+      "example_roman": "Ravi ko journey help essential; authority facts examine kare.",
+      "trap": "The escort concession and taxi relaxation are distinct provisions.",
+      "source": "H",
+      "id": "B4-58"
+    },
+    {
+      "ref": "Rule 7 GID (19), printed (3), register (iii)",
+      "title": "Escort condition 3: no adult family member",
+      "spoken_ref_roman": "Rule seven GID nineteen, three.",
+      "rule": "The instruction says the employee does NOT HAVE an adult family member. Do not silently soften this to an existing adult member being temporarily unavailable, or equate single only with unmarried status.",
+      "explanation_roman": "Adult family member nahi ho; busy hona same test nahi.",
+      "example_roman": "Adult family busy: condition automatic pass nahi.",
+      "trap": "Any relaxation would need its own competent legal basis; no automatic waiver is taught.",
+      "source": "H",
+      "id": "B4-59"
+    },
+    {
+      "ref": "Rule 7 GID (19), printed (4), register (iv)",
+      "title": "Escort condition 4: use available fare concessions",
+      "spoken_ref_roman": "Rule seven GID nineteen, four.",
+      "rule": "Employee and escort must avail any rail/bus fare concessions extended by Railways/State Roadways in the relevant case. Reimbursement is not an invented flat full fare when a required applicable concession reduces the paid amount.",
+      "explanation_roman": "Employee escort applicable Railways State Roadways concessions use karein.",
+      "example_roman": "Concessional fare paid; full regular fare bill nahi.",
+      "trap": "No universal current concession rate is asserted here.",
+      "source": "H",
+      "id": "B4-60"
+    },
+    {
+      "ref": "Rule 7 GID (19), printed (5), register (v)",
+      "title": "Escort condition 5: no other LTC-entitled companion",
+      "spoken_ref_roman": "Rule seven GID nineteen, five.",
+      "rule": "No other person entitled to LTC should accompany the employee on the journey under this escort provision. All five safeguards apply; satisfying one is not enough.",
+      "explanation_roman": "Koi aur LTC entitled person accompany na kare; all five conditions apply.",
+      "example_roman": "LTC eligible companion saath: extra escort automatic nahi.",
+      "trap": "Do not confuse an escort with an independently entitled family member.",
+      "source": "H",
+      "id": "B4-61"
+    },
+    {
+      "ref": "OM 24.04.2018 para 4; 2025 Rule 7 Note 14(i)",
+      "title": "Posted in specified regions; family left behind",
+      "spoken_ref_roman": "Twenty four April twenty eighteen order, four.",
+      "rule": "Civilian Central staff SERVING in NER, UT Ladakh, A&N or Lakshadweep, leaving family at old HQ/selected residence without family transfer TA, qualify for the stated option framework. It is not all of J&K and not merely tourists visiting the region. The 2018 text uses pre-reorganisation geography; the 2020 clarification identifies UT Ladakh.",
+      "explanation_roman": "NER, Ladakh, A and N, Lakshadweep posting; family left behind, family transfer TA nahi.",
+      "example_roman": "Lakshadweep posted, family Delhi; tourist visit alag case.",
+      "trap": "Detailed original copies examined on non-government host; official 2025 summary corroborates the framework.",
+      "source": "G25;P18;P20",
+      "id": "B4-62"
+    },
+    {
+      "ref": "OM 24.04.2018 paras 4(i)/(ii)",
+      "title": "Normal LTC OR the annual alternative—not both",
+      "spoken_ref_roman": "Twenty four April twenty eighteen order, four, one and two.",
+      "rule": "Option (i) is normal hometown/All-India LTC under normal rules. Option (ii) is IN LIEU thereof annual reciprocal visits. The master incorrectly suggests annual benefits simply stack over ordinary entitlements. Normal All-India substitution/availability rules remain relevant.",
+      "explanation_roman": "Normal scheme ya annual alternative; in lieu, bonus nahi.",
+      "example_roman": "Annual option li; normal quota automatically add nahi.",
+      "trap": "Emergency Passage is separately additional; distinguish it from the annual alternative.",
+      "source": "P18;G25",
+      "id": "B4-63"
+    },
+    {
+      "ref": "OM 24.04.2018 para 4(ii), employee journey",
+      "title": "Annual alternative: employee’s visit",
+      "spoken_ref_roman": "Twenty four April twenty eighteen order, four, two, employee limb.",
+      "rule": "Under the annual alternative, employee may travel once a year from station of posting to hometown OR the place the family resides. This is not a free choice of any tourist destination.",
+      "explanation_roman": "Annual self once: posting se hometown ya family residence.",
+      "example_roman": "Ladakh posting, family Delhi: random Goa nahi.",
+      "trap": "Eligibility and election conditions from para 4 still apply.",
+      "source": "P18",
+      "id": "B4-64"
+    },
+    {
+      "ref": "OM 24.04.2018 para 4(ii), family journey",
+      "title": "Annual alternative: family visits the employee",
+      "spoken_ref_roman": "Twenty four April twenty eighteen order, four, two, family limb.",
+      "rule": "Under that alternative, family—restricted to spouse and dependent children within the CCS family definition—may once a year visit the employee at posting station. Parents/other ordinarily eligible relations are not automatically included in this special restricted family limb.",
+      "explanation_roman": "Annual family: spouse dependent children posting station visit.",
+      "example_roman": "Parent ordinary family ho, special annual limb automatic nahi.",
+      "trap": "Do not use the old two-child wording to override current Rule 4 exceptions.",
+      "source": "P18;G25",
+      "id": "B4-65"
+    },
+    {
+      "ref": "OM 24.04.2018 para 5; 28.02.2020 para 1",
+      "title": "Emergency Passage: two additional career occasions",
+      "spoken_ref_roman": "Twenty four April twenty eighteen order, five.",
+      "rule": "For eligible employees/family left behind in these postings, Emergency Passage is for an EMERGENCY, two additional occasions in the ENTIRE service career, not two each year/block. Family is restricted to spouse/dependent children; normal entitled mode/class applies. It is not a special automatic air upgrade.",
+      "explanation_roman": "Emergency: two additional career occasions, restricted family, normal mode class.",
+      "example_roman": "Two used; new block se quota reset nahi.",
+      "trap": "Not an extra holiday allowance for every ordinarily defined relative.",
+      "source": "P18;P20;G25",
+      "id": "B4-66"
+    },
+    {
+      "ref": "OM 28.02.2020 para 3; 24.04.2018 para 6",
+      "title": "Emergency destination clarification; effective-date distinction",
+      "spoken_ref_roman": "Twenty eight February twenty twenty order, three.",
+      "rule": "The employee may use Emergency Passage for hometown OR the selected family-residence place declared for the duration of that posting/transfer. The 2018 package expressly took effect 01.07.2017; the 2020 clarification is not the original creation of every Emergency Passage benefit.",
+      "explanation_roman": "Emergency mein hometown ya declared posting duration family residence.",
+      "example_roman": "Family Delhi declared: emergency mein Delhi possible.",
+      "trap": "01.07.2017 is the 2018 package effective date, not a universal commencement date for every earlier order.",
+      "source": "P18;P20",
+      "id": "B4-67"
+    },
+    {
+      "ref": "Rule 7 GID (18); OM 08.05.1990, comparison only",
+      "title": "Spouses together need not use the obsolete one-claim model",
+      "spoken_ref_roman": "Rule seven GID eighteen, current option.",
+      "rule": "The 1990 operative decision permits separate hometowns/independent family claims even when government spouses live together, with self and children anti-duplication conditions. The master's mandatory common-hometown shorthand is superseded, not a new 2025 restriction. Detailed spouse administration remains Batch 12; Batch 2 already teaches the operative choice.",
+      "explanation_roman": "Saath rehne par bhi separate hometown option; self children duplicate nahi.",
+      "example_roman": "Ravi Neha one house: separate option deny nahi.",
+      "trap": "This comparison does not certify all spouse/railway-pass scenarios.",
+      "source": "H;G25",
+      "id": "B4-68"
+    },
+    {
+      "ref": "Rule 8(b); 2025 Rule 7 Note 13; fresh-recruit comparison only",
+      "title": "Normal LTC is not two hometown PLUS one All-India",
+      "spoken_ref_roman": "Rule eight B; Rule seven fresh recruit comparison.",
+      "rule": "For an HT-eligible regular employee, All-India is in lieu of an available hometown occasion, not an extra third regular concession. Fresh recruits have the conditional 3-HT/1-AI pattern in each of their first two applicable personal cycles. Complete first-eligibility, transition and HQ=hometown tables are Batch 5, not replaced here.",
+      "explanation_roman": "Regular two hometown plus extra All India nahi; fresh recruit pattern separate.",
+      "example_roman": "Normal employee three trips automatically claim nahi kare.",
+      "trap": "The master's normal 2+1 description is corrected, not carried into the video.",
+      "source": "H;G25;F25",
+      "id": "B4-69"
+    },
+    {
+      "ref": "Rule 9 read with Rule 10 and FAQ 22: actual LTC versus nil fare",
+      "title": "No bill does not automatically restore a used occasion",
+      "spoken_ref_roman": "Rule nine; FAQ twenty two, nil fare comparison.",
+      "rule": "For an actual availed LTC journey, outward commencement assigns the block; simply not filing a fare bill does not establish unused entitlement. The official FAQ even recognises qualifying nil-fare LTC for encashment. Do not claim Rule 9 literally contains a universal defined phrase “deemed availment”, or treat every private trip as LTC. Facts of declaration/leave/travel matter; encashment conditions remain for Batch 11.",
+      "explanation_roman": "Actual availed LTC par no bill se occasion automatically unused nahi.",
+      "example_roman": "Declared performed nil fare trip; same occasion repeat assume nahi.",
+      "trap": "This is a practical application, not an invented new Rule 9 subrule.",
+      "source": "H;F25",
+      "id": "B4-70"
+    },
+    {
+      "ref": "Rule 9; Rule 15 cancellation/adjustment context",
+      "title": "Cancelled booking is different from actual travel",
+      "spoken_ref_roman": "Rule nine; Rule fifteen, cancellation context.",
+      "rule": "Sanction/booking without performing the LTC journey does not by itself mean an occasion was availed. Refund/adjust any advance and have cancellation/non-use correctly recorded. Do not promise that an expired block can now be revived or that every advance deadline is waived.",
+      "explanation_roman": "Travel nahi hui: booking alone use nahi; advance settle, cancellation record.",
+      "example_roman": "Tickets cancel, journey zero: performed nil claim se alag.",
+      "trap": "Detailed advance deadlines and claim relaxation are later Batch 11 topics.",
+      "source": "H",
+      "id": "B4-71"
+    },
+    {
+      "ref": "Rule 15 GID (1)(a); OM 07.12.1965",
+      "title": "Deputation reversion: who grants the advance?",
+      "spoken_ref_roman": "Rule fifteen GID one, A.",
+      "rule": "Officer goes on leave immediately on reversion and joins parent office after leave. Leave application mentions LTC; borrowing department forwards it to lending department for sanction and advises intended advance. After leave-sanction intimation, borrowing department's TA Controlling Officer sanctions admissible advance, copies lending department, which watches adjustment.",
+      "explanation_roman": "Lending office leave; borrowing TA Controlling Officer advance, copy lending ko.",
+      "example_roman": "Reversion par seedha leave: offices coordinate karein.",
+      "trap": "This is a cross-reference under Rule 15, not an invented Rule 7 subclause.",
+      "source": "H;G25",
+      "id": "B4-72"
+    },
+    {
+      "ref": "Rule 15 GID (1)(b)",
+      "title": "Reversion procedure also covers family-only travel",
+      "spoken_ref_roman": "Rule fifteen GID one, B.",
+      "rule": "The same procedure applies when reverting officer travels alone or with any/all family, and when any/all family travel without employee during the relevant leave period. It is not restricted to an employee-accompanied family.",
+      "explanation_roman": "Same reversion procedure self, self family, family only par.",
+      "example_roman": "Employee travel nahi, spouse kare; coordination phir bhi.",
+      "trap": "The specifically described reversion/leave context remains necessary.",
+      "source": "H",
+      "id": "B4-73"
+    },
+    {
+      "ref": "Rule 15 GID (1)(c)",
+      "title": "Advance adjusts to the ultimately liable office",
+      "spoken_ref_roman": "Rule fifteen GID one, C.",
+      "rule": "Advance paid by the borrowing department is adjusted against the account of the office/department ultimately liable for the LTC expenditure. The paying office is not necessarily the ultimate cost bearer.",
+      "explanation_roman": "Borrowing advance ultimately liable office account mein adjust.",
+      "example_roman": "Borrowing office paid; liable office ko final debit.",
+      "trap": "Do not generalise AIS or PSU cost allocations to every deputation.",
+      "source": "H",
+      "id": "B4-74"
+    },
+    {
+      "ref": "2025 Rule 13 Note 4; FAQ 41; chapter 15 cross-reference",
+      "title": "Indian Railways e-ticket booking charges",
+      "spoken_ref_roman": "Rule thirteen Note four.",
+      "rule": "Charges for rail Internet/e-ticketing through Indian Railways' website may be reimbursed for qualifying official-tour/LTC railway journeys. This is not permission for fees on any private booking or an unrestricted private-agent invoice.",
+      "explanation_roman": "Qualifying rail LTC: Indian Railways website e ticket charge allowed.",
+      "example_roman": "Private holiday booking charge same permission nahi.",
+      "trap": "Full Rule 13 reimbursement mechanics are Batch 10.",
+      "source": "G25;F25",
+      "id": "B4-75"
+    },
+    {
+      "ref": "2025 Rule 13 Note 5: travel-agent service charges",
+      "title": "Rail website charge ≠ private agent’s fee",
+      "spoken_ref_roman": "Rule thirteen Note five.",
+      "rule": "Service charges paid to recognised Travellers' Service Agents for LTC ticket booking are not reimbursable under this note. Distinguish those charges from the railway e-ticket charge and from specific ATA ticket-booking rules taught later.",
+      "explanation_roman": "Agent fee aur railway website charge alag.",
+      "example_roman": "Agent extra five hundred: railway charge approval enough nahi.",
+      "trap": "Do not silently turn this into a complete decision on every separately regulated ATA component.",
+      "source": "G25",
+      "id": "B4-76"
+    },
+    {
+      "ref": "2025 Rule 13 Note 6; FAQ 43; Finance OM 18.07.2007",
+      "title": "Government levies follow an eligible journey",
+      "spoken_ref_roman": "Rule thirteen Note six.",
+      "rule": "Government-imposed taxes/cess and similar statutory levies on eligible air/road/rail/steamer travel are reimbursable. Service Tax/Education Cess are historical labels in the instruction, not current universal rates. This does not reimburse optional agents' fees or make an otherwise ineligible base fare admissible.",
+      "explanation_roman": "Eligible fare ka statutory tax allowed; optional agent fee alag.",
+      "example_roman": "Ravi ka statutory tax allowed; private agent fee nahi.",
+      "trap": "No current tax percentage or obsolete tax regime is asserted.",
+      "source": "G25;F25",
+      "id": "B4-77"
+    }
+  ],
+  "dates": [
+    [
+      "11.10.1956",
+      "Rule 7 GID (1): normal route ceiling, vacation, class, intimation, evidence and assistance records."
+    ],
+    [
+      "04.09.1957 / 06.07.1959",
+      "Hometown outside India / Missions abroad instructions; distinct Indian gateways, not foreign airfare."
+    ],
+    [
+      "10.09.1959 / 14.03.1980",
+      "Nepal Aid Programme instructions; nearest actual Indian rail-station anchor and transfer split."
+    ],
+    [
+      "19.07.1960 / 07.02.2007",
+      "Tour/transfer combination / extension to All-India LTC. Original 2007 pending-claim transition is history."
+    ],
+    [
+      "07.08.1965 / 07.12.1965",
+      "Training headquarters / deputation-reversion advance procedure."
+    ],
+    [
+      "15.07.1969 / 07.07.1971 / 16.01.1976",
+      "AIS cost/no-duplication / non-top PSU option / fresh option on PSU revision."
+    ],
+    [
+      "06.03.1984 / 30.03.1988 / 09.07.1991",
+      "Top-level PSU terms and cost / study leave / escort safeguards."
+    ],
+    [
+      "17.08.2016 / 24.11.2022",
+      "Technical-resignation origin / official government-hosted consolidated paras 2.1 and 2.3. No restarted eight-year period."
+    ],
+    [
+      "03.04.2018",
+      "CCL admissibility confirmation; not an extra LTC occasion or an automatic leave sanction."
+    ],
+    [
+      "24.04.2018 -> 01.07.2017",
+      "Posted-staff package ISSUE date -> express EFFECT date. Annual alternative is in lieu of normal LTC."
+    ],
+    [
+      "28.02.2020",
+      "Emergency Passage destination clarification; two additional career occasions, not two per block."
+    ],
+    [
+      "01.07.2025 / 03.09.2025",
+      "FAQ / consolidation issue dates. Then-current 2022-25 examples do not stay current forever."
+    ],
+    [
+      "Journey date / prior approval",
+      "Applicable one-year continuous service must be complete at the actual journey; escort requires prior HoD approval EACH occasion."
+    ],
+    [
+      "2026-2029 / 31.12.2026",
+      "Current regular block, sub-blocks 2026-27/2028-29; eligible unused prior-block carryover is conditional under Rule 10. Fresh recruits differ. No universal return-by-31-December requirement is created."
+    ]
+  ],
+  "status": "Authored and source-reviewed; see media reports for build QA"
+}
