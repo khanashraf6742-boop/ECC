@@ -1,6 +1,6 @@
 {
   "file": "batch-01-video.mp4",
-  "bytes": 10524886,
+  "bytes": 12070382,
   "width": 1920,
   "height": 1080,
   "fps": 10,
@@ -8,7 +8,7 @@
   "video_codec": "h264",
   "audio_codec": "aac",
   "source_script_sha256": "e8a901f95db22fa0f2ef485453f994d96aedd0cf1ec635c83b4ecee1384ea7d5",
-  "note": "New synthesis of the same approved script and selected voices. Existing standalone MP3 unchanged. Slides switch at actual audio-chapter boundaries, not individual word boundaries.",
+  "note": "Same approved narration and original AAC audio. Slides fit above a dedicated caption band. Phrase captions acoustically aligned within the original ten chapter boundaries.",
   "full_decode_check": "passed",
   "chapters": [
     {
@@ -299,5 +299,13 @@
         ]
       }
     }
-  ]
+  ],
+  "subtitles": {
+    "burned_in": true,
+    "embedded_track": null,
+    "srt": "batch-01-video.srt",
+    "vtt": "batch-01-video.vtt",
+    "report": "subtitle-build-report.json",
+    "caption_band_height": 144
+  }
 }

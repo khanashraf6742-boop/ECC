@@ -1,0 +1,6 @@
+-r video-requirements.txt
+numpy==1.26.4
+scipy==1.14.1
+dtw-python==1.5.3
+python_speech_features==0.6
+espeakng-loader==0.2.4

@@ -1,0 +1,1139 @@
+{
+  "source_script_sha256": "e8a901f95db22fa0f2ef485453f994d96aedd0cf1ec635c83b4ecee1384ea7d5",
+  "alignment": "chapter-local MFCC / dynamic time warping against eSpeak NG reference speech",
+  "frame_step_seconds": 0.02,
+  "language": "Hindi-English code-mixed; approved transcript unchanged",
+  "timing_precision_note": "Automatic phrase-level acoustic alignment, not certified word-level timing.",
+  "full_decode_check": "passed",
+  "chapters": [
+    {
+      "chapter": 1,
+      "dtw_normalized_distance": 0.5774974103005256,
+      "reference_seconds": 18.002,
+      "cue_count": 4
+    },
+    {
+      "chapter": 2,
+      "dtw_normalized_distance": 0.5493186007642004,
+      "reference_seconds": 50.644,
+      "cue_count": 17
+    },
+    {
+      "chapter": 3,
+      "dtw_normalized_distance": 0.5410182865156414,
+      "reference_seconds": 68.074,
+      "cue_count": 19
+    },
+    {
+      "chapter": 4,
+      "dtw_normalized_distance": 0.5593141270956918,
+      "reference_seconds": 39.815,
+      "cue_count": 12
+    },
+    {
+      "chapter": 5,
+      "dtw_normalized_distance": 0.5419668476146035,
+      "reference_seconds": 70.652,
+      "cue_count": 23
+    },
+    {
+      "chapter": 6,
+      "dtw_normalized_distance": 0.5459212463475267,
+      "reference_seconds": 80.974,
+      "cue_count": 24
+    },
+    {
+      "chapter": 7,
+      "dtw_normalized_distance": 0.5674969134072275,
+      "reference_seconds": 71.702,
+      "cue_count": 22
+    },
+    {
+      "chapter": 8,
+      "dtw_normalized_distance": 0.5694675202737338,
+      "reference_seconds": 77.319,
+      "cue_count": 22
+    },
+    {
+      "chapter": 9,
+      "dtw_normalized_distance": 0.561610536699618,
+      "reference_seconds": 78.345,
+      "cue_count": 20
+    },
+    {
+      "chapter": 10,
+      "dtw_normalized_distance": 0.5475009269813901,
+      "reference_seconds": 46.342,
+      "cue_count": 14
+    }
+  ],
+  "cues": [
+    {
+      "chapter": 1,
+      "start": 0.0,
+      "end": 5.52,
+      "text": "Sir, इस updated Batch one में हर rule और clause का exact reference पहले बोलो,"
+    },
+    {
+      "chapter": 1,
+      "start": 5.52,
+      "end": 9.46,
+      "text": "फिर simple city Hinglish explanation और उसके बाद example दो."
+    },
+    {
+      "chapter": 1,
+      "start": 9.46,
+      "end": 13.76,
+      "text": "Roman one, two, three, four का मतलब bracket वाले Roman numerals है."
+    },
+    {
+      "chapter": 1,
+      "start": 13.76,
+      "end": 18.3,
+      "text": "Rule two, sub rule one की conditions को made up clause letters मत देना."
+    },
+    {
+      "chapter": 2,
+      "start": 18.3,
+      "end": 20.32,
+      "text": "Rule one, sub rule one."
+    },
+    {
+      "chapter": 2,
+      "start": 20.32,
+      "end": 24.84,
+      "text": "Official name है Central Civil Services, Leave Travel Concession Rules,"
+    },
+    {
+      "chapter": 2,
+      "start": 24.84,
+      "end": 26.12,
+      "text": "nineteen eighty eight."
+    },
+    {
+      "chapter": 2,
+      "start": 26.12,
+      "end": 31.08,
+      "text": "Example, Asha की family LTC application के लिए LTC rules check होंगे,"
+    },
+    {
+      "chapter": 2,
+      "start": 31.08,
+      "end": 32.4,
+      "text": "pension rules नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 32.4,
+      "end": 34.94,
+      "text": "Rule one, sub rule two."
+    },
+    {
+      "chapter": 2,
+      "start": 34.94,
+      "end": 39.12,
+      "text": "Rules Gazette में publication की date से start होते हैं, signing date से नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 39.12,
+      "end": 43.91,
+      "text": "Example, Notification May third को sign और May twenty first को publish हो,"
+    },
+    {
+      "chapter": 2,
+      "start": 43.91,
+      "end": 45.84,
+      "text": "तो publication वाली date count होगी."
+    },
+    {
+      "chapter": 2,
+      "start": 45.84,
+      "end": 48.0,
+      "text": "ये dates सिर्फ example हैं."
+    },
+    {
+      "chapter": 2,
+      "start": 48.0,
+      "end": 51.46,
+      "text": "Actual nineteen eighty eight Gazette की exact date original copy से confirm"
+    },
+    {
+      "chapter": 2,
+      "start": 51.46,
+      "end": 52.28,
+      "text": "नहीं हुई है."
+    },
+    {
+      "chapter": 2,
+      "start": 52.28,
+      "end": 55.07,
+      "text": "Rule one, sub rule three, opening words."
+    },
+    {
+      "chapter": 2,
+      "start": 55.07,
+      "end": 59.44,
+      "text": "Coverage, Rule one, sub rule four के exclusions के subject है."
+    },
+    {
+      "chapter": 2,
+      "start": 59.44,
+      "end": 62.08,
+      "text": "Covered होना automatic approval नहीं है."
+    },
+    {
+      "chapter": 2,
+      "start": 62.08,
+      "end": 65.15,
+      "text": "Example, Union civil post वाला employee part time है,"
+    },
+    {
+      "chapter": 2,
+      "start": 65.15,
+      "end": 67.0,
+      "text": "तो exclusion भी check करना होगा."
+    },
+    {
+      "chapter": 3,
+      "start": 67.0,
+      "end": 70.38,
+      "text": "Rule one, sub rule three, clause Roman one."
+    },
+    {
+      "chapter": 3,
+      "start": 70.38,
+      "end": 73.99,
+      "text": "Union civil services और posts covered हैं."
+    },
+    {
+      "chapter": 3,
+      "start": 73.99,
+      "end": 77.92,
+      "text": "Defence Services के civilian Government employees भी included हैं."
+    },
+    {
+      "chapter": 3,
+      "start": 77.92,
+      "end": 80.8,
+      "text": "Example, Meera Defence office में civilian clerk है."
+    },
+    {
+      "chapter": 3,
+      "start": 80.8,
+      "end": 84.14,
+      "text": "सिर्फ Defence में काम करने की वजह से उसे exclude नहीं करेंगे."
+    },
+    {
+      "chapter": 3,
+      "start": 84.14,
+      "end": 87.34,
+      "text": "Rule one, sub rule three, clause Roman two."
+    },
+    {
+      "chapter": 3,
+      "start": 87.34,
+      "end": 91.88,
+      "text": "State Government employee Central Government में deputation पर आए, तो coverage है."
+    },
+    {
+      "chapter": 3,
+      "start": 91.88,
+      "end": 95.8,
+      "text": "Example, Raghav State cadre से Central Ministry में deputation पर आया."
+    },
+    {
+      "chapter": 3,
+      "start": 95.8,
+      "end": 98.74,
+      "text": "Coverage के बाद Rule two की conditions भी check होंगी."
+    },
+    {
+      "chapter": 3,
+      "start": 98.74,
+      "end": 101.9,
+      "text": "Rule one, sub rule three, clause Roman three."
+    },
+    {
+      "chapter": 3,
+      "start": 101.9,
+      "end": 105.36,
+      "text": "Contract basis पर Government appointments included हैं."
+    },
+    {
+      "chapter": 3,
+      "start": 105.36,
+      "end": 108.24,
+      "text": "Example, Neha को direct Government contract मिला."
+    },
+    {
+      "chapter": 3,
+      "start": 108.24,
+      "end": 111.45,
+      "text": "सिर्फ contract job होने से उसे exclude नहीं करेंगे."
+    },
+    {
+      "chapter": 3,
+      "start": 111.45,
+      "end": 115.25,
+      "text": "Vendor employee को Ministry में काम करने से automatically यही status नहीं मिलता."
+    },
+    {
+      "chapter": 3,
+      "start": 115.25,
+      "end": 118.0,
+      "text": "Rule one, sub rule three, clause Roman four."
+    },
+    {
+      "chapter": 3,
+      "start": 118.0,
+      "end": 121.7,
+      "text": "Retirement के बाद re employed persons included हैं."
+    },
+    {
+      "chapter": 3,
+      "start": 121.7,
+      "end": 125.2,
+      "text": "Example, Dev को actual Government re employment appointment मिला."
+    },
+    {
+      "chapter": 3,
+      "start": 125.2,
+      "end": 126.56,
+      "text": "उसका case check होगा."
+    },
+    {
+      "chapter": 3,
+      "start": 126.56,
+      "end": 129.9,
+      "text": "सिर्फ pension मिलने से हर retiree को LTC नहीं मिलती."
+    },
+    {
+      "chapter": 4,
+      "start": 129.9,
+      "end": 133.62,
+      "text": "Rule one, sub rule four, clause A."
+    },
+    {
+      "chapter": 4,
+      "start": 133.62,
+      "end": 136.66,
+      "text": "Non whole time Government employment excluded है."
+    },
+    {
+      "chapter": 4,
+      "start": 136.66,
+      "end": 141.6,
+      "text": "Example, Three hours daily की part time appointment कई years चलने से whole"
+    },
+    {
+      "chapter": 4,
+      "start": 141.6,
+      "end": 142.8,
+      "text": "time नहीं बनती."
+    },
+    {
+      "chapter": 4,
+      "start": 142.8,
+      "end": 145.9,
+      "text": "Rule one, sub rule four, clause B."
+    },
+    {
+      "chapter": 4,
+      "start": 145.9,
+      "end": 149.3,
+      "text": "Casual और daily rated employment excluded है."
+    },
+    {
+      "chapter": 4,
+      "start": 149.3,
+      "end": 151.68,
+      "text": "Example, Salim daily rated worker है."
+    },
+    {
+      "chapter": 4,
+      "start": 151.68,
+      "end": 156.3,
+      "text": "Twelve months complete होने से ये exclusion अपने आप नहीं हटता."
+    },
+    {
+      "chapter": 4,
+      "start": 156.3,
+      "end": 158.58,
+      "text": "Rule one, sub rule four, clause C."
+    },
+    {
+      "chapter": 4,
+      "start": 158.58,
+      "end": 161.94,
+      "text": "Persons paid from contingencies excluded हैं."
+    },
+    {
+      "chapter": 4,
+      "start": 161.94,
+      "end": 166.68,
+      "text": "Example, Kavita का actual engagement इसी category में है, तो clause apply होगा."
+    },
+    {
+      "chapter": 4,
+      "start": 166.68,
+      "end": 171.4,
+      "text": "सिर्फ office में contingency budget होने से हर employee इस category में नहीं आता."
+    },
+    {
+      "chapter": 5,
+      "start": 171.4,
+      "end": 174.46,
+      "text": "Rule one, sub rule four, clause D."
+    },
+    {
+      "chapter": 5,
+      "start": 174.46,
+      "end": 177.5,
+      "text": "Railway servants generally excluded हैं."
+    },
+    {
+      "chapter": 5,
+      "start": 177.5,
+      "end": 182.37,
+      "text": "अलग later instructions में conditional All India LTC once in a four year block की"
+    },
+    {
+      "chapter": 5,
+      "start": 182.37,
+      "end": 183.42,
+      "text": "limited window है."
+    },
+    {
+      "chapter": 5,
+      "start": 183.42,
+      "end": 187.46,
+      "text": "Example, Railway employee को इस window से normal Hometown LTC"
+    },
+    {
+      "chapter": 5,
+      "start": 187.46,
+      "end": 188.73,
+      "text": "automatically नहीं मिलेगी."
+    },
+    {
+      "chapter": 5,
+      "start": 188.73,
+      "end": 193.77,
+      "text": "Pass surrender की complete conditions की primary order verification pending है."
+    },
+    {
+      "chapter": 5,
+      "start": 193.77,
+      "end": 196.68,
+      "text": "Rule one, sub rule four, clause E."
+    },
+    {
+      "chapter": 5,
+      "start": 196.68,
+      "end": 198.76,
+      "text": "Armed Forces members excluded हैं."
+    },
+    {
+      "chapter": 5,
+      "start": 198.76,
+      "end": 203.06,
+      "text": "Example, Army officer और Defence office की civilian clerk को same category"
+    },
+    {
+      "chapter": 5,
+      "start": 203.06,
+      "end": 203.85,
+      "text": "में मत रखो."
+    },
+    {
+      "chapter": 5,
+      "start": 203.85,
+      "end": 206.1,
+      "text": "Civilian inclusion अलग है."
+    },
+    {
+      "chapter": 5,
+      "start": 206.1,
+      "end": 209.03,
+      "text": "Rule one, sub rule four, clause F."
+    },
+    {
+      "chapter": 5,
+      "start": 209.03,
+      "end": 212.16,
+      "text": "Indian Missions abroad के local recruits excluded हैं."
+    },
+    {
+      "chapter": 5,
+      "start": 212.16,
+      "end": 216.44,
+      "text": "Example, Paris Mission में locally hired employee और India से posted officer का"
+    },
+    {
+      "chapter": 5,
+      "start": 216.44,
+      "end": 218.51,
+      "text": "recruitment status अलग है."
+    },
+    {
+      "chapter": 5,
+      "start": 218.51,
+      "end": 220.85,
+      "text": "Rule one, sub rule four, clause G."
+    },
+    {
+      "chapter": 5,
+      "start": 220.85,
+      "end": 225.73,
+      "text": "किसी दूसरे applicable travel concession की eligibility वाला exclusion check करना है."
+    },
+    {
+      "chapter": 5,
+      "start": 225.73,
+      "end": 228.5,
+      "text": "Wording eligibility है, सिर्फ actual use नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 228.5,
+      "end": 231.54,
+      "text": "Example, Employee बोले, दूसरा benefit use नहीं किया."
+    },
+    {
+      "chapter": 5,
+      "start": 231.54,
+      "end": 233.44,
+      "text": "सिर्फ ये बोलना enough नहीं है."
+    },
+    {
+      "chapter": 5,
+      "start": 233.44,
+      "end": 236.78,
+      "text": "हर private sector spouse की LTA को blanket ban मत समझो."
+    },
+    {
+      "chapter": 5,
+      "start": 236.78,
+      "end": 239.2,
+      "text": "Relevant later instructions भी check करो."
+    },
+    {
+      "chapter": 6,
+      "start": 239.2,
+      "end": 243.03,
+      "text": "Rule two, sub rule one, covered categories."
+    },
+    {
+      "chapter": 6,
+      "start": 243.03,
+      "end": 245.64,
+      "text": "ये Rule one, sub rule three के clauses Roman two,"
+    },
+    {
+      "chapter": 6,
+      "start": 245.64,
+      "end": 248.48,
+      "text": "Roman three और Roman four के लिए है."
+    },
+    {
+      "chapter": 6,
+      "start": 248.48,
+      "end": 253.54,
+      "text": "Example, State deputationist, contract officer और re employed officer के cases में"
+    },
+    {
+      "chapter": 6,
+      "start": 253.54,
+      "end": 254.42,
+      "text": "ये test देखो."
+    },
+    {
+      "chapter": 6,
+      "start": 254.42,
+      "end": 258.44,
+      "text": "Re employment में sub rule three की continuity भी साथ पढ़ो."
+    },
+    {
+      "chapter": 6,
+      "start": 258.44,
+      "end": 262.14,
+      "text": "Rule two, sub rule one, completed service condition."
+    },
+    {
+      "chapter": 6,
+      "start": 262.14,
+      "end": 265.76,
+      "text": "One year की continuous Central Government service complete होनी चाहिए."
+    },
+    {
+      "chapter": 6,
+      "start": 265.76,
+      "end": 270.52,
+      "text": "Example, Neha four year contract sign करके six months बाद trip plan करती है."
+    },
+    {
+      "chapter": 6,
+      "start": 270.52,
+      "end": 273.43,
+      "text": "Long contract, six months को one year नहीं बना देता."
+    },
+    {
+      "chapter": 6,
+      "start": 273.43,
+      "end": 276.78,
+      "text": "Rule two, sub rule one, certification condition."
+    },
+    {
+      "chapter": 6,
+      "start": 276.78,
+      "end": 280.72,
+      "text": "Appropriate administrative authority को required likely service period"
+    },
+    {
+      "chapter": 6,
+      "start": 280.72,
+      "end": 281.8,
+      "text": "certify करना है."
+    },
+    {
+      "chapter": 6,
+      "start": 281.8,
+      "end": 284.97,
+      "text": "Example, Employee खुद four years रहने का promise करे,"
+    },
+    {
+      "chapter": 6,
+      "start": 284.97,
+      "end": 288.16,
+      "text": "तो वो authority के certificate का substitute नहीं है."
+    },
+    {
+      "chapter": 6,
+      "start": 288.16,
+      "end": 291.1,
+      "text": "Rule two, sub rule one, Hometown duration condition."
+    },
+    {
+      "chapter": 6,
+      "start": 291.1,
+      "end": 295.22,
+      "text": "At least two years की likely Central service joining date से count होगी,"
+    },
+    {
+      "chapter": 6,
+      "start": 295.22,
+      "end": 296.7,
+      "text": "trip के बाद two extra years नहीं."
+    },
+    {
+      "chapter": 6,
+      "start": 296.7,
+      "end": 301.4,
+      "text": "Example, Contract January first, twenty twenty six से December thirty first,"
+    },
+    {
+      "chapter": 6,
+      "start": 301.4,
+      "end": 302.72,
+      "text": "twenty twenty seven तक है."
+    },
+    {
+      "chapter": 6,
+      "start": 302.72,
+      "end": 306.04,
+      "text": "February twenty twenty seven में one year complete है और joining से total"
+    },
+    {
+      "chapter": 6,
+      "start": 306.04,
+      "end": 307.28,
+      "text": "two years हैं."
+    },
+    {
+      "chapter": 6,
+      "start": 307.28,
+      "end": 310.62,
+      "text": "Proper certificate के साथ ये duration condition pass हो सकती है."
+    },
+    {
+      "chapter": 6,
+      "start": 310.62,
+      "end": 312.6,
+      "text": "बाकी LTC conditions भी check होंगी."
+    },
+    {
+      "chapter": 7,
+      "start": 312.6,
+      "end": 317.56,
+      "text": "Rule two, sub rule one, Any Place in India duration condition."
+    },
+    {
+      "chapter": 7,
+      "start": 317.56,
+      "end": 322.88,
+      "text": "At least four years की likely Central service joining date से count होगी."
+    },
+    {
+      "chapter": 7,
+      "start": 322.88,
+      "end": 327.3,
+      "text": "Example, Contract January first, twenty twenty six से December thirty first,"
+    },
+    {
+      "chapter": 7,
+      "start": 327.3,
+      "end": 329.1,
+      "text": "twenty twenty nine तक है."
+    },
+    {
+      "chapter": 7,
+      "start": 329.1,
+      "end": 332.94,
+      "text": "February twenty twenty seven में one year complete है और joining से total"
+    },
+    {
+      "chapter": 7,
+      "start": 332.94,
+      "end": 334.12,
+      "text": "four years हैं."
+    },
+    {
+      "chapter": 7,
+      "start": 334.12,
+      "end": 336.62,
+      "text": "Four years trip से फिर count नहीं होंगे."
+    },
+    {
+      "chapter": 7,
+      "start": 336.62,
+      "end": 339.46,
+      "text": "ये duration condition है, final LTC approval नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 339.46,
+      "end": 341.96,
+      "text": "Rule two, sub rule two."
+    },
+    {
+      "chapter": 7,
+      "start": 341.96,
+      "end": 344.45,
+      "text": "Initial one year contract बाद में extend हो,"
+    },
+    {
+      "chapter": 7,
+      "start": 344.45,
+      "end": 348.0,
+      "text": "तो total contract duration LTC के लिए देखो."
+    },
+    {
+      "chapter": 7,
+      "start": 348.0,
+      "end": 352.22,
+      "text": "Example, Neha का twenty twenty six वाला contract बिना gap twenty twenty nine"
+    },
+    {
+      "chapter": 7,
+      "start": 352.22,
+      "end": 353.06,
+      "text": "तक extend हुआ."
+    },
+    {
+      "chapter": 7,
+      "start": 353.06,
+      "end": 356.1,
+      "text": "सिर्फ first one year letter देखकर reject मत करो."
+    },
+    {
+      "chapter": 7,
+      "start": 356.1,
+      "end": 358.86,
+      "text": "Actual extension order चाहिए."
+    },
+    {
+      "chapter": 7,
+      "start": 358.86,
+      "end": 363.72,
+      "text": "Rule two, sub rule three, immediate re employment and continuity."
+    },
+    {
+      "chapter": 7,
+      "start": 363.72,
+      "end": 368.58,
+      "text": "Retirement के immediately बाद बिना break re employment में old और new service LTC के"
+    },
+    {
+      "chapter": 7,
+      "start": 368.58,
+      "end": 370.43,
+      "text": "लिए continuous treat होती है."
+    },
+    {
+      "chapter": 7,
+      "start": 370.43,
+      "end": 374.72,
+      "text": "Example, Retirement October thirty first के end पर और re employment November"
+    },
+    {
+      "chapter": 7,
+      "start": 374.72,
+      "end": 375.66,
+      "text": "first से है."
+    },
+    {
+      "chapter": 7,
+      "start": 375.66,
+      "end": 379.0,
+      "text": "Fresh one year clock automatically start मत करो."
+    },
+    {
+      "chapter": 7,
+      "start": 379.0,
+      "end": 382.8,
+      "text": "Gap वाले case में ये special treatment automatically assume नहीं कर सकते."
+    },
+    {
+      "chapter": 8,
+      "start": 382.8,
+      "end": 388.6,
+      "text": "Rule two, sub rule three, provided that condition, also called the proviso."
+    },
+    {
+      "chapter": 8,
+      "start": 388.6,
+      "end": 392.38,
+      "text": "Simple test, retire न होते तो ये LTC मिलती?"
+    },
+    {
+      "chapter": 8,
+      "start": 392.38,
+      "end": 395.68,
+      "text": "Continuity, used benefit refill नहीं करती."
+    },
+    {
+      "chapter": 8,
+      "start": 395.68,
+      "end": 401.04,
+      "text": "Example, Sana की relevant All India occasion retirement से पहले use हो चुकी है."
+    },
+    {
+      "chapter": 8,
+      "start": 401.04,
+      "end": 404.38,
+      "text": "Next day re employment same occasion दोबारा नहीं देती."
+    },
+    {
+      "chapter": 8,
+      "start": 404.38,
+      "end": 407.76,
+      "text": "Rule two, sub rule three, official illustration."
+    },
+    {
+      "chapter": 8,
+      "start": 407.76,
+      "end": 412.66,
+      "text": "Already used Any Place in India LTC, same four year block में no break re employment"
+    },
+    {
+      "chapter": 8,
+      "start": 412.66,
+      "end": 414.12,
+      "text": "से फिर नहीं मिलती."
+    },
+    {
+      "chapter": 8,
+      "start": 414.12,
+      "end": 417.74,
+      "text": "Example, Official illustration का updated hypothetical लो."
+    },
+    {
+      "chapter": 8,
+      "start": 417.74,
+      "end": 421.83,
+      "text": "Dev ने twenty twenty six to twenty twenty nine की All India occasion August में use"
+    },
+    {
+      "chapter": 8,
+      "start": 421.83,
+      "end": 425.6,
+      "text": "की, October में retire हुआ और next day re employed हुआ."
+    },
+    {
+      "chapter": 8,
+      "start": 425.6,
+      "end": 428.44,
+      "text": "Same block में fresh All India occasion नहीं मिलेगी."
+    },
+    {
+      "chapter": 8,
+      "start": 428.44,
+      "end": 430.18,
+      "text": "Rule three, employee coverage."
+    },
+    {
+      "chapter": 8,
+      "start": 430.18,
+      "end": 433.32,
+      "text": "Scope में employee और eligible family आते हैं."
+    },
+    {
+      "chapter": 8,
+      "start": 433.32,
+      "end": 435.88,
+      "text": "Rule three में अलग numbered sub rules नहीं हैं."
+    },
+    {
+      "chapter": 8,
+      "start": 435.88,
+      "end": 438.68,
+      "text": "Example, Eligible employee अकेले trip करता है."
+    },
+    {
+      "chapter": 8,
+      "start": 438.68,
+      "end": 442.64,
+      "text": "Family साथ नहीं है, सिर्फ इस वजह से Rule three उसे reject नहीं करता."
+    },
+    {
+      "chapter": 8,
+      "start": 442.64,
+      "end": 445.82,
+      "text": "Rule three, family coverage, read with Rule four, clause D."
+    },
+    {
+      "chapter": 8,
+      "start": 445.82,
+      "end": 448.22,
+      "text": "Family का legal meaning check करो."
+    },
+    {
+      "chapter": 8,
+      "start": 448.22,
+      "end": 450.83,
+      "text": "Rule four, clause D की full detail next batch में होगी."
+    },
+    {
+      "chapter": 8,
+      "start": 450.83,
+      "end": 453.44,
+      "text": "Example, Spouse और friend साथ travel करते हैं."
+    },
+    {
+      "chapter": 8,
+      "start": 453.44,
+      "end": 456.9,
+      "text": "Friend सिर्फ साथ जाने से eligible LTC family member नहीं बनता."
+    },
+    {
+      "chapter": 9,
+      "start": 456.9,
+      "end": 461.62,
+      "text": "Rule three, cross reference to Rules nine and eleven, and the July first,"
+    },
+    {
+      "chapter": 9,
+      "start": 461.62,
+      "end": 464.3,
+      "text": "twenty twenty five FAQ, question six."
+    },
+    {
+      "chapter": 9,
+      "start": 464.3,
+      "end": 469.37,
+      "text": "Employee और eligible family separate groups में अलग time पर travel कर सकते हैं."
+    },
+    {
+      "chapter": 9,
+      "start": 469.37,
+      "end": 471.66,
+      "text": "ये Rule three का नया sub clause नहीं है."
+    },
+    {
+      "chapter": 9,
+      "start": 471.66,
+      "end": 476.36,
+      "text": "Example, Employee June में और eligible family October में travel propose करे,"
+    },
+    {
+      "chapter": 9,
+      "start": 476.36,
+      "end": 479.13,
+      "text": "तो separate dates alone rejection का reason नहीं हैं."
+    },
+    {
+      "chapter": 9,
+      "start": 479.13,
+      "end": 481.62,
+      "text": "Person wise block और बाकी conditions check होंगी."
+    },
+    {
+      "chapter": 9,
+      "start": 481.62,
+      "end": 486.26,
+      "text": "September third, twenty twenty five DoPT Guidelines, applicability Note one."
+    },
+    {
+      "chapter": 9,
+      "start": 486.26,
+      "end": 490.04,
+      "text": "Autonomous body officer Central Government में deputation पर आए,"
+    },
+    {
+      "chapter": 9,
+      "start": 490.04,
+      "end": 494.07,
+      "text": "तो उस period में temporary Government servant वाला LTC treatment मिलता है."
+    },
+    {
+      "chapter": 9,
+      "start": 494.07,
+      "end": 496.42,
+      "text": "ये Rule one का नया numbered clause नहीं है."
+    },
+    {
+      "chapter": 9,
+      "start": 496.42,
+      "end": 500.92,
+      "text": "Example, Iqbal को सिर्फ autonomous parent body की वजह से reject नहीं करेंगे."
+    },
+    {
+      "chapter": 9,
+      "start": 500.92,
+      "end": 504.08,
+      "text": "Temporary word से हर Rule two certificate automatically infer मत करो."
+    },
+    {
+      "chapter": 9,
+      "start": 504.08,
+      "end": 506.72,
+      "text": "Actual category और deputation terms check करो."
+    },
+    {
+      "chapter": 9,
+      "start": 506.72,
+      "end": 511.2,
+      "text": "September third, twenty twenty five DoPT Guidelines, applicability Note two."
+    },
+    {
+      "chapter": 9,
+      "start": 511.2,
+      "end": 515.33,
+      "text": "Industrial और work charged staff जो regular leave के entitled हैं,"
+    },
+    {
+      "chapter": 9,
+      "start": 515.33,
+      "end": 517.44,
+      "text": "वो भी normal conditions पर eligible हैं."
+    },
+    {
+      "chapter": 9,
+      "start": 517.44,
+      "end": 521.62,
+      "text": "Example, Regular leave वाले work charged employee को सिर्फ job title से blanket"
+    },
+    {
+      "chapter": 9,
+      "start": 521.62,
+      "end": 522.47,
+      "text": "reject मत करो."
+    },
+    {
+      "chapter": 9,
+      "start": 522.47,
+      "end": 526.3,
+      "text": "First block nineteen sixty to sixty one historical है, आज का travel block नहीं."
+    },
+    {
+      "chapter": 10,
+      "start": 526.3,
+      "end": 531.73,
+      "text": "September third, twenty twenty five DoPT Guidelines, paragraph two."
+    },
+    {
+      "chapter": 10,
+      "start": 531.73,
+      "end": 535.38,
+      "text": "Consolidation में conflict या unclear summary हो,"
+    },
+    {
+      "chapter": 10,
+      "start": 535.38,
+      "end": 538.29,
+      "text": "तो relevant governing OM या order check करो."
+    },
+    {
+      "chapter": 10,
+      "start": 538.29,
+      "end": 540.42,
+      "text": "ये Rule two का sub rule नहीं है."
+    },
+    {
+      "chapter": 10,
+      "start": 540.42,
+      "end": 544.37,
+      "text": "Example, Summary की unclear line को नया amendment मत मानो."
+    },
+    {
+      "chapter": 10,
+      "start": 544.37,
+      "end": 547.38,
+      "text": "Actual applicable order की reference लो."
+    },
+    {
+      "chapter": 10,
+      "start": 547.38,
+      "end": 550.39,
+      "text": "Batch one teaching checklist, not a separate legal rule."
+    },
+    {
+      "chapter": 10,
+      "start": 550.39,
+      "end": 555.12,
+      "text": "Category, exclusion, valid exception, special service conditions,"
+    },
+    {
+      "chapter": 10,
+      "start": 555.12,
+      "end": 558.34,
+      "text": "old block history और eligible family check करो."
+    },
+    {
+      "chapter": 10,
+      "start": 558.34,
+      "end": 561.96,
+      "text": "Example, Contract officer ये starting checks pass करता है."
+    },
+    {
+      "chapter": 10,
+      "start": 561.96,
+      "end": 566.08,
+      "text": "फिर भी payment से पहले family, leave, block, mode, fare,"
+    },
+    {
+      "chapter": 10,
+      "start": 566.08,
+      "end": 569.1,
+      "text": "booking और claim conditions अलग check होंगी."
+    },
+    {
+      "chapter": 10,
+      "start": 569.1,
+      "end": 573.38,
+      "text": "Original Gazette date, detailed Railway pass conditions और complete later order"
+    },
+    {
+      "chapter": 10,
+      "start": 573.38,
+      "end": 574.4,
+      "text": "checks अभी open हैं."
+    }
+  ],
+  "audio_stream_unchanged": true,
+  "audio_sha256": "SHA256=c838a4a29bb50113bf1037e2026c9b020c25c17d4a4e05dc38ebd98683204e9a",
+  "burned_in": true,
+  "embedded_mov_text": false,
+  "video_bytes": 12070382
+}

@@ -1,0 +1,810 @@
+1
+00:00:00,000 --> 00:00:05,520
+Sir, इस updated Batch one में हर rule
+और clause का exact reference पहले बोलो,
+
+2
+00:00:05,520 --> 00:00:09,460
+फिर simple city Hinglish
+explanation और उसके बाद example दो.
+
+3
+00:00:09,460 --> 00:00:13,760
+Roman one, two, three, four का मतलब
+bracket वाले Roman numerals है.
+
+4
+00:00:13,760 --> 00:00:18,300
+Rule two, sub rule one की conditions
+को made up clause letters मत देना.
+
+5
+00:00:18,300 --> 00:00:20,320
+Rule one, sub rule one.
+
+6
+00:00:20,320 --> 00:00:24,840
+Official name है Central Civil
+Services, Leave Travel Concession Rules,
+
+7
+00:00:24,840 --> 00:00:26,120
+nineteen eighty eight.
+
+8
+00:00:26,120 --> 00:00:31,080
+Example, Asha की family LTC application
+के लिए LTC rules check होंगे,
+
+9
+00:00:31,080 --> 00:00:32,400
+pension rules नहीं.
+
+10
+00:00:32,400 --> 00:00:34,940
+Rule one, sub rule two.
+
+11
+00:00:34,940 --> 00:00:39,120
+Rules Gazette में publication की date
+से start होते हैं, signing date से नहीं.
+
+12
+00:00:39,120 --> 00:00:43,910
+Example, Notification May third को
+sign और May twenty first को publish हो,
+
+13
+00:00:43,910 --> 00:00:45,840
+तो publication वाली date count होगी.
+
+14
+00:00:45,840 --> 00:00:48,000
+ये dates सिर्फ example हैं.
+
+15
+00:00:48,000 --> 00:00:51,460
+Actual nineteen eighty eight Gazette
+की exact date original copy से confirm
+
+16
+00:00:51,460 --> 00:00:52,280
+नहीं हुई है.
+
+17
+00:00:52,280 --> 00:00:55,070
+Rule one, sub rule three, opening words.
+
+18
+00:00:55,070 --> 00:00:59,440
+Coverage, Rule one, sub rule
+four के exclusions के subject है.
+
+19
+00:00:59,440 --> 00:01:02,080
+Covered होना automatic approval नहीं है.
+
+20
+00:01:02,080 --> 00:01:05,150
+Example, Union civil post
+वाला employee part time है,
+
+21
+00:01:05,150 --> 00:01:07,000
+तो exclusion भी check करना होगा.
+
+22
+00:01:07,000 --> 00:01:10,380
+Rule one, sub rule three, clause Roman one.
+
+23
+00:01:10,380 --> 00:01:13,990
+Union civil services और posts covered हैं.
+
+24
+00:01:13,990 --> 00:01:17,920
+Defence Services के civilian
+Government employees भी included हैं.
+
+25
+00:01:17,920 --> 00:01:20,800
+Example, Meera Defence
+office में civilian clerk है.
+
+26
+00:01:20,800 --> 00:01:24,140
+सिर्फ Defence में काम करने की
+वजह से उसे exclude नहीं करेंगे.
+
+27
+00:01:24,140 --> 00:01:27,340
+Rule one, sub rule three, clause Roman two.
+
+28
+00:01:27,340 --> 00:01:31,880
+State Government employee Central Government
+में deputation पर आए, तो coverage है.
+
+29
+00:01:31,880 --> 00:01:35,800
+Example, Raghav State cadre से Central
+Ministry में deputation पर आया.
+
+30
+00:01:35,800 --> 00:01:38,740
+Coverage के बाद Rule two की
+conditions भी check होंगी.
+
+31
+00:01:38,740 --> 00:01:41,900
+Rule one, sub rule three, clause Roman three.
+
+32
+00:01:41,900 --> 00:01:45,360
+Contract basis पर Government
+appointments included हैं.
+
+33
+00:01:45,360 --> 00:01:48,240
+Example, Neha को direct
+Government contract मिला.
+
+34
+00:01:48,240 --> 00:01:51,450
+सिर्फ contract job होने से
+उसे exclude नहीं करेंगे.
+
+35
+00:01:51,450 --> 00:01:55,250
+Vendor employee को Ministry में काम करने
+से automatically यही status नहीं मिलता.
+
+36
+00:01:55,250 --> 00:01:58,000
+Rule one, sub rule three, clause Roman four.
+
+37
+00:01:58,000 --> 00:02:01,700
+Retirement के बाद re employed
+persons included हैं.
+
+38
+00:02:01,700 --> 00:02:05,200
+Example, Dev को actual Government
+re employment appointment मिला.
+
+39
+00:02:05,200 --> 00:02:06,560
+उसका case check होगा.
+
+40
+00:02:06,560 --> 00:02:09,900
+सिर्फ pension मिलने से हर
+retiree को LTC नहीं मिलती.
+
+41
+00:02:09,900 --> 00:02:13,620
+Rule one, sub rule four, clause A.
+
+42
+00:02:13,620 --> 00:02:16,660
+Non whole time Government
+employment excluded है.
+
+43
+00:02:16,660 --> 00:02:21,600
+Example, Three hours daily की part
+time appointment कई years चलने से whole
+
+44
+00:02:21,600 --> 00:02:22,800
+time नहीं बनती.
+
+45
+00:02:22,800 --> 00:02:25,900
+Rule one, sub rule four, clause B.
+
+46
+00:02:25,900 --> 00:02:29,300
+Casual और daily rated employment excluded है.
+
+47
+00:02:29,300 --> 00:02:31,680
+Example, Salim daily rated worker है.
+
+48
+00:02:31,680 --> 00:02:36,300
+Twelve months complete होने से
+ये exclusion अपने आप नहीं हटता.
+
+49
+00:02:36,300 --> 00:02:38,580
+Rule one, sub rule four, clause C.
+
+50
+00:02:38,580 --> 00:02:41,940
+Persons paid from contingencies excluded हैं.
+
+51
+00:02:41,940 --> 00:02:46,680
+Example, Kavita का actual engagement इसी
+category में है, तो clause apply होगा.
+
+52
+00:02:46,680 --> 00:02:51,400
+सिर्फ office में contingency budget होने
+से हर employee इस category में नहीं आता.
+
+53
+00:02:51,400 --> 00:02:54,460
+Rule one, sub rule four, clause D.
+
+54
+00:02:54,460 --> 00:02:57,500
+Railway servants generally excluded हैं.
+
+55
+00:02:57,500 --> 00:03:02,370
+अलग later instructions में conditional
+All India LTC once in a four year block की
+
+56
+00:03:02,370 --> 00:03:03,420
+limited window है.
+
+57
+00:03:03,420 --> 00:03:07,460
+Example, Railway employee को इस
+window से normal Hometown LTC
+
+58
+00:03:07,460 --> 00:03:08,730
+automatically नहीं मिलेगी.
+
+59
+00:03:08,730 --> 00:03:13,770
+Pass surrender की complete conditions की
+primary order verification pending है.
+
+60
+00:03:13,770 --> 00:03:16,680
+Rule one, sub rule four, clause E.
+
+61
+00:03:16,680 --> 00:03:18,760
+Armed Forces members excluded हैं.
+
+62
+00:03:18,760 --> 00:03:23,060
+Example, Army officer और Defence office
+की civilian clerk को same category
+
+63
+00:03:23,060 --> 00:03:23,850
+में मत रखो.
+
+64
+00:03:23,850 --> 00:03:26,100
+Civilian inclusion अलग है.
+
+65
+00:03:26,100 --> 00:03:29,030
+Rule one, sub rule four, clause F.
+
+66
+00:03:29,030 --> 00:03:32,160
+Indian Missions abroad के
+local recruits excluded हैं.
+
+67
+00:03:32,160 --> 00:03:36,440
+Example, Paris Mission में locally hired
+employee और India से posted officer का
+
+68
+00:03:36,440 --> 00:03:38,510
+recruitment status अलग है.
+
+69
+00:03:38,510 --> 00:03:40,850
+Rule one, sub rule four, clause G.
+
+70
+00:03:40,850 --> 00:03:45,730
+किसी दूसरे applicable travel concession की
+eligibility वाला exclusion check करना है.
+
+71
+00:03:45,730 --> 00:03:48,500
+Wording eligibility है, सिर्फ actual use नहीं.
+
+72
+00:03:48,500 --> 00:03:51,540
+Example, Employee बोले,
+दूसरा benefit use नहीं किया.
+
+73
+00:03:51,540 --> 00:03:53,440
+सिर्फ ये बोलना enough नहीं है.
+
+74
+00:03:53,440 --> 00:03:56,780
+हर private sector spouse की
+LTA को blanket ban मत समझो.
+
+75
+00:03:56,780 --> 00:03:59,200
+Relevant later instructions भी check करो.
+
+76
+00:03:59,200 --> 00:04:03,030
+Rule two, sub rule one, covered categories.
+
+77
+00:04:03,030 --> 00:04:05,640
+ये Rule one, sub rule
+three के clauses Roman two,
+
+78
+00:04:05,640 --> 00:04:08,480
+Roman three और Roman four के लिए है.
+
+79
+00:04:08,480 --> 00:04:13,540
+Example, State deputationist, contract
+officer और re employed officer के cases में
+
+80
+00:04:13,540 --> 00:04:14,420
+ये test देखो.
+
+81
+00:04:14,420 --> 00:04:18,440
+Re employment में sub rule
+three की continuity भी साथ पढ़ो.
+
+82
+00:04:18,440 --> 00:04:22,140
+Rule two, sub rule one,
+completed service condition.
+
+83
+00:04:22,140 --> 00:04:25,760
+One year की continuous Central
+Government service complete होनी चाहिए.
+
+84
+00:04:25,760 --> 00:04:30,520
+Example, Neha four year contract sign
+करके six months बाद trip plan करती है.
+
+85
+00:04:30,520 --> 00:04:33,430
+Long contract, six months
+को one year नहीं बना देता.
+
+86
+00:04:33,430 --> 00:04:36,780
+Rule two, sub rule one,
+certification condition.
+
+87
+00:04:36,780 --> 00:04:40,720
+Appropriate administrative authority
+को required likely service period
+
+88
+00:04:40,720 --> 00:04:41,800
+certify करना है.
+
+89
+00:04:41,800 --> 00:04:44,970
+Example, Employee खुद four
+years रहने का promise करे,
+
+90
+00:04:44,970 --> 00:04:48,160
+तो वो authority के certificate
+का substitute नहीं है.
+
+91
+00:04:48,160 --> 00:04:51,100
+Rule two, sub rule one,
+Hometown duration condition.
+
+92
+00:04:51,100 --> 00:04:55,220
+At least two years की likely Central
+service joining date से count होगी,
+
+93
+00:04:55,220 --> 00:04:56,700
+trip के बाद two extra years नहीं.
+
+94
+00:04:56,700 --> 00:05:01,400
+Example, Contract January first, twenty
+twenty six से December thirty first,
+
+95
+00:05:01,400 --> 00:05:02,720
+twenty twenty seven तक है.
+
+96
+00:05:02,720 --> 00:05:06,040
+February twenty twenty seven में one
+year complete है और joining से total
+
+97
+00:05:06,040 --> 00:05:07,280
+two years हैं.
+
+98
+00:05:07,280 --> 00:05:10,620
+Proper certificate के साथ ये
+duration condition pass हो सकती है.
+
+99
+00:05:10,620 --> 00:05:12,600
+बाकी LTC conditions भी check होंगी.
+
+100
+00:05:12,600 --> 00:05:17,560
+Rule two, sub rule one, Any Place
+in India duration condition.
+
+101
+00:05:17,560 --> 00:05:22,880
+At least four years की likely Central
+service joining date से count होगी.
+
+102
+00:05:22,880 --> 00:05:27,300
+Example, Contract January first, twenty
+twenty six से December thirty first,
+
+103
+00:05:27,300 --> 00:05:29,100
+twenty twenty nine तक है.
+
+104
+00:05:29,100 --> 00:05:32,940
+February twenty twenty seven में one
+year complete है और joining से total
+
+105
+00:05:32,940 --> 00:05:34,120
+four years हैं.
+
+106
+00:05:34,120 --> 00:05:36,620
+Four years trip से फिर count नहीं होंगे.
+
+107
+00:05:36,620 --> 00:05:39,460
+ये duration condition है,
+final LTC approval नहीं.
+
+108
+00:05:39,460 --> 00:05:41,960
+Rule two, sub rule two.
+
+109
+00:05:41,960 --> 00:05:44,450
+Initial one year contract बाद में extend हो,
+
+110
+00:05:44,450 --> 00:05:48,000
+तो total contract duration LTC के लिए देखो.
+
+111
+00:05:48,000 --> 00:05:52,220
+Example, Neha का twenty twenty six वाला
+contract बिना gap twenty twenty nine
+
+112
+00:05:52,220 --> 00:05:53,060
+तक extend हुआ.
+
+113
+00:05:53,060 --> 00:05:56,100
+सिर्फ first one year
+letter देखकर reject मत करो.
+
+114
+00:05:56,100 --> 00:05:58,860
+Actual extension order चाहिए.
+
+115
+00:05:58,860 --> 00:06:03,720
+Rule two, sub rule three, immediate
+re employment and continuity.
+
+116
+00:06:03,720 --> 00:06:08,580
+Retirement के immediately बाद बिना break
+re employment में old और new service LTC के
+
+117
+00:06:08,580 --> 00:06:10,430
+लिए continuous treat होती है.
+
+118
+00:06:10,430 --> 00:06:14,720
+Example, Retirement October thirty first
+के end पर और re employment November
+
+119
+00:06:14,720 --> 00:06:15,660
+first से है.
+
+120
+00:06:15,660 --> 00:06:19,000
+Fresh one year clock
+automatically start मत करो.
+
+121
+00:06:19,000 --> 00:06:22,800
+Gap वाले case में ये special treatment
+automatically assume नहीं कर सकते.
+
+122
+00:06:22,800 --> 00:06:28,600
+Rule two, sub rule three, provided that
+condition, also called the proviso.
+
+123
+00:06:28,600 --> 00:06:32,380
+Simple test, retire न होते तो ये LTC मिलती?
+
+124
+00:06:32,380 --> 00:06:35,680
+Continuity, used benefit refill नहीं करती.
+
+125
+00:06:35,680 --> 00:06:41,040
+Example, Sana की relevant All India
+occasion retirement से पहले use हो चुकी है.
+
+126
+00:06:41,040 --> 00:06:44,380
+Next day re employment same
+occasion दोबारा नहीं देती.
+
+127
+00:06:44,380 --> 00:06:47,760
+Rule two, sub rule three,
+official illustration.
+
+128
+00:06:47,760 --> 00:06:52,660
+Already used Any Place in India LTC, same
+four year block में no break re employment
+
+129
+00:06:52,660 --> 00:06:54,120
+से फिर नहीं मिलती.
+
+130
+00:06:54,120 --> 00:06:57,740
+Example, Official illustration
+का updated hypothetical लो.
+
+131
+00:06:57,740 --> 00:07:01,830
+Dev ने twenty twenty six to twenty twenty
+nine की All India occasion August में use
+
+132
+00:07:01,830 --> 00:07:05,600
+की, October में retire हुआ
+और next day re employed हुआ.
+
+133
+00:07:05,600 --> 00:07:08,440
+Same block में fresh All
+India occasion नहीं मिलेगी.
+
+134
+00:07:08,440 --> 00:07:10,180
+Rule three, employee coverage.
+
+135
+00:07:10,180 --> 00:07:13,320
+Scope में employee और eligible family आते हैं.
+
+136
+00:07:13,320 --> 00:07:15,880
+Rule three में अलग numbered
+sub rules नहीं हैं.
+
+137
+00:07:15,880 --> 00:07:18,680
+Example, Eligible employee अकेले trip करता है.
+
+138
+00:07:18,680 --> 00:07:22,640
+Family साथ नहीं है, सिर्फ इस वजह
+से Rule three उसे reject नहीं करता.
+
+139
+00:07:22,640 --> 00:07:25,820
+Rule three, family coverage,
+read with Rule four, clause D.
+
+140
+00:07:25,820 --> 00:07:28,220
+Family का legal meaning check करो.
+
+141
+00:07:28,220 --> 00:07:30,830
+Rule four, clause D की full
+detail next batch में होगी.
+
+142
+00:07:30,830 --> 00:07:33,440
+Example, Spouse और friend साथ travel करते हैं.
+
+143
+00:07:33,440 --> 00:07:36,900
+Friend सिर्फ साथ जाने से eligible
+LTC family member नहीं बनता.
+
+144
+00:07:36,900 --> 00:07:41,620
+Rule three, cross reference to Rules
+nine and eleven, and the July first,
+
+145
+00:07:41,620 --> 00:07:44,300
+twenty twenty five FAQ, question six.
+
+146
+00:07:44,300 --> 00:07:49,370
+Employee और eligible family separate
+groups में अलग time पर travel कर सकते हैं.
+
+147
+00:07:49,370 --> 00:07:51,660
+ये Rule three का नया sub clause नहीं है.
+
+148
+00:07:51,660 --> 00:07:56,360
+Example, Employee June में और eligible
+family October में travel propose करे,
+
+149
+00:07:56,360 --> 00:07:59,130
+तो separate dates alone
+rejection का reason नहीं हैं.
+
+150
+00:07:59,130 --> 00:08:01,620
+Person wise block और बाकी
+conditions check होंगी.
+
+151
+00:08:01,620 --> 00:08:06,260
+September third, twenty twenty five
+DoPT Guidelines, applicability Note one.
+
+152
+00:08:06,260 --> 00:08:10,040
+Autonomous body officer Central
+Government में deputation पर आए,
+
+153
+00:08:10,040 --> 00:08:14,070
+तो उस period में temporary Government
+servant वाला LTC treatment मिलता है.
+
+154
+00:08:14,070 --> 00:08:16,420
+ये Rule one का नया numbered clause नहीं है.
+
+155
+00:08:16,420 --> 00:08:20,920
+Example, Iqbal को सिर्फ autonomous
+parent body की वजह से reject नहीं करेंगे.
+
+156
+00:08:20,920 --> 00:08:24,080
+Temporary word से हर Rule two
+certificate automatically infer मत करो.
+
+157
+00:08:24,080 --> 00:08:26,720
+Actual category और deputation terms check करो.
+
+158
+00:08:26,720 --> 00:08:31,200
+September third, twenty twenty five
+DoPT Guidelines, applicability Note two.
+
+159
+00:08:31,200 --> 00:08:35,330
+Industrial और work charged staff
+जो regular leave के entitled हैं,
+
+160
+00:08:35,330 --> 00:08:37,440
+वो भी normal conditions पर eligible हैं.
+
+161
+00:08:37,440 --> 00:08:41,620
+Example, Regular leave वाले work charged
+employee को सिर्फ job title से blanket
+
+162
+00:08:41,620 --> 00:08:42,470
+reject मत करो.
+
+163
+00:08:42,470 --> 00:08:46,300
+First block nineteen sixty to sixty one
+historical है, आज का travel block नहीं.
+
+164
+00:08:46,300 --> 00:08:51,730
+September third, twenty twenty five
+DoPT Guidelines, paragraph two.
+
+165
+00:08:51,730 --> 00:08:55,380
+Consolidation में conflict
+या unclear summary हो,
+
+166
+00:08:55,380 --> 00:08:58,290
+तो relevant governing OM या order check करो.
+
+167
+00:08:58,290 --> 00:09:00,420
+ये Rule two का sub rule नहीं है.
+
+168
+00:09:00,420 --> 00:09:04,370
+Example, Summary की unclear
+line को नया amendment मत मानो.
+
+169
+00:09:04,370 --> 00:09:07,380
+Actual applicable order की reference लो.
+
+170
+00:09:07,380 --> 00:09:10,390
+Batch one teaching checklist,
+not a separate legal rule.
+
+171
+00:09:10,390 --> 00:09:15,120
+Category, exclusion, valid exception,
+special service conditions,
+
+172
+00:09:15,120 --> 00:09:18,340
+old block history और
+eligible family check करो.
+
+173
+00:09:18,340 --> 00:09:21,960
+Example, Contract officer ये
+starting checks pass करता है.
+
+174
+00:09:21,960 --> 00:09:26,080
+फिर भी payment से पहले family,
+leave, block, mode, fare,
+
+175
+00:09:26,080 --> 00:09:29,100
+booking और claim conditions अलग check होंगी.
+
+176
+00:09:29,100 --> 00:09:33,380
+Original Gazette date, detailed Railway
+pass conditions और complete later order
+
+177
+00:09:33,380 --> 00:09:34,400
+checks अभी open हैं.
