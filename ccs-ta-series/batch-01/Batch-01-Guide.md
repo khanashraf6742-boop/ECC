@@ -4,13 +4,13 @@
 
 **Prepared 27 October 2026 · Central Government civilian context · City-Hinglish lecture and teaching notes**
 
-This is **Batch 1**, not the whole course or a certified consolidation. It primarily explains official-tour Travelling Allowance: domestic entitlements, air booking, hotel, food, city travel, road mileage and claims, with a transfer/retirement overview. Selected DoPT LTC FAQs remain in a clearly separate reference appendix. The video is a shorter narrated introduction; this guide includes further examples, sources, unresolved issues and a coverage ledger. **All examples are hypothetical teaching examples**, not judgments, actual claims or past examination questions. “DA” may mean *Daily Allowance* or *Dearness Allowance*; the full term is used whenever the distinction matters.
+This is **Batch 1**, not the whole course or a certified consolidation. It primarily explains official-tour Travelling Allowance: domestic entitlements, air booking, hotel, food, city travel, road mileage and claims, with a transfer/retirement overview. Units 72–84 add selected international, sea, effects, re-employment and foreign-tour provisions. Selected DoPT LTC FAQs remain in a clearly separate reference appendix. The video is a shorter narrated introduction; this guide includes further examples, sources, unresolved issues and a coverage ledger. **All examples are hypothetical teaching examples**, not judgments, actual claims or past examination questions. “DA” may mean *Daily Allowance* or *Dearness Allowance*; the full term is used whenever the distinction matters.
 
 **Authority and limits.** Start with the order applicable to the employee, journey, destination and date; obtain the relevant sanction and check the latest departmental orders before a claim. Sources checked for this batch are linked below. A complete search for every amendment or every rule in the attached master guide is **not yet complete**. Later topics, doubtful claims and rates are in the [coverage ledger](#coverage-ledger); do not apply them on the strength of the attached guide alone.
 
-**How to use:** watch the video, then study each “Samjho → Example → Trap” unit and consult the numbered primary sources. **Subtitle limitation:** The burned-in Roman-script Hinglish transliterates the recorded synthesis input; an optional English track is a translation, not a verbatim transcript. Both are automatically audio-aligned; a separate automatic recognition pass checked the recording, but neither timing nor wording has been human-verified. [See how the check was done](Caption-Check.md). Use this guide for the detailed written account.
+**How to use:** watch the video, then study each “Samjho → Example → Trap” unit and consult the numbered primary sources. **Subtitle limitation:** The burned-in Roman-script Hinglish transliterates the recorded synthesis input; an optional English track is a translation, not a verbatim transcript. Both are automatically audio-aligned; a separate automatic recognition pass checked the recording, but neither timing nor wording has been human-verified. [See how the check was done](Caption-Check.md) or use the [cue-by-cue human review player](Caption-Review.html) to listen, correct and export a review. Use this guide for the detailed written account.
 
-**Jump to:** [Foundations](#foundations) · [Dates & pay](#dates-pay) · [Domestic entitlement](#domestic-entitlement) · [Air booking](#air-booking) · [Claim deadlines](#claim-deadlines) · [Tour Daily Allowance](#tour-daily-allowance-components-and-increases) · [Road mileage](#road-mileage-for-journeys-between-places) · [Transfer TA](#transfer-ta-components-grant-and-effects) · [LTC appendix](#ltc-reference-appendix-separate-from-official-ta) · [Source-guide corrections](#source-guide-corrections) · [Coverage ledger](#coverage-ledger) · [Sources](#official-sources)
+**Jump to:** [Foundations](#foundations) · [Dates & pay](#dates-pay) · [Domestic entitlement](#domestic-entitlement) · [Air booking](#air-booking) · [Claim deadlines](#claim-deadlines) · [Tour Daily Allowance](#tour-daily-allowance-components-and-increases) · [Road mileage](#road-mileage-for-journeys-between-places) · [Transfer TA](#transfer-ta-components-grant-and-effects) · [LTC appendix](#ltc-reference-appendix-separate-from-official-ta) · [Additional TA provisions](#additional-source-checked-ta-provisions-and-examples) · [Source-guide corrections](#source-guide-corrections) · [Coverage ledger](#coverage-ledger) · [Sources](#official-sources)
 
 ---
 
@@ -393,9 +393,9 @@ This is **Batch 1**, not the whole course or a certified consolidation. It prima
 
 ### 34. GST is not an addition to the whole excess room bill
 
-**Source:** [S31](#source-s31), DoE OM 29 June 2018, as indexed; [S3](#source-s3), Annexure 2.E(ii).
+**Source:** [S31](#source-s31), DoE OM 29 June 2018; [S3](#source-s3), Annexure 2.E(ii).
 
-**Samjho.** The indexed DoE clarification states that the prescribed accommodation entitlement is exclusive of admissible taxes/GST, which can be reimbursed above the entitlement, and that GST is calculated on the actual charges paid **within** the prescribed entitlement. Keep the tax invoice and apply the actual applicable tax law and office evidence rules; no universal GST percentage is assumed here. The official PDF could not be retrieved directly during this research, so its searchable official extract and a reproduction are linked in [S31](#source-s31) and the full text should be rechecked before sanction.
+**Samjho.** The DoE clarification states that the prescribed accommodation entitlement is exclusive of admissible taxes/GST, which can be reimbursed above the entitlement, and that GST is calculated on the actual charges paid **within** the prescribed entitlement. Keep the tax invoice and apply the current applicable tax law and office evidence rules; no universal GST percentage is assumed here. The official DoE order was retrieved directly; check any later amendments and the current tax law before sanction.
 
 **Example.** If an eligible room charge is ₹2,000, within a ₹2,812.50 ceiling, and a valid invoice shows ₹100 admissible tax, the illustrative total is ₹2,100. If the room costs more than the ceiling, calculate eligible tax only on the eligible portion under the applicable rules.
 
@@ -565,13 +565,13 @@ This is **Batch 1**, not the whole course or a certified consolidation. It prima
 
 ### 48. Personal effects: weight, road rates and vouchers
 
-**Source:** [S3](#source-s3), Annexure 3(iii); [S14](#source-s14).
+**Source:** [S3](#source-s3), Annexure 3(iii); [S14](#source-s14), [S33](#source-s33), [S35](#source-s35).
 
-**Samjho.** The 2017 effects table lists 6,000 kg for Levels 6 and above, 3,000 kg for Level 5 and 1,500 kg for Level 4 and below, with distinct wagon/container alternatives for higher levels. Its road rates are ₹50, ₹50, ₹25 and ₹15 per km respectively; the first 25% increase calculates to ₹62.50, ₹62.50, ₹31.25 and ₹18.75. It requires actual receipts/vouchers, including for specified North-Eastern and island transfer cases. Classification of cities for effects transport was removed in that clause.
+**Samjho.** The 2017 effects table lists 6,000 kg for Levels 6 and above, 3,000 kg for Level 5 and 1,500 kg for Level 4 and below, with distinct wagon/container alternatives. Its road rates are ₹50, ₹50, ₹25 and ₹15 per km; the first 25% increase calculates to ₹62.50, ₹62.50, ₹31.25 and ₹18.75. Receipts/vouchers normally support reimbursement, but DoE's **16 June 2022** OM creates a specific exception: on transfer to/from the named North Eastern Region, Andaman & Nicobar, Lakshadweep or Ladakh, when the family does not accompany the employee, receipts are not mandatory for the one-third personal-effects entitlement. See unit 75.
 
-**Example.** A Level 7 employee transporting eligible effects 100 km checks the ₹62.50/km calculated rate and ₹6,250 starting amount against the actual receipts, entitlement, conditions and current instructions.
+**Example.** A Level 7 employee transporting eligible effects 100 km checks the ₹62.50/km calculated rate and ₹6,250 starting amount against the entitlement, evidence rules, conditions and current instructions. A qualifying unaccompanied specified-region claim uses the special one-third rule instead.
 
-**Trap.** The weight table is not a cash grant payable without transport or receipts, and the road amount is not a city-taxi cap. Check container/steamer terms, rounding and later rules.
+**Trap.** This is not a universal receipt waiver or an unconditional cash grant. The effects amount is not a city-taxi cap; check mode, actual move, container/steamer terms and applicable proof.
 
 ### 49. Transport of conveyance is a separate head
 
@@ -820,12 +820,154 @@ This appendix preserves selected DoPT LTC FAQs and Government decisions for comp
 ---
 
 
+## Additional source-checked TA provisions and examples
+
+These written expansions supplement the short video and the earlier units. They are not a substitute for a complete rule-by-rule audit; the original source and later modifications remain controlling.
+
+### 72. International air class is a separate table
+
+**Source:** [S3](#source-s3), [S5](#source-s5), [S8](#source-s8).
+
+**Samjho.** The 2017 master’s international table places Level 17 and above in First Class; Levels 14–16 in Business/Club; and Level 13 and below in Economy. Level 13A has the same TA entitlements as Level 13 under the 2017 clarification. Actual sanction, journey, booking orders and later amendments matter.
+
+**Example.** A Level 14 official on an approved international tour checks the Business/Club row and the government-account booking instructions before issuing the ticket.
+
+**Trap.** Do not substitute the domestic Level 14 table or assume that an airline’s seat availability overrides sanction. Country-specific foreign daily allowance is a separate MEA regime: units 82–84. [S3](#source-s3), [S5](#source-s5), [S8](#source-s8).
+
+### 73. Sea and river journeys with conventional classes
+
+**Source:** [S3](#source-s3).
+
+**Samjho.** Under the 2017 OM, for sea/river steamer journeys to places other than the Andaman & Nicobar and Lakshadweep island groups, Levels 9 and above are entitled to the highest class. For Levels 6–8 the table specifies the lower class where there are two classes only; Levels 4–5 are assigned the lower class where there are two, the middle/second class where there are three, and the third class where there are four. Level 3 and below receive the lowest class.
+
+**Example.** A Level 5 employee on an authorised qualifying steamer with three classes consults the middle/second-class row, not the airline table.
+
+**Trap.** The source does not specify a three-class result for every row; do not invent one. Check the carrier and the separate island table. [S3](#source-s3).
+
+### 74. Mainland–island Shipping Corporation services
+
+**Source:** [S3](#source-s3).
+
+**Samjho.** For journeys between the mainland and the Andaman & Nicobar or Lakshadweep group by Shipping Corporation of India ships, the 2017 table assigns Levels 9+ Deluxe, Levels 6–8 First/‘A’ Cabin, Levels 4–5 Second/‘B’ Cabin and Level 3 and below Bunk class.
+
+**Example.** A Level 7 employee approved for a qualifying Shipping Corporation sailing checks the First/‘A’ Cabin entitlement.
+
+**Trap.** This table identifies particular routes and operators; do not automatically apply it to every boat or private ferry. [S3](#source-s3).
+
+### 75. The specified-region personal-effects exception
+
+**Source:** [S33](#source-s33).
+
+**Samjho.** DoE’s 16 June 2022 OM names transfers to/from the North Eastern Region, Andaman & Nicobar Islands, Lakshadweep Islands and Ladakh. If the family does not accompany the employee, payment of the admissible **one-third** personal-effects entitlement does not require production of receipts/vouchers. If the family accompanies, production of receipts/vouchers is required. The order applies from its issue date; settled cases are not reopened.
+
+**Example.** An eligible employee transfers alone from Delhi to Assam. For the one-third provision, receipts are not mandatory; the accounts office still checks the station, facts, effective date, admissible entitlement and any other applicable conditions.
+
+**Trap.** ‘Family does not accompany’ and the named regions are essential qualifiers. It is neither a blanket exemption for all transfers nor a grant of the full effects entitlement without evidence. [S33](#source-s33).
+
+### 76. Re-employment after a retirement TA claim
+
+**Source:** [S34](#source-s34).
+
+**Samjho.** The 24 January 2022 re-employment OM distinguishes a pensioner who has already claimed retirement TA from one who has not. Where retirement TA has been claimed, it allows TA on re-employment when the appointment is at a station other than the place of settlement **or** necessitates a change of residence at the place of settlement. TA is also allowed after completing the term. The re-employing office/organisation pays both, subject to the OM and applicable SR 116 conditions.
+
+**Example.** A retiree already claimed retirement TA and settled at Pune, then accepts an eligible re-employment at a different station. The re-employing office checks the move and applicable TA heads; it also handles the admissible end-of-term claim.
+
+**Trap.** Do not automatically apply the separate no-retirement-claim branch, assume a flat ‘excess over the first claim’ formula, or pay without checking SR 116 and the actual qualifying change. [S34](#source-s34).
+
+### 77. Re-employment when retirement TA was not drawn
+
+**Source:** [S34](#source-s34).
+
+**Samjho.** Where a retiree has not claimed retirement TA within one year and is re-employed under Central Government **before one year from retirement**, the 2022 OM allows joining TA when the appointment is at another station from the last duty station or requires a residence change at that station. The **retiring organisation pays the joining TA** with reference to the post held at retirement; the **re-employing organisation pays the admissible TA after completion** of re-employment. The OM generally uses the last Central Government post and pay and applies SR 116, as modified.
+
+**Example.** A retiree joins a Central Government appointment at a different station four months after retirement without having claimed retirement TA. Subject to the other conditions, the retiring and re-employing offices identify who pays the joining and end-of-term claims respectively.
+
+**Trap.** The order's before-one-year branch does not itself settle all after-one-year cases. For appointment of a person re-employed from outside Central Government, it refers to para 1(i) and Central Government post equivalence. Verify the precise facts, timing and SR 116. [S34](#source-s34).
+
+### 78. Complete personal-effects level table and 50% DA arithmetic
+
+**Source:** [S3](#source-s3), [S33](#source-s33), [S35](#source-s35).
+
+**Samjho.** The 2017 master specifies the following personal-effects entitlement. The rupee road figures shown here are the first 25% escalation, calculated for eligible claims from 1 January 2024; they are ceilings/rates subject to the source’s actual-transport and documentation conditions, not payments for an unmade move. The 2017 rail container limits are weight/container limits, not rupee rates. For steamer, the 2017 OM refers to prevailing Shipping Corporation of India shipping rates for the entitled weight; confirm the current carrier rate and applicable conditions. [S3](#source-s3), [S35](#source-s35).
+
+| Pay level | Rail / steamer entitlement in 2017 master | Road rate after first 25% increase |
+| --- | --- | ---: |
+| 12 and above | 6,000 kg by goods train / 4-wheeler wagon / 1 double container; steamer rate as noted below | ₹62.50/km |
+| 6–11 | 6,000 kg by goods train / 4-wheeler wagon / 1 single container; steamer rate as noted below | ₹62.50/km |
+| 5 | 3,000 kg; steamer rate as noted below | ₹31.25/km |
+| 4 and below | 1,500 kg; steamer rate as noted below | ₹18.75/km |
+
+**Example.** For a qualifying Level 6 road move over 100 km, the rate-based ceiling calculation is 100 × ₹62.50 = ₹6,250 before applying the conditions, documentary requirements and any specific regional exception.
+
+**Trap.** Check the **actual** pay level, mode, eligible distance and expenditure, the ₹62.50/₹31.25/₹18.75 basis and any department-specific implementation/rounding. One-third regional claims have their own terms. Do not confuse this table with the separate ₹30/₹15 road journey mileage. [S33](#source-s33), [S35](#source-s35).
+
+### 79. July 2026 advisory is DoPT LTC, not tour TA
+
+**Source:** [S10](#source-s10), [S8](#source-s8).
+
+**Samjho.** The 16 July 2026 DoPT Cash Section circular addresses DoPT officials about LTC: it encourages booking air tickets 21 days ahead and asks eligible air travellers seeking an LTC advance to apply at least 30 days before travel, in order to facilitate early purchase.
+
+**Example.** A DoPT employee planning an LTC trip checks that circular and applies early where seeking the advance.
+
+**Trap.** This departmental LTC advisory is not a universal 30-day rule or financial penalty for every Central Government tour-TA journey. The 2022 Government-account air-booking OM is a different source. [S10](#source-s10), [S8](#source-s8).
+
+### 80. Retirement heads and transfer incidentals
+
+**Source:** [S3](#source-s3), [S22](#source-s22), [S12](#source-s12).
+
+**Samjho.** The 2017 master identifies retirement TA for the employee/family, the composite transfer grant, personal effects and conveyance; the January 2022 OM modifies retirement CTG. For retirement, the 2017 OM states that transfer incidentals and road mileage between residence and railway station/bus stand at the old and new stations are subsumed in CTG rather than separately admissible.
+
+**Example.** A retiring employee who changes residence and claims eligible CTG checks separate supported claims for family travel, effects and conveyance, but does not automatically add terminal road mileage again.
+
+**Trap.** Retirement CTG has its own residence/declaration and island conditions; the current retirement-claim deadline is separate. [S3](#source-s3), [S22](#source-s22), [S12](#source-s12).
+
+### 81. Read transfer TA with underlying service rules
+
+**Source:** [S3](#source-s3), [S34](#source-s34).
+
+**Samjho.** The 2017 OM says transfer-TA claims continue to be regulated by the small-family norms applicable under the cited 1998 OM, while the entitlements are read with the applicable Supplementary Rules and later instructions. Public-convenience or own-request circumstances, authorised family members, timing, and a particular conveyance are separate questions.
+
+**Example.** Before calculating a family’s transport on a transfer, the dealing assistant checks the transfer order, eligible members, the family-norm rule and the travel dates.
+
+**Trap.** Do not infer that every family member, vehicle or transfer automatically qualifies merely because a CTG rate is shown. [S3](#source-s3), [S34](#source-s34).
+
+### 82. Foreign-tour daily allowance: a separate MEA schedule
+
+**Source:** [S3](#source-s3), [S37](#source-s37).
+
+**Samjho.** The 2017 TA master says foreign-travel daily allowance follows the Ministry of External Affairs. The accessible MEA order dated 25 September 2023, reproduced by CSIR, supplies a country annexure and pay-level conditions; its stated effective date is 21 September 2023. This is the official schedule identified during this research, **not a guarantee that no later MEA, mission or departmental instruction exists**.
+
+**Example.** In the 2023 annexure Australia is listed at 150 on the order’s US-dollar basis; for a Level 10+ eligible official the order applies the full prescribed country rate, subject to the tour-period and other conditions. Verify the latest applicable currency/rate and sanction before calculation.
+
+**Trap.** Domestic ₹ hotel/food/city tables and the 50% domestic escalation do not automatically set a foreign per diem. A web page claiming a 2026 city-based revision was found without a verifiable primary circular; do not use that claim as an official update. [S3](#source-s3), [S37](#source-s37).
+
+### 83. Foreign-tour time and meal adjustments in the 2023 order
+
+**Source:** [S37](#source-s37).
+
+**Samjho.** For India-posted officials touring abroad, the 2023 MEA order sets full admissible DA for the first 14 days, 75% for the next 14, then 60%. For officers posted abroad touring within their posting country or between missions it instead sets full for seven days, 75% for the next seven, then 50%. It also specifies 25% of the applicable DA for a State Guest provided all meals free and a 10% reduction where hotel charges include breakfast.
+
+**Example.** An India-posted Level 10 official on day 15 of a continuous eligible foreign tour checks the 75% time slab, not the first-14-day rate.
+
+**Trap.** The two posting categories differ. Apply meal/time rules on the facts and verify the latest MEA text; do not import these foreign meal adjustments into the domestic 30/70/100% food calculation. [S37](#source-s37).
+
+### 84. Foreign lodging and official local transport
+
+**Source:** [S37](#source-s37).
+
+**Samjho.** The 2023 MEA order uses approved hotel panels and actual room rent including specified service charges/taxes; for a city with no panel it describes a reference to the lowest relevant capital-city panel rate. For non-representational visits such as training or seminars, hotel entitlement is one step below normal. Official local conveyance, considered necessary and reasonable, is separately reimbursable subject to admissibility and a specific funds provision in the sanction; tips are not separately reimbursed over DA.
+
+**Example.** An eligible officer keeps the panel-hotel invoice and checks whether the foreign-deputation sanction provides for necessary local conveyance.
+
+**Trap.** Do not assume a domestic hotel ceiling applies abroad or that every taxi is automatically reimbursable. Check current panel, sanction and later orders. [S37](#source-s37).
+
 ## Source-guide corrections
 
 The user's attached guide is useful as a topic inventory, not an authoritative legal compilation. The examples below explain how the corrections change an application.
 
 | Attached-guide statement or omission | Treatment in this batch | Hypothetical application |
 |---|---|---|
+| Blanket receipts for all personal-effects claims | The 2022 specified-region, unaccompanied-family one-third exception is in unit 75. | Eligible employee transferring alone to Assam need not produce receipts for that one-third entitlement under [S33](#source-s33). |
 | “2008 order is of no use” | Incorrect as an absolute statement: [S3](#source-s3) preserves the relevant historical and higher-entitlement situations. | A June 2017 journey may need the 2008 regime. |
 | “Four kinds of TA” | The attachment mixes **tour, transfer and retirement contexts** with permanent/fixed TA and mileage; this is not the five-form classification listed in [S2](#source-s2). | A sanctioned permanent TA is a form of allowance, while transfer is a journey context. |
 | 10:00 flight belongs to a rolling 08:30–11:30 band | [S8](#source-s8) uses fixed bands; 10:00 falls in 09:00–12:00. | Compare entitled-class fares in 09:00–12:00. |
@@ -836,7 +978,7 @@ The user's attached guide is useful as a topic inventory, not an authoritative l
 | Tejas listed without Vande Bharat/Humsafar update | [S7](#source-s7) adds Vande Bharat = Shatabdi and Humsafar = Rajdhani for the stated TA purposes. | A 2026 authorised Vande Bharat training journey must be checked against the 2023 OM. |
 | “Level 7 economy air on tour” | **Retained:** [S3](#source-s3) supports it. Ordinary LTC differs under [S4](#source-s4). | A Level 7 officer may be economy-air entitled on official tour while ordinary LTC follows the separate restriction. |
 
-**Unresolved, not taught as settled:** the attachment's universal “first kilometre dead” claim, universal 180-day stoppage/automatic tour-to-transfer rule, other Daily Allowance exceptions and rounding, and the remaining technical-resignation cases need a clause-by-clause primary-source audit. Unit 51 explains one verified, specifically limited technical-resignation transfer-TA case. [S15](#source-s15) confirms Dearness Allowance was enhanced to 60% effective 1 January 2026; it does **not**, by itself, establish the absence of later revisions. The first-increase tables above are calculations from the 2017 clauses, not an independently located central consolidation of all 2026 ceilings. See the ledger below.
+**Unresolved, not taught as settled:** the attachment's universal “first kilometre dead” claim, universal 180-day stoppage/automatic tour-to-transfer rule, other Daily Allowance exceptions and rounding, and remaining technical-resignation cases need a clause-by-clause primary-source audit. Older government training slides describe SR 71 and a 180-day continuous-halt distinction, but their old rates and summaries are not a substitute for current governing SR/GID texts. [S36](#source-s36). Unit 51 explains one specifically limited technical-resignation case. [S15](#source-s15) confirms Dearness Allowance at 60% effective 1 January 2026. The DoE DA index showed no later order when checked on 27 October 2026; recheck before relying on it. The first-increase tables are calculations from the 2017 clauses, corroborated by the departmental 5 June 2024 order [S35](#source-s35), not a certified universal consolidation of 2026 ceilings. See the ledger below.
 
 ---
 
@@ -855,6 +997,26 @@ The user's attached guide is useful as a topic inventory, not an authoritative l
 
 ## Coverage ledger
 
+### 2017 master OM concordance
+
+The rows map **selected identifiable clauses**, not every underlying FR/SR or Government of India Decision. “Partial” means the units teach part of a clause; a link is not proof that every proviso has been audited. The master is [S3](#source-s3); read the later sources shown in each unit.
+
+| Provision | Unit(s) / status | Still to check |
+|---|---|---|
+| Main paras 2–9, pay, protection, dates and scope | 4–7 — selected | All exemptions and later service-specific amendments |
+| Annexure 2(A)(i)–(ii), domestic air/rail and premium trains; 2(B), international air | 8–10, 72 — selected tables | Later class, sanction and special-sector changes |
+| 2(A)(iii), road/rail connectivity and mileage points | 11–14, 44 — partial | Each route/mode proviso and later interpretation |
+| 2(C)(i)–(ii), sea/river and mainland–island ship classes | 73–74 — selected tables | Carrier-specific amendments and full special routes |
+| 2(D), road mileage, prescribed/no prescribed rates | 42–44 — partial | All SR 31/46 exceptions and official local rates |
+| 2(E)(i)–(vi), hotel, city, food, timing, foot and ship/remote scientific duty; foreign DA | 30–41, 82–84 — partial | Partial-meal edge cases and later hotel-GST or MEA amendments |
+| Annexure 3(i)–(ii), transfer travel and CTG | 45–47, 81 — partial | Family definitions, timing, spouse and exceptions |
+| 3(iii)–(iv), effects and conveyance | 48–49, 75, 78 — selected | Mode/weight/proof, SRs and special-region details |
+| 4(i)–(iv), retirement TA | 52, 80 — partial | Death-in-service, all dates, remaining SRs/GIDs |
+| Later 2022 re-employment / regional-transfer OMs | 75–77 — selected branches | Full SR 116 and other re-employment cases |
+| MEA foreign-tour 2023 order | 82–84 — selected rules | Later amendments and current country/panel schedule |
+
+### Attachment-topic ledger
+
 | Area / attached guide | Batch | Status and work still required |
 |---|---|---|
 | FR definition; broad kinds vs journey contexts; 2017 main paras 1–9 | **01** | Explained with examples. The full FR/SR body and every later amendment are not exhausted. |
@@ -862,12 +1024,12 @@ The user's attached guide is useful as a topic inventory, not an authoritative l
 | Air booking OM 16.06.2022, boarding-pass OM 2020, and selected LTC changes 2023–25 | **01** | Principal provisions plus the non-air-entitled ordinary-LTC exception, lost-pass and no-email procedures explained. Remaining later instructions require further audit. |
 | GFR 290 as referenced by 2018 OM; 2018 claim OM; 2021 retirement-claim amendment | **01** | Explained with examples. GFR compilation chronology, relaxation powers and advance adjustment require further targeted review. |
 | Annexure 2.D road and 2.E tour Daily Allowance | **01 substantial introduction / 02–03 planned** | 2017 tables, first-increase calculations, vouchers, foot travel, midnight food and both-free-facilities clarification explained with examples. Rounding, special cases, other GIDs and later amendments are **not fully audited**. |
-| Annexure 2.B international and 2.C sea/river | **02–03 planned** | **Not yet audited.** Check latest international, sea, island and special-category provisions. |
-| Transfer, CTG, family/effects/conveyance, special-region orders | **01 introduction / 04 planned** | Four heads, 2017 CTG, spouse condition, effects and conveyance overview introduced. The full SR 114/116, all family, travel, region and later-order exceptions remain **not yet audited**. |
-| Retirement, death, re-employment, settlement journey and CTG | **01 overview / 05 planned** | Retirement CTG amendment and submission limit introduced. Death, re-employment, journey eligibility and detailed conditions remain unaudited. |
+| Annexure 2.B international and 2.C sea/river | **01 selected / 02–03 planned** | Units 72–74 cover selected 2017 tables; units 82–84 describe the 2023 foreign DA order. Check latest MEA, sea, island and special-category changes. |
+| Transfer, CTG, family/effects/conveyance, special-region orders | **01 introduction / 04 planned** | Four heads, effects table and the 2022 specified-region receipt exception are introduced. Full SR 114/116, family, travel and all remaining later-order exceptions remain **not yet audited**. |
+| Retirement, death, re-employment, settlement journey and CTG | **01 overview / 05 planned** | Retirement CTG and deadlines plus selected 2022 re-employment branches introduced. Death, remaining journey eligibility and detailed conditions remain unaudited. |
 | Training/long halt, disability, medical/court/exam, deputation, foreign service and special cases | **06 planned** | **Not audited.** Verify each SR/OM, proviso, exception, competent authority and cross-service scope; investigate the attachment's broad 180-day assertions. |
 | Technical resignation, proper channel, joining time/pay and transfer-TA liability; case studies | **01 overview / 07 planned** | One DoPT open-competition case and under-three-year exclusion introduced. Other cases, joining-time/pay and which office bears cost remain unaudited. |
-| Practice, original case studies, source concordance, obsolete/replaced material, final revision ledger | **08 planned** | **Not yet built.** Label invented questions as practice, not PYQs. Audit every rule/sub-rule/proviso/exception and document any source gaps before claiming completion. |
+| Practice, original case studies, source concordance, obsolete/replaced material, final revision ledger | **01 partial / 08 planned** | A selected 2017 concordance is above, but a complete clause-level concordance and final audit are **not yet built**. Label invented questions as practice, not PYQs; audit every rule/sub-rule/proviso/exception before claiming completion. |
 
 
 ### DoPT FAQ and Government-decision coverage ledger
@@ -907,7 +1069,7 @@ Sources were inspected during the Batch 1 research on 27 October 2026. An offici
 
 ### Source S3
 
-**DoE OM 19030/1/2017-E.IV**, 13 July 2017, effective 1 July 2017; main paras 1–9 and Annexure 2.A(i)–(iii). [Open the official TA master order](https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf).
+**DoE OM 19030/1/2017-E.IV**, 13 July 2017, effective 1 July 2017; main paras 1–9 and Annexure 2.A(i)–(iii). [Open the official TA master order](https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf), or its [DAE-hosted reproduction](https://cdnbbsr.s3waas.gov.in/s35b8e4fd39d9786228649a8a8bec4e008/uploads/2023/08/20230817457348446.pdf).
 
 ### Source S4
 
@@ -1020,11 +1182,31 @@ Sources were inspected during the Batch 1 research on 27 October 2026. An offici
 
 ### Source S31
 
-**DoE OM 29 June 2018**, hotel taxes/GST above the prescribed entitlement and calculation on eligible actual charges. The [official PDF link](https://doe.gov.in/files/whats_new_documents/DoE_OM_dated_29.06.2018_Eng.pdf) was indexed with this text but could not be opened directly during this research; [a non-official reproduction](https://employee435.rssing.com/chan-8433081/article7356.html) also displays the order. Verify the official full text and current GST rules before sanction.
+**[DoE OM 19030/2/2017-E.IV, 29 June 2018](https://doe.gov.in/files/whats_new_documents/DoE_OM_dated_29.06.2018_Eng.pdf)**, hotel taxes/GST above the prescribed entitlement and calculation on eligible actual charges. The official-hosted order was retrieved directly. Check later amendments and current GST rules before sanction.
 
 ### Source S32
 
 **Ladakh Finance Department Order 231-F of 2024**, a regional table corroborating the first-increase arithmetic. [Open official regional order](https://cdnbbsr.s3waas.gov.in/s395192c98732387165bf8e396c0f2dad2/uploads/2024/05/202405061031185669.pdf). This is not itself a universal Central Government order.
+
+### Source S33
+
+**DoE OM 19030/1/2017-E.IV**, 16 June 2022, personal-effects TA on specified-region transfers, family-accompaniment distinction, commencement and settled cases. [Open the official OM](https://doe.gov.in/files/circulars_document/DoE_OM_dated_16_06_2022.pdf).
+
+### Source S34
+
+**DoE OM 19030/4/2020-E.IV**, 24 January 2022, re-employment TA, retirement-claim branches, timing, rates and payers. [Open the official OM](https://doe.gov.in/files/circulars_document/TA_on_reappointment.pdf).
+
+### Source S35
+
+**Department of Posts letter**, 5 June 2024, citing DoE’s 20 March 2024 advice: the first 25% increase to specified allowance rates, including travel, from 1 January 2024. [Open the official Posts order](https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580). This order implements the increase for its department; it is not itself a universal central order. The escalation formula is in [S3](#source-s3). A separate [Puducherry finance order](https://finance.py.gov.in/sites/default/files/revisionofallowancerates_22apr24.pdf) applies in that administration.
+
+### Source S36
+
+**MCR Human Resource Development Institute, Travelling Allowance & Daily Allowance**, government training slides explaining SR 71, SR 73 and SR 114. [Open the training material](https://www.mcrhrdi.gov.in/splfc/week12/TA%20&%20DA.pdf). Its historical pay/allowance figures are not current and it is not a substitute for the governing SRs and latest GIDs.
+
+### Source S37
+
+**MEA Order Q/FD/695/03/2000**, 25 September 2023, foreign-duty DA rates/terms and country annexure, effective 21 September 2023; [government-institution reproduction](https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf), with a CSIR-specific effective-date forwarding letter. The search did not establish a complete chain of later MEA amendments. A non-official 2026 claim about revised city rates could not be matched to an official circular; do not treat it as verified.
 
 ### Useful official indices
 

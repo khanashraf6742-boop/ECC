@@ -32,7 +32,7 @@ def main() -> None:
     all_differences: list[float] = []
     for chapter in alignment['sections']:
         name = chapter['audio']
-        if not name.startswith('ta-') or name not in recognition:
+        if name not in recognition:
             continue
         target = []
         for word in chapter['words']:

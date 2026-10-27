@@ -1,7 +1,4660 @@
 {
   "disclosure": "UNEDITED AUTOMATIC RECOGNITION OUTPUT. It can mishear, omit, translate or hallucinate. It is not a verified transcript.",
-  "method": "Whisper small multilingual int8, independent whole-clip pass, generic Hinglish prompt, language hint en.",
+  "method": "Whisper small multilingual int8, whole-clip pass without lesson text, generic Hinglish prompt, language hint en, beam 3.",
   "sections": [
+    {
+      "audio": "01-foundations.mp3",
+      "audio_sha256": "c5234ae0c0849a04eeca3e0e5a6d3c0c403de3f71022abdbafd831cab7f08a8f",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.84,
+          "text": " Hey everyone! Batch 1 mein hum travelling allowance yani TA ki basics aasan hinglish mein sikhenge.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.5,
+              "text": " Hey"
+            },
+            {
+              "start": 0.5,
+              "end": 0.96,
+              "text": " everyone!"
+            },
+            {
+              "start": 1.52,
+              "end": 1.94,
+              "text": " Batch"
+            },
+            {
+              "start": 1.94,
+              "end": 2.16,
+              "text": " 1"
+            },
+            {
+              "start": 2.16,
+              "end": 2.38,
+              "text": " mein"
+            },
+            {
+              "start": 2.38,
+              "end": 2.78,
+              "text": " hum"
+            },
+            {
+              "start": 2.78,
+              "end": 3.18,
+              "text": " travelling"
+            },
+            {
+              "start": 3.18,
+              "end": 3.68,
+              "text": " allowance"
+            },
+            {
+              "start": 3.68,
+              "end": 4.32,
+              "text": " yani"
+            },
+            {
+              "start": 4.32,
+              "end": 4.76,
+              "text": " TA"
+            },
+            {
+              "start": 4.76,
+              "end": 4.96,
+              "text": " ki"
+            },
+            {
+              "start": 4.96,
+              "end": 5.24,
+              "text": " basics"
+            },
+            {
+              "start": 5.24,
+              "end": 5.92,
+              "text": " aasan"
+            },
+            {
+              "start": 5.92,
+              "end": 6.3,
+              "text": " hinglish"
+            },
+            {
+              "start": 6.3,
+              "end": 6.46,
+              "text": " mein"
+            },
+            {
+              "start": 6.46,
+              "end": 6.84,
+              "text": " sikhenge."
+            }
+          ]
+        },
+        {
+          "start": 7.38,
+          "end": 12.86,
+          "text": " TA, official duty ke liye honewali travel costs se joda hai. Ye har personal trip ka paesa",
+          "words": [
+            {
+              "start": 7.38,
+              "end": 7.82,
+              "text": " TA,"
+            },
+            {
+              "start": 8.08,
+              "end": 8.5,
+              "text": " official"
+            },
+            {
+              "start": 8.5,
+              "end": 8.9,
+              "text": " duty"
+            },
+            {
+              "start": 8.9,
+              "end": 9.12,
+              "text": " ke"
+            },
+            {
+              "start": 9.12,
+              "end": 9.28,
+              "text": " liye"
+            },
+            {
+              "start": 9.28,
+              "end": 9.78,
+              "text": " honewali"
+            },
+            {
+              "start": 9.78,
+              "end": 10.1,
+              "text": " travel"
+            },
+            {
+              "start": 10.1,
+              "end": 10.5,
+              "text": " costs"
+            },
+            {
+              "start": 10.5,
+              "end": 10.7,
+              "text": " se"
+            },
+            {
+              "start": 10.7,
+              "end": 10.9,
+              "text": " joda"
+            },
+            {
+              "start": 10.9,
+              "end": 11.08,
+              "text": " hai."
+            },
+            {
+              "start": 11.46,
+              "end": 11.56,
+              "text": " Ye"
+            },
+            {
+              "start": 11.56,
+              "end": 11.84,
+              "text": " har"
+            },
+            {
+              "start": 11.84,
+              "end": 12.24,
+              "text": " personal"
+            },
+            {
+              "start": 12.24,
+              "end": 12.48,
+              "text": " trip"
+            },
+            {
+              "start": 12.48,
+              "end": 12.62,
+              "text": " ka"
+            },
+            {
+              "start": 12.62,
+              "end": 12.86,
+              "text": " paesa"
+            }
+          ]
+        },
+        {
+          "start": 12.86,
+          "end": 18.52,
+          "text": " nahi hai. Maan lo, Delhi ka ek employee office inspection ke liye Jaipur jata hai. Approved",
+          "words": [
+            {
+              "start": 12.86,
+              "end": 13.16,
+              "text": " nahi"
+            },
+            {
+              "start": 13.16,
+              "end": 13.3,
+              "text": " hai."
+            },
+            {
+              "start": 13.82,
+              "end": 14.08,
+              "text": " Maan"
+            },
+            {
+              "start": 14.08,
+              "end": 14.18,
+              "text": " lo,"
+            },
+            {
+              "start": 14.32,
+              "end": 14.46,
+              "text": " Delhi"
+            },
+            {
+              "start": 14.46,
+              "end": 14.72,
+              "text": " ka"
+            },
+            {
+              "start": 14.72,
+              "end": 14.8,
+              "text": " ek"
+            },
+            {
+              "start": 14.8,
+              "end": 15.2,
+              "text": " employee"
+            },
+            {
+              "start": 15.2,
+              "end": 15.84,
+              "text": " office"
+            },
+            {
+              "start": 15.84,
+              "end": 16.38,
+              "text": " inspection"
+            },
+            {
+              "start": 16.38,
+              "end": 16.6,
+              "text": " ke"
+            },
+            {
+              "start": 16.6,
+              "end": 16.82,
+              "text": " liye"
+            },
+            {
+              "start": 16.82,
+              "end": 17.16,
+              "text": " Jaipur"
+            },
+            {
+              "start": 17.16,
+              "end": 17.4,
+              "text": " jata"
+            },
+            {
+              "start": 17.4,
+              "end": 17.58,
+              "text": " hai."
+            },
+            {
+              "start": 18.02,
+              "end": 18.52,
+              "text": " Approved"
+            }
+          ]
+        },
+        {
+          "start": 18.52,
+          "end": 24.14,
+          "text": " trip par rules ke hi saapse TA chek hoga. Lekin, vahi employee family ke saath weekend trip karein",
+          "words": [
+            {
+              "start": 18.52,
+              "end": 18.78,
+              "text": " trip"
+            },
+            {
+              "start": 18.78,
+              "end": 18.94,
+              "text": " par"
+            },
+            {
+              "start": 18.94,
+              "end": 19.38,
+              "text": " rules"
+            },
+            {
+              "start": 19.38,
+              "end": 19.6,
+              "text": " ke"
+            },
+            {
+              "start": 19.6,
+              "end": 19.7,
+              "text": " hi"
+            },
+            {
+              "start": 19.7,
+              "end": 20.02,
+              "text": " saapse"
+            },
+            {
+              "start": 20.02,
+              "end": 20.26,
+              "text": " TA"
+            },
+            {
+              "start": 20.26,
+              "end": 20.52,
+              "text": " chek"
+            },
+            {
+              "start": 20.52,
+              "end": 20.76,
+              "text": " hoga."
+            },
+            {
+              "start": 21.24,
+              "end": 21.48,
+              "text": " Lekin,"
+            },
+            {
+              "start": 21.56,
+              "end": 21.74,
+              "text": " vahi"
+            },
+            {
+              "start": 21.74,
+              "end": 22.12,
+              "text": " employee"
+            },
+            {
+              "start": 22.12,
+              "end": 22.56,
+              "text": " family"
+            },
+            {
+              "start": 22.56,
+              "end": 22.82,
+              "text": " ke"
+            },
+            {
+              "start": 22.82,
+              "end": 23.02,
+              "text": " saath"
+            },
+            {
+              "start": 23.02,
+              "end": 23.28,
+              "text": " weekend"
+            },
+            {
+              "start": 23.28,
+              "end": 23.6,
+              "text": " trip"
+            },
+            {
+              "start": 23.6,
+              "end": 24.14,
+              "text": " karein"
+            }
+          ]
+        },
+        {
+          "start": 24.14,
+          "end": 29.66,
+          "text": " toh wo official tour nahi hai. Ecore important baat. TA aur LTC same nahi hai.",
+          "words": [
+            {
+              "start": 24.14,
+              "end": 24.3,
+              "text": " toh"
+            },
+            {
+              "start": 24.3,
+              "end": 24.4,
+              "text": " wo"
+            },
+            {
+              "start": 24.4,
+              "end": 24.74,
+              "text": " official"
+            },
+            {
+              "start": 24.74,
+              "end": 25.04,
+              "text": " tour"
+            },
+            {
+              "start": 25.04,
+              "end": 25.36,
+              "text": " nahi"
+            },
+            {
+              "start": 25.36,
+              "end": 25.5,
+              "text": " hai."
+            },
+            {
+              "start": 25.94,
+              "end": 26.42,
+              "text": " Ecore"
+            },
+            {
+              "start": 26.42,
+              "end": 26.7,
+              "text": " important"
+            },
+            {
+              "start": 26.7,
+              "end": 27.16,
+              "text": " baat."
+            },
+            {
+              "start": 27.48,
+              "end": 27.9,
+              "text": " TA"
+            },
+            {
+              "start": 27.9,
+              "end": 28.24,
+              "text": " aur"
+            },
+            {
+              "start": 28.24,
+              "end": 28.74,
+              "text": " LTC"
+            },
+            {
+              "start": 28.74,
+              "end": 29.2,
+              "text": " same"
+            },
+            {
+              "start": 29.2,
+              "end": 29.56,
+              "text": " nahi"
+            },
+            {
+              "start": 29.56,
+              "end": 29.66,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 29.66,
+          "end": 36.0,
+          "text": " Central Government Civilian TA ke orders, Department of Expenditure deta hai. LTC aur service rules",
+          "words": [
+            {
+              "start": 29.66,
+              "end": 30.48,
+              "text": " Central"
+            },
+            {
+              "start": 30.48,
+              "end": 30.9,
+              "text": " Government"
+            },
+            {
+              "start": 30.9,
+              "end": 31.46,
+              "text": " Civilian"
+            },
+            {
+              "start": 31.46,
+              "end": 31.72,
+              "text": " TA"
+            },
+            {
+              "start": 31.72,
+              "end": 31.9,
+              "text": " ke"
+            },
+            {
+              "start": 31.9,
+              "end": 32.12,
+              "text": " orders,"
+            },
+            {
+              "start": 32.58,
+              "end": 32.84,
+              "text": " Department"
+            },
+            {
+              "start": 32.84,
+              "end": 33.16,
+              "text": " of"
+            },
+            {
+              "start": 33.16,
+              "end": 33.72,
+              "text": " Expenditure"
+            },
+            {
+              "start": 33.72,
+              "end": 34.06,
+              "text": " deta"
+            },
+            {
+              "start": 34.06,
+              "end": 34.16,
+              "text": " hai."
+            },
+            {
+              "start": 34.58,
+              "end": 35.14,
+              "text": " LTC"
+            },
+            {
+              "start": 35.14,
+              "end": 35.46,
+              "text": " aur"
+            },
+            {
+              "start": 35.46,
+              "end": 35.72,
+              "text": " service"
+            },
+            {
+              "start": 35.72,
+              "end": 36.0,
+              "text": " rules"
+            }
+          ]
+        },
+        {
+          "start": 36.0,
+          "end": 41.48,
+          "text": " ke liye DOPT ke guidelines bhi chek karein. Example, official training ki trip aur chutti",
+          "words": [
+            {
+              "start": 36.0,
+              "end": 36.22,
+              "text": " ke"
+            },
+            {
+              "start": 36.22,
+              "end": 36.46,
+              "text": " liye"
+            },
+            {
+              "start": 36.46,
+              "end": 37.1,
+              "text": " DOPT"
+            },
+            {
+              "start": 37.1,
+              "end": 37.18,
+              "text": " ke"
+            },
+            {
+              "start": 37.18,
+              "end": 37.58,
+              "text": " guidelines"
+            },
+            {
+              "start": 37.58,
+              "end": 37.88,
+              "text": " bhi"
+            },
+            {
+              "start": 37.88,
+              "end": 38.06,
+              "text": " chek"
+            },
+            {
+              "start": 38.06,
+              "end": 38.3,
+              "text": " karein."
+            },
+            {
+              "start": 38.74,
+              "end": 39.3,
+              "text": " Example,"
+            },
+            {
+              "start": 39.62,
+              "end": 39.92,
+              "text": " official"
+            },
+            {
+              "start": 39.92,
+              "end": 40.28,
+              "text": " training"
+            },
+            {
+              "start": 40.28,
+              "end": 40.5,
+              "text": " ki"
+            },
+            {
+              "start": 40.5,
+              "end": 40.74,
+              "text": " trip"
+            },
+            {
+              "start": 40.74,
+              "end": 41.08,
+              "text": " aur"
+            },
+            {
+              "start": 41.08,
+              "end": 41.48,
+              "text": " chutti"
+            }
+          ]
+        },
+        {
+          "start": 41.48,
+          "end": 46.62,
+          "text": " me hometown jaane ka claim, do alag cases hai. Railway aur armed forces ke liye alag orders",
+          "words": [
+            {
+              "start": 41.48,
+              "end": 41.6,
+              "text": " me"
+            },
+            {
+              "start": 41.6,
+              "end": 41.98,
+              "text": " hometown"
+            },
+            {
+              "start": 41.98,
+              "end": 42.34,
+              "text": " jaane"
+            },
+            {
+              "start": 42.34,
+              "end": 42.5,
+              "text": " ka"
+            },
+            {
+              "start": 42.5,
+              "end": 42.72,
+              "text": " claim,"
+            },
+            {
+              "start": 43.0,
+              "end": 43.12,
+              "text": " do"
+            },
+            {
+              "start": 43.12,
+              "end": 43.52,
+              "text": " alag"
+            },
+            {
+              "start": 43.52,
+              "end": 43.8,
+              "text": " cases"
+            },
+            {
+              "start": 43.8,
+              "end": 43.94,
+              "text": " hai."
+            },
+            {
+              "start": 44.48,
+              "end": 44.98,
+              "text": " Railway"
+            },
+            {
+              "start": 44.98,
+              "end": 45.12,
+              "text": " aur"
+            },
+            {
+              "start": 45.12,
+              "end": 45.4,
+              "text": " armed"
+            },
+            {
+              "start": 45.4,
+              "end": 45.74,
+              "text": " forces"
+            },
+            {
+              "start": 45.74,
+              "end": 45.94,
+              "text": " ke"
+            },
+            {
+              "start": 45.94,
+              "end": 46.16,
+              "text": " liye"
+            },
+            {
+              "start": 46.16,
+              "end": 46.42,
+              "text": " alag"
+            },
+            {
+              "start": 46.42,
+              "end": 46.62,
+              "text": " orders"
+            }
+          ]
+        },
+        {
+          "start": 46.62,
+          "end": 50.1,
+          "text": " bhi ho sakti hai. Isliye apni service ke rules, zaroor chek karein.",
+          "words": [
+            {
+              "start": 46.62,
+              "end": 46.86,
+              "text": " bhi"
+            },
+            {
+              "start": 46.86,
+              "end": 47.0,
+              "text": " ho"
+            },
+            {
+              "start": 47.0,
+              "end": 47.3,
+              "text": " sakti"
+            },
+            {
+              "start": 47.3,
+              "end": 47.42,
+              "text": " hai."
+            },
+            {
+              "start": 47.78,
+              "end": 48.18,
+              "text": " Isliye"
+            },
+            {
+              "start": 48.18,
+              "end": 48.48,
+              "text": " apni"
+            },
+            {
+              "start": 48.48,
+              "end": 48.76,
+              "text": " service"
+            },
+            {
+              "start": 48.76,
+              "end": 48.96,
+              "text": " ke"
+            },
+            {
+              "start": 48.96,
+              "end": 49.16,
+              "text": " rules,"
+            },
+            {
+              "start": 49.34,
+              "end": 49.62,
+              "text": " zaroor"
+            },
+            {
+              "start": 49.62,
+              "end": 49.86,
+              "text": " chek"
+            },
+            {
+              "start": 49.86,
+              "end": 50.1,
+              "text": " karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-dates-and-safeguard.mp3",
+      "audio_sha256": "11a9b3e81ef21be867a8ccffd5fd5582e547f0499cf591a536001d59f0b60e2b",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.44,
+          "text": " Updates ki baat, Main TA, Order 13 July 2017 ko issue hua.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.74,
+              "text": " Updates"
+            },
+            {
+              "start": 0.74,
+              "end": 0.94,
+              "text": " ki"
+            },
+            {
+              "start": 0.94,
+              "end": 1.26,
+              "text": " baat,"
+            },
+            {
+              "start": 1.66,
+              "end": 2.0,
+              "text": " Main"
+            },
+            {
+              "start": 2.0,
+              "end": 2.36,
+              "text": " TA,"
+            },
+            {
+              "start": 2.78,
+              "end": 2.94,
+              "text": " Order"
+            },
+            {
+              "start": 2.94,
+              "end": 3.44,
+              "text": " 13"
+            },
+            {
+              "start": 3.44,
+              "end": 3.72,
+              "text": " July"
+            },
+            {
+              "start": 3.72,
+              "end": 4.5,
+              "text": " 2017"
+            },
+            {
+              "start": 4.5,
+              "end": 4.92,
+              "text": " ko"
+            },
+            {
+              "start": 4.92,
+              "end": 5.08,
+              "text": " issue"
+            },
+            {
+              "start": 5.08,
+              "end": 5.44,
+              "text": " hua."
+            }
+          ]
+        },
+        {
+          "start": 5.84,
+          "end": 9.08,
+          "text": " Likin Changes, 1st July 2017 se effective thay.",
+          "words": [
+            {
+              "start": 5.84,
+              "end": 6.18,
+              "text": " Likin"
+            },
+            {
+              "start": 6.18,
+              "end": 6.6,
+              "text": " Changes,"
+            },
+            {
+              "start": 6.9,
+              "end": 7.28,
+              "text": " 1st"
+            },
+            {
+              "start": 7.28,
+              "end": 7.44,
+              "text": " July"
+            },
+            {
+              "start": 7.44,
+              "end": 8.26,
+              "text": " 2017"
+            },
+            {
+              "start": 8.26,
+              "end": 8.52,
+              "text": " se"
+            },
+            {
+              "start": 8.52,
+              "end": 8.8,
+              "text": " effective"
+            },
+            {
+              "start": 8.8,
+              "end": 9.08,
+              "text": " thay."
+            }
+          ]
+        },
+        {
+          "start": 9.6,
+          "end": 13.22,
+          "text": " Maanlu trip 30 June ko khatm hua. Purane rules chek honge.",
+          "words": [
+            {
+              "start": 9.6,
+              "end": 9.94,
+              "text": " Maanlu"
+            },
+            {
+              "start": 9.94,
+              "end": 10.14,
+              "text": " trip"
+            },
+            {
+              "start": 10.14,
+              "end": 10.62,
+              "text": " 30"
+            },
+            {
+              "start": 10.62,
+              "end": 10.9,
+              "text": " June"
+            },
+            {
+              "start": 10.9,
+              "end": 11.04,
+              "text": " ko"
+            },
+            {
+              "start": 11.04,
+              "end": 11.34,
+              "text": " khatm"
+            },
+            {
+              "start": 11.34,
+              "end": 11.56,
+              "text": " hua."
+            },
+            {
+              "start": 12.02,
+              "end": 12.38,
+              "text": " Purane"
+            },
+            {
+              "start": 12.38,
+              "end": 12.6,
+              "text": " rules"
+            },
+            {
+              "start": 12.6,
+              "end": 12.96,
+              "text": " chek"
+            },
+            {
+              "start": 12.96,
+              "end": 13.22,
+              "text": " honge."
+            }
+          ]
+        },
+        {
+          "start": 13.74,
+          "end": 16.28,
+          "text": " 2 July wale trip ke liye new rules se shuru kare.",
+          "words": [
+            {
+              "start": 13.74,
+              "end": 13.9,
+              "text": " 2"
+            },
+            {
+              "start": 13.9,
+              "end": 14.2,
+              "text": " July"
+            },
+            {
+              "start": 14.2,
+              "end": 14.44,
+              "text": " wale"
+            },
+            {
+              "start": 14.44,
+              "end": 14.68,
+              "text": " trip"
+            },
+            {
+              "start": 14.68,
+              "end": 14.86,
+              "text": " ke"
+            },
+            {
+              "start": 14.86,
+              "end": 15.1,
+              "text": " liye"
+            },
+            {
+              "start": 15.1,
+              "end": 15.44,
+              "text": " new"
+            },
+            {
+              "start": 15.44,
+              "end": 15.72,
+              "text": " rules"
+            },
+            {
+              "start": 15.72,
+              "end": 15.86,
+              "text": " se"
+            },
+            {
+              "start": 15.86,
+              "end": 16.06,
+              "text": " shuru"
+            },
+            {
+              "start": 16.06,
+              "end": 16.28,
+              "text": " kare."
+            }
+          ]
+        },
+        {
+          "start": 16.82,
+          "end": 19.5,
+          "text": " Matlab issue date aur effective date ek nahi hai.",
+          "words": [
+            {
+              "start": 16.82,
+              "end": 17.08,
+              "text": " Matlab"
+            },
+            {
+              "start": 17.08,
+              "end": 17.44,
+              "text": " issue"
+            },
+            {
+              "start": 17.44,
+              "end": 17.72,
+              "text": " date"
+            },
+            {
+              "start": 17.72,
+              "end": 18.04,
+              "text": " aur"
+            },
+            {
+              "start": 18.04,
+              "end": 18.4,
+              "text": " effective"
+            },
+            {
+              "start": 18.4,
+              "end": 18.76,
+              "text": " date"
+            },
+            {
+              "start": 18.76,
+              "end": 19.08,
+              "text": " ek"
+            },
+            {
+              "start": 19.08,
+              "end": 19.4,
+              "text": " nahi"
+            },
+            {
+              "start": 19.4,
+              "end": 19.5,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 20.12,
+          "end": 22.2,
+          "text": " Ab old entitlement wali safety chek.",
+          "words": [
+            {
+              "start": 20.12,
+              "end": 20.28,
+              "text": " Ab"
+            },
+            {
+              "start": 20.28,
+              "end": 20.64,
+              "text": " old"
+            },
+            {
+              "start": 20.64,
+              "end": 21.22,
+              "text": " entitlement"
+            },
+            {
+              "start": 21.22,
+              "end": 21.52,
+              "text": " wali"
+            },
+            {
+              "start": 21.52,
+              "end": 21.78,
+              "text": " safety"
+            },
+            {
+              "start": 21.78,
+              "end": 22.2,
+              "text": " chek."
+            }
+          ]
+        },
+        {
+          "start": 22.7,
+          "end": 28.02,
+          "text": " Agar new order, kisi individual ya group ki pehle se mili travel class ya mode ko kum karta hai,",
+          "words": [
+            {
+              "start": 22.7,
+              "end": 22.94,
+              "text": " Agar"
+            },
+            {
+              "start": 22.94,
+              "end": 23.16,
+              "text": " new"
+            },
+            {
+              "start": 23.16,
+              "end": 23.52,
+              "text": " order,"
+            },
+            {
+              "start": 23.74,
+              "end": 23.86,
+              "text": " kisi"
+            },
+            {
+              "start": 23.86,
+              "end": 24.38,
+              "text": " individual"
+            },
+            {
+              "start": 24.38,
+              "end": 24.72,
+              "text": " ya"
+            },
+            {
+              "start": 24.72,
+              "end": 24.98,
+              "text": " group"
+            },
+            {
+              "start": 24.98,
+              "end": 25.18,
+              "text": " ki"
+            },
+            {
+              "start": 25.18,
+              "end": 25.56,
+              "text": " pehle"
+            },
+            {
+              "start": 25.56,
+              "end": 25.72,
+              "text": " se"
+            },
+            {
+              "start": 25.72,
+              "end": 25.98,
+              "text": " mili"
+            },
+            {
+              "start": 25.98,
+              "end": 26.24,
+              "text": " travel"
+            },
+            {
+              "start": 26.24,
+              "end": 26.6,
+              "text": " class"
+            },
+            {
+              "start": 26.6,
+              "end": 26.78,
+              "text": " ya"
+            },
+            {
+              "start": 26.78,
+              "end": 27.04,
+              "text": " mode"
+            },
+            {
+              "start": 27.04,
+              "end": 27.22,
+              "text": " ko"
+            },
+            {
+              "start": 27.22,
+              "end": 27.5,
+              "text": " kum"
+            },
+            {
+              "start": 27.5,
+              "end": 27.84,
+              "text": " karta"
+            },
+            {
+              "start": 27.84,
+              "end": 28.02,
+              "text": " hai,"
+            }
+          ]
+        },
+        {
+          "start": 28.02,
+          "end": 31.92,
+          "text": " to saving clause ki hisaap se purani higher entitlement jari rahiti hai.",
+          "words": [
+            {
+              "start": 28.02,
+              "end": 28.42,
+              "text": " to"
+            },
+            {
+              "start": 28.42,
+              "end": 28.74,
+              "text": " saving"
+            },
+            {
+              "start": 28.74,
+              "end": 29.1,
+              "text": " clause"
+            },
+            {
+              "start": 29.1,
+              "end": 29.28,
+              "text": " ki"
+            },
+            {
+              "start": 29.28,
+              "end": 29.66,
+              "text": " hisaap"
+            },
+            {
+              "start": 29.66,
+              "end": 29.76,
+              "text": " se"
+            },
+            {
+              "start": 29.76,
+              "end": 30.24,
+              "text": " purani"
+            },
+            {
+              "start": 30.24,
+              "end": 30.54,
+              "text": " higher"
+            },
+            {
+              "start": 30.54,
+              "end": 31.18,
+              "text": " entitlement"
+            },
+            {
+              "start": 31.18,
+              "end": 31.48,
+              "text": " jari"
+            },
+            {
+              "start": 31.48,
+              "end": 31.8,
+              "text": " rahiti"
+            },
+            {
+              "start": 31.8,
+              "end": 31.92,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 32.38,
+          "end": 35.18,
+          "text": " Japtak normal course me usse higher entitlement na mili.",
+          "words": [
+            {
+              "start": 32.38,
+              "end": 32.66,
+              "text": " Japtak"
+            },
+            {
+              "start": 32.66,
+              "end": 32.94,
+              "text": " normal"
+            },
+            {
+              "start": 32.94,
+              "end": 33.36,
+              "text": " course"
+            },
+            {
+              "start": 33.36,
+              "end": 33.5,
+              "text": " me"
+            },
+            {
+              "start": 33.5,
+              "end": 33.84,
+              "text": " usse"
+            },
+            {
+              "start": 33.84,
+              "end": 34.12,
+              "text": " higher"
+            },
+            {
+              "start": 34.12,
+              "end": 34.74,
+              "text": " entitlement"
+            },
+            {
+              "start": 34.74,
+              "end": 34.94,
+              "text": " na"
+            },
+            {
+              "start": 34.94,
+              "end": 35.18,
+              "text": " mili."
+            }
+          ]
+        },
+        {
+          "start": 35.68,
+          "end": 39.82,
+          "text": " Example, kisi officer ki purani approved class new table se better thi.",
+          "words": [
+            {
+              "start": 35.68,
+              "end": 36.28,
+              "text": " Example,"
+            },
+            {
+              "start": 36.66,
+              "end": 36.78,
+              "text": " kisi"
+            },
+            {
+              "start": 36.78,
+              "end": 37.12,
+              "text": " officer"
+            },
+            {
+              "start": 37.12,
+              "end": 37.34,
+              "text": " ki"
+            },
+            {
+              "start": 37.34,
+              "end": 37.8,
+              "text": " purani"
+            },
+            {
+              "start": 37.8,
+              "end": 38.1,
+              "text": " approved"
+            },
+            {
+              "start": 38.1,
+              "end": 38.5,
+              "text": " class"
+            },
+            {
+              "start": 38.5,
+              "end": 38.82,
+              "text": " new"
+            },
+            {
+              "start": 38.82,
+              "end": 39.16,
+              "text": " table"
+            },
+            {
+              "start": 39.16,
+              "end": 39.32,
+              "text": " se"
+            },
+            {
+              "start": 39.32,
+              "end": 39.56,
+              "text": " better"
+            },
+            {
+              "start": 39.56,
+              "end": 39.82,
+              "text": " thi."
+            }
+          ]
+        },
+        {
+          "start": 40.28,
+          "end": 42.92,
+          "text": " To office se saving clause aur purani proof chek kar hain.",
+          "words": [
+            {
+              "start": 40.28,
+              "end": 40.34,
+              "text": " To"
+            },
+            {
+              "start": 40.34,
+              "end": 40.7,
+              "text": " office"
+            },
+            {
+              "start": 40.7,
+              "end": 40.88,
+              "text": " se"
+            },
+            {
+              "start": 40.88,
+              "end": 41.18,
+              "text": " saving"
+            },
+            {
+              "start": 41.18,
+              "end": 41.52,
+              "text": " clause"
+            },
+            {
+              "start": 41.52,
+              "end": 41.74,
+              "text": " aur"
+            },
+            {
+              "start": 41.74,
+              "end": 42.14,
+              "text": " purani"
+            },
+            {
+              "start": 42.14,
+              "end": 42.36,
+              "text": " proof"
+            },
+            {
+              "start": 42.36,
+              "end": 42.68,
+              "text": " chek"
+            },
+            {
+              "start": 42.68,
+              "end": 42.8,
+              "text": " kar"
+            },
+            {
+              "start": 42.8,
+              "end": 42.92,
+              "text": " hain."
+            }
+          ]
+        },
+        {
+          "start": 43.46,
+          "end": 46.24,
+          "text": " Iska matlab har employee ko automatic upgrade nahi milta.",
+          "words": [
+            {
+              "start": 43.46,
+              "end": 43.72,
+              "text": " Iska"
+            },
+            {
+              "start": 43.72,
+              "end": 44.02,
+              "text": " matlab"
+            },
+            {
+              "start": 44.02,
+              "end": 44.26,
+              "text": " har"
+            },
+            {
+              "start": 44.26,
+              "end": 44.6,
+              "text": " employee"
+            },
+            {
+              "start": 44.6,
+              "end": 44.8,
+              "text": " ko"
+            },
+            {
+              "start": 44.8,
+              "end": 45.14,
+              "text": " automatic"
+            },
+            {
+              "start": 45.14,
+              "end": 45.68,
+              "text": " upgrade"
+            },
+            {
+              "start": 45.68,
+              "end": 45.96,
+              "text": " nahi"
+            },
+            {
+              "start": 45.96,
+              "end": 46.24,
+              "text": " milta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-pay-level.mp3",
+      "audio_sha256": "f44b7187acf8f39413968a37667c5ab7a554abe2793d63bc3bb6d715b6ee002a",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.84,
+          "text": " TA ki entitlement pay level setai hoti hai. Pay level aur pay amount same cheez nahi hai.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.82,
+              "text": " TA"
+            },
+            {
+              "start": 0.82,
+              "end": 1.04,
+              "text": " ki"
+            },
+            {
+              "start": 1.04,
+              "end": 1.74,
+              "text": " entitlement"
+            },
+            {
+              "start": 1.74,
+              "end": 2.12,
+              "text": " pay"
+            },
+            {
+              "start": 2.12,
+              "end": 2.38,
+              "text": " level"
+            },
+            {
+              "start": 2.38,
+              "end": 2.78,
+              "text": " setai"
+            },
+            {
+              "start": 2.78,
+              "end": 3.08,
+              "text": " hoti"
+            },
+            {
+              "start": 3.08,
+              "end": 3.2,
+              "text": " hai."
+            },
+            {
+              "start": 3.56,
+              "end": 3.78,
+              "text": " Pay"
+            },
+            {
+              "start": 3.78,
+              "end": 4.04,
+              "text": " level"
+            },
+            {
+              "start": 4.04,
+              "end": 4.32,
+              "text": " aur"
+            },
+            {
+              "start": 4.32,
+              "end": 4.54,
+              "text": " pay"
+            },
+            {
+              "start": 4.54,
+              "end": 4.8,
+              "text": " amount"
+            },
+            {
+              "start": 4.8,
+              "end": 5.12,
+              "text": " same"
+            },
+            {
+              "start": 5.12,
+              "end": 5.44,
+              "text": " cheez"
+            },
+            {
+              "start": 5.44,
+              "end": 5.7,
+              "text": " nahi"
+            },
+            {
+              "start": 5.7,
+              "end": 5.84,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 6.3,
+          "end": 13.34,
+          "text": " 2017 order me pay in the level ka matlab matrix wale level ka basic pay hai. NPA, MSP ya special",
+          "words": [
+            {
+              "start": 6.3,
+              "end": 6.86,
+              "text": " 2017"
+            },
+            {
+              "start": 6.86,
+              "end": 7.4,
+              "text": " order"
+            },
+            {
+              "start": 7.4,
+              "end": 7.62,
+              "text": " me"
+            },
+            {
+              "start": 7.62,
+              "end": 8.0,
+              "text": " pay"
+            },
+            {
+              "start": 8.0,
+              "end": 8.16,
+              "text": " in"
+            },
+            {
+              "start": 8.16,
+              "end": 8.26,
+              "text": " the"
+            },
+            {
+              "start": 8.26,
+              "end": 8.52,
+              "text": " level"
+            },
+            {
+              "start": 8.52,
+              "end": 8.68,
+              "text": " ka"
+            },
+            {
+              "start": 8.68,
+              "end": 8.98,
+              "text": " matlab"
+            },
+            {
+              "start": 8.98,
+              "end": 9.44,
+              "text": " matrix"
+            },
+            {
+              "start": 9.44,
+              "end": 9.82,
+              "text": " wale"
+            },
+            {
+              "start": 9.82,
+              "end": 10.06,
+              "text": " level"
+            },
+            {
+              "start": 10.06,
+              "end": 10.24,
+              "text": " ka"
+            },
+            {
+              "start": 10.24,
+              "end": 10.6,
+              "text": " basic"
+            },
+            {
+              "start": 10.6,
+              "end": 10.92,
+              "text": " pay"
+            },
+            {
+              "start": 10.92,
+              "end": 11.06,
+              "text": " hai."
+            },
+            {
+              "start": 11.56,
+              "end": 12.06,
+              "text": " NPA,"
+            },
+            {
+              "start": 12.36,
+              "end": 12.84,
+              "text": " MSP"
+            },
+            {
+              "start": 12.84,
+              "end": 13.0,
+              "text": " ya"
+            },
+            {
+              "start": 13.0,
+              "end": 13.34,
+              "text": " special"
+            }
+          ]
+        },
+        {
+          "start": 13.34,
+          "end": 19.52,
+          "text": " pay isme nahi jodte. Manlup basic pay 50,000 rupees hai. Aur NPA 10,000. Is definition",
+          "words": [
+            {
+              "start": 13.34,
+              "end": 13.58,
+              "text": " pay"
+            },
+            {
+              "start": 13.58,
+              "end": 13.84,
+              "text": " isme"
+            },
+            {
+              "start": 13.84,
+              "end": 14.14,
+              "text": " nahi"
+            },
+            {
+              "start": 14.14,
+              "end": 14.48,
+              "text": " jodte."
+            },
+            {
+              "start": 14.84,
+              "end": 15.4,
+              "text": " Manlup"
+            },
+            {
+              "start": 15.4,
+              "end": 15.7,
+              "text": " basic"
+            },
+            {
+              "start": 15.7,
+              "end": 15.88,
+              "text": " pay"
+            },
+            {
+              "start": 15.88,
+              "end": 16.18,
+              "text": " 50"
+            },
+            {
+              "start": 16.18,
+              "end": 16.58,
+              "text": ",000"
+            },
+            {
+              "start": 16.58,
+              "end": 16.74,
+              "text": " rupees"
+            },
+            {
+              "start": 16.74,
+              "end": 17.02,
+              "text": " hai."
+            },
+            {
+              "start": 17.22,
+              "end": 17.44,
+              "text": " Aur"
+            },
+            {
+              "start": 17.44,
+              "end": 17.88,
+              "text": " NPA"
+            },
+            {
+              "start": 17.88,
+              "end": 18.14,
+              "text": " 10"
+            },
+            {
+              "start": 18.14,
+              "end": 18.6,
+              "text": ",000."
+            },
+            {
+              "start": 19.06,
+              "end": 19.16,
+              "text": " Is"
+            },
+            {
+              "start": 19.16,
+              "end": 19.52,
+              "text": " definition"
+            }
+          ]
+        },
+        {
+          "start": 19.52,
+          "end": 22.22,
+          "text": " me pay 50,000 hi hai. 60,000 nahi.",
+          "words": [
+            {
+              "start": 19.52,
+              "end": 19.82,
+              "text": " me"
+            },
+            {
+              "start": 19.82,
+              "end": 20.08,
+              "text": " pay"
+            },
+            {
+              "start": 20.08,
+              "end": 20.46,
+              "text": " 50"
+            },
+            {
+              "start": 20.46,
+              "end": 20.84,
+              "text": ",000"
+            },
+            {
+              "start": 20.84,
+              "end": 21.0,
+              "text": " hi"
+            },
+            {
+              "start": 21.0,
+              "end": 21.14,
+              "text": " hai."
+            },
+            {
+              "start": 21.34,
+              "end": 21.58,
+              "text": " 60"
+            },
+            {
+              "start": 21.58,
+              "end": 21.94,
+              "text": ",000"
+            },
+            {
+              "start": 21.94,
+              "end": 22.22,
+              "text": " nahi."
+            }
+          ]
+        },
+        {
+          "start": 22.7,
+          "end": 28.3,
+          "text": " Ab ek aur example. Level 7 employee apna travel class level 6 to 11 wali row me chekk karega.",
+          "words": [
+            {
+              "start": 22.7,
+              "end": 22.9,
+              "text": " Ab"
+            },
+            {
+              "start": 22.9,
+              "end": 23.0,
+              "text": " ek"
+            },
+            {
+              "start": 23.0,
+              "end": 23.12,
+              "text": " aur"
+            },
+            {
+              "start": 23.12,
+              "end": 23.48,
+              "text": " example."
+            },
+            {
+              "start": 24.02,
+              "end": 24.32,
+              "text": " Level"
+            },
+            {
+              "start": 24.32,
+              "end": 24.64,
+              "text": " 7"
+            },
+            {
+              "start": 24.64,
+              "end": 25.06,
+              "text": " employee"
+            },
+            {
+              "start": 25.06,
+              "end": 25.42,
+              "text": " apna"
+            },
+            {
+              "start": 25.42,
+              "end": 25.7,
+              "text": " travel"
+            },
+            {
+              "start": 25.7,
+              "end": 26.06,
+              "text": " class"
+            },
+            {
+              "start": 26.06,
+              "end": 26.4,
+              "text": " level"
+            },
+            {
+              "start": 26.4,
+              "end": 26.68,
+              "text": " 6"
+            },
+            {
+              "start": 26.68,
+              "end": 26.84,
+              "text": " to"
+            },
+            {
+              "start": 26.84,
+              "end": 27.2,
+              "text": " 11"
+            },
+            {
+              "start": 27.2,
+              "end": 27.46,
+              "text": " wali"
+            },
+            {
+              "start": 27.46,
+              "end": 27.66,
+              "text": " row"
+            },
+            {
+              "start": 27.66,
+              "end": 27.76,
+              "text": " me"
+            },
+            {
+              "start": 27.76,
+              "end": 28.0,
+              "text": " chekk"
+            },
+            {
+              "start": 28.0,
+              "end": 28.3,
+              "text": " karega."
+            }
+          ]
+        },
+        {
+          "start": 28.3,
+          "end": 33.68,
+          "text": " Likin hurti ye component ka calculation alag ho sakta hai. Sirf travel class wali table dekka",
+          "words": [
+            {
+              "start": 28.3,
+              "end": 29.0,
+              "text": " Likin"
+            },
+            {
+              "start": 29.0,
+              "end": 29.48,
+              "text": " hurti"
+            },
+            {
+              "start": 29.48,
+              "end": 29.54,
+              "text": " ye"
+            },
+            {
+              "start": 29.54,
+              "end": 29.86,
+              "text": " component"
+            },
+            {
+              "start": 29.86,
+              "end": 30.18,
+              "text": " ka"
+            },
+            {
+              "start": 30.18,
+              "end": 30.54,
+              "text": " calculation"
+            },
+            {
+              "start": 30.54,
+              "end": 31.12,
+              "text": " alag"
+            },
+            {
+              "start": 31.12,
+              "end": 31.2,
+              "text": " ho"
+            },
+            {
+              "start": 31.2,
+              "end": 31.52,
+              "text": " sakta"
+            },
+            {
+              "start": 31.52,
+              "end": 31.64,
+              "text": " hai."
+            },
+            {
+              "start": 32.08,
+              "end": 32.3,
+              "text": " Sirf"
+            },
+            {
+              "start": 32.3,
+              "end": 32.58,
+              "text": " travel"
+            },
+            {
+              "start": 32.58,
+              "end": 32.84,
+              "text": " class"
+            },
+            {
+              "start": 32.84,
+              "end": 33.12,
+              "text": " wali"
+            },
+            {
+              "start": 33.12,
+              "end": 33.34,
+              "text": " table"
+            },
+            {
+              "start": 33.34,
+              "end": 33.68,
+              "text": " dekka"
+            }
+          ]
+        },
+        {
+          "start": 33.68,
+          "end": 37.92,
+          "text": " transfer grant ka amount decide mat kariye. Us component ki conditions alag chekk hongi.",
+          "words": [
+            {
+              "start": 33.68,
+              "end": 34.08,
+              "text": " transfer"
+            },
+            {
+              "start": 34.08,
+              "end": 34.44,
+              "text": " grant"
+            },
+            {
+              "start": 34.44,
+              "end": 34.56,
+              "text": " ka"
+            },
+            {
+              "start": 34.56,
+              "end": 34.74,
+              "text": " amount"
+            },
+            {
+              "start": 34.74,
+              "end": 35.0,
+              "text": " decide"
+            },
+            {
+              "start": 35.0,
+              "end": 35.24,
+              "text": " mat"
+            },
+            {
+              "start": 35.24,
+              "end": 35.64,
+              "text": " kariye."
+            },
+            {
+              "start": 35.86,
+              "end": 36.08,
+              "text": " Us"
+            },
+            {
+              "start": 36.08,
+              "end": 36.48,
+              "text": " component"
+            },
+            {
+              "start": 36.48,
+              "end": 36.7,
+              "text": " ki"
+            },
+            {
+              "start": 36.7,
+              "end": 37.06,
+              "text": " conditions"
+            },
+            {
+              "start": 37.06,
+              "end": 37.48,
+              "text": " alag"
+            },
+            {
+              "start": 37.48,
+              "end": 37.72,
+              "text": " chekk"
+            },
+            {
+              "start": 37.72,
+              "end": 37.92,
+              "text": " hongi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-domestic-entitlement.mp3",
+      "audio_sha256": "0a927155e3164e9f02dc9685e573cea609be133513846625960bdd667891abd3",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.22,
+          "text": " Official tour or training mein domestic travel ke liye pay level se class thai hoti hai.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.7,
+              "text": " Official"
+            },
+            {
+              "start": 0.7,
+              "end": 1.06,
+              "text": " tour"
+            },
+            {
+              "start": 1.06,
+              "end": 1.32,
+              "text": " or"
+            },
+            {
+              "start": 1.32,
+              "end": 1.64,
+              "text": " training"
+            },
+            {
+              "start": 1.64,
+              "end": 1.96,
+              "text": " mein"
+            },
+            {
+              "start": 1.96,
+              "end": 2.4,
+              "text": " domestic"
+            },
+            {
+              "start": 2.4,
+              "end": 3.02,
+              "text": " travel"
+            },
+            {
+              "start": 3.02,
+              "end": 3.24,
+              "text": " ke"
+            },
+            {
+              "start": 3.24,
+              "end": 3.48,
+              "text": " liye"
+            },
+            {
+              "start": 3.48,
+              "end": 3.78,
+              "text": " pay"
+            },
+            {
+              "start": 3.78,
+              "end": 4.02,
+              "text": " level"
+            },
+            {
+              "start": 4.02,
+              "end": 4.24,
+              "text": " se"
+            },
+            {
+              "start": 4.24,
+              "end": 4.5,
+              "text": " class"
+            },
+            {
+              "start": 4.5,
+              "end": 4.76,
+              "text": " thai"
+            },
+            {
+              "start": 4.76,
+              "end": 5.1,
+              "text": " hoti"
+            },
+            {
+              "start": 5.1,
+              "end": 5.22,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 5.68,
+          "end": 10.12,
+          "text": " Level 14 aur upper, business ya club air ya train mein AC first.",
+          "words": [
+            {
+              "start": 5.68,
+              "end": 5.96,
+              "text": " Level"
+            },
+            {
+              "start": 5.96,
+              "end": 6.46,
+              "text": " 14"
+            },
+            {
+              "start": 6.46,
+              "end": 6.76,
+              "text": " aur"
+            },
+            {
+              "start": 6.76,
+              "end": 7.14,
+              "text": " upper,"
+            },
+            {
+              "start": 7.52,
+              "end": 7.74,
+              "text": " business"
+            },
+            {
+              "start": 7.74,
+              "end": 8.04,
+              "text": " ya"
+            },
+            {
+              "start": 8.04,
+              "end": 8.3,
+              "text": " club"
+            },
+            {
+              "start": 8.3,
+              "end": 8.54,
+              "text": " air"
+            },
+            {
+              "start": 8.54,
+              "end": 8.96,
+              "text": " ya"
+            },
+            {
+              "start": 8.96,
+              "end": 9.24,
+              "text": " train"
+            },
+            {
+              "start": 9.24,
+              "end": 9.44,
+              "text": " mein"
+            },
+            {
+              "start": 9.44,
+              "end": 9.76,
+              "text": " AC"
+            },
+            {
+              "start": 9.76,
+              "end": 10.12,
+              "text": " first."
+            }
+          ]
+        },
+        {
+          "start": 10.66,
+          "end": 14.28,
+          "text": " Level 12 aur 13, economy air ya AC first dekhenge.",
+          "words": [
+            {
+              "start": 10.66,
+              "end": 10.92,
+              "text": " Level"
+            },
+            {
+              "start": 10.92,
+              "end": 11.24,
+              "text": " 12"
+            },
+            {
+              "start": 11.24,
+              "end": 11.48,
+              "text": " aur"
+            },
+            {
+              "start": 11.48,
+              "end": 11.82,
+              "text": " 13,"
+            },
+            {
+              "start": 12.2,
+              "end": 12.58,
+              "text": " economy"
+            },
+            {
+              "start": 12.58,
+              "end": 12.96,
+              "text": " air"
+            },
+            {
+              "start": 12.96,
+              "end": 13.3,
+              "text": " ya"
+            },
+            {
+              "start": 13.3,
+              "end": 13.6,
+              "text": " AC"
+            },
+            {
+              "start": 13.6,
+              "end": 13.9,
+              "text": " first"
+            },
+            {
+              "start": 13.9,
+              "end": 14.28,
+              "text": " dekhenge."
+            }
+          ]
+        },
+        {
+          "start": 14.9,
+          "end": 20.48,
+          "text": " Example, level 13 E ko TA aur daily allowance mein level 13 jaya sa treatment milta hai.",
+          "words": [
+            {
+              "start": 14.9,
+              "end": 15.5,
+              "text": " Example,"
+            },
+            {
+              "start": 15.9,
+              "end": 16.04,
+              "text": " level"
+            },
+            {
+              "start": 16.04,
+              "end": 16.48,
+              "text": " 13"
+            },
+            {
+              "start": 16.48,
+              "end": 16.86,
+              "text": " E"
+            },
+            {
+              "start": 16.86,
+              "end": 17.06,
+              "text": " ko"
+            },
+            {
+              "start": 17.06,
+              "end": 17.42,
+              "text": " TA"
+            },
+            {
+              "start": 17.42,
+              "end": 17.68,
+              "text": " aur"
+            },
+            {
+              "start": 17.68,
+              "end": 17.92,
+              "text": " daily"
+            },
+            {
+              "start": 17.92,
+              "end": 18.38,
+              "text": " allowance"
+            },
+            {
+              "start": 18.38,
+              "end": 18.58,
+              "text": " mein"
+            },
+            {
+              "start": 18.58,
+              "end": 18.8,
+              "text": " level"
+            },
+            {
+              "start": 18.8,
+              "end": 19.24,
+              "text": " 13"
+            },
+            {
+              "start": 19.24,
+              "end": 19.48,
+              "text": " jaya"
+            },
+            {
+              "start": 19.48,
+              "end": 19.6,
+              "text": " sa"
+            },
+            {
+              "start": 19.6,
+              "end": 19.88,
+              "text": " treatment"
+            },
+            {
+              "start": 19.88,
+              "end": 20.34,
+              "text": " milta"
+            },
+            {
+              "start": 20.34,
+              "end": 20.48,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 20.88,
+          "end": 22.88,
+          "text": " Sirf A honi se business class nahi milti.",
+          "words": [
+            {
+              "start": 20.88,
+              "end": 21.1,
+              "text": " Sirf"
+            },
+            {
+              "start": 21.1,
+              "end": 21.3,
+              "text": " A"
+            },
+            {
+              "start": 21.3,
+              "end": 21.6,
+              "text": " honi"
+            },
+            {
+              "start": 21.6,
+              "end": 21.72,
+              "text": " se"
+            },
+            {
+              "start": 21.72,
+              "end": 22.0,
+              "text": " business"
+            },
+            {
+              "start": 22.0,
+              "end": 22.36,
+              "text": " class"
+            },
+            {
+              "start": 22.36,
+              "end": 22.6,
+              "text": " nahi"
+            },
+            {
+              "start": 22.6,
+              "end": 22.88,
+              "text": " milti."
+            }
+          ]
+        },
+        {
+          "start": 23.36,
+          "end": 25.9,
+          "text": " Trip ka approval aur booking rules bhi zaroori hai.",
+          "words": [
+            {
+              "start": 23.36,
+              "end": 23.72,
+              "text": " Trip"
+            },
+            {
+              "start": 23.72,
+              "end": 23.9,
+              "text": " ka"
+            },
+            {
+              "start": 23.9,
+              "end": 24.32,
+              "text": " approval"
+            },
+            {
+              "start": 24.32,
+              "end": 24.64,
+              "text": " aur"
+            },
+            {
+              "start": 24.64,
+              "end": 24.9,
+              "text": " booking"
+            },
+            {
+              "start": 24.9,
+              "end": 25.22,
+              "text": " rules"
+            },
+            {
+              "start": 25.22,
+              "end": 25.4,
+              "text": " bhi"
+            },
+            {
+              "start": 25.4,
+              "end": 25.76,
+              "text": " zaroori"
+            },
+            {
+              "start": 25.76,
+              "end": 25.9,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 26.42,
+          "end": 29.9,
+          "text": " Level 6 to 11, economy air ya train mein AC second.",
+          "words": [
+            {
+              "start": 26.39,
+              "end": 26.68,
+              "text": " Level"
+            },
+            {
+              "start": 26.68,
+              "end": 26.98,
+              "text": " 6"
+            },
+            {
+              "start": 26.98,
+              "end": 27.16,
+              "text": " to"
+            },
+            {
+              "start": 27.16,
+              "end": 27.46,
+              "text": " 11,"
+            },
+            {
+              "start": 27.8,
+              "end": 28.22,
+              "text": " economy"
+            },
+            {
+              "start": 28.22,
+              "end": 28.58,
+              "text": " air"
+            },
+            {
+              "start": 28.58,
+              "end": 28.8,
+              "text": " ya"
+            },
+            {
+              "start": 28.8,
+              "end": 29.08,
+              "text": " train"
+            },
+            {
+              "start": 29.08,
+              "end": 29.24,
+              "text": " mein"
+            },
+            {
+              "start": 29.24,
+              "end": 29.52,
+              "text": " AC"
+            },
+            {
+              "start": 29.52,
+              "end": 29.9,
+              "text": " second."
+            }
+          ]
+        },
+        {
+          "start": 30.4,
+          "end": 34.64,
+          "text": " Level 5 aur niche, first class AC third ya AC chair car by train.",
+          "words": [
+            {
+              "start": 30.4,
+              "end": 30.66,
+              "text": " Level"
+            },
+            {
+              "start": 30.66,
+              "end": 31.0,
+              "text": " 5"
+            },
+            {
+              "start": 31.0,
+              "end": 31.2,
+              "text": " aur"
+            },
+            {
+              "start": 31.2,
+              "end": 31.42,
+              "text": " niche,"
+            },
+            {
+              "start": 31.64,
+              "end": 32.04,
+              "text": " first"
+            },
+            {
+              "start": 32.04,
+              "end": 32.34,
+              "text": " class"
+            },
+            {
+              "start": 32.34,
+              "end": 32.76,
+              "text": " AC"
+            },
+            {
+              "start": 32.76,
+              "end": 33.16,
+              "text": " third"
+            },
+            {
+              "start": 33.16,
+              "end": 33.4,
+              "text": " ya"
+            },
+            {
+              "start": 33.4,
+              "end": 33.68,
+              "text": " AC"
+            },
+            {
+              "start": 33.68,
+              "end": 34.0,
+              "text": " chair"
+            },
+            {
+              "start": 34.0,
+              "end": 34.18,
+              "text": " car"
+            },
+            {
+              "start": 34.18,
+              "end": 34.36,
+              "text": " by"
+            },
+            {
+              "start": 34.36,
+              "end": 34.64,
+              "text": " train."
+            }
+          ]
+        },
+        {
+          "start": 35.22,
+          "end": 40.72,
+          "text": " Example, level 7 employee approved official tour par economy flight ki entitlement rakh sakta hai.",
+          "words": [
+            {
+              "start": 35.22,
+              "end": 35.8,
+              "text": " Example,"
+            },
+            {
+              "start": 36.14,
+              "end": 36.36,
+              "text": " level"
+            },
+            {
+              "start": 36.36,
+              "end": 36.72,
+              "text": " 7"
+            },
+            {
+              "start": 36.72,
+              "end": 37.14,
+              "text": " employee"
+            },
+            {
+              "start": 37.14,
+              "end": 37.58,
+              "text": " approved"
+            },
+            {
+              "start": 37.58,
+              "end": 38.12,
+              "text": " official"
+            },
+            {
+              "start": 38.12,
+              "end": 38.4,
+              "text": " tour"
+            },
+            {
+              "start": 38.4,
+              "end": 38.56,
+              "text": " par"
+            },
+            {
+              "start": 38.56,
+              "end": 39.02,
+              "text": " economy"
+            },
+            {
+              "start": 39.02,
+              "end": 39.42,
+              "text": " flight"
+            },
+            {
+              "start": 39.42,
+              "end": 39.52,
+              "text": " ki"
+            },
+            {
+              "start": 39.52,
+              "end": 40.06,
+              "text": " entitlement"
+            },
+            {
+              "start": 40.06,
+              "end": 40.32,
+              "text": " rakh"
+            },
+            {
+              "start": 40.32,
+              "end": 40.62,
+              "text": " sakta"
+            },
+            {
+              "start": 40.62,
+              "end": 40.72,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 41.14,
+          "end": 45.26,
+          "text": " Lekin level 6 to 8 ke liye ordinary LTC mein vahi air entitlement nahi hoti.",
+          "words": [
+            {
+              "start": 41.14,
+              "end": 41.42,
+              "text": " Lekin"
+            },
+            {
+              "start": 41.42,
+              "end": 41.6,
+              "text": " level"
+            },
+            {
+              "start": 41.6,
+              "end": 41.92,
+              "text": " 6"
+            },
+            {
+              "start": 41.92,
+              "end": 42.08,
+              "text": " to"
+            },
+            {
+              "start": 42.08,
+              "end": 42.32,
+              "text": " 8"
+            },
+            {
+              "start": 42.32,
+              "end": 42.42,
+              "text": " ke"
+            },
+            {
+              "start": 42.42,
+              "end": 42.64,
+              "text": " liye"
+            },
+            {
+              "start": 42.64,
+              "end": 42.94,
+              "text": " ordinary"
+            },
+            {
+              "start": 42.94,
+              "end": 43.56,
+              "text": " LTC"
+            },
+            {
+              "start": 43.56,
+              "end": 43.72,
+              "text": " mein"
+            },
+            {
+              "start": 43.72,
+              "end": 43.98,
+              "text": " vahi"
+            },
+            {
+              "start": 43.98,
+              "end": 44.18,
+              "text": " air"
+            },
+            {
+              "start": 44.18,
+              "end": 44.74,
+              "text": " entitlement"
+            },
+            {
+              "start": 44.74,
+              "end": 45.0,
+              "text": " nahi"
+            },
+            {
+              "start": 45.0,
+              "end": 45.26,
+              "text": " hoti."
+            }
+          ]
+        },
+        {
+          "start": 45.64,
+          "end": 47.78,
+          "text": " Kuch special LTC schemes alag ho sakti hai.",
+          "words": [
+            {
+              "start": 45.64,
+              "end": 45.8,
+              "text": " Kuch"
+            },
+            {
+              "start": 45.8,
+              "end": 46.12,
+              "text": " special"
+            },
+            {
+              "start": 46.12,
+              "end": 46.58,
+              "text": " LTC"
+            },
+            {
+              "start": 46.58,
+              "end": 46.9,
+              "text": " schemes"
+            },
+            {
+              "start": 46.9,
+              "end": 47.26,
+              "text": " alag"
+            },
+            {
+              "start": 47.26,
+              "end": 47.34,
+              "text": " ho"
+            },
+            {
+              "start": 47.34,
+              "end": 47.66,
+              "text": " sakti"
+            },
+            {
+              "start": 47.66,
+              "end": 47.78,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 48.22,
+          "end": 50.14,
+          "text": " To tour aur LTC ko mix mat kariye.",
+          "words": [
+            {
+              "start": 48.22,
+              "end": 48.3,
+              "text": " To"
+            },
+            {
+              "start": 48.3,
+              "end": 48.68,
+              "text": " tour"
+            },
+            {
+              "start": 48.68,
+              "end": 48.82,
+              "text": " aur"
+            },
+            {
+              "start": 48.82,
+              "end": 49.24,
+              "text": " LTC"
+            },
+            {
+              "start": 49.24,
+              "end": 49.38,
+              "text": " ko"
+            },
+            {
+              "start": 49.38,
+              "end": 49.56,
+              "text": " mix"
+            },
+            {
+              "start": 49.56,
+              "end": 49.78,
+              "text": " mat"
+            },
+            {
+              "start": 49.78,
+              "end": 50.14,
+              "text": " kariye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "05-premium-trains.mp3",
+      "audio_sha256": "11b8c867b04d58369973f68e32c257c7d0756b8ce45056ccbf990d652ef5bbca",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.0,
+          "text": " Kuch premium trains ke liye alak table hai. List mein Rajdhani, Shatabdi, Duronto, Premium,",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.5,
+              "text": " Kuch"
+            },
+            {
+              "start": 0.5,
+              "end": 0.88,
+              "text": " premium"
+            },
+            {
+              "start": 0.88,
+              "end": 1.36,
+              "text": " trains"
+            },
+            {
+              "start": 1.36,
+              "end": 1.56,
+              "text": " ke"
+            },
+            {
+              "start": 1.56,
+              "end": 1.74,
+              "text": " liye"
+            },
+            {
+              "start": 1.74,
+              "end": 2.04,
+              "text": " alak"
+            },
+            {
+              "start": 2.04,
+              "end": 2.3,
+              "text": " table"
+            },
+            {
+              "start": 2.3,
+              "end": 2.5,
+              "text": " hai."
+            },
+            {
+              "start": 2.88,
+              "end": 3.16,
+              "text": " List"
+            },
+            {
+              "start": 3.16,
+              "end": 3.36,
+              "text": " mein"
+            },
+            {
+              "start": 3.36,
+              "end": 4.1,
+              "text": " Rajdhani,"
+            },
+            {
+              "start": 4.26,
+              "end": 4.8,
+              "text": " Shatabdi,"
+            },
+            {
+              "start": 5.0,
+              "end": 5.34,
+              "text": " Duronto,"
+            },
+            {
+              "start": 5.66,
+              "end": 6.0,
+              "text": " Premium,"
+            }
+          ]
+        },
+        {
+          "start": 6.46,
+          "end": 13.3,
+          "text": " Premium Tatkal aur Suvidha hai. Level 12 aur upar Executive ya AC first, level 6-11 AC",
+          "words": [
+            {
+              "start": 6.46,
+              "end": 6.82,
+              "text": " Premium"
+            },
+            {
+              "start": 6.82,
+              "end": 7.32,
+              "text": " Tatkal"
+            },
+            {
+              "start": 7.32,
+              "end": 7.56,
+              "text": " aur"
+            },
+            {
+              "start": 7.56,
+              "end": 8.0,
+              "text": " Suvidha"
+            },
+            {
+              "start": 8.0,
+              "end": 8.16,
+              "text": " hai."
+            },
+            {
+              "start": 8.64,
+              "end": 8.94,
+              "text": " Level"
+            },
+            {
+              "start": 8.94,
+              "end": 9.34,
+              "text": " 12"
+            },
+            {
+              "start": 9.34,
+              "end": 9.62,
+              "text": " aur"
+            },
+            {
+              "start": 9.62,
+              "end": 10.06,
+              "text": " upar"
+            },
+            {
+              "start": 10.06,
+              "end": 10.48,
+              "text": " Executive"
+            },
+            {
+              "start": 10.48,
+              "end": 10.8,
+              "text": " ya"
+            },
+            {
+              "start": 10.8,
+              "end": 11.1,
+              "text": " AC"
+            },
+            {
+              "start": 11.1,
+              "end": 11.46,
+              "text": " first,"
+            },
+            {
+              "start": 11.88,
+              "end": 12.1,
+              "text": " level"
+            },
+            {
+              "start": 12.1,
+              "end": 12.44,
+              "text": " 6"
+            },
+            {
+              "start": 12.44,
+              "end": 12.92,
+              "text": "-11"
+            },
+            {
+              "start": 12.92,
+              "end": 13.3,
+              "text": " AC"
+            }
+          ]
+        },
+        {
+          "start": 13.3,
+          "end": 19.52,
+          "text": " Second ya Shatabdi chairkar aur level 5 wa niche AC third ya chaircar chek karte hai. Example,",
+          "words": [
+            {
+              "start": 13.3,
+              "end": 13.74,
+              "text": " Second"
+            },
+            {
+              "start": 13.74,
+              "end": 13.92,
+              "text": " ya"
+            },
+            {
+              "start": 13.92,
+              "end": 14.46,
+              "text": " Shatabdi"
+            },
+            {
+              "start": 14.46,
+              "end": 14.92,
+              "text": " chairkar"
+            },
+            {
+              "start": 14.92,
+              "end": 15.4,
+              "text": " aur"
+            },
+            {
+              "start": 15.4,
+              "end": 15.62,
+              "text": " level"
+            },
+            {
+              "start": 15.62,
+              "end": 15.96,
+              "text": " 5"
+            },
+            {
+              "start": 15.96,
+              "end": 16.22,
+              "text": " wa"
+            },
+            {
+              "start": 16.22,
+              "end": 16.4,
+              "text": " niche"
+            },
+            {
+              "start": 16.4,
+              "end": 16.78,
+              "text": " AC"
+            },
+            {
+              "start": 16.78,
+              "end": 17.16,
+              "text": " third"
+            },
+            {
+              "start": 17.16,
+              "end": 17.34,
+              "text": " ya"
+            },
+            {
+              "start": 17.34,
+              "end": 17.8,
+              "text": " chaircar"
+            },
+            {
+              "start": 17.8,
+              "end": 18.06,
+              "text": " chek"
+            },
+            {
+              "start": 18.06,
+              "end": 18.26,
+              "text": " karte"
+            },
+            {
+              "start": 18.26,
+              "end": 18.44,
+              "text": " hai."
+            },
+            {
+              "start": 18.9,
+              "end": 19.52,
+              "text": " Example,"
+            }
+          ]
+        },
+        {
+          "start": 19.9,
+          "end": 24.92,
+          "text": " level 7 ka employee Shatabdi me apni chaircar entitlement chek karega. Executive class",
+          "words": [
+            {
+              "start": 19.9,
+              "end": 20.08,
+              "text": " level"
+            },
+            {
+              "start": 20.08,
+              "end": 20.44,
+              "text": " 7"
+            },
+            {
+              "start": 20.44,
+              "end": 20.64,
+              "text": " ka"
+            },
+            {
+              "start": 20.64,
+              "end": 21.0,
+              "text": " employee"
+            },
+            {
+              "start": 21.0,
+              "end": 21.66,
+              "text": " Shatabdi"
+            },
+            {
+              "start": 21.66,
+              "end": 21.78,
+              "text": " me"
+            },
+            {
+              "start": 21.78,
+              "end": 22.1,
+              "text": " apni"
+            },
+            {
+              "start": 22.1,
+              "end": 22.56,
+              "text": " chaircar"
+            },
+            {
+              "start": 22.56,
+              "end": 23.18,
+              "text": " entitlement"
+            },
+            {
+              "start": 23.18,
+              "end": 23.48,
+              "text": " chek"
+            },
+            {
+              "start": 23.48,
+              "end": 23.8,
+              "text": " karega."
+            },
+            {
+              "start": 24.18,
+              "end": 24.56,
+              "text": " Executive"
+            },
+            {
+              "start": 24.56,
+              "end": 24.92,
+              "text": " class"
+            }
+          ]
+        },
+        {
+          "start": 24.92,
+          "end": 30.92,
+          "text": " assume nahi karega. Premium Tatkal charges aur Shatabdi Rajdhani, Duronto ki dynamic ya flexi",
+          "words": [
+            {
+              "start": 24.92,
+              "end": 25.18,
+              "text": " assume"
+            },
+            {
+              "start": 25.18,
+              "end": 25.54,
+              "text": " nahi"
+            },
+            {
+              "start": 25.54,
+              "end": 25.92,
+              "text": " karega."
+            },
+            {
+              "start": 26.54,
+              "end": 26.86,
+              "text": " Premium"
+            },
+            {
+              "start": 26.86,
+              "end": 27.32,
+              "text": " Tatkal"
+            },
+            {
+              "start": 27.32,
+              "end": 27.74,
+              "text": " charges"
+            },
+            {
+              "start": 27.74,
+              "end": 28.0,
+              "text": " aur"
+            },
+            {
+              "start": 28.0,
+              "end": 28.58,
+              "text": " Shatabdi"
+            },
+            {
+              "start": 28.58,
+              "end": 29.2,
+              "text": " Rajdhani,"
+            },
+            {
+              "start": 29.26,
+              "end": 29.6,
+              "text": " Duronto"
+            },
+            {
+              "start": 29.6,
+              "end": 29.8,
+              "text": " ki"
+            },
+            {
+              "start": 29.8,
+              "end": 30.2,
+              "text": " dynamic"
+            },
+            {
+              "start": 30.2,
+              "end": 30.5,
+              "text": " ya"
+            },
+            {
+              "start": 30.5,
+              "end": 30.92,
+              "text": " flexi"
+            }
+          ]
+        },
+        {
+          "start": 30.92,
+          "end": 36.96,
+          "text": " fare ke liye order ka exact wording dekhin. Fixed fare Tatkal sewa charges bhi jari hai. Example,",
+          "words": [
+            {
+              "start": 30.92,
+              "end": 31.14,
+              "text": " fare"
+            },
+            {
+              "start": 31.14,
+              "end": 31.28,
+              "text": " ke"
+            },
+            {
+              "start": 31.28,
+              "end": 31.5,
+              "text": " liye"
+            },
+            {
+              "start": 31.5,
+              "end": 31.98,
+              "text": " order"
+            },
+            {
+              "start": 31.98,
+              "end": 32.18,
+              "text": " ka"
+            },
+            {
+              "start": 32.18,
+              "end": 32.58,
+              "text": " exact"
+            },
+            {
+              "start": 32.58,
+              "end": 32.92,
+              "text": " wording"
+            },
+            {
+              "start": 32.92,
+              "end": 33.38,
+              "text": " dekhin."
+            },
+            {
+              "start": 33.76,
+              "end": 34.12,
+              "text": " Fixed"
+            },
+            {
+              "start": 34.12,
+              "end": 34.24,
+              "text": " fare"
+            },
+            {
+              "start": 34.24,
+              "end": 34.68,
+              "text": " Tatkal"
+            },
+            {
+              "start": 34.68,
+              "end": 34.94,
+              "text": " sewa"
+            },
+            {
+              "start": 34.94,
+              "end": 35.3,
+              "text": " charges"
+            },
+            {
+              "start": 35.3,
+              "end": 35.54,
+              "text": " bhi"
+            },
+            {
+              "start": 35.54,
+              "end": 35.84,
+              "text": " jari"
+            },
+            {
+              "start": 35.84,
+              "end": 35.98,
+              "text": " hai."
+            },
+            {
+              "start": 36.36,
+              "end": 36.96,
+              "text": " Example,"
+            }
+          ]
+        },
+        {
+          "start": 37.26,
+          "end": 41.6,
+          "text": " eligible Shatabdi ticket per dynamic fare klaym karte sa me order ki conditions chek karein.",
+          "words": [
+            {
+              "start": 37.26,
+              "end": 37.48,
+              "text": " eligible"
+            },
+            {
+              "start": 37.48,
+              "end": 38.14,
+              "text": " Shatabdi"
+            },
+            {
+              "start": 38.14,
+              "end": 38.38,
+              "text": " ticket"
+            },
+            {
+              "start": 38.38,
+              "end": 38.56,
+              "text": " per"
+            },
+            {
+              "start": 38.56,
+              "end": 38.92,
+              "text": " dynamic"
+            },
+            {
+              "start": 38.92,
+              "end": 39.28,
+              "text": " fare"
+            },
+            {
+              "start": 39.28,
+              "end": 39.58,
+              "text": " klaym"
+            },
+            {
+              "start": 39.58,
+              "end": 39.8,
+              "text": " karte"
+            },
+            {
+              "start": 39.8,
+              "end": 39.96,
+              "text": " sa"
+            },
+            {
+              "start": 39.96,
+              "end": 40.1,
+              "text": " me"
+            },
+            {
+              "start": 40.1,
+              "end": 40.38,
+              "text": " order"
+            },
+            {
+              "start": 40.38,
+              "end": 40.58,
+              "text": " ki"
+            },
+            {
+              "start": 40.58,
+              "end": 40.98,
+              "text": " conditions"
+            },
+            {
+              "start": 40.98,
+              "end": 41.34,
+              "text": " chek"
+            },
+            {
+              "start": 41.34,
+              "end": 41.6,
+              "text": " karein."
+            }
+          ]
+        },
+        {
+          "start": 42.28,
+          "end": 47.8,
+          "text": " Up 2023 ka train update. Tejas aur Vande Bharat ki entitlement Shatabdi jaisi aur",
+          "words": [
+            {
+              "start": 42.28,
+              "end": 42.56,
+              "text": " Up"
+            },
+            {
+              "start": 42.56,
+              "end": 43.2,
+              "text": " 2023"
+            },
+            {
+              "start": 43.2,
+              "end": 43.6,
+              "text": " ka"
+            },
+            {
+              "start": 43.6,
+              "end": 43.8,
+              "text": " train"
+            },
+            {
+              "start": 43.8,
+              "end": 44.16,
+              "text": " update."
+            },
+            {
+              "start": 44.8,
+              "end": 45.08,
+              "text": " Tejas"
+            },
+            {
+              "start": 45.08,
+              "end": 45.28,
+              "text": " aur"
+            },
+            {
+              "start": 45.28,
+              "end": 45.52,
+              "text": " Vande"
+            },
+            {
+              "start": 45.52,
+              "end": 45.9,
+              "text": " Bharat"
+            },
+            {
+              "start": 45.9,
+              "end": 46.0,
+              "text": " ki"
+            },
+            {
+              "start": 46.0,
+              "end": 46.52,
+              "text": " entitlement"
+            },
+            {
+              "start": 46.52,
+              "end": 47.1,
+              "text": " Shatabdi"
+            },
+            {
+              "start": 47.1,
+              "end": 47.42,
+              "text": " jaisi"
+            },
+            {
+              "start": 47.42,
+              "end": 47.8,
+              "text": " aur"
+            }
+          ]
+        },
+        {
+          "start": 47.8,
+          "end": 52.7,
+          "text": " Hamsafar ki Rajdhani jaisi hai. Ye mapping tour, training, transfer aur retirement wali",
+          "words": [
+            {
+              "start": 47.8,
+              "end": 48.26,
+              "text": " Hamsafar"
+            },
+            {
+              "start": 48.26,
+              "end": 48.42,
+              "text": " ki"
+            },
+            {
+              "start": 48.42,
+              "end": 48.98,
+              "text": " Rajdhani"
+            },
+            {
+              "start": 48.98,
+              "end": 49.3,
+              "text": " jaisi"
+            },
+            {
+              "start": 49.3,
+              "end": 49.4,
+              "text": " hai."
+            },
+            {
+              "start": 49.82,
+              "end": 50.02,
+              "text": " Ye"
+            },
+            {
+              "start": 50.02,
+              "end": 50.3,
+              "text": " mapping"
+            },
+            {
+              "start": 50.3,
+              "end": 50.68,
+              "text": " tour,"
+            },
+            {
+              "start": 50.94,
+              "end": 51.12,
+              "text": " training,"
+            },
+            {
+              "start": 51.38,
+              "end": 51.68,
+              "text": " transfer"
+            },
+            {
+              "start": 51.68,
+              "end": 51.92,
+              "text": " aur"
+            },
+            {
+              "start": 51.92,
+              "end": 52.28,
+              "text": " retirement"
+            },
+            {
+              "start": 52.28,
+              "end": 52.7,
+              "text": " wali"
+            }
+          ]
+        },
+        {
+          "start": 52.7,
+          "end": 57.7,
+          "text": " listed journeys per chek hoti hai. Example, level 7 employee approved Vande Bharat tour",
+          "words": [
+            {
+              "start": 52.7,
+              "end": 53.04,
+              "text": " listed"
+            },
+            {
+              "start": 53.04,
+              "end": 53.36,
+              "text": " journeys"
+            },
+            {
+              "start": 53.36,
+              "end": 53.56,
+              "text": " per"
+            },
+            {
+              "start": 53.56,
+              "end": 53.8,
+              "text": " chek"
+            },
+            {
+              "start": 53.8,
+              "end": 54.06,
+              "text": " hoti"
+            },
+            {
+              "start": 54.06,
+              "end": 54.18,
+              "text": " hai."
+            },
+            {
+              "start": 54.64,
+              "end": 55.18,
+              "text": " Example,"
+            },
+            {
+              "start": 55.4,
+              "end": 55.64,
+              "text": " level"
+            },
+            {
+              "start": 55.64,
+              "end": 55.96,
+              "text": " 7"
+            },
+            {
+              "start": 55.96,
+              "end": 56.34,
+              "text": " employee"
+            },
+            {
+              "start": 56.34,
+              "end": 56.78,
+              "text": " approved"
+            },
+            {
+              "start": 56.78,
+              "end": 57.2,
+              "text": " Vande"
+            },
+            {
+              "start": 57.2,
+              "end": 57.52,
+              "text": " Bharat"
+            },
+            {
+              "start": 57.52,
+              "end": 57.7,
+              "text": " tour"
+            }
+          ]
+        },
+        {
+          "start": 57.7,
+          "end": 62.3,
+          "text": " ki li Shatabdi wali chaircar chek karega. Hamsafar ki li Rajdhani wali class dikhega.",
+          "words": [
+            {
+              "start": 57.7,
+              "end": 57.92,
+              "text": " ki"
+            },
+            {
+              "start": 57.92,
+              "end": 58.02,
+              "text": " li"
+            },
+            {
+              "start": 58.02,
+              "end": 58.54,
+              "text": " Shatabdi"
+            },
+            {
+              "start": 58.54,
+              "end": 58.76,
+              "text": " wali"
+            },
+            {
+              "start": 58.76,
+              "end": 59.2,
+              "text": " chaircar"
+            },
+            {
+              "start": 59.2,
+              "end": 59.52,
+              "text": " chek"
+            },
+            {
+              "start": 59.52,
+              "end": 59.8,
+              "text": " karega."
+            },
+            {
+              "start": 60.22,
+              "end": 60.64,
+              "text": " Hamsafar"
+            },
+            {
+              "start": 60.64,
+              "end": 60.78,
+              "text": " ki"
+            },
+            {
+              "start": 60.78,
+              "end": 60.9,
+              "text": " li"
+            },
+            {
+              "start": 60.9,
+              "end": 61.44,
+              "text": " Rajdhani"
+            },
+            {
+              "start": 61.44,
+              "end": 61.64,
+              "text": " wali"
+            },
+            {
+              "start": 61.64,
+              "end": 61.82,
+              "text": " class"
+            },
+            {
+              "start": 61.82,
+              "end": 62.3,
+              "text": " dikhega."
+            }
+          ]
+        },
+        {
+          "start": 62.74,
+          "end": 65.48,
+          "text": " Train ka naam Executive class ka automatic pass nahi hai.",
+          "words": [
+            {
+              "start": 62.74,
+              "end": 62.96,
+              "text": " Train"
+            },
+            {
+              "start": 62.96,
+              "end": 63.14,
+              "text": " ka"
+            },
+            {
+              "start": 63.14,
+              "end": 63.36,
+              "text": " naam"
+            },
+            {
+              "start": 63.36,
+              "end": 63.7,
+              "text": " Executive"
+            },
+            {
+              "start": 63.7,
+              "end": 64.12,
+              "text": " class"
+            },
+            {
+              "start": 64.12,
+              "end": 64.28,
+              "text": " ka"
+            },
+            {
+              "start": 64.28,
+              "end": 64.62,
+              "text": " automatic"
+            },
+            {
+              "start": 64.62,
+              "end": 65.06,
+              "text": " pass"
+            },
+            {
+              "start": 65.06,
+              "end": 65.38,
+              "text": " nahi"
+            },
+            {
+              "start": 65.38,
+              "end": 65.48,
+              "text": " hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-road-and-seats.mp3",
+      "audio_sha256": "67c8b3557df351a149996b8d60a9b4f88801a0a0af5cd8545c4a9fd08e47b689",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.84,
+          "text": " Jab do jagahin rail se connected nahi hai, to AC second aur upper ki train entitlement wale",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.48,
+              "text": " Jab"
+            },
+            {
+              "start": 0.48,
+              "end": 0.76,
+              "text": " do"
+            },
+            {
+              "start": 0.76,
+              "end": 1.26,
+              "text": " jagahin"
+            },
+            {
+              "start": 1.26,
+              "end": 1.5,
+              "text": " rail"
+            },
+            {
+              "start": 1.5,
+              "end": 1.72,
+              "text": " se"
+            },
+            {
+              "start": 1.72,
+              "end": 2.06,
+              "text": " connected"
+            },
+            {
+              "start": 2.06,
+              "end": 2.54,
+              "text": " nahi"
+            },
+            {
+              "start": 2.54,
+              "end": 2.72,
+              "text": " hai,"
+            },
+            {
+              "start": 3.06,
+              "end": 3.14,
+              "text": " to"
+            },
+            {
+              "start": 3.14,
+              "end": 3.5,
+              "text": " AC"
+            },
+            {
+              "start": 3.5,
+              "end": 3.98,
+              "text": " second"
+            },
+            {
+              "start": 3.98,
+              "end": 4.22,
+              "text": " aur"
+            },
+            {
+              "start": 4.22,
+              "end": 4.58,
+              "text": " upper"
+            },
+            {
+              "start": 4.58,
+              "end": 4.74,
+              "text": " ki"
+            },
+            {
+              "start": 4.74,
+              "end": 4.94,
+              "text": " train"
+            },
+            {
+              "start": 4.94,
+              "end": 5.58,
+              "text": " entitlement"
+            },
+            {
+              "start": 5.58,
+              "end": 5.84,
+              "text": " wale"
+            }
+          ]
+        },
+        {
+          "start": 5.84,
+          "end": 11.2,
+          "text": " employees ko AC bus ki chhout hai. Baaki log deluxe ya ordinary bus check karen. Example,",
+          "words": [
+            {
+              "start": 5.84,
+              "end": 6.26,
+              "text": " employees"
+            },
+            {
+              "start": 6.26,
+              "end": 6.46,
+              "text": " ko"
+            },
+            {
+              "start": 6.46,
+              "end": 6.8,
+              "text": " AC"
+            },
+            {
+              "start": 6.8,
+              "end": 7.04,
+              "text": " bus"
+            },
+            {
+              "start": 7.04,
+              "end": 7.18,
+              "text": " ki"
+            },
+            {
+              "start": 7.18,
+              "end": 7.42,
+              "text": " chhout"
+            },
+            {
+              "start": 7.42,
+              "end": 7.58,
+              "text": " hai."
+            },
+            {
+              "start": 8.02,
+              "end": 8.28,
+              "text": " Baaki"
+            },
+            {
+              "start": 8.28,
+              "end": 8.44,
+              "text": " log"
+            },
+            {
+              "start": 8.44,
+              "end": 8.94,
+              "text": " deluxe"
+            },
+            {
+              "start": 8.94,
+              "end": 9.06,
+              "text": " ya"
+            },
+            {
+              "start": 9.06,
+              "end": 9.42,
+              "text": " ordinary"
+            },
+            {
+              "start": 9.42,
+              "end": 9.78,
+              "text": " bus"
+            },
+            {
+              "start": 9.78,
+              "end": 10.0,
+              "text": " check"
+            },
+            {
+              "start": 10.0,
+              "end": 10.22,
+              "text": " karen."
+            },
+            {
+              "start": 10.64,
+              "end": 11.2,
+              "text": " Example,"
+            }
+          ]
+        },
+        {
+          "start": 11.52,
+          "end": 16.3,
+          "text": " level 7 ko aise destination par jaana hai, jaha rail connection nahi hai, wo baaki conditions",
+          "words": [
+            {
+              "start": 11.52,
+              "end": 11.7,
+              "text": " level"
+            },
+            {
+              "start": 11.7,
+              "end": 12.1,
+              "text": " 7"
+            },
+            {
+              "start": 12.1,
+              "end": 12.26,
+              "text": " ko"
+            },
+            {
+              "start": 12.26,
+              "end": 12.58,
+              "text": " aise"
+            },
+            {
+              "start": 12.58,
+              "end": 12.98,
+              "text": " destination"
+            },
+            {
+              "start": 12.98,
+              "end": 13.32,
+              "text": " par"
+            },
+            {
+              "start": 13.32,
+              "end": 13.6,
+              "text": " jaana"
+            },
+            {
+              "start": 13.6,
+              "end": 13.76,
+              "text": " hai,"
+            },
+            {
+              "start": 13.9,
+              "end": 13.98,
+              "text": " jaha"
+            },
+            {
+              "start": 13.98,
+              "end": 14.22,
+              "text": " rail"
+            },
+            {
+              "start": 14.22,
+              "end": 14.6,
+              "text": " connection"
+            },
+            {
+              "start": 14.6,
+              "end": 15.0,
+              "text": " nahi"
+            },
+            {
+              "start": 15.0,
+              "end": 15.14,
+              "text": " hai,"
+            },
+            {
+              "start": 15.52,
+              "end": 15.6,
+              "text": " wo"
+            },
+            {
+              "start": 15.6,
+              "end": 15.9,
+              "text": " baaki"
+            },
+            {
+              "start": 15.9,
+              "end": 16.3,
+              "text": " conditions"
+            }
+          ]
+        },
+        {
+          "start": 16.3,
+          "end": 22.0,
+          "text": " ke saath AC bus dekh sakta hai. Ye rule poori taxi ya road mileage table nahi hai. Agar dono",
+          "words": [
+            {
+              "start": 16.3,
+              "end": 16.52,
+              "text": " ke"
+            },
+            {
+              "start": 16.52,
+              "end": 16.74,
+              "text": " saath"
+            },
+            {
+              "start": 16.74,
+              "end": 17.0,
+              "text": " AC"
+            },
+            {
+              "start": 17.0,
+              "end": 17.26,
+              "text": " bus"
+            },
+            {
+              "start": 17.26,
+              "end": 17.46,
+              "text": " dekh"
+            },
+            {
+              "start": 17.46,
+              "end": 17.76,
+              "text": " sakta"
+            },
+            {
+              "start": 17.76,
+              "end": 17.9,
+              "text": " hai."
+            },
+            {
+              "start": 18.36,
+              "end": 18.52,
+              "text": " Ye"
+            },
+            {
+              "start": 18.52,
+              "end": 18.68,
+              "text": " rule"
+            },
+            {
+              "start": 18.68,
+              "end": 19.04,
+              "text": " poori"
+            },
+            {
+              "start": 19.04,
+              "end": 19.38,
+              "text": " taxi"
+            },
+            {
+              "start": 19.38,
+              "end": 19.62,
+              "text": " ya"
+            },
+            {
+              "start": 19.62,
+              "end": 19.82,
+              "text": " road"
+            },
+            {
+              "start": 19.82,
+              "end": 20.12,
+              "text": " mileage"
+            },
+            {
+              "start": 20.12,
+              "end": 20.44,
+              "text": " table"
+            },
+            {
+              "start": 20.44,
+              "end": 20.78,
+              "text": " nahi"
+            },
+            {
+              "start": 20.78,
+              "end": 20.92,
+              "text": " hai."
+            },
+            {
+              "start": 21.46,
+              "end": 21.7,
+              "text": " Agar"
+            },
+            {
+              "start": 21.7,
+              "end": 22.0,
+              "text": " dono"
+            }
+          ]
+        },
+        {
+          "start": 22.0,
+          "end": 26.6,
+          "text": " jagahin rail se connected hai, to public road transport allowed hai, par total fare abke",
+          "words": [
+            {
+              "start": 22.0,
+              "end": 22.42,
+              "text": " jagahin"
+            },
+            {
+              "start": 22.42,
+              "end": 22.62,
+              "text": " rail"
+            },
+            {
+              "start": 22.62,
+              "end": 22.8,
+              "text": " se"
+            },
+            {
+              "start": 22.8,
+              "end": 23.16,
+              "text": " connected"
+            },
+            {
+              "start": 23.16,
+              "end": 23.42,
+              "text": " hai,"
+            },
+            {
+              "start": 23.72,
+              "end": 23.82,
+              "text": " to"
+            },
+            {
+              "start": 23.82,
+              "end": 24.14,
+              "text": " public"
+            },
+            {
+              "start": 24.14,
+              "end": 24.34,
+              "text": " road"
+            },
+            {
+              "start": 24.34,
+              "end": 24.7,
+              "text": " transport"
+            },
+            {
+              "start": 24.7,
+              "end": 25.06,
+              "text": " allowed"
+            },
+            {
+              "start": 25.06,
+              "end": 25.3,
+              "text": " hai,"
+            },
+            {
+              "start": 25.62,
+              "end": 25.72,
+              "text": " par"
+            },
+            {
+              "start": 25.72,
+              "end": 26.02,
+              "text": " total"
+            },
+            {
+              "start": 26.02,
+              "end": 26.28,
+              "text": " fare"
+            },
+            {
+              "start": 26.28,
+              "end": 26.6,
+              "text": " abke"
+            }
+          ]
+        },
+        {
+          "start": 26.6,
+          "end": 32.2,
+          "text": " entitlement train fare se zyada nahi hona chahaye. Example, bus fare 900 aur entitlement train fare",
+          "words": [
+            {
+              "start": 26.6,
+              "end": 27.08,
+              "text": " entitlement"
+            },
+            {
+              "start": 27.08,
+              "end": 27.3,
+              "text": " train"
+            },
+            {
+              "start": 27.3,
+              "end": 27.52,
+              "text": " fare"
+            },
+            {
+              "start": 27.52,
+              "end": 27.66,
+              "text": " se"
+            },
+            {
+              "start": 27.66,
+              "end": 27.98,
+              "text": " zyada"
+            },
+            {
+              "start": 27.98,
+              "end": 28.26,
+              "text": " nahi"
+            },
+            {
+              "start": 28.26,
+              "end": 28.54,
+              "text": " hona"
+            },
+            {
+              "start": 28.54,
+              "end": 28.84,
+              "text": " chahaye."
+            },
+            {
+              "start": 29.24,
+              "end": 29.78,
+              "text": " Example,"
+            },
+            {
+              "start": 30.08,
+              "end": 30.24,
+              "text": " bus"
+            },
+            {
+              "start": 30.24,
+              "end": 30.5,
+              "text": " fare"
+            },
+            {
+              "start": 30.5,
+              "end": 30.82,
+              "text": " 900"
+            },
+            {
+              "start": 30.82,
+              "end": 31.26,
+              "text": " aur"
+            },
+            {
+              "start": 31.26,
+              "end": 31.76,
+              "text": " entitlement"
+            },
+            {
+              "start": 31.76,
+              "end": 31.98,
+              "text": " train"
+            },
+            {
+              "start": 31.98,
+              "end": 32.2,
+              "text": " fare"
+            }
+          ]
+        },
+        {
+          "start": 32.2,
+          "end": 37.26,
+          "text": " 1000 rupah hai to ye fare condition poori hai, baaki checks abhi bhi zaroori hai. Aur maanlu",
+          "words": [
+            {
+              "start": 32.2,
+              "end": 32.48,
+              "text": " 1000"
+            },
+            {
+              "start": 32.48,
+              "end": 32.88,
+              "text": " rupah"
+            },
+            {
+              "start": 32.88,
+              "end": 33.02,
+              "text": " hai"
+            },
+            {
+              "start": 33.02,
+              "end": 33.3,
+              "text": " to"
+            },
+            {
+              "start": 33.3,
+              "end": 33.42,
+              "text": " ye"
+            },
+            {
+              "start": 33.42,
+              "end": 33.66,
+              "text": " fare"
+            },
+            {
+              "start": 33.66,
+              "end": 33.94,
+              "text": " condition"
+            },
+            {
+              "start": 33.94,
+              "end": 34.4,
+              "text": " poori"
+            },
+            {
+              "start": 34.4,
+              "end": 34.56,
+              "text": " hai,"
+            },
+            {
+              "start": 34.88,
+              "end": 35.16,
+              "text": " baaki"
+            },
+            {
+              "start": 35.16,
+              "end": 35.34,
+              "text": " checks"
+            },
+            {
+              "start": 35.34,
+              "end": 35.7,
+              "text": " abhi"
+            },
+            {
+              "start": 35.7,
+              "end": 35.84,
+              "text": " bhi"
+            },
+            {
+              "start": 35.84,
+              "end": 36.16,
+              "text": " zaroori"
+            },
+            {
+              "start": 36.16,
+              "end": 36.3,
+              "text": " hai."
+            },
+            {
+              "start": 36.78,
+              "end": 36.9,
+              "text": " Aur"
+            },
+            {
+              "start": 36.9,
+              "end": 37.26,
+              "text": " maanlu"
+            }
+          ]
+        },
+        {
+          "start": 37.26,
+          "end": 42.06,
+          "text": " level 7 ki AC second seat nahi milti, iss rule me lower class me jaa sakte hai, higher",
+          "words": [
+            {
+              "start": 37.26,
+              "end": 37.48,
+              "text": " level"
+            },
+            {
+              "start": 37.48,
+              "end": 37.78,
+              "text": " 7"
+            },
+            {
+              "start": 37.78,
+              "end": 37.98,
+              "text": " ki"
+            },
+            {
+              "start": 37.98,
+              "end": 38.26,
+              "text": " AC"
+            },
+            {
+              "start": 38.26,
+              "end": 38.56,
+              "text": " second"
+            },
+            {
+              "start": 38.56,
+              "end": 38.78,
+              "text": " seat"
+            },
+            {
+              "start": 38.78,
+              "end": 39.12,
+              "text": " nahi"
+            },
+            {
+              "start": 39.12,
+              "end": 39.4,
+              "text": " milti,"
+            },
+            {
+              "start": 39.72,
+              "end": 39.9,
+              "text": " iss"
+            },
+            {
+              "start": 39.9,
+              "end": 40.12,
+              "text": " rule"
+            },
+            {
+              "start": 40.12,
+              "end": 40.24,
+              "text": " me"
+            },
+            {
+              "start": 40.24,
+              "end": 40.46,
+              "text": " lower"
+            },
+            {
+              "start": 40.46,
+              "end": 40.8,
+              "text": " class"
+            },
+            {
+              "start": 40.8,
+              "end": 40.94,
+              "text": " me"
+            },
+            {
+              "start": 40.94,
+              "end": 41.2,
+              "text": " jaa"
+            },
+            {
+              "start": 41.2,
+              "end": 41.38,
+              "text": " sakte"
+            },
+            {
+              "start": 41.38,
+              "end": 41.54,
+              "text": " hai,"
+            },
+            {
+              "start": 41.8,
+              "end": 42.06,
+              "text": " higher"
+            }
+          ]
+        },
+        {
+          "start": 42.06,
+          "end": 43.9,
+          "text": " class ka automatic upgrade nahi milta.",
+          "words": [
+            {
+              "start": 42.06,
+              "end": 42.34,
+              "text": " class"
+            },
+            {
+              "start": 42.34,
+              "end": 42.48,
+              "text": " ka"
+            },
+            {
+              "start": 42.48,
+              "end": 42.84,
+              "text": " automatic"
+            },
+            {
+              "start": 42.84,
+              "end": 43.32,
+              "text": " upgrade"
+            },
+            {
+              "start": 43.32,
+              "end": 43.64,
+              "text": " nahi"
+            },
+            {
+              "start": 43.64,
+              "end": 43.9,
+              "text": " milta."
+            }
+          ]
+        }
+      ]
+    },
     {
       "audio": "ta-tour-air-booking.mp3",
       "audio_sha256": "0e7f7639f3b08dffec4ce20989d8cd60938fecec4bcf4df149ded6c2ccae4159",
@@ -503,7 +5156,7 @@
             },
             {
               "start": 36.04,
-              "end": 36.339999999999996,
+              "end": 36.34,
               "text": " Manditri"
             }
           ]
@@ -1897,7 +6550,7 @@
             },
             {
               "start": 27.78,
-              "end": 28.120000000000005,
+              "end": 28.12,
               "text": " hain."
             }
           ]
@@ -4328,6 +8981,7 @@
     },
     {
       "audio": "11-local-travel-proof.mp3",
+      "audio_sha256": "ab2b2435393786028040af3a6165290fea9e1b551e276e5d172be2bb64d70f0e",
       "segments": [
         {
           "start": 0.0,
@@ -5149,8 +9803,7 @@
             }
           ]
         }
-      ],
-      "audio_sha256": "ab2b2435393786028040af3a6165290fea9e1b551e276e5d172be2bb64d70f0e"
+      ]
     },
     {
       "audio": "ta-road-mileage.mp3",
@@ -6041,7 +10694,1464 @@
       ]
     },
     {
+      "audio": "08-deadlines.mp3",
+      "audio_sha256": "eca05f0498ec89ca970ef12314da74e4515d210e1c92349b9afc3e0d9c15d317",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.9,
+          "text": " Tour, transfer or training card, TA claim, normally journey khatm hu ne ke baat 60 days",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.54,
+              "text": " Tour,"
+            },
+            {
+              "start": 0.84,
+              "end": 1.28,
+              "text": " transfer"
+            },
+            {
+              "start": 1.28,
+              "end": 1.62,
+              "text": " or"
+            },
+            {
+              "start": 1.62,
+              "end": 1.98,
+              "text": " training"
+            },
+            {
+              "start": 1.98,
+              "end": 2.36,
+              "text": " card,"
+            },
+            {
+              "start": 2.5,
+              "end": 2.72,
+              "text": " TA"
+            },
+            {
+              "start": 2.72,
+              "end": 3.06,
+              "text": " claim,"
+            },
+            {
+              "start": 3.42,
+              "end": 3.78,
+              "text": " normally"
+            },
+            {
+              "start": 3.78,
+              "end": 4.16,
+              "text": " journey"
+            },
+            {
+              "start": 4.16,
+              "end": 4.58,
+              "text": " khatm"
+            },
+            {
+              "start": 4.58,
+              "end": 4.72,
+              "text": " hu"
+            },
+            {
+              "start": 4.72,
+              "end": 4.82,
+              "text": " ne"
+            },
+            {
+              "start": 4.82,
+              "end": 4.96,
+              "text": " ke"
+            },
+            {
+              "start": 4.96,
+              "end": 5.26,
+              "text": " baat"
+            },
+            {
+              "start": 5.26,
+              "end": 5.54,
+              "text": " 60"
+            },
+            {
+              "start": 5.54,
+              "end": 5.9,
+              "text": " days"
+            }
+          ]
+        },
+        {
+          "start": 5.9,
+          "end": 11.86,
+          "text": " mein submit karna huta hai. Late hu ne par claim forfitted, yani lost maana ja sakta hai. Example,",
+          "words": [
+            {
+              "start": 5.9,
+              "end": 6.02,
+              "text": " mein"
+            },
+            {
+              "start": 6.02,
+              "end": 6.3,
+              "text": " submit"
+            },
+            {
+              "start": 6.3,
+              "end": 6.68,
+              "text": " karna"
+            },
+            {
+              "start": 6.68,
+              "end": 6.9,
+              "text": " huta"
+            },
+            {
+              "start": 6.9,
+              "end": 7.1,
+              "text": " hai."
+            },
+            {
+              "start": 7.46,
+              "end": 7.72,
+              "text": " Late"
+            },
+            {
+              "start": 7.72,
+              "end": 7.9,
+              "text": " hu"
+            },
+            {
+              "start": 7.9,
+              "end": 7.98,
+              "text": " ne"
+            },
+            {
+              "start": 7.98,
+              "end": 8.16,
+              "text": " par"
+            },
+            {
+              "start": 8.16,
+              "end": 8.44,
+              "text": " claim"
+            },
+            {
+              "start": 8.44,
+              "end": 9.02,
+              "text": " forfitted,"
+            },
+            {
+              "start": 9.28,
+              "end": 9.48,
+              "text": " yani"
+            },
+            {
+              "start": 9.48,
+              "end": 9.88,
+              "text": " lost"
+            },
+            {
+              "start": 9.88,
+              "end": 10.2,
+              "text": " maana"
+            },
+            {
+              "start": 10.2,
+              "end": 10.36,
+              "text": " ja"
+            },
+            {
+              "start": 10.36,
+              "end": 10.68,
+              "text": " sakta"
+            },
+            {
+              "start": 10.68,
+              "end": 10.82,
+              "text": " hai."
+            },
+            {
+              "start": 11.3,
+              "end": 11.86,
+              "text": " Example,"
+            }
+          ]
+        },
+        {
+          "start": 12.32,
+          "end": 17.84,
+          "text": " journey 1st October 2026 ko khatm hui. To 2nd October day 1 hai aur 30th November",
+          "words": [
+            {
+              "start": 12.32,
+              "end": 12.44,
+              "text": " journey"
+            },
+            {
+              "start": 12.44,
+              "end": 12.98,
+              "text": " 1st"
+            },
+            {
+              "start": 12.98,
+              "end": 13.26,
+              "text": " October"
+            },
+            {
+              "start": 13.26,
+              "end": 14.16,
+              "text": " 2026"
+            },
+            {
+              "start": 14.16,
+              "end": 14.36,
+              "text": " ko"
+            },
+            {
+              "start": 14.36,
+              "end": 14.68,
+              "text": " khatm"
+            },
+            {
+              "start": 14.68,
+              "end": 14.88,
+              "text": " hui."
+            },
+            {
+              "start": 15.16,
+              "end": 15.26,
+              "text": " To"
+            },
+            {
+              "start": 15.26,
+              "end": 15.68,
+              "text": " 2nd"
+            },
+            {
+              "start": 15.68,
+              "end": 15.92,
+              "text": " October"
+            },
+            {
+              "start": 15.92,
+              "end": 16.3,
+              "text": " day"
+            },
+            {
+              "start": 16.3,
+              "end": 16.58,
+              "text": " 1"
+            },
+            {
+              "start": 16.58,
+              "end": 16.72,
+              "text": " hai"
+            },
+            {
+              "start": 16.72,
+              "end": 17.14,
+              "text": " aur"
+            },
+            {
+              "start": 17.14,
+              "end": 17.66,
+              "text": " 30th"
+            },
+            {
+              "start": 17.66,
+              "end": 17.84,
+              "text": " November"
+            }
+          ]
+        },
+        {
+          "start": 17.84,
+          "end": 24.12,
+          "text": " day 60. Correct office mein time pr submit kari aur proof rakhi. Retirement TME 2021",
+          "words": [
+            {
+              "start": 17.84,
+              "end": 18.26,
+              "text": " day"
+            },
+            {
+              "start": 18.26,
+              "end": 18.62,
+              "text": " 60."
+            },
+            {
+              "start": 19.22,
+              "end": 19.46,
+              "text": " Correct"
+            },
+            {
+              "start": 19.46,
+              "end": 19.84,
+              "text": " office"
+            },
+            {
+              "start": 19.84,
+              "end": 20.02,
+              "text": " mein"
+            },
+            {
+              "start": 20.02,
+              "end": 20.26,
+              "text": " time"
+            },
+            {
+              "start": 20.26,
+              "end": 20.46,
+              "text": " pr"
+            },
+            {
+              "start": 20.46,
+              "end": 20.76,
+              "text": " submit"
+            },
+            {
+              "start": 20.76,
+              "end": 21.08,
+              "text": " kari"
+            },
+            {
+              "start": 21.08,
+              "end": 21.34,
+              "text": " aur"
+            },
+            {
+              "start": 21.34,
+              "end": 21.6,
+              "text": " proof"
+            },
+            {
+              "start": 21.6,
+              "end": 21.94,
+              "text": " rakhi."
+            },
+            {
+              "start": 22.42,
+              "end": 23.02,
+              "text": " Retirement"
+            },
+            {
+              "start": 23.02,
+              "end": 23.5,
+              "text": " TME"
+            },
+            {
+              "start": 23.5,
+              "end": 24.12,
+              "text": " 2021"
+            }
+          ]
+        },
+        {
+          "start": 24.12,
+          "end": 29.66,
+          "text": " order ne limit 180 days after journey kardi. Tour, transfer or training ke liye 60 days",
+          "words": [
+            {
+              "start": 24.12,
+              "end": 24.7,
+              "text": " order"
+            },
+            {
+              "start": 24.7,
+              "end": 24.88,
+              "text": " ne"
+            },
+            {
+              "start": 24.88,
+              "end": 25.18,
+              "text": " limit"
+            },
+            {
+              "start": 25.18,
+              "end": 25.54,
+              "text": " 180"
+            },
+            {
+              "start": 25.54,
+              "end": 25.94,
+              "text": " days"
+            },
+            {
+              "start": 25.94,
+              "end": 26.2,
+              "text": " after"
+            },
+            {
+              "start": 26.2,
+              "end": 26.52,
+              "text": " journey"
+            },
+            {
+              "start": 26.52,
+              "end": 26.86,
+              "text": " kardi."
+            },
+            {
+              "start": 27.22,
+              "end": 27.56,
+              "text": " Tour,"
+            },
+            {
+              "start": 27.82,
+              "end": 28.14,
+              "text": " transfer"
+            },
+            {
+              "start": 28.14,
+              "end": 28.38,
+              "text": " or"
+            },
+            {
+              "start": 28.38,
+              "end": 28.66,
+              "text": " training"
+            },
+            {
+              "start": 28.66,
+              "end": 28.88,
+              "text": " ke"
+            },
+            {
+              "start": 28.88,
+              "end": 29.06,
+              "text": " liye"
+            },
+            {
+              "start": 29.06,
+              "end": 29.32,
+              "text": " 60"
+            },
+            {
+              "start": 29.32,
+              "end": 29.66,
+              "text": " days"
+            }
+          ]
+        },
+        {
+          "start": 29.66,
+          "end": 35.92,
+          "text": " rehte hai. Example, eligible retirement journey 1st October 2026 ko khatm hui to 180th",
+          "words": [
+            {
+              "start": 29.66,
+              "end": 29.92,
+              "text": " rehte"
+            },
+            {
+              "start": 29.92,
+              "end": 30.06,
+              "text": " hai."
+            },
+            {
+              "start": 30.5,
+              "end": 31.06,
+              "text": " Example,"
+            },
+            {
+              "start": 31.34,
+              "end": 31.66,
+              "text": " eligible"
+            },
+            {
+              "start": 31.66,
+              "end": 32.18,
+              "text": " retirement"
+            },
+            {
+              "start": 32.18,
+              "end": 32.62,
+              "text": " journey"
+            },
+            {
+              "start": 32.62,
+              "end": 33.12,
+              "text": " 1st"
+            },
+            {
+              "start": 33.12,
+              "end": 33.36,
+              "text": " October"
+            },
+            {
+              "start": 33.36,
+              "end": 34.26,
+              "text": " 2026"
+            },
+            {
+              "start": 34.26,
+              "end": 34.46,
+              "text": " ko"
+            },
+            {
+              "start": 34.46,
+              "end": 34.8,
+              "text": " khatm"
+            },
+            {
+              "start": 34.8,
+              "end": 35.26,
+              "text": " hui"
+            },
+            {
+              "start": 35.26,
+              "end": 35.26,
+              "text": " to"
+            },
+            {
+              "start": 35.26,
+              "end": 35.92,
+              "text": " 180th"
+            }
+          ]
+        },
+        {
+          "start": 35.92,
+          "end": 42.24,
+          "text": " day 30th March 2027 hai. Yad rakhi, trip karne ki eligibility period aur clean file karne",
+          "words": [
+            {
+              "start": 35.92,
+              "end": 36.1,
+              "text": " day"
+            },
+            {
+              "start": 36.1,
+              "end": 36.66,
+              "text": " 30th"
+            },
+            {
+              "start": 36.66,
+              "end": 36.84,
+              "text": " March"
+            },
+            {
+              "start": 36.84,
+              "end": 37.74,
+              "text": " 2027"
+            },
+            {
+              "start": 37.74,
+              "end": 37.9,
+              "text": " hai."
+            },
+            {
+              "start": 38.44,
+              "end": 38.74,
+              "text": " Yad"
+            },
+            {
+              "start": 38.74,
+              "end": 39.02,
+              "text": " rakhi,"
+            },
+            {
+              "start": 39.34,
+              "end": 39.54,
+              "text": " trip"
+            },
+            {
+              "start": 39.54,
+              "end": 39.88,
+              "text": " karne"
+            },
+            {
+              "start": 39.88,
+              "end": 40.02,
+              "text": " ki"
+            },
+            {
+              "start": 40.02,
+              "end": 40.4,
+              "text": " eligibility"
+            },
+            {
+              "start": 40.4,
+              "end": 41.06,
+              "text": " period"
+            },
+            {
+              "start": 41.06,
+              "end": 41.34,
+              "text": " aur"
+            },
+            {
+              "start": 41.34,
+              "end": 41.64,
+              "text": " clean"
+            },
+            {
+              "start": 41.64,
+              "end": 41.92,
+              "text": " file"
+            },
+            {
+              "start": 41.92,
+              "end": 42.24,
+              "text": " karne"
+            }
+          ]
+        },
+        {
+          "start": 42.24,
+          "end": 47.0,
+          "text": " ki deadline alag baat hai. Purani unsettled cases par review ki possibility guide mein.",
+          "words": [
+            {
+              "start": 42.24,
+              "end": 42.38,
+              "text": " ki"
+            },
+            {
+              "start": 42.38,
+              "end": 42.72,
+              "text": " deadline"
+            },
+            {
+              "start": 42.72,
+              "end": 43.16,
+              "text": " alag"
+            },
+            {
+              "start": 43.16,
+              "end": 43.36,
+              "text": " baat"
+            },
+            {
+              "start": 43.36,
+              "end": 43.48,
+              "text": " hai."
+            },
+            {
+              "start": 43.98,
+              "end": 44.42,
+              "text": " Purani"
+            },
+            {
+              "start": 44.42,
+              "end": 44.96,
+              "text": " unsettled"
+            },
+            {
+              "start": 44.96,
+              "end": 45.26,
+              "text": " cases"
+            },
+            {
+              "start": 45.26,
+              "end": 45.5,
+              "text": " par"
+            },
+            {
+              "start": 45.5,
+              "end": 45.78,
+              "text": " review"
+            },
+            {
+              "start": 45.78,
+              "end": 45.96,
+              "text": " ki"
+            },
+            {
+              "start": 45.96,
+              "end": 46.32,
+              "text": " possibility"
+            },
+            {
+              "start": 46.32,
+              "end": 46.82,
+              "text": " guide"
+            },
+            {
+              "start": 46.82,
+              "end": 47.0,
+              "text": " mein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-submission.mp3",
+      "audio_sha256": "eaaac1e5d651eab0049e54f8bf8c0f3d257df7ccd9c249c3bb240712cc67a219",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.54,
+          "text": " Transfer mein agar employee aur family alag alag travel karte hain, to her journey ke rie claim",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.72,
+              "text": " Transfer"
+            },
+            {
+              "start": 0.72,
+              "end": 1.02,
+              "text": " mein"
+            },
+            {
+              "start": 1.02,
+              "end": 1.3,
+              "text": " agar"
+            },
+            {
+              "start": 1.3,
+              "end": 1.72,
+              "text": " employee"
+            },
+            {
+              "start": 1.72,
+              "end": 2.06,
+              "text": " aur"
+            },
+            {
+              "start": 2.06,
+              "end": 2.42,
+              "text": " family"
+            },
+            {
+              "start": 2.42,
+              "end": 2.92,
+              "text": " alag"
+            },
+            {
+              "start": 2.92,
+              "end": 3.1,
+              "text": " alag"
+            },
+            {
+              "start": 3.1,
+              "end": 3.34,
+              "text": " travel"
+            },
+            {
+              "start": 3.34,
+              "end": 3.72,
+              "text": " karte"
+            },
+            {
+              "start": 3.72,
+              "end": 4.16,
+              "text": " hain,"
+            },
+            {
+              "start": 4.16,
+              "end": 4.32,
+              "text": " to"
+            },
+            {
+              "start": 4.32,
+              "end": 4.6,
+              "text": " her"
+            },
+            {
+              "start": 4.6,
+              "end": 4.92,
+              "text": " journey"
+            },
+            {
+              "start": 4.92,
+              "end": 5.14,
+              "text": " ke"
+            },
+            {
+              "start": 5.14,
+              "end": 5.26,
+              "text": " rie"
+            },
+            {
+              "start": 5.26,
+              "end": 5.54,
+              "text": " claim"
+            }
+          ]
+        },
+        {
+          "start": 5.54,
+          "end": 11.54,
+          "text": " clock alag shuru hota hai. Example, employee 1st October aur family 11th October ko pohchhi,",
+          "words": [
+            {
+              "start": 5.54,
+              "end": 5.84,
+              "text": " clock"
+            },
+            {
+              "start": 5.84,
+              "end": 6.22,
+              "text": " alag"
+            },
+            {
+              "start": 6.22,
+              "end": 6.44,
+              "text": " shuru"
+            },
+            {
+              "start": 6.44,
+              "end": 6.74,
+              "text": " hota"
+            },
+            {
+              "start": 6.74,
+              "end": 6.86,
+              "text": " hai."
+            },
+            {
+              "start": 7.28,
+              "end": 7.88,
+              "text": " Example,"
+            },
+            {
+              "start": 8.52,
+              "end": 8.52,
+              "text": " employee"
+            },
+            {
+              "start": 8.52,
+              "end": 8.98,
+              "text": " 1st"
+            },
+            {
+              "start": 8.98,
+              "end": 9.3,
+              "text": " October"
+            },
+            {
+              "start": 9.3,
+              "end": 9.76,
+              "text": " aur"
+            },
+            {
+              "start": 9.76,
+              "end": 10.08,
+              "text": " family"
+            },
+            {
+              "start": 10.08,
+              "end": 10.66,
+              "text": " 11th"
+            },
+            {
+              "start": 10.66,
+              "end": 10.94,
+              "text": " October"
+            },
+            {
+              "start": 10.94,
+              "end": 11.16,
+              "text": " ko"
+            },
+            {
+              "start": 11.16,
+              "end": 11.54,
+              "text": " pohchhi,"
+            }
+          ]
+        },
+        {
+          "start": 11.84,
+          "end": 17.28,
+          "text": " to doonu ki completion date alag count hogi. Personal effects ya conveyance ke liye new station",
+          "words": [
+            {
+              "start": 11.84,
+              "end": 11.94,
+              "text": " to"
+            },
+            {
+              "start": 11.94,
+              "end": 12.32,
+              "text": " doonu"
+            },
+            {
+              "start": 12.32,
+              "end": 12.44,
+              "text": " ki"
+            },
+            {
+              "start": 12.44,
+              "end": 12.82,
+              "text": " completion"
+            },
+            {
+              "start": 12.82,
+              "end": 13.16,
+              "text": " date"
+            },
+            {
+              "start": 13.16,
+              "end": 13.56,
+              "text": " alag"
+            },
+            {
+              "start": 13.56,
+              "end": 13.78,
+              "text": " count"
+            },
+            {
+              "start": 13.78,
+              "end": 14.08,
+              "text": " hogi."
+            },
+            {
+              "start": 14.6,
+              "end": 15.04,
+              "text": " Personal"
+            },
+            {
+              "start": 15.04,
+              "end": 15.48,
+              "text": " effects"
+            },
+            {
+              "start": 15.48,
+              "end": 15.72,
+              "text": " ya"
+            },
+            {
+              "start": 15.72,
+              "end": 16.3,
+              "text": " conveyance"
+            },
+            {
+              "start": 16.3,
+              "end": 16.44,
+              "text": " ke"
+            },
+            {
+              "start": 16.44,
+              "end": 16.64,
+              "text": " liye"
+            },
+            {
+              "start": 16.64,
+              "end": 16.92,
+              "text": " new"
+            },
+            {
+              "start": 16.92,
+              "end": 17.28,
+              "text": " station"
+            }
+          ]
+        },
+        {
+          "start": 17.28,
+          "end": 22.56,
+          "text": " par actual delivery ki date alag check karen. Claim kub submit maana jayega, ye is baat",
+          "words": [
+            {
+              "start": 17.28,
+              "end": 17.52,
+              "text": " par"
+            },
+            {
+              "start": 17.52,
+              "end": 17.96,
+              "text": " actual"
+            },
+            {
+              "start": 17.96,
+              "end": 18.32,
+              "text": " delivery"
+            },
+            {
+              "start": 18.32,
+              "end": 18.52,
+              "text": " ki"
+            },
+            {
+              "start": 18.52,
+              "end": 18.7,
+              "text": " date"
+            },
+            {
+              "start": 18.7,
+              "end": 19.1,
+              "text": " alag"
+            },
+            {
+              "start": 19.1,
+              "end": 19.24,
+              "text": " check"
+            },
+            {
+              "start": 19.24,
+              "end": 19.48,
+              "text": " karen."
+            },
+            {
+              "start": 20.04,
+              "end": 20.4,
+              "text": " Claim"
+            },
+            {
+              "start": 20.4,
+              "end": 20.68,
+              "text": " kub"
+            },
+            {
+              "start": 20.68,
+              "end": 21.0,
+              "text": " submit"
+            },
+            {
+              "start": 21.0,
+              "end": 21.3,
+              "text": " maana"
+            },
+            {
+              "start": 21.3,
+              "end": 21.66,
+              "text": " jayega,"
+            },
+            {
+              "start": 21.98,
+              "end": 22.08,
+              "text": " ye"
+            },
+            {
+              "start": 22.08,
+              "end": 22.34,
+              "text": " is"
+            },
+            {
+              "start": 22.34,
+              "end": 22.56,
+              "text": " baat"
+            }
+          ]
+        },
+        {
+          "start": 22.56,
+          "end": 27.66,
+          "text": " par bhi depend karta hai ki aap apne controlling officer hudhen ya nahi. Agar nahi, to head",
+          "words": [
+            {
+              "start": 22.56,
+              "end": 22.72,
+              "text": " par"
+            },
+            {
+              "start": 22.72,
+              "end": 22.84,
+              "text": " bhi"
+            },
+            {
+              "start": 22.84,
+              "end": 23.02,
+              "text": " depend"
+            },
+            {
+              "start": 23.02,
+              "end": 23.42,
+              "text": " karta"
+            },
+            {
+              "start": 23.42,
+              "end": 23.54,
+              "text": " hai"
+            },
+            {
+              "start": 23.54,
+              "end": 23.68,
+              "text": " ki"
+            },
+            {
+              "start": 23.68,
+              "end": 24.02,
+              "text": " aap"
+            },
+            {
+              "start": 24.02,
+              "end": 24.22,
+              "text": " apne"
+            },
+            {
+              "start": 24.22,
+              "end": 24.62,
+              "text": " controlling"
+            },
+            {
+              "start": 24.62,
+              "end": 25.1,
+              "text": " officer"
+            },
+            {
+              "start": 25.1,
+              "end": 25.6,
+              "text": " hudhen"
+            },
+            {
+              "start": 25.6,
+              "end": 25.76,
+              "text": " ya"
+            },
+            {
+              "start": 25.76,
+              "end": 26.04,
+              "text": " nahi."
+            },
+            {
+              "start": 26.52,
+              "end": 26.8,
+              "text": " Agar"
+            },
+            {
+              "start": 26.8,
+              "end": 27.28,
+              "text": " nahi,"
+            },
+            {
+              "start": 27.34,
+              "end": 27.42,
+              "text": " to"
+            },
+            {
+              "start": 27.42,
+              "end": 27.66,
+              "text": " head"
+            }
+          ]
+        },
+        {
+          "start": 27.66,
+          "end": 32.08,
+          "text": " of office ya controlling officer ko submission date dekhain. Agar aap apne controlling officer",
+          "words": [
+            {
+              "start": 27.66,
+              "end": 27.78,
+              "text": " of"
+            },
+            {
+              "start": 27.78,
+              "end": 28.1,
+              "text": " office"
+            },
+            {
+              "start": 28.1,
+              "end": 28.24,
+              "text": " ya"
+            },
+            {
+              "start": 28.24,
+              "end": 28.62,
+              "text": " controlling"
+            },
+            {
+              "start": 28.62,
+              "end": 29.1,
+              "text": " officer"
+            },
+            {
+              "start": 29.1,
+              "end": 29.26,
+              "text": " ko"
+            },
+            {
+              "start": 29.26,
+              "end": 29.58,
+              "text": " submission"
+            },
+            {
+              "start": 29.58,
+              "end": 29.9,
+              "text": " date"
+            },
+            {
+              "start": 29.9,
+              "end": 30.26,
+              "text": " dekhain."
+            },
+            {
+              "start": 30.68,
+              "end": 30.92,
+              "text": " Agar"
+            },
+            {
+              "start": 30.92,
+              "end": 31.1,
+              "text": " aap"
+            },
+            {
+              "start": 31.1,
+              "end": 31.26,
+              "text": " apne"
+            },
+            {
+              "start": 31.26,
+              "end": 31.64,
+              "text": " controlling"
+            },
+            {
+              "start": 31.64,
+              "end": 32.08,
+              "text": " officer"
+            }
+          ]
+        },
+        {
+          "start": 32.08,
+          "end": 37.62,
+          "text": " hain, treasury ya cash section mein presentation date dekhain. Example, aapne controlling officer",
+          "words": [
+            {
+              "start": 32.08,
+              "end": 32.66,
+              "text": " hain,"
+            },
+            {
+              "start": 32.76,
+              "end": 32.96,
+              "text": " treasury"
+            },
+            {
+              "start": 32.96,
+              "end": 33.26,
+              "text": " ya"
+            },
+            {
+              "start": 33.26,
+              "end": 33.56,
+              "text": " cash"
+            },
+            {
+              "start": 33.56,
+              "end": 33.92,
+              "text": " section"
+            },
+            {
+              "start": 33.92,
+              "end": 34.06,
+              "text": " mein"
+            },
+            {
+              "start": 34.06,
+              "end": 34.42,
+              "text": " presentation"
+            },
+            {
+              "start": 34.42,
+              "end": 34.86,
+              "text": " date"
+            },
+            {
+              "start": 34.86,
+              "end": 35.24,
+              "text": " dekhain."
+            },
+            {
+              "start": 35.72,
+              "end": 36.26,
+              "text": " Example,"
+            },
+            {
+              "start": 36.52,
+              "end": 36.76,
+              "text": " aapne"
+            },
+            {
+              "start": 36.76,
+              "end": 37.18,
+              "text": " controlling"
+            },
+            {
+              "start": 37.18,
+              "end": 37.62,
+              "text": " officer"
+            }
+          ]
+        },
+        {
+          "start": 37.62,
+          "end": 42.86,
+          "text": " ko day 45 par claim dia aur treasury ko baad mein mila to order ki conditions ke saath pehle",
+          "words": [
+            {
+              "start": 37.62,
+              "end": 37.78,
+              "text": " ko"
+            },
+            {
+              "start": 37.78,
+              "end": 38.0,
+              "text": " day"
+            },
+            {
+              "start": 38.0,
+              "end": 38.5,
+              "text": " 45"
+            },
+            {
+              "start": 38.5,
+              "end": 38.72,
+              "text": " par"
+            },
+            {
+              "start": 38.72,
+              "end": 38.94,
+              "text": " claim"
+            },
+            {
+              "start": 38.94,
+              "end": 39.14,
+              "text": " dia"
+            },
+            {
+              "start": 39.14,
+              "end": 39.66,
+              "text": " aur"
+            },
+            {
+              "start": 39.66,
+              "end": 39.94,
+              "text": " treasury"
+            },
+            {
+              "start": 39.94,
+              "end": 40.18,
+              "text": " ko"
+            },
+            {
+              "start": 40.18,
+              "end": 40.48,
+              "text": " baad"
+            },
+            {
+              "start": 40.48,
+              "end": 40.56,
+              "text": " mein"
+            },
+            {
+              "start": 40.56,
+              "end": 40.84,
+              "text": " mila"
+            },
+            {
+              "start": 40.84,
+              "end": 41.14,
+              "text": " to"
+            },
+            {
+              "start": 41.14,
+              "end": 41.48,
+              "text": " order"
+            },
+            {
+              "start": 41.48,
+              "end": 41.66,
+              "text": " ki"
+            },
+            {
+              "start": 41.66,
+              "end": 42.08,
+              "text": " conditions"
+            },
+            {
+              "start": 42.08,
+              "end": 42.3,
+              "text": " ke"
+            },
+            {
+              "start": 42.3,
+              "end": 42.58,
+              "text": " saath"
+            },
+            {
+              "start": 42.58,
+              "end": 42.86,
+              "text": " pehle"
+            }
+          ]
+        },
+        {
+          "start": 42.86,
+          "end": 46.96,
+          "text": " wali submission date matter kar sakti hain. Receipt ya acknowledgement sambhal kar rakhain.",
+          "words": [
+            {
+              "start": 42.86,
+              "end": 43.1,
+              "text": " wali"
+            },
+            {
+              "start": 43.1,
+              "end": 43.36,
+              "text": " submission"
+            },
+            {
+              "start": 43.36,
+              "end": 43.68,
+              "text": " date"
+            },
+            {
+              "start": 43.68,
+              "end": 43.94,
+              "text": " matter"
+            },
+            {
+              "start": 43.94,
+              "end": 44.08,
+              "text": " kar"
+            },
+            {
+              "start": 44.08,
+              "end": 44.44,
+              "text": " sakti"
+            },
+            {
+              "start": 44.44,
+              "end": 44.62,
+              "text": " hain."
+            },
+            {
+              "start": 44.92,
+              "end": 45.4,
+              "text": " Receipt"
+            },
+            {
+              "start": 45.4,
+              "end": 45.52,
+              "text": " ya"
+            },
+            {
+              "start": 45.52,
+              "end": 45.96,
+              "text": " acknowledgement"
+            },
+            {
+              "start": 45.96,
+              "end": 46.54,
+              "text": " sambhal"
+            },
+            {
+              "start": 46.54,
+              "end": 46.66,
+              "text": " kar"
+            },
+            {
+              "start": 46.66,
+              "end": 46.96,
+              "text": " rakhain."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "audio": "10-boarding-pass.mp3",
+      "audio_sha256": "98f61d7d5d17cb1666c81ef8669b23000d6c2758a35a5cbf49dbcea97719166b",
       "segments": [
         {
           "start": 0.0,
@@ -6857,8 +12967,7 @@
             }
           ]
         }
-      ],
-      "audio_sha256": "98f61d7d5d17cb1666c81ef8669b23000d6c2758a35a5cbf49dbcea97719166b"
+      ]
     },
     {
       "audio": "ta-transfer-overview.mp3",
@@ -7620,7 +13729,787 @@
       ]
     },
     {
+      "audio": "ta-updated-rates-transfer-effects.mp3",
+      "audio_sha256": "231d3572e27e51a71a3712df11147d3ab28c8830d6931c3e491d820a3a0a9ff1",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 8.12,
+          "text": " 1 January 2026 se dearness allowance 60% hai. 50 se 60 jaane par eligible TA rates me ek aur",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.46,
+              "text": " 1"
+            },
+            {
+              "start": 0.46,
+              "end": 0.86,
+              "text": " January"
+            },
+            {
+              "start": 0.86,
+              "end": 1.9,
+              "text": " 2026"
+            },
+            {
+              "start": 1.9,
+              "end": 2.14,
+              "text": " se"
+            },
+            {
+              "start": 2.14,
+              "end": 2.84,
+              "text": " dearness"
+            },
+            {
+              "start": 2.84,
+              "end": 3.14,
+              "text": " allowance"
+            },
+            {
+              "start": 3.14,
+              "end": 3.64,
+              "text": " 60"
+            },
+            {
+              "start": 3.64,
+              "end": 3.92,
+              "text": "%"
+            },
+            {
+              "start": 3.92,
+              "end": 4.2,
+              "text": " hai."
+            },
+            {
+              "start": 4.62,
+              "end": 5.0,
+              "text": " 50"
+            },
+            {
+              "start": 5.0,
+              "end": 5.2,
+              "text": " se"
+            },
+            {
+              "start": 5.2,
+              "end": 5.5,
+              "text": " 60"
+            },
+            {
+              "start": 5.5,
+              "end": 5.88,
+              "text": " jaane"
+            },
+            {
+              "start": 5.88,
+              "end": 6.1,
+              "text": " par"
+            },
+            {
+              "start": 6.1,
+              "end": 6.66,
+              "text": " eligible"
+            },
+            {
+              "start": 6.66,
+              "end": 7.14,
+              "text": " TA"
+            },
+            {
+              "start": 7.14,
+              "end": 7.48,
+              "text": " rates"
+            },
+            {
+              "start": 7.48,
+              "end": 7.62,
+              "text": " me"
+            },
+            {
+              "start": 7.62,
+              "end": 7.96,
+              "text": " ek"
+            },
+            {
+              "start": 7.96,
+              "end": 8.12,
+              "text": " aur"
+            }
+          ]
+        },
+        {
+          "start": 8.12,
+          "end": 16.08,
+          "text": " 25% automatic increase nahi hota. 1st revision, January 2024 se lagu hai. Example, level 6 aur",
+          "words": [
+            {
+              "start": 8.12,
+              "end": 8.6,
+              "text": " 25"
+            },
+            {
+              "start": 8.6,
+              "end": 8.94,
+              "text": "%"
+            },
+            {
+              "start": 8.94,
+              "end": 9.4,
+              "text": " automatic"
+            },
+            {
+              "start": 9.4,
+              "end": 9.96,
+              "text": " increase"
+            },
+            {
+              "start": 9.96,
+              "end": 10.34,
+              "text": " nahi"
+            },
+            {
+              "start": 10.34,
+              "end": 10.64,
+              "text": " hota."
+            },
+            {
+              "start": 11.08,
+              "end": 11.5,
+              "text": " 1st"
+            },
+            {
+              "start": 11.5,
+              "end": 11.74,
+              "text": " revision,"
+            },
+            {
+              "start": 12.14,
+              "end": 12.38,
+              "text": " January"
+            },
+            {
+              "start": 12.38,
+              "end": 13.24,
+              "text": " 2024"
+            },
+            {
+              "start": 13.24,
+              "end": 13.52,
+              "text": " se"
+            },
+            {
+              "start": 13.52,
+              "end": 13.84,
+              "text": " lagu"
+            },
+            {
+              "start": 13.84,
+              "end": 13.94,
+              "text": " hai."
+            },
+            {
+              "start": 14.38,
+              "end": 14.96,
+              "text": " Example,"
+            },
+            {
+              "start": 15.32,
+              "end": 15.48,
+              "text": " level"
+            },
+            {
+              "start": 15.48,
+              "end": 15.86,
+              "text": " 6"
+            },
+            {
+              "start": 15.86,
+              "end": 16.08,
+              "text": " aur"
+            }
+          ]
+        },
+        {
+          "start": 16.08,
+          "end": 21.54,
+          "text": " upper personal effects ke road transport ka rate, 50 se 62 rupees 50 paisa per kilometre",
+          "words": [
+            {
+              "start": 16.08,
+              "end": 16.38,
+              "text": " upper"
+            },
+            {
+              "start": 16.38,
+              "end": 16.82,
+              "text": " personal"
+            },
+            {
+              "start": 16.82,
+              "end": 17.18,
+              "text": " effects"
+            },
+            {
+              "start": 17.18,
+              "end": 17.4,
+              "text": " ke"
+            },
+            {
+              "start": 17.4,
+              "end": 17.56,
+              "text": " road"
+            },
+            {
+              "start": 17.56,
+              "end": 17.98,
+              "text": " transport"
+            },
+            {
+              "start": 17.98,
+              "end": 18.24,
+              "text": " ka"
+            },
+            {
+              "start": 18.24,
+              "end": 18.4,
+              "text": " rate,"
+            },
+            {
+              "start": 18.76,
+              "end": 19.08,
+              "text": " 50"
+            },
+            {
+              "start": 19.08,
+              "end": 19.24,
+              "text": " se"
+            },
+            {
+              "start": 19.24,
+              "end": 19.8,
+              "text": " 62"
+            },
+            {
+              "start": 19.8,
+              "end": 20.16,
+              "text": " rupees"
+            },
+            {
+              "start": 20.16,
+              "end": 20.52,
+              "text": " 50"
+            },
+            {
+              "start": 20.52,
+              "end": 20.88,
+              "text": " paisa"
+            },
+            {
+              "start": 20.88,
+              "end": 21.02,
+              "text": " per"
+            },
+            {
+              "start": 21.02,
+              "end": 21.54,
+              "text": " kilometre"
+            }
+          ]
+        },
+        {
+          "start": 21.54,
+          "end": 24.66,
+          "text": " ho gaya. Actual claim ki conditions alak chek kareng.",
+          "words": [
+            {
+              "start": 21.54,
+              "end": 21.7,
+              "text": " ho"
+            },
+            {
+              "start": 21.7,
+              "end": 21.82,
+              "text": " gaya."
+            },
+            {
+              "start": 22.28,
+              "end": 22.74,
+              "text": " Actual"
+            },
+            {
+              "start": 22.74,
+              "end": 23.0,
+              "text": " claim"
+            },
+            {
+              "start": 23.0,
+              "end": 23.14,
+              "text": " ki"
+            },
+            {
+              "start": 23.14,
+              "end": 23.5,
+              "text": " conditions"
+            },
+            {
+              "start": 23.5,
+              "end": 24.0,
+              "text": " alak"
+            },
+            {
+              "start": 24.0,
+              "end": 24.2,
+              "text": " chek"
+            },
+            {
+              "start": 24.2,
+              "end": 24.66,
+              "text": " kareng."
+            }
+          ]
+        },
+        {
+          "start": 24.66,
+          "end": 30.38,
+          "text": " Abhi ek important transfer exception. North-east region, Andaman-e-Nikobar, Lakshadweep",
+          "words": [
+            {
+              "start": 24.66,
+              "end": 25.3,
+              "text": " Abhi"
+            },
+            {
+              "start": 25.3,
+              "end": 25.38,
+              "text": " ek"
+            },
+            {
+              "start": 25.38,
+              "end": 25.86,
+              "text": " important"
+            },
+            {
+              "start": 25.86,
+              "end": 26.36,
+              "text": " transfer"
+            },
+            {
+              "start": 26.36,
+              "end": 26.8,
+              "text": " exception."
+            },
+            {
+              "start": 27.32,
+              "end": 27.6,
+              "text": " North"
+            },
+            {
+              "start": 27.6,
+              "end": 27.86,
+              "text": "-east"
+            },
+            {
+              "start": 27.86,
+              "end": 28.24,
+              "text": " region,"
+            },
+            {
+              "start": 28.54,
+              "end": 28.86,
+              "text": " Andaman"
+            },
+            {
+              "start": 28.86,
+              "end": 29.02,
+              "text": "-e"
+            },
+            {
+              "start": 29.02,
+              "end": 29.54,
+              "text": "-Nikobar,"
+            },
+            {
+              "start": 29.8,
+              "end": 30.38,
+              "text": " Lakshadweep"
+            }
+          ]
+        },
+        {
+          "start": 30.38,
+          "end": 36.02,
+          "text": " ya Ladakh se ya vaha transfer par, agar family saath nahi jaati to personal effects ki entitlement",
+          "words": [
+            {
+              "start": 30.38,
+              "end": 30.68,
+              "text": " ya"
+            },
+            {
+              "start": 30.68,
+              "end": 31.14,
+              "text": " Ladakh"
+            },
+            {
+              "start": 31.14,
+              "end": 31.3,
+              "text": " se"
+            },
+            {
+              "start": 31.3,
+              "end": 31.44,
+              "text": " ya"
+            },
+            {
+              "start": 31.44,
+              "end": 31.72,
+              "text": " vaha"
+            },
+            {
+              "start": 31.72,
+              "end": 32.08,
+              "text": " transfer"
+            },
+            {
+              "start": 32.08,
+              "end": 32.34,
+              "text": " par,"
+            },
+            {
+              "start": 32.7,
+              "end": 32.9,
+              "text": " agar"
+            },
+            {
+              "start": 32.9,
+              "end": 33.22,
+              "text": " family"
+            },
+            {
+              "start": 33.22,
+              "end": 33.58,
+              "text": " saath"
+            },
+            {
+              "start": 33.58,
+              "end": 33.84,
+              "text": " nahi"
+            },
+            {
+              "start": 33.84,
+              "end": 34.14,
+              "text": " jaati"
+            },
+            {
+              "start": 34.14,
+              "end": 34.52,
+              "text": " to"
+            },
+            {
+              "start": 34.52,
+              "end": 34.92,
+              "text": " personal"
+            },
+            {
+              "start": 34.92,
+              "end": 35.28,
+              "text": " effects"
+            },
+            {
+              "start": 35.28,
+              "end": 35.48,
+              "text": " ki"
+            },
+            {
+              "start": 35.48,
+              "end": 36.02,
+              "text": " entitlement"
+            }
+          ]
+        },
+        {
+          "start": 36.02,
+          "end": 40.9,
+          "text": " ka up to one-third gari kar sakte hai aur us one-third claim ke liye receipt mandatory nahi hai.",
+          "words": [
+            {
+              "start": 36.02,
+              "end": 36.24,
+              "text": " ka"
+            },
+            {
+              "start": 36.24,
+              "end": 36.54,
+              "text": " up"
+            },
+            {
+              "start": 36.54,
+              "end": 36.66,
+              "text": " to"
+            },
+            {
+              "start": 36.66,
+              "end": 36.84,
+              "text": " one"
+            },
+            {
+              "start": 36.84,
+              "end": 37.04,
+              "text": "-third"
+            },
+            {
+              "start": 37.04,
+              "end": 37.32,
+              "text": " gari"
+            },
+            {
+              "start": 37.32,
+              "end": 37.5,
+              "text": " kar"
+            },
+            {
+              "start": 37.5,
+              "end": 37.8,
+              "text": " sakte"
+            },
+            {
+              "start": 37.8,
+              "end": 37.94,
+              "text": " hai"
+            },
+            {
+              "start": 37.94,
+              "end": 38.42,
+              "text": " aur"
+            },
+            {
+              "start": 38.42,
+              "end": 38.66,
+              "text": " us"
+            },
+            {
+              "start": 38.66,
+              "end": 38.88,
+              "text": " one"
+            },
+            {
+              "start": 38.88,
+              "end": 39.06,
+              "text": "-third"
+            },
+            {
+              "start": 39.06,
+              "end": 39.32,
+              "text": " claim"
+            },
+            {
+              "start": 39.32,
+              "end": 39.48,
+              "text": " ke"
+            },
+            {
+              "start": 39.48,
+              "end": 39.66,
+              "text": " liye"
+            },
+            {
+              "start": 39.66,
+              "end": 39.96,
+              "text": " receipt"
+            },
+            {
+              "start": 39.96,
+              "end": 40.36,
+              "text": " mandatory"
+            },
+            {
+              "start": 40.36,
+              "end": 40.78,
+              "text": " nahi"
+            },
+            {
+              "start": 40.78,
+              "end": 40.9,
+              "text": " hai."
+            }
+          ]
+        },
+        {
+          "start": 41.34,
+          "end": 46.46,
+          "text": " Family saath jaai to admissible amount ke liye receipt zaruri hai. Example, level 7 ke",
+          "words": [
+            {
+              "start": 41.34,
+              "end": 41.68,
+              "text": " Family"
+            },
+            {
+              "start": 41.68,
+              "end": 42.02,
+              "text": " saath"
+            },
+            {
+              "start": 42.02,
+              "end": 42.26,
+              "text": " jaai"
+            },
+            {
+              "start": 42.26,
+              "end": 42.48,
+              "text": " to"
+            },
+            {
+              "start": 42.48,
+              "end": 42.96,
+              "text": " admissible"
+            },
+            {
+              "start": 42.96,
+              "end": 43.3,
+              "text": " amount"
+            },
+            {
+              "start": 43.3,
+              "end": 43.46,
+              "text": " ke"
+            },
+            {
+              "start": 43.46,
+              "end": 43.62,
+              "text": " liye"
+            },
+            {
+              "start": 43.62,
+              "end": 43.9,
+              "text": " receipt"
+            },
+            {
+              "start": 43.9,
+              "end": 44.28,
+              "text": " zaruri"
+            },
+            {
+              "start": 44.28,
+              "end": 44.48,
+              "text": " hai."
+            },
+            {
+              "start": 44.92,
+              "end": 45.44,
+              "text": " Example,"
+            },
+            {
+              "start": 45.72,
+              "end": 45.94,
+              "text": " level"
+            },
+            {
+              "start": 45.94,
+              "end": 46.3,
+              "text": " 7"
+            },
+            {
+              "start": 46.3,
+              "end": 46.46,
+              "text": " ke"
+            }
+          ]
+        },
+        {
+          "start": 46.46,
+          "end": 51.54,
+          "text": " 6000 kilo rail entitlement ka one-third 2000 kilo tak hai. Baaki conditions bhi chek kareng.",
+          "words": [
+            {
+              "start": 46.46,
+              "end": 46.88,
+              "text": " 6000"
+            },
+            {
+              "start": 46.88,
+              "end": 47.3,
+              "text": " kilo"
+            },
+            {
+              "start": 47.3,
+              "end": 47.54,
+              "text": " rail"
+            },
+            {
+              "start": 47.54,
+              "end": 48.08,
+              "text": " entitlement"
+            },
+            {
+              "start": 48.08,
+              "end": 48.26,
+              "text": " ka"
+            },
+            {
+              "start": 48.26,
+              "end": 48.48,
+              "text": " one"
+            },
+            {
+              "start": 48.48,
+              "end": 48.7,
+              "text": "-third"
+            },
+            {
+              "start": 48.7,
+              "end": 49.1,
+              "text": " 2000"
+            },
+            {
+              "start": 49.1,
+              "end": 49.52,
+              "text": " kilo"
+            },
+            {
+              "start": 49.52,
+              "end": 49.72,
+              "text": " tak"
+            },
+            {
+              "start": 49.72,
+              "end": 49.86,
+              "text": " hai."
+            },
+            {
+              "start": 50.26,
+              "end": 50.5,
+              "text": " Baaki"
+            },
+            {
+              "start": 50.5,
+              "end": 50.84,
+              "text": " conditions"
+            },
+            {
+              "start": 50.84,
+              "end": 51.12,
+              "text": " bhi"
+            },
+            {
+              "start": 51.12,
+              "end": 51.3,
+              "text": " chek"
+            },
+            {
+              "start": 51.3,
+              "end": 51.54,
+              "text": " kareng."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "audio": "15-technical-resignation.mp3",
+      "audio_sha256": "e98fe01f8f7748985d63d926807fe43c4851bebbff08e5faf5539c658ae9256c",
       "segments": [
         {
           "start": 0.0,
@@ -8543,11 +15432,11 @@
             }
           ]
         }
-      ],
-      "audio_sha256": "e98fe01f8f7748985d63d926807fe43c4851bebbff08e5faf5539c658ae9256c"
+      ]
     },
     {
       "audio": "16-retirement-ctg.mp3",
+      "audio_sha256": "5abdc3b270dc710df22eb20a2e103282431eea0756d8f2d9f881ca76cf436164",
       "segments": [
         {
           "start": 0.0,
@@ -9366,8 +16255,7 @@
             }
           ]
         }
-      ],
-      "audio_sha256": "5abdc3b270dc710df22eb20a2e103282431eea0756d8f2d9f881ca76cf436164"
+      ]
     },
     {
       "audio": "ta-case-and-wrap.mp3",

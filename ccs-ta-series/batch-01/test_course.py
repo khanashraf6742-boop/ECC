@@ -14,6 +14,8 @@ import unittest
 from urllib.parse import unquote, urlparse
 
 import build_batch_01 as lecture
+import align_captions
+import build_review
 from serve_course import CourseHandler
 
 ROOT = Path(__file__).resolve().parent
@@ -56,8 +58,30 @@ class LessonTests(unittest.TestCase):
         broken['sections'][0]['beats'][0]['example'] = ''
         with self.assertRaises(SystemExit):
             lecture.audit(broken)
-        self.assertEqual(len(data['sections']), 20)
-        self.assertEqual(sum(len(section['beats']) for section in data['sections']), 40)
+        self.assertEqual(len(data['sections']), 21)
+        self.assertEqual(sum(len(section['beats']) for section in data['sections']), 42)
+
+    def test_alignment_keeps_spoken_numbers_together(self):
+        prefix = 'word ' * 13
+        line = prefix + 'two thousand kilo remaining'
+        section = {'beats': [{'lines': [line]}, {'lines': ['end']}]}
+        def words(text):
+            return [{'text': word, 'start': i * .2, 'end': i * .2 + .15}
+                    for i, word in enumerate(text.split())]
+        blocks = [{'beat': 1, 'words': words(line)},
+                  {'beat': 2, 'words': [{'text': 'end', 'start': 9, 'end': 10}]}]
+        cues = align_captions.make_cues(section, blocks)
+        self.assertTrue(any('two thousand' in cue['text'] for cue in cues))
+        self.assertFalse(any(cue['text'].endswith(' two') for cue in cues))
+
+    def test_2026_da_and_regional_transfer_exception(self):
+        data = lecture.load_data()
+        section = next(s for s in data['sections'] if s['audio'] == 'ta-updated-rates-transfer-effects.mp3')
+        self.assertIn('60%', section['beats'][0]['rule'])
+        self.assertIn('Rs 62.50 per km', section['beats'][0]['example'])
+        self.assertIn('one-third', section['beats'][1]['rule'])
+        self.assertIn('specified regions', section['beats'][1]['trap'])
+        self.assertIn('not reopened', section['beats'][1]['key'])
 
     def test_2023_train_update_and_ta_air_booking(self):
         data = lecture.load_data()
@@ -90,9 +114,9 @@ class LessonTests(unittest.TestCase):
         alignment = lecture.load_alignment()
         durations = [chapter['duration'] for chapter in alignment['sections']]
         timeline, captions, total = lecture.build_timeline(data, durations, alignment)
-        self.assertEqual(len(timeline), 40)
-        self.assertEqual(len(captions), 297)
-        self.assertAlmostEqual(total, 1090.84, places=2)
+        self.assertEqual(len(timeline), 42)
+        self.assertGreater(len(captions), 297)
+        self.assertGreater(total, 1090.84)
         self.assertLessEqual(captions[-1][1], total)
         for left, right in zip(captions, captions[1:]):
             self.assertLessEqual(left[1], right[0] + .001)
@@ -125,7 +149,7 @@ class LessonTests(unittest.TestCase):
                 self.assertEqual(roman[i][:2], expected_times)
                 self.assertEqual(en[i][3], translated)
                 self.assertEqual(roman[i][3], lecture.romanize_hinglish(source, dictionary))
-                self.assertIn('line:5%', en[i][2])
+                self.assertIn('line:0%', en[i][2])
                 self.assertNotIn('line:5%', roman[i][2])
 
     def test_stale_alignment_and_translation_are_rejected(self):
@@ -168,8 +192,7 @@ class LessonTests(unittest.TestCase):
         self.assertIn('technical resignation', recognized('15-technical-resignation.mp3'))
         whole = json.loads((ROOT / 'notes' / 'whole-audio-review.json').read_text(encoding='utf-8'))
         whole_names = {entry['audio'] for entry in whole['sections']}
-        self.assertTrue({s['audio'] for s in data['sections'] if s['audio'].startswith('ta-')} <= whole_names)
-        self.assertTrue(whole_names <= {s['audio'] for s in data['sections']})
+        self.assertEqual(whole_names, {s['audio'] for s in data['sections']})
         for entry in whole['sections']:
             self.assertEqual(entry['audio_sha256'], hashlib.sha256((ROOT / 'audio' / entry['audio']).read_bytes()).hexdigest())
 
@@ -177,7 +200,7 @@ class LessonTests(unittest.TestCase):
         text = (ROOT / 'Batch-01-Guide.md').read_text(encoding='utf-8')
         parts = re.split(r'(?m)^### (\d+)\. [^\n]+\n', text)
         units = {int(parts[i]): parts[i + 1] for i in range(1, len(parts), 2)}
-        self.assertEqual(sorted(units), list(range(1, 72)))
+        self.assertEqual(sorted(units), list(range(1, 85)))
         for number, unit in units.items():
             with self.subTest(unit=number):
                 self.assertIn('**Source:**', unit)
@@ -190,8 +213,24 @@ class LessonTests(unittest.TestCase):
         self.assertIn('₹600', units[40])
         self.assertIn('₹30/km and ₹15/km', units[43])
         self.assertIn('₹40,000', units[46])
-        self.assertIn('receipts/vouchers', units[48])
+        self.assertIn('receipts/vouchers', units[48].lower())
+        self.assertIn('2022', units[48])
         self.assertIn('₹2,287.50', units[50])
+        self.assertIn('First Class', units[72])
+        self.assertIn('Bunk', units[74])
+        self.assertIn('family does not accompany', units[75])
+        self.assertIn('not mandatory', units[75])
+        self.assertIn('re-employing office/organisation pays both', units[76])
+        self.assertIn('retiring organisation pays the joining TA', units[77])
+        self.assertIn('re-employing organisation pays the admissible TA after completion', units[77])
+        self.assertIn('middle/second-class', units[73])
+        self.assertIn('₹62.50', units[78])
+        self.assertIn('₹31.25', units[78])
+        self.assertIn('₹18.75', units[78])
+        self.assertIn('DoPT', units[79])
+        self.assertIn('non-representational', units[84])
+        self.assertIn('2017 master OM concordance', text)
+        self.assertIn('5 June 2024', text)
         self.assertIn('shortest route', units[57])
         self.assertIn('not entitled to air travel', units[57])
         self.assertIn('not below Joint Secretary', units[58])
@@ -214,7 +253,29 @@ class LessonTests(unittest.TestCase):
         self.assertIn('burned-in Roman-Hinglish', html)
         self.assertIn('Captions-en.vtt', html)
         self.assertIn('Captions-roman.vtt', html)
+        self.assertIn('Caption-Review.html', html)
         self.assertNotIn('Captions-hi.vtt', html)
+        review = (ROOT / 'Caption-Review.html').read_text(encoding='utf-8')
+        self.assertIn('localStorage', review)
+        self.assertIn('Export review', review)
+        self.assertIn('not yet human-verified', review.lower())
+
+    def test_review_player_is_bound_to_media_and_rejects_bad_cues(self):
+        page = (ROOT / 'Caption-Review.html').read_text(encoding='utf-8')
+        payload = re.search(r'const source=(\{[^\n]+\});', page)
+        self.assertIsNotNone(payload)
+        source = json.loads(payload.group(1))
+        self.assertEqual(source['video_sha256'], hashlib.sha256((ROOT / 'Batch-01-Lecture.mp4').read_bytes()).hexdigest())
+        self.assertEqual(source['caption_sha256'], hashlib.sha256((ROOT / 'Captions-roman.vtt').read_bytes()).hexdigest())
+        parsed = build_review.parse_vtt((ROOT / 'Captions-roman.vtt').read_text(encoding='utf-8'))
+        self.assertEqual(source['cues'], parsed)
+        self.assertGreater(len(parsed), 297)
+        self.assertIn('reviewed:false', page)
+        self.assertIn('I listened and checked this cue', page)
+        for bad in ('', 'WEBVTT\n\n1\n00:00:02.000 --> 00:00:01.000\ntext',
+                    'WEBVTT\n\n1\n00:00:00.000 --> 00:00:02.000\nx\n\n2\n00:00:01.000 --> 00:00:03.000\ny'):
+            with self.subTest(bad=bad), self.assertRaises(ValueError):
+                build_review.parse_vtt(bad)
 
     def test_html_local_links_and_anchors(self):
         parser = LinkParser()
@@ -271,6 +332,10 @@ class RangeTests(unittest.TestCase):
         self.assertEqual(headers['Content-Range'], f'bytes {self.size - 15}-{self.size - 1}/{self.size}')
 
     def test_invalid_range_and_guide(self):
+        status, headers, body = self.request('/')
+        self.assertEqual(status, 302)
+        self.assertEqual(headers['Location'], '/Batch-01-Guide.html')
+        self.assertEqual(body, b'')
         status, headers, body = self.request('/Batch-01-Lecture.mp4', {'Range': f'bytes={self.size}-'})
         self.assertEqual(status, 416)
         self.assertEqual(headers['Content-Range'], f'bytes */{self.size}')

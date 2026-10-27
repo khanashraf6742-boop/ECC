@@ -49,6 +49,7 @@ page = r'''<!doctype html>
     .player-heading h2 { margin:0; font-size:1.15rem; }
     .player-heading span { color:var(--teal); font-size:.8rem; font-weight:700; }
     video { display:block; background:#000; width:100%; aspect-ratio:16/9; }
+    @media (min-width:768px) { video::cue { font-size:75%; } }
     .player p { color:var(--muted); font-size:.89rem; margin:0; padding:1rem 1.5rem 1.25rem; }
     article { padding:clamp(1.2rem,4vw,3rem); }
     article h1, article h2, article h3 { color:#f8fbff; line-height:1.25; scroll-margin-top:1rem; }
@@ -92,7 +93,7 @@ page = r'''<!doctype html>
       <track src="Captions-en.vtt" kind="subtitles" srclang="en" label="English translation (automatic, optional)">
       Your browser cannot play this video. <a href="Batch-01-Lecture.mp4">Download the MP4</a> or read the detailed guide below.
     </video>
-    <p><strong>Subtitle check:</strong> The video has burned-in Roman-Hinglish, transliterated from the synthesis input. The optional English translation appears near the top to avoid the burned-in captions; placement may vary by player. Both tracks are automatically audio-aligned, and a separate automatic recognition pass checked the recording. Neither wording nor timing has been human-verified as verbatim. <a href="Caption-Check.md">How the check was done</a> · <a href="Narration-hi.txt">Read synthesis input</a> · <a href="Captions-en.vtt">English subtitles</a> · <a href="Captions-roman.vtt">Roman-Hinglish subtitles</a> · <a href="Batch-01-Audio.mp3">Download audio</a> · <a href="Batch-01-Lecture.mp4">Download video</a></p>
+    <p><strong>Subtitle check:</strong> The video has burned-in Roman-Hinglish, transliterated from the synthesis input. The optional English translation appears near the top to avoid the burned-in captions; placement may vary by player. Both tracks are automatically audio-aligned, and a separate automatic recognition pass checked the recording. Neither wording nor timing has been human-verified as verbatim. <a href="Caption-Check.md">How the check was done</a> · <a href="Caption-Review.html">Human cue-by-cue review</a> · <a href="Narration-hi.txt">Read synthesis input</a> · <a href="Captions-en.vtt">English subtitles</a> · <a href="Captions-roman.vtt">Roman-Hinglish subtitles</a> · <a href="Batch-01-Audio.mp3">Download audio</a> · <a href="Batch-01-Lecture.mp4">Download video</a></p>
   </section>
   <article id="guide" tabindex="-1">__BODY__</article>
 </main>

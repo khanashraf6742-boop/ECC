@@ -11,6 +11,7 @@ from pathlib import Path
 import os
 import re
 import sys
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parent
 
@@ -26,6 +27,12 @@ class CourseHandler(SimpleHTTPRequestHandler):
 
     def send_head(self):
         self.remaining = None
+        if urlsplit(self.path).path == '/':
+            self.send_response(302)
+            self.send_header('Location', '/Batch-01-Guide.html')
+            self.send_header('Content-Length', '0')
+            self.end_headers()
+            return None
         range_header = self.headers.get('Range')
         path = self.translate_path(self.path)
         if not range_header or not os.path.isfile(path):

@@ -64,6 +64,19 @@ def make_cues(section: dict, blocks: list[dict]) -> list[dict]:
                 while len(' '.join(tail)) < 25 and len(previous) > 4:
                     tail.insert(0, previous.pop())
                 parts[-2], parts[-1] = ' '.join(previous), ' '.join(tail)
+            # Keep a multiword spoken number together. A cue ending in “two”
+            # while the next starts “thousand” is misleading during playback.
+            number_words = {'one', 'two', 'three', 'four', 'five', 'six', 'seven',
+                            'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen',
+                            'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen',
+                            'nineteen', 'twenty', 'thirty', 'forty', 'fifty', 'sixty',
+                            'seventy', 'eighty', 'ninety', 'hundred', 'thousand'}
+            for i in range(len(parts) - 1):
+                previous, following = parts[i].split(), parts[i + 1].split()
+                while (len(previous) > 1 and previous[-1].strip('.,').lower() in number_words
+                       and following[0].strip('.,').lower() in number_words):
+                    following.insert(0, previous.pop())
+                parts[i], parts[i + 1] = ' '.join(previous), ' '.join(following)
             for part in parts:
                 count = len(part.split())
                 group = words[cursor:cursor + count]

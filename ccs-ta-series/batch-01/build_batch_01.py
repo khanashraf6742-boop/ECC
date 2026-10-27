@@ -327,7 +327,7 @@ def make_subtitles(captions, english: list[str], temp: Path, publish: bool = Tru
     ]
     for i, ((start, end, source), translated) in enumerate(zip(captions, english), 1):
         roman = romanize_hinglish(source, dictionary)
-        for dest, text, setting in ((en_vtt, translated, ' line:5% position:50% align:center'),
+        for dest, text, setting in ((en_vtt, translated, ' line:0% position:50% align:center'),
                                     (roman_vtt, roman, '')):
             lines = textwrap.wrap(text, width=62, break_long_words=False, break_on_hyphens=False)
             dest += [str(i), f'{stamp(start)} --> {stamp(end)}{setting}', '\n'.join(lines), '']

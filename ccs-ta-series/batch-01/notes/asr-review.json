@@ -1489,6 +1489,128 @@
       ]
     },
     {
+      "audio": "ta-updated-rates-transfer-effects.mp3",
+      "audio_sha256": "231d3572e27e51a71a3712df11147d3ab28c8830d6931c3e491d820a3a0a9ff1",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 4.45,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 4.2,
+              "text": " 1 January 2026, dearness allowance 60% hai."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 4.45,
+          "end": 10.86,
+          "segments": [
+            {
+              "start": 4.45,
+              "end": 10.65,
+              "text": " 50-60 jane par eligible TA rates mein aekot 25% automatic increase nahi hota."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 10.86,
+          "end": 14.2,
+          "segments": [
+            {
+              "start": 10.86,
+              "end": 13.26,
+              "text": " 1st revision, January 2024."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 14.2,
+          "end": 24.7,
+          "segments": [
+            {
+              "start": 14.2,
+              "end": 21.86,
+              "text": " Example, level 6 aur upar personal effects ke road transport ka rate, 50-62 rupees 50 paisa per kilometer ho gaya."
+            },
+            {
+              "start": 22.24,
+              "end": 24.4,
+              "text": " Actual claim ki conditions alak check karen."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 24.7,
+          "end": 27.1,
+          "segments": [
+            {
+              "start": 24.7,
+              "end": 26.76,
+              "text": " Abhik important transfer exception."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 27.1,
+          "end": 41.15,
+          "segments": [
+            {
+              "start": 27.1,
+              "end": 32.9,
+              "text": " North-East region, Andaman and Nikobar, Lakshadweep or Ladakh siya vaha transfer par, agar"
+            },
+            {
+              "start": 32.9,
+              "end": 37.48,
+              "text": " family saath nahi jaati to personal effects ki entitlement ka upto one-third karee kar"
+            },
+            {
+              "start": 37.48,
+              "end": 40.9,
+              "text": " sakte hai aur us one-third claim ke liye receipt mandatory nahi hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 41.15,
+          "end": 44.72,
+          "segments": [
+            {
+              "start": 41.15,
+              "end": 44.47,
+              "text": " Family saaj jai to admissible amount ke liye receipt zaroori hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 44.72,
+          "end": 51.88,
+          "segments": [
+            {
+              "start": 44.72,
+              "end": 50.86,
+              "text": " Example, level 7 ki 6000 kilo rail entitlement ka one third 2000 kilo tak hai. Baaki conditions"
+            },
+            {
+              "start": 50.86,
+              "end": 51.52,
+              "text": " bhi check karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
       "audio": "15-technical-resignation.mp3",
       "audio_sha256": "e98fe01f8f7748985d63d926807fe43c4851bebbff08e5faf5539c658ae9256c",
       "blocks": [

@@ -1151,6 +1151,75 @@
       ]
     },
     {
+      "title": "2026 rates and special-region transfers",
+      "source": "DoE DA OM 22 Apr 2026 · DoP DA-linked allowance circular 5 Jun 2024 · DoE special-region transfer OM 16 Jun 2022",
+      "audio": "ta-updated-rates-transfer-effects.mp3",
+      "beats": [
+        {
+          "heading": "UPDATED RATES  /  WHAT CHANGES AT 60%?",
+          "cards": [
+            [
+              "JAN 2024",
+              "DA reached 50%"
+            ],
+            [
+              "JAN 2026",
+              "DA reached 60%"
+            ],
+            [
+              "FIRST RISE",
+              "+25% on listed heads"
+            ],
+            [
+              "EFFECTS L6+",
+              "Rs 62.50 / km"
+            ]
+          ],
+          "rule": "Specified TA rates rose by 25% from 1 January 2024. The DA rise to 60% from 1 January 2026 is not another 50-point trigger.",
+          "example": "The personal-effects road rate for Levels 6 and above rose from Rs 50 to Rs 62.50 per km, subject to the applicable claim conditions.",
+          "trap": "Do not apply the 25% increase to every allowance, quantity or kilometre limit.",
+          "key": "Apply the relevant clause, journey date and documentary requirements.",
+          "lines": [
+            "एक January twenty twenty six से Dearness Allowance sixty percent है।",
+            "Fifty से sixty जाने पर eligible टी ए rates में एक और twenty five percent automatic increase नहीं होता।",
+            "First revision January twenty twenty four से लागू है।",
+            "Example: Level Six और ऊपर personal effects के road transport का rate fifty से sixty two rupees fifty paise per kilometre हो गया; actual claim की conditions अलग check करें।"
+          ]
+        },
+        {
+          "heading": "TRANSFER TA  /  PERSONAL EFFECTS EXCEPTION",
+          "cards": [
+            [
+              "REGIONS",
+              "NER / A&N / Lakshadweep / Ladakh"
+            ],
+            [
+              "FAMILY NOT WITH",
+              "Up to 1/3; no voucher"
+            ],
+            [
+              "FAMILY WITH",
+              "Admissible cost + voucher"
+            ],
+            [
+              "L7 BY RAIL",
+              "6,000 kg -> 2,000 kg"
+            ]
+          ],
+          "rule": "For transfer to/from the specified regions, unaccompanied employees may carry up to one-third of their effects entitlement and claim that one-third without a mandatory receipt; accompanied cases require vouchers for the admissible amount.",
+          "example": "For an eligible Level 7 rail-effects entitlement of 6,000 kg, one-third is up to 2,000 kg, subject to the OM and other applicable conditions.",
+          "trap": "The no-voucher exception is limited to the specified regions and family-not-accompanying case; it is not a waiver for every transfer.",
+          "key": "The 16 June 2022 OM applies from its issue date; settled cases are not reopened.",
+          "lines": [
+            "अब एक important transfer exception।",
+            "North East Region, Andaman and Nicobar, Lakshadweep या Ladakh से या वहाँ transfer पर, अगर family साथ नहीं जाती, तो personal effects की entitlement का up to one third carry कर सकते हैं, और उस one third claim के लिए receipt mandatory नहीं है।",
+            "Family साथ जाए तो admissible amount के लिए receipt जरूरी है।",
+            "Example: Level Seven की six thousand kilo rail entitlement का one third, two thousand kilo तक है; बाकी conditions भी check करें।"
+          ]
+        }
+      ]
+    },
+    {
       "title": "Technical resignation: specific transfer-TA cases",
       "source": "DoPT Technical Resignation and Lien OM 24 Nov 2022 · paras 2.1, 3.6.3",
       "audio": "15-technical-resignation.mp3",
