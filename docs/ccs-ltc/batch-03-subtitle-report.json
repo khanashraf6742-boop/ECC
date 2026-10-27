@@ -1,0 +1,1333 @@
+{
+  "source_script_sha256": "7e2d4f15f6a5f7ee098fcce966214f758a93492ad94b20af5a80205981ac5bc1",
+  "source_script_file": "batch-03-narration.json",
+  "alignment": "chapter-local MFCC / DTW against Hindi eSpeak NG reference speech",
+  "frame_step_seconds": 0.02,
+  "timing_precision_note": "20ms analysis grid is not a verified 20ms synchronization-accuracy guarantee. Automatic phrase alignment, not certified word-level timing.",
+  "language": "Roman-script city Hinglish; reviewed reversible transliteration, not translation",
+  "chapters": [
+    {
+      "chapter": 1,
+      "dtw_normalized_distance": 0.6009438601028891,
+      "reference_seconds": 43.382,
+      "raw_cue_count": 12,
+      "cue_count": 12
+    },
+    {
+      "chapter": 2,
+      "dtw_normalized_distance": 0.5481446394826721,
+      "reference_seconds": 67.894,
+      "raw_cue_count": 20,
+      "cue_count": 20
+    },
+    {
+      "chapter": 3,
+      "dtw_normalized_distance": 0.5598066256967595,
+      "reference_seconds": 68.921,
+      "raw_cue_count": 21,
+      "cue_count": 21
+    },
+    {
+      "chapter": 4,
+      "dtw_normalized_distance": 0.5701973733579341,
+      "reference_seconds": 68.062,
+      "raw_cue_count": 21,
+      "cue_count": 20
+    },
+    {
+      "chapter": 5,
+      "dtw_normalized_distance": 0.55128424156631,
+      "reference_seconds": 76.04,
+      "raw_cue_count": 21,
+      "cue_count": 21
+    },
+    {
+      "chapter": 6,
+      "dtw_normalized_distance": 0.555370691889444,
+      "reference_seconds": 81.298,
+      "raw_cue_count": 23,
+      "cue_count": 23
+    },
+    {
+      "chapter": 7,
+      "dtw_normalized_distance": 0.5496906396129555,
+      "reference_seconds": 73.937,
+      "raw_cue_count": 20,
+      "cue_count": 20
+    },
+    {
+      "chapter": 8,
+      "dtw_normalized_distance": 0.533627042747853,
+      "reference_seconds": 75.065,
+      "raw_cue_count": 21,
+      "cue_count": 21
+    },
+    {
+      "chapter": 9,
+      "dtw_normalized_distance": 0.5551052510631741,
+      "reference_seconds": 81.726,
+      "raw_cue_count": 21,
+      "cue_count": 21
+    }
+  ],
+  "cues": [
+    {
+      "chapter": 1,
+      "start": 0.0,
+      "end": 3.96,
+      "text": "Batch three, Rules five aur six.",
+      "spoken_text": "Batch three, Rules five और six."
+    },
+    {
+      "chapter": 1,
+      "start": 3.96,
+      "end": 7.96,
+      "text": "Important dates: eleven February aur twenty four June nineteen fifty eight,",
+      "spoken_text": "Important dates: eleven February और twenty four June nineteen fifty eight,"
+    },
+    {
+      "chapter": 1,
+      "start": 7.96,
+      "end": 10.7,
+      "text": "declaration aur hometown test orders.",
+      "spoken_text": "declaration और hometown test orders."
+    },
+    {
+      "chapter": 1,
+      "start": 10.7,
+      "end": 15.2,
+      "text": "Eighteen May twenty fifteen, HQ aur hometown clarification.",
+      "spoken_text": "Eighteen May twenty fifteen, HQ और hometown clarification."
+    },
+    {
+      "chapter": 1,
+      "start": 15.2,
+      "end": 20.24,
+      "text": "One July aur three September twenty twenty five, FAQ aur consolidation.",
+      "spoken_text": "One July और three September twenty twenty five, FAQ और consolidation."
+    },
+    {
+      "chapter": 1,
+      "start": 20.24,
+      "end": 23.74,
+      "text": "Thirty one October nineteen fifty eight ki window expired hai.",
+      "spoken_text": "Thirty one October nineteen fifty eight की window expired है."
+    },
+    {
+      "chapter": 1,
+      "start": 23.74,
+      "end": 27.38,
+      "text": "Aaj regular block twenty twenty six to twenty nine hai; sub blocks twenty",
+      "spoken_text": "Aaj regular block twenty twenty six to twenty nine है; sub blocks twenty"
+    },
+    {
+      "chapter": 1,
+      "start": 27.38,
+      "end": 31.84,
+      "text": "twenty six to twenty seven aur twenty twenty eight to twenty nine.",
+      "spoken_text": "twenty six to twenty seven और twenty twenty eight to twenty nine."
+    },
+    {
+      "chapter": 1,
+      "start": 31.84,
+      "end": 35.8,
+      "text": "Eligible unused previous block carryover ki conditional deadline thirty one",
+      "spoken_text": "Eligible unused previous block carryover की conditional deadline thirty one"
+    },
+    {
+      "chapter": 1,
+      "start": 35.8,
+      "end": 37.48,
+      "text": "December twenty twenty six hai.",
+      "spoken_text": "December twenty twenty six है."
+    },
+    {
+      "chapter": 1,
+      "start": 37.48,
+      "end": 41.76,
+      "text": "Sir, journey se pehle aur baad wali approval ka difference exact references aur",
+      "spoken_text": "Sir, journey से पहले और बाद वाली approval का difference exact references और"
+    },
+    {
+      "chapter": 1,
+      "start": 41.76,
+      "end": 42.92,
+      "text": "examples se samjhaiye.",
+      "spoken_text": "examples से समझाइये."
+    },
+    {
+      "chapter": 2,
+      "start": 42.92,
+      "end": 47.96,
+      "text": "Rule four, clause E; Rule five, hometown acceptance.",
+      "spoken_text": "Rule four, clause E; Rule five, hometown acceptance."
+    },
+    {
+      "chapter": 2,
+      "start": 47.96,
+      "end": 52.0,
+      "text": "Hometown employee declare kare aur Controlling Officer accept kare.",
+      "spoken_text": "Hometown employee declare करे और Controlling Officer accept करे."
+    },
+    {
+      "chapter": 2,
+      "start": 52.0,
+      "end": 55.08,
+      "text": "Sirf postal address ya birthplace enough nahi.",
+      "spoken_text": "Sirf postal address या birthplace enough नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 55.08,
+      "end": 60.18,
+      "text": "Example, Ravi ka new flat Pune mein hai; flat purchase se accepted hometown",
+      "spoken_text": "Example, Ravi का new flat Pune में है; flat purchase से accepted hometown"
+    },
+    {
+      "chapter": 2,
+      "start": 60.18,
+      "end": 62.48,
+      "text": "Jaipur automatically Pune nahi hota.",
+      "spoken_text": "Jaipur automatically Pune नहीं होता."
+    },
+    {
+      "chapter": 2,
+      "start": 62.48,
+      "end": 65.58,
+      "text": "Rule five, accepted hometown ki finality.",
+      "spoken_text": "Rule five, accepted hometown की finality."
+    },
+    {
+      "chapter": 2,
+      "start": 65.58,
+      "end": 70.6,
+      "text": "Accepted hometown final hai; next LTC form par naya naam likhkar record replace",
+      "spoken_text": "Accepted hometown final है; next LTC form पर नया नाम लिखकर record replace"
+    },
+    {
+      "chapter": 2,
+      "start": 70.6,
+      "end": 71.66,
+      "text": "nahi kar sakte.",
+      "spoken_text": "नहीं कर सकते."
+    },
+    {
+      "chapter": 2,
+      "start": 71.66,
+      "end": 75.94,
+      "text": "Example, Jaipur accepted hai; next form par Goa likhne se Goa",
+      "spoken_text": "Example, Jaipur accepted है; next form पर Goa लिखने से Goa"
+    },
+    {
+      "chapter": 2,
+      "start": 75.94,
+      "end": 77.44,
+      "text": "hometown nahi banega.",
+      "spoken_text": "hometown नहीं बनेगा."
+    },
+    {
+      "chapter": 2,
+      "start": 77.44,
+      "end": 80.18,
+      "text": "Rule five, exceptional circumstances condition.",
+      "spoken_text": "Rule five, exceptional circumstances condition."
+    },
+    {
+      "chapter": 2,
+      "start": 80.18,
+      "end": 84.64,
+      "text": "Change sirf exceptional circumstances mein authorise ho sakta hai; unused",
+      "spoken_text": "Change सिर्फ exceptional circumstances में authorise हो सकता है; unused"
+    },
+    {
+      "chapter": 2,
+      "start": 84.64,
+      "end": 85.82,
+      "text": "option automatic right nahi.",
+      "spoken_text": "option automatic right नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 85.82,
+      "end": 88.99,
+      "text": "Example, Employee ne kabhi change nahi liya,",
+      "spoken_text": "Example, Employee ने कभी change नहीं लिया,"
+    },
+    {
+      "chapter": 2,
+      "start": 88.99,
+      "end": 91.79,
+      "text": "par bas holiday preference badli hai; change guaranteed nahi.",
+      "spoken_text": "पर बस holiday preference बदली है; change guaranteed नहीं."
+    },
+    {
+      "chapter": 2,
+      "start": 91.79,
+      "end": 95.42,
+      "text": "Rule five, Head of Department authority.",
+      "spoken_text": "Rule five, Head of Department authority."
+    },
+    {
+      "chapter": 2,
+      "start": 95.42,
+      "end": 98.94,
+      "text": "Normal employee ka hometown change Head of Department authorise karta hai;",
+      "spoken_text": "Normal employee का hometown change Head of Department authorise करता है;"
+    },
+    {
+      "chapter": 2,
+      "start": 98.94,
+      "end": 101.48,
+      "text": "initial acceptance wala role alag hai.",
+      "spoken_text": "initial acceptance वाला role अलग है."
+    },
+    {
+      "chapter": 2,
+      "start": 101.48,
+      "end": 105.32,
+      "text": "Example, Section officer ne approval sign kiya; pehle check karo kya woh",
+      "spoken_text": "Example, Section officer ने approval sign किया; पहले check करो क्या वो"
+    },
+    {
+      "chapter": 2,
+      "start": 105.32,
+      "end": 107.82,
+      "text": "competent HoD capacity mein authorised hai.",
+      "spoken_text": "competent HoD capacity में authorised है."
+    },
+    {
+      "chapter": 3,
+      "start": 107.82,
+      "end": 111.68,
+      "text": "Rule five, employee khud Head of Department ho.",
+      "spoken_text": "Rule five, employee खुद Head of Department हो."
+    },
+    {
+      "chapter": 3,
+      "start": 111.68,
+      "end": 116.06,
+      "text": "Employee khud HoD hai toh hometown change Administrative Ministry authorise",
+      "spoken_text": "Employee खुद HoD है तो hometown change Administrative Ministry authorise"
+    },
+    {
+      "chapter": 3,
+      "start": 116.06,
+      "end": 118.24,
+      "text": "karegi; self approval nahi.",
+      "spoken_text": "करेगी; self approval नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 118.24,
+      "end": 123.12,
+      "text": "Example, Director khud HoD hai; apna Jaipur se Udaipur change apne signature",
+      "spoken_text": "Example, Director खुद HoD है; अपना Jaipur से Udaipur change अपने signature"
+    },
+    {
+      "chapter": 3,
+      "start": 123.12,
+      "end": 124.74,
+      "text": "se clear nahi karega.",
+      "spoken_text": "से clear नहीं करेगा."
+    },
+    {
+      "chapter": 3,
+      "start": 124.74,
+      "end": 127.9,
+      "text": "Rule five, once during service ceiling.",
+      "spoken_text": "Rule five, once during service ceiling."
+    },
+    {
+      "chapter": 3,
+      "start": 127.9,
+      "end": 131.88,
+      "text": "Normal Rule five power mein entire service ke dauraan maximum one change;",
+      "spoken_text": "Normal Rule five power में entire service के दौरान maximum one change;"
+    },
+    {
+      "chapter": 3,
+      "start": 131.88,
+      "end": 134.94,
+      "text": "transfer ya new block se reset nahi.",
+      "spoken_text": "transfer या new block से reset नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 134.94,
+      "end": 139.29,
+      "text": "Example, Employee ek authorised change le chuka hai; next posting par second",
+      "spoken_text": "Example, Employee एक authorised change ले चुका है; next posting पर second"
+    },
+    {
+      "chapter": 3,
+      "start": 139.29,
+      "end": 141.58,
+      "text": "change normal Rule five se nahi milega.",
+      "spoken_text": "change normal Rule five से नहीं मिलेगा."
+    },
+    {
+      "chapter": 3,
+      "start": 141.58,
+      "end": 146.08,
+      "text": "Rule five, GID one, opening test; order twenty four June",
+      "spoken_text": "Rule five, GID one, opening test; order twenty four June"
+    },
+    {
+      "chapter": 3,
+      "start": 146.08,
+      "end": 147.4,
+      "text": "nineteen fifty eight.",
+      "spoken_text": "nineteen fifty eight."
+    },
+    {
+      "chapter": 3,
+      "start": 147.4,
+      "end": 152.38,
+      "text": "Main test: Government service ki wajah se door na hote toh normally kahan rehte?",
+      "spoken_text": "Main test: Government service की वजह से दूर न होते तो normally कहाँ रहते?"
+    },
+    {
+      "chapter": 3,
+      "start": 152.38,
+      "end": 154.52,
+      "text": "Example, Neha Delhi posting par hai,",
+      "spoken_text": "Example, Neha Delhi posting पर है,"
+    },
+    {
+      "chapter": 3,
+      "start": 154.52,
+      "end": 157.52,
+      "text": "par normal home connection Kota ka hai; sirf Delhi job",
+      "spoken_text": "पर normal home connection Kota का है; सिर्फ Delhi job"
+    },
+    {
+      "chapter": 3,
+      "start": 157.52,
+      "end": 158.44,
+      "text": "location decisive nahi.",
+      "spoken_text": "location decisive नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 158.44,
+      "end": 163.14,
+      "text": "Rule five, GID one, paragraph one, illustrative criteria.",
+      "spoken_text": "Rule five, GID one, paragraph one, illustrative criteria."
+    },
+    {
+      "chapter": 3,
+      "start": 163.14,
+      "end": 167.37,
+      "text": "Property aur relatives ke clues illustrative hain; har employee ke paas own",
+      "spoken_text": "Property और relatives के clues illustrative हैं; हर employee के पास own"
+    },
+    {
+      "chapter": 3,
+      "start": 167.37,
+      "end": 169.6,
+      "text": "house hona compulsory nahi.",
+      "spoken_text": "house होना compulsory नहीं."
+    },
+    {
+      "chapter": 3,
+      "start": 169.6,
+      "end": 173.4,
+      "text": "Example, Neha ke paas Kota mein house nahi; sirf isi reason se baaki hometown",
+      "spoken_text": "Example, Neha के पास Kota में house नहीं; सिर्फ इसी reason से बाकी hometown"
+    },
+    {
+      "chapter": 3,
+      "start": 173.4,
+      "end": 175.12,
+      "text": "evidence ignore mat karo.",
+      "spoken_text": "evidence ignore मत करो."
+    },
+    {
+      "chapter": 4,
+      "start": 175.12,
+      "end": 178.78,
+      "text": "Rule five, GID one, criterion Roman one.",
+      "spoken_text": "Rule five, GID one, criterion Roman one."
+    },
+    {
+      "chapter": 4,
+      "start": 178.78,
+      "end": 183.58,
+      "text": "First criterion: domestic ya social obligations ke liye presence chahiye,",
+      "spoken_text": "First criterion: domestic या social obligations के लिए presence चाहिये,"
+    },
+    {
+      "chapter": 4,
+      "start": 183.58,
+      "end": 186.54,
+      "text": "aur service join karne ke baad frequent visits hue hon.",
+      "spoken_text": "और service join करने के बाद frequent visits हुए हों."
+    },
+    {
+      "chapter": 4,
+      "start": 186.54,
+      "end": 191.12,
+      "text": "Example, Ravi Jaipur regularly family responsibilities ke liye jaata hai; yeh",
+      "spoken_text": "Example, Ravi Jaipur regularly family responsibilities के लिए जाता है; ये"
+    },
+    {
+      "chapter": 4,
+      "start": 191.12,
+      "end": 193.7,
+      "text": "first criterion ka evidence ho sakta hai.",
+      "spoken_text": "first criterion का evidence हो सकता है."
+    },
+    {
+      "chapter": 4,
+      "start": 193.7,
+      "end": 197.38,
+      "text": "Rule five, GID one, criterion Roman two.",
+      "spoken_text": "Rule five, GID one, criterion Roman two."
+    },
+    {
+      "chapter": 4,
+      "start": 197.38,
+      "end": 201.64,
+      "text": "Next criterion residential property hai: own house ya employee ki joint",
+      "spoken_text": "Next criterion residential property है: own house या employee की joint"
+    },
+    {
+      "chapter": 4,
+      "start": 201.64,
+      "end": 202.94,
+      "text": "family ka house.",
+      "spoken_text": "family का house."
+    },
+    {
+      "chapter": 4,
+      "start": 202.94,
+      "end": 205.55,
+      "text": "Example, Individual title Ravi ke naam nahi,",
+      "spoken_text": "Example, Individual title Ravi के नाम नहीं,"
+    },
+    {
+      "chapter": 4,
+      "start": 205.55,
+      "end": 208.51,
+      "text": "par woh residential property wali joint family ka member hai; yeh",
+      "spoken_text": "पर वो residential property वाली joint family का member है; ये"
+    },
+    {
+      "chapter": 4,
+      "start": 208.51,
+      "end": 209.88,
+      "text": "route check karo.",
+      "spoken_text": "route check करो."
+    },
+    {
+      "chapter": 4,
+      "start": 209.88,
+      "end": 212.64,
+      "text": "Rule five, GID one, criterion Roman three.",
+      "spoken_text": "Rule five, GID one, criterion Roman three."
+    },
+    {
+      "chapter": 4,
+      "start": 212.64,
+      "end": 217.67,
+      "text": "Third criterion near relations ka residence hai; deciding basis ho toh fairly",
+      "spoken_text": "Third criterion near relations का residence है; deciding basis हो तो fairly"
+    },
+    {
+      "chapter": 4,
+      "start": 217.67,
+      "end": 219.22,
+      "text": "permanent connection chahiye.",
+      "spoken_text": "permanent connection चाहिये."
+    },
+    {
+      "chapter": 4,
+      "start": 219.22,
+      "end": 223.18,
+      "text": "Example, Kota mein near relations genuinely settle hain; short holiday visit",
+      "spoken_text": "Example, Kota में near relations genuinely settle हैं; short holiday visit"
+    },
+    {
+      "chapter": 4,
+      "start": 223.18,
+      "end": 224.84,
+      "text": "se yeh fact alag hai.",
+      "spoken_text": "से ये fact अलग है."
+    },
+    {
+      "chapter": 4,
+      "start": 224.84,
+      "end": 227.5,
+      "text": "Rule five, GID one, criterion Roman four.",
+      "spoken_text": "Rule five, GID one, criterion Roman four."
+    },
+    {
+      "chapter": 4,
+      "start": 227.5,
+      "end": 231.86,
+      "text": "Fourth criterion: Government service se pehle employee wahan kuch years raha tha kya?",
+      "spoken_text": "Fourth criterion: Government service से पहले employee वहाँ कुछ years रहा था क्या?"
+    },
+    {
+      "chapter": 4,
+      "start": 231.86,
+      "end": 236.36,
+      "text": "Example, Neha Kota mein several years rahi thi before service; sirf hospital",
+      "spoken_text": "Example, Neha Kota में several years रही थी before service; सिर्फ hospital"
+    },
+    {
+      "chapter": 4,
+      "start": 236.36,
+      "end": 238.18,
+      "text": "mein birth hona same fact nahi.",
+      "spoken_text": "में birth होना same fact नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 238.18,
+      "end": 243.13,
+      "text": "Rule five, GID one, Note on sequential criteria.",
+      "spoken_text": "Rule five, GID one, Note on sequential criteria."
+    },
+    {
+      "chapter": 5,
+      "start": 243.13,
+      "end": 247.12,
+      "text": "Order visits, property, near relations, pre service residence hai.",
+      "spoken_text": "Order visits, property, near relations, pre service residence है."
+    },
+    {
+      "chapter": 5,
+      "start": 247.12,
+      "end": 251.12,
+      "text": "Previous criterion satisfy na ho tab next par jao.",
+      "spoken_text": "Previous criterion satisfy न हो तब next पर जाओ."
+    },
+    {
+      "chapter": 5,
+      "start": 251.12,
+      "end": 255.78,
+      "text": "Example, First criterion satisfy hai; phir bhi chaaron ko compulsory bana kar",
+      "spoken_text": "Example, First criterion satisfy है; फिर भी चारों को compulsory बना कर"
+    },
+    {
+      "chapter": 5,
+      "start": 255.78,
+      "end": 257.57,
+      "text": "rejection mat karo.",
+      "spoken_text": "rejection मत करो."
+    },
+    {
+      "chapter": 5,
+      "start": 257.57,
+      "end": 261.62,
+      "text": "Rule five, GID one, multiple property paragraph.",
+      "spoken_text": "Rule five, GID one, multiple property paragraph."
+    },
+    {
+      "chapter": 5,
+      "start": 261.62,
+      "end": 263.9,
+      "text": "Employee ya jis family ka woh member hai,",
+      "spoken_text": "Employee या जिस family का वो member है,"
+    },
+    {
+      "chapter": 5,
+      "start": 263.9,
+      "end": 267.19,
+      "text": "unki residential ya landed property multiple places par ho,",
+      "spoken_text": "उनकी residential या landed property multiple places पर हो,"
+    },
+    {
+      "chapter": 5,
+      "start": 267.19,
+      "end": 270.86,
+      "text": "toh reasons ke saath choice do; CO accept ya reject karega.",
+      "spoken_text": "तो reasons के साथ choice दो; CO accept या reject करेगा."
+    },
+    {
+      "chapter": 5,
+      "start": 270.86,
+      "end": 275.74,
+      "text": "Example, Jaipur aur Kota dono jagah family property hai; employee Kota choose",
+      "spoken_text": "Example, Jaipur और Kota दोनों जगह family property है; employee Kota choose"
+    },
+    {
+      "chapter": 5,
+      "start": 275.74,
+      "end": 278.92,
+      "text": "karke reasons de, automatic acceptance nahi.",
+      "spoken_text": "करके reasons दे, automatic acceptance नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 278.92,
+      "end": 283.56,
+      "text": "Rule five, GID one, near relations permanence paragraph.",
+      "spoken_text": "Rule five, GID one, near relations permanence paragraph."
+    },
+    {
+      "chapter": 5,
+      "start": 283.56,
+      "end": 287.2,
+      "text": "Near relations ko deciding basis bana rahe ho toh unka stay fairly permanent",
+      "spoken_text": "Near relations को deciding basis बना रहे हो तो उनका stay fairly permanent"
+    },
+    {
+      "chapter": 5,
+      "start": 287.2,
+      "end": 289.4,
+      "text": "hona chahiye, temporary holiday nahi.",
+      "spoken_text": "होना चाहिये, temporary holiday नहीं."
+    },
+    {
+      "chapter": 5,
+      "start": 289.4,
+      "end": 294.26,
+      "text": "Example, Aunt ek week Shimla ghoomne aayi hai; us visit se Shimla ka permanent",
+      "spoken_text": "Example, Aunt एक week Shimla घूमने आई है; उस visit से Shimla का permanent"
+    },
+    {
+      "chapter": 5,
+      "start": 294.26,
+      "end": 296.78,
+      "text": "family connection establish nahi hota.",
+      "spoken_text": "family connection establish नहीं होता."
+    },
+    {
+      "chapter": 5,
+      "start": 296.78,
+      "end": 301.43,
+      "text": "Rule five, GID one, paragraphs two and three, historical only.",
+      "spoken_text": "Rule five, GID one, paragraphs two and three, historical only."
+    },
+    {
+      "chapter": 5,
+      "start": 301.43,
+      "end": 305.4,
+      "text": "Thirty one October nineteen fifty eight redeclaration window expired hai;",
+      "spoken_text": "Thirty one October nineteen fifty eight redeclaration window expired है;"
+    },
+    {
+      "chapter": 5,
+      "start": 305.4,
+      "end": 308.06,
+      "text": "nineteen fifty eight to fifty nine block historical hai.",
+      "spoken_text": "nineteen fifty eight to fifty nine block historical है."
+    },
+    {
+      "chapter": 5,
+      "start": 308.06,
+      "end": 312.96,
+      "text": "Example, Aaj new declaration ko old transition bolkar one change limit bypass",
+      "spoken_text": "Example, Aaj new declaration को old transition बोलकर one change limit bypass"
+    },
+    {
+      "chapter": 5,
+      "start": 312.96,
+      "end": 313.82,
+      "text": "nahi kar sakte.",
+      "spoken_text": "नहीं कर सकते."
+    },
+    {
+      "chapter": 6,
+      "start": 313.82,
+      "end": 319.6,
+      "text": "Rule seven, GID four; order eleven February nineteen fifty eight.",
+      "spoken_text": "Rule seven, GID four; order eleven February nineteen fifty eight."
+    },
+    {
+      "chapter": 6,
+      "start": 319.6,
+      "end": 324.48,
+      "text": "Officer apna own Controlling Officer ho toh initial ya subsequent hometown",
+      "spoken_text": "Officer अपना own Controlling Officer हो तो initial या subsequent hometown"
+    },
+    {
+      "chapter": 6,
+      "start": 324.48,
+      "end": 328.3,
+      "text": "declaration next superior administrative authority ko acceptance",
+      "spoken_text": "declaration next superior administrative authority को acceptance"
+    },
+    {
+      "chapter": 6,
+      "start": 328.3,
+      "end": 329.44,
+      "text": "ke liye bheje.",
+      "spoken_text": "के लिए भेजे."
+    },
+    {
+      "chapter": 6,
+      "start": 329.44,
+      "end": 335.08,
+      "text": "Example, Officer TA mein own CO hai; hometown acceptance ke liye sirf apne aap",
+      "spoken_text": "Example, Officer TA में own CO है; hometown acceptance के लिए सिर्फ अपने आप"
+    },
+    {
+      "chapter": 6,
+      "start": 335.08,
+      "end": 337.27,
+      "text": "sign karke file close nahi kare.",
+      "spoken_text": "sign करके file close नहीं करे."
+    },
+    {
+      "chapter": 6,
+      "start": 337.27,
+      "end": 341.86,
+      "text": "Rule seven, GID four, already sent declarations sentence.",
+      "spoken_text": "Rule seven, GID four, already sent declarations sentence."
+    },
+    {
+      "chapter": 6,
+      "start": 341.86,
+      "end": 346.15,
+      "text": "Own CO officer ne pehle declaration direct Accounts ko bheji thi,",
+      "spoken_text": "Own CO officer ने पहले declaration direct Accounts को भेजी थी,"
+    },
+    {
+      "chapter": 6,
+      "start": 346.15,
+      "end": 349.8,
+      "text": "tab bhi prescribed superior acceptance procedure follow karna hai.",
+      "spoken_text": "तब भी prescribed superior acceptance procedure follow करना है."
+    },
+    {
+      "chapter": 6,
+      "start": 349.8,
+      "end": 354.06,
+      "text": "Example, Accounts mein declaration ki copy mil gayi; sirf receipt ko",
+      "spoken_text": "Example, Accounts में declaration की copy मिल गयी; सिर्फ receipt को"
+    },
+    {
+      "chapter": 6,
+      "start": 354.06,
+      "end": 356.8,
+      "text": "competent acceptance ka substitute mat maano.",
+      "spoken_text": "competent acceptance का substitute मत मानो."
+    },
+    {
+      "chapter": 6,
+      "start": 356.8,
+      "end": 361.3,
+      "text": "Rule seven, GID four, CAG and Secretaries exception.",
+      "spoken_text": "Rule seven, GID four, CAG and Secretaries exception."
+    },
+    {
+      "chapter": 6,
+      "start": 361.3,
+      "end": 365.22,
+      "text": "Comptroller and Auditor General aur Secretaries to Government initial aur",
+      "spoken_text": "Comptroller and Auditor General और Secretaries to Government initial और"
+    },
+    {
+      "chapter": 6,
+      "start": 365.22,
+      "end": 368.71,
+      "text": "subsequent change declarations direct concerned Accounts Officer ko",
+      "spoken_text": "subsequent change declarations direct concerned Accounts Officer को"
+    },
+    {
+      "chapter": 6,
+      "start": 368.71,
+      "end": 370.32,
+      "text": "communicate karte hain.",
+      "spoken_text": "communicate करते हैं."
+    },
+    {
+      "chapter": 6,
+      "start": 370.32,
+      "end": 372.88,
+      "text": "Example, Regional Director own CO hai,",
+      "spoken_text": "Example, Regional Director own CO है,"
+    },
+    {
+      "chapter": 6,
+      "start": 372.88,
+      "end": 376.56,
+      "text": "par Secretary to Government nahi; direct Accounts wali special exception",
+      "spoken_text": "पर Secretary to Government नहीं; direct Accounts वाली special exception"
+    },
+    {
+      "chapter": 6,
+      "start": 376.56,
+      "end": 378.14,
+      "text": "assume nahi kare.",
+      "spoken_text": "assume नहीं करे."
+    },
+    {
+      "chapter": 6,
+      "start": 378.14,
+      "end": 382.34,
+      "text": "Rule six, advance declaration, self or any family member.",
+      "spoken_text": "Rule six, advance declaration, self or any family member."
+    },
+    {
+      "chapter": 6,
+      "start": 382.34,
+      "end": 385.28,
+      "text": "All India LTC self ya family ke liye ho,",
+      "spoken_text": "All India LTC self या family के लिए हो,"
+    },
+    {
+      "chapter": 6,
+      "start": 385.28,
+      "end": 388.76,
+      "text": "intended place employee advance mein Controlling Officer ko declare kare.",
+      "spoken_text": "intended place employee advance में Controlling Officer को declare करे."
+    },
+    {
+      "chapter": 6,
+      "start": 388.76,
+      "end": 393.06,
+      "text": "Example, Sirf wife Kochi jaa rahi hai; employee travel nahi kar raha,",
+      "spoken_text": "Example, Sirf wife Kochi जा रही है; employee travel नहीं कर रहा,"
+    },
+    {
+      "chapter": 6,
+      "start": 393.06,
+      "end": 395.32,
+      "text": "phir bhi destination declaration chahiye.",
+      "spoken_text": "फिर भी destination declaration चाहिये."
+    },
+    {
+      "chapter": 7,
+      "start": 395.32,
+      "end": 402.4,
+      "text": "Rule six, recipient and timing; Rule four GID two, Roman one se distinction.",
+      "spoken_text": "Rule six, recipient and timing; Rule four GID two, Roman one से distinction."
+    },
+    {
+      "chapter": 7,
+      "start": 402.4,
+      "end": 405.72,
+      "text": "Destination Controlling Officer ko advance declare karo.",
+      "spoken_text": "Destination Controlling Officer को advance declare करो."
+    },
+    {
+      "chapter": 7,
+      "start": 405.72,
+      "end": 410.02,
+      "text": "Rule six khud universal twenty one ya thirty day deadline nahi deta.",
+      "spoken_text": "Rule six खुद universal twenty one या thirty day deadline नहीं देता."
+    },
+    {
+      "chapter": 7,
+      "start": 410.02,
+      "end": 414.24,
+      "text": "Example, Head of Office ne money advance sanction kiya; isse destination",
+      "spoken_text": "Example, Head of Office ने money advance sanction किया; इससे destination"
+    },
+    {
+      "chapter": 7,
+      "start": 414.24,
+      "end": 416.89,
+      "text": "declaration automatically complete mat samjho.",
+      "spoken_text": "declaration automatically complete मत समझो."
+    },
+    {
+      "chapter": 7,
+      "start": 416.89,
+      "end": 420.13,
+      "text": "Rule six, change before commencement of journey.",
+      "spoken_text": "Rule six, change before commencement of journey."
+    },
+    {
+      "chapter": 7,
+      "start": 420.13,
+      "end": 423.94,
+      "text": "Journey start se pehle declared destination Controlling Officer ki approval",
+      "spoken_text": "Journey start से पहले declared destination Controlling Officer की approval"
+    },
+    {
+      "chapter": 7,
+      "start": 423.94,
+      "end": 425.18,
+      "text": "se badal sakte hain.",
+      "spoken_text": "से बदल सकते हैं."
+    },
+    {
+      "chapter": 7,
+      "start": 425.18,
+      "end": 429.38,
+      "text": "Example, Goa declared tha; departure se pehle Kochi change chahiye,",
+      "spoken_text": "Example, Goa declared था; departure से पहले Kochi change चाहिये,"
+    },
+    {
+      "chapter": 7,
+      "start": 429.38,
+      "end": 432.19,
+      "text": "toh CO approval lo, sirf ticket edit nahi.",
+      "spoken_text": "तो CO approval लो, सिर्फ ticket edit नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 432.19,
+      "end": 435.69,
+      "text": "Rule six, prohibition after commencement of journey.",
+      "spoken_text": "Rule six, prohibition after commencement of journey."
+    },
+    {
+      "chapter": 7,
+      "start": 435.69,
+      "end": 439.42,
+      "text": "Journey start ke baad destination normally change nahi; ticket change karna",
+      "spoken_text": "Journey start के बाद destination normally change नहीं; ticket change करना"
+    },
+    {
+      "chapter": 7,
+      "start": 439.42,
+      "end": 441.29,
+      "text": "legal approval ka substitute nahi.",
+      "spoken_text": "legal approval का substitute नहीं."
+    },
+    {
+      "chapter": 7,
+      "start": 441.29,
+      "end": 445.44,
+      "text": "Example, Goa ke liye journey start hui; holiday preference se Kochi jaakar",
+      "spoken_text": "Example, Goa के लिए journey start हुई; holiday preference से Kochi जाकर"
+    },
+    {
+      "chapter": 7,
+      "start": 445.44,
+      "end": 447.8,
+      "text": "claim mein quietly naam change mat karo.",
+      "spoken_text": "claim में quietly नाम change मत करो."
+    },
+    {
+      "chapter": 7,
+      "start": 447.8,
+      "end": 450.7,
+      "text": "Rule six, post commencement exception conditions.",
+      "spoken_text": "Rule six, post commencement exception conditions."
+    },
+    {
+      "chapter": 7,
+      "start": 450.7,
+      "end": 454.38,
+      "text": "Exception mein establish karo ki beyond control circumstances se change",
+      "spoken_text": "Exception में establish करो की beyond control circumstances से change"
+    },
+    {
+      "chapter": 7,
+      "start": 454.38,
+      "end": 456.96,
+      "text": "request journey se pehle nahi ho sakti thi.",
+      "spoken_text": "request journey से पहले नहीं हो सकती थी."
+    },
+    {
+      "chapter": 7,
+      "start": 456.96,
+      "end": 460.98,
+      "text": "Example, Journey start ke baad sudden closure hua; dated evidence ke saath",
+      "spoken_text": "Example, Journey start के बाद sudden closure हुआ; dated evidence के साथ"
+    },
+    {
+      "chapter": 7,
+      "start": 460.98,
+      "end": 463.96,
+      "text": "exceptional relaxation seek karo, approval automatic nahi.",
+      "spoken_text": "exceptional relaxation seek करो, approval automatic नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 463.96,
+      "end": 468.1,
+      "text": "Rule six, exceptional relaxation authority.",
+      "spoken_text": "Rule six, exceptional relaxation authority."
+    },
+    {
+      "chapter": 8,
+      "start": 468.1,
+      "end": 471.0,
+      "text": "After start exception Administrative Ministry,",
+      "spoken_text": "After start exception Administrative Ministry,"
+    },
+    {
+      "chapter": 8,
+      "start": 471.0,
+      "end": 475.54,
+      "text": "Department ya Head of Department relax kar sakte hain; sirf normal CO approval",
+      "spoken_text": "Department या Head of Department relax कर सकते हैं; सिर्फ normal CO approval"
+    },
+    {
+      "chapter": 8,
+      "start": 475.54,
+      "end": 477.02,
+      "text": "par rely mat karo.",
+      "spoken_text": "पर rely मत करो."
+    },
+    {
+      "chapter": 8,
+      "start": 477.02,
+      "end": 481.99,
+      "text": "Example, CO ne okay likha, par competent HoD capacity mein sanction nahi;",
+      "spoken_text": "Example, CO ने okay लिखा, पर competent HoD capacity में sanction नहीं;"
+    },
+    {
+      "chapter": 8,
+      "start": 481.99,
+      "end": 484.1,
+      "text": "proper authority check karo.",
+      "spoken_text": "proper authority check करो."
+    },
+    {
+      "chapter": 8,
+      "start": 484.1,
+      "end": 488.32,
+      "text": "Rule six, inability to request before departure, contrast case.",
+      "spoken_text": "Rule six, inability to request before departure, contrast case."
+    },
+    {
+      "chapter": 8,
+      "start": 488.32,
+      "end": 491.59,
+      "text": "Pehle se known holiday preference par request late di,",
+      "spoken_text": "Pehle से known holiday preference पर request late दी,"
+    },
+    {
+      "chapter": 8,
+      "start": 491.59,
+      "end": 494.9,
+      "text": "toh beyond control exception automatically nahi banta.",
+      "spoken_text": "तो beyond control exception automatically नहीं बनता."
+    },
+    {
+      "chapter": 8,
+      "start": 494.9,
+      "end": 499.16,
+      "text": "Example, Employee departure se week pehle Goa ki jagah Kochi chahta tha,",
+      "spoken_text": "Example, Employee departure से week पहले Goa की जगह Kochi चाहता था,"
+    },
+    {
+      "chapter": 8,
+      "start": 499.16,
+      "end": 502.98,
+      "text": "par request nahi di; baad mein exception assume mat karo.",
+      "spoken_text": "पर request नहीं दी; बाद में exception assume मत करो."
+    },
+    {
+      "chapter": 8,
+      "start": 502.98,
+      "end": 506.8,
+      "text": "Rule five and Rule six, hometown versus destination distinction.",
+      "spoken_text": "Rule five and Rule six, hometown versus destination distinction."
+    },
+    {
+      "chapter": 8,
+      "start": 506.8,
+      "end": 509.64,
+      "text": "Hometown change ka once in service cap,",
+      "spoken_text": "Hometown change का once in service cap,"
+    },
+    {
+      "chapter": 8,
+      "start": 509.64,
+      "end": 512.52,
+      "text": "All India destinations par lifetime cap nahi hai.",
+      "spoken_text": "All India destinations पर lifetime cap नहीं है."
+    },
+    {
+      "chapter": 8,
+      "start": 512.52,
+      "end": 516.88,
+      "text": "Example, Available occasion par is block Goa aur later valid block Kochi",
+      "spoken_text": "Example, Available occasion पर इस block Goa और later valid block Kochi"
+    },
+    {
+      "chapter": 8,
+      "start": 516.88,
+      "end": 519.51,
+      "text": "choose karna second hometown change nahi.",
+      "spoken_text": "choose करना second hometown change नहीं."
+    },
+    {
+      "chapter": 8,
+      "start": 519.51,
+      "end": 523.17,
+      "text": "Rule six read with Rule eleven, separate family destinations.",
+      "spoken_text": "Rule six read with Rule eleven, separate family destinations."
+    },
+    {
+      "chapter": 8,
+      "start": 523.17,
+      "end": 525.9,
+      "text": "Family different destinations choose kar sakti hai,",
+      "spoken_text": "Family different destinations choose कर सकती है,"
+    },
+    {
+      "chapter": 8,
+      "start": 525.9,
+      "end": 530.42,
+      "text": "par intended claims ke places advance declare karo; extra occasion nahi banta.",
+      "spoken_text": "पर intended claims के places advance declare करो; extra occasion नहीं बनता."
+    },
+    {
+      "chapter": 8,
+      "start": 530.42,
+      "end": 535.02,
+      "text": "Example, Employee Goa, eligible spouse Kochi jaaye; declaration mein dono ke",
+      "spoken_text": "Example, Employee Goa, eligible spouse Kochi जाये; declaration में दोनों के"
+    },
+    {
+      "chapter": 8,
+      "start": 535.02,
+      "end": 537.42,
+      "text": "actual intended destinations clear rakho.",
+      "spoken_text": "actual intended destinations clear रखो."
+    },
+    {
+      "chapter": 9,
+      "start": 537.42,
+      "end": 541.38,
+      "text": "FAQ nineteen; order eighteen May twenty fifteen.",
+      "spoken_text": "FAQ nineteen; order eighteen May twenty fifteen."
+    },
+    {
+      "chapter": 9,
+      "start": 541.38,
+      "end": 545.9,
+      "text": "HQ aur accepted hometown same ho toh hometown LTC nahi.",
+      "spoken_text": "HQ और accepted hometown same हो तो hometown LTC नहीं."
+    },
+    {
+      "chapter": 9,
+      "start": 545.9,
+      "end": 550.2,
+      "text": "Isse available All India LTC automatically barred nahi hoti.",
+      "spoken_text": "Isse available All India LTC automatically barred नहीं होती."
+    },
+    {
+      "chapter": 9,
+      "start": 550.2,
+      "end": 554.62,
+      "text": "Example, HQ Delhi, accepted hometown Delhi: local Delhi visit ko hometown",
+      "spoken_text": "Example, HQ Delhi, accepted hometown Delhi: local Delhi visit को hometown"
+    },
+    {
+      "chapter": 9,
+      "start": 554.62,
+      "end": 557.24,
+      "text": "LTC mat label karo.",
+      "spoken_text": "LTC मत label करो."
+    },
+    {
+      "chapter": 9,
+      "start": 557.24,
+      "end": 560.64,
+      "text": "FAQ twenty; order eighteen May twenty fifteen.",
+      "spoken_text": "FAQ twenty; order eighteen May twenty fifteen."
+    },
+    {
+      "chapter": 9,
+      "start": 560.64,
+      "end": 566.4,
+      "text": "Delhi ke bahar other states ke NCR towns ko Delhi HQ mat treat karo; accepted",
+      "spoken_text": "Delhi के बाहर other states के NCR towns को Delhi HQ मत treat करो; accepted"
+    },
+    {
+      "chapter": 9,
+      "start": 566.4,
+      "end": 568.44,
+      "text": "hometown ka record separately check karo.",
+      "spoken_text": "hometown का record separately check करो."
+    },
+    {
+      "chapter": 9,
+      "start": 568.44,
+      "end": 571.78,
+      "text": "Example, HQ Delhi aur accepted hometown Noida,",
+      "spoken_text": "Example, HQ Delhi और accepted hometown Noida,"
+    },
+    {
+      "chapter": 9,
+      "start": 571.78,
+      "end": 576.75,
+      "text": "Uttar Pradesh hai; sirf NCR label se same HQ kehkar reject mat karo.",
+      "spoken_text": "Uttar Pradesh है; सिर्फ NCR label से same HQ कहकर reject मत करो."
+    },
+    {
+      "chapter": 9,
+      "start": 576.75,
+      "end": 580.61,
+      "text": "Rule six full text; twenty twenty five consolidation, paragraph two.",
+      "spoken_text": "Rule six full text; twenty twenty five consolidation, paragraph two."
+    },
+    {
+      "chapter": 9,
+      "start": 580.61,
+      "end": 584.44,
+      "text": "Twenty twenty five summary ki timing line inconsistent hai.",
+      "spoken_text": "Twenty twenty five summary की timing line inconsistent है."
+    },
+    {
+      "chapter": 9,
+      "start": 584.44,
+      "end": 588.5,
+      "text": "Full Rule six ka before aur after start distinction padho; governing order",
+      "spoken_text": "Full Rule six का before और after start distinction पढ़ो; governing order"
+    },
+    {
+      "chapter": 9,
+      "start": 588.5,
+      "end": 589.66,
+      "text": "prevail karta hai.",
+      "spoken_text": "prevail करता है."
+    },
+    {
+      "chapter": 9,
+      "start": 589.66,
+      "end": 593.74,
+      "text": "Example, Summary ki compressed line se CO approval ko after start ka blanket",
+      "spoken_text": "Example, Summary की compressed line से CO approval को after start का blanket"
+    },
+    {
+      "chapter": 9,
+      "start": 593.74,
+      "end": 597.34,
+      "text": "waiver mat banao; office se applicable rule verify karo.",
+      "spoken_text": "waiver मत बनाओ; office से applicable rule verify करो."
+    },
+    {
+      "chapter": 9,
+      "start": 597.34,
+      "end": 600.5,
+      "text": "Rules four E, five and six, worked checklist.",
+      "spoken_text": "Rules four E, five and six, worked checklist."
+    },
+    {
+      "chapter": 9,
+      "start": 600.5,
+      "end": 604.86,
+      "text": "Accepted hometown, authorised hometown change aur All India destination ko",
+      "spoken_text": "Accepted hometown, authorised hometown change और All India destination को"
+    },
+    {
+      "chapter": 9,
+      "start": 604.86,
+      "end": 607.94,
+      "text": "alag fields mein rakho; authority aur dates match karo.",
+      "spoken_text": "अलग fields में रखो; authority और dates match करो."
+    },
+    {
+      "chapter": 9,
+      "start": 607.94,
+      "end": 612.7,
+      "text": "Example, Jaipur hometown hai, HoD ne Udaipur change authorise kiya; All India",
+      "spoken_text": "Example, Jaipur hometown है, HoD ने Udaipur change authorise किया; All India"
+    },
+    {
+      "chapter": 9,
+      "start": 612.7,
+      "end": 616.2,
+      "text": "Goa se Kochi pre start change ke liye CO approval alag chahiye.",
+      "spoken_text": "Goa से Kochi pre start change के लिए CO approval अलग चाहिये."
+    }
+  ],
+  "full_decode_check": "passed",
+  "audio_stream_unchanged": true,
+  "audio_sha256": "SHA256=b0cf6d2bd33a11230433f4dec82a75affbe1ca94bc1183b367a570773113a0f5",
+  "burned_in": true,
+  "video_bytes": 13978943
+}

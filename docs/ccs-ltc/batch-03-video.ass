@@ -1,0 +1,192 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Atkinson Hyperlegible,40,&H00FFFFFF,&H00FFFFFF,&H00111B26,&H00111B26,0,0,0,0,100,100,0,0,1,1,0,2,110,110,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.96,Default,,0,0,0,,Batch three, Rules five aur six.
+Dialogue: 0,0:00:03.96,0:00:07.96,Default,,0,0,0,,Important dates: eleven February aur\Ntwenty four June nineteen fifty eight,
+Dialogue: 0,0:00:07.96,0:00:10.70,Default,,0,0,0,,declaration aur hometown test orders.
+Dialogue: 0,0:00:10.70,0:00:15.20,Default,,0,0,0,,Eighteen May twenty fifteen,\NHQ aur hometown clarification.
+Dialogue: 0,0:00:15.20,0:00:20.24,Default,,0,0,0,,One July aur three September twenty\Ntwenty five, FAQ aur consolidation.
+Dialogue: 0,0:00:20.24,0:00:23.74,Default,,0,0,0,,Thirty one October nineteen fifty\Neight ki window expired hai.
+Dialogue: 0,0:00:23.74,0:00:27.38,Default,,0,0,0,,Aaj regular block twenty twenty six\Nto twenty nine hai; sub blocks twenty
+Dialogue: 0,0:00:27.38,0:00:31.84,Default,,0,0,0,,twenty six to twenty seven aur\Ntwenty twenty eight to twenty nine.
+Dialogue: 0,0:00:31.84,0:00:35.80,Default,,0,0,0,,Eligible unused previous block carryover\Nki conditional deadline thirty one
+Dialogue: 0,0:00:35.80,0:00:37.48,Default,,0,0,0,,December twenty twenty six hai.
+Dialogue: 0,0:00:37.48,0:00:41.76,Default,,0,0,0,,Sir, journey se pehle aur baad wali\Napproval ka difference exact references aur
+Dialogue: 0,0:00:41.76,0:00:42.92,Default,,0,0,0,,examples se samjhaiye.
+Dialogue: 0,0:00:42.92,0:00:47.96,Default,,0,0,0,,Rule four, clause E; Rule\Nfive, hometown acceptance.
+Dialogue: 0,0:00:47.96,0:00:52.00,Default,,0,0,0,,Hometown employee declare kare aur\NControlling Officer accept kare.
+Dialogue: 0,0:00:52.00,0:00:55.08,Default,,0,0,0,,Sirf postal address ya birthplace enough nahi.
+Dialogue: 0,0:00:55.08,0:01:00.18,Default,,0,0,0,,Example, Ravi ka new flat Pune mein\Nhai; flat purchase se accepted hometown
+Dialogue: 0,0:01:00.18,0:01:02.48,Default,,0,0,0,,Jaipur automatically Pune nahi hota.
+Dialogue: 0,0:01:02.48,0:01:05.58,Default,,0,0,0,,Rule five, accepted hometown ki finality.
+Dialogue: 0,0:01:05.58,0:01:10.60,Default,,0,0,0,,Accepted hometown final hai; next LTC\Nform par naya naam likhkar record replace
+Dialogue: 0,0:01:10.60,0:01:11.66,Default,,0,0,0,,nahi kar sakte.
+Dialogue: 0,0:01:11.66,0:01:15.94,Default,,0,0,0,,Example, Jaipur accepted hai;\Nnext form par Goa likhne se Goa
+Dialogue: 0,0:01:15.94,0:01:17.44,Default,,0,0,0,,hometown nahi banega.
+Dialogue: 0,0:01:17.44,0:01:20.18,Default,,0,0,0,,Rule five, exceptional\Ncircumstances condition.
+Dialogue: 0,0:01:20.18,0:01:24.64,Default,,0,0,0,,Change sirf exceptional circumstances\Nmein authorise ho sakta hai; unused
+Dialogue: 0,0:01:24.64,0:01:25.82,Default,,0,0,0,,option automatic right nahi.
+Dialogue: 0,0:01:25.82,0:01:28.99,Default,,0,0,0,,Example, Employee ne kabhi change nahi liya,
+Dialogue: 0,0:01:28.99,0:01:31.79,Default,,0,0,0,,par bas holiday preference badli\Nhai; change guaranteed nahi.
+Dialogue: 0,0:01:31.79,0:01:35.42,Default,,0,0,0,,Rule five, Head of Department authority.
+Dialogue: 0,0:01:35.42,0:01:38.94,Default,,0,0,0,,Normal employee ka hometown change\NHead of Department authorise karta hai;
+Dialogue: 0,0:01:38.94,0:01:41.48,Default,,0,0,0,,initial acceptance wala role alag hai.
+Dialogue: 0,0:01:41.48,0:01:45.32,Default,,0,0,0,,Example, Section officer ne approval\Nsign kiya; pehle check karo kya woh
+Dialogue: 0,0:01:45.32,0:01:47.82,Default,,0,0,0,,competent HoD capacity mein authorised hai.
+Dialogue: 0,0:01:47.82,0:01:51.68,Default,,0,0,0,,Rule five, employee khud\NHead of Department ho.
+Dialogue: 0,0:01:51.68,0:01:56.06,Default,,0,0,0,,Employee khud HoD hai toh hometown\Nchange Administrative Ministry authorise
+Dialogue: 0,0:01:56.06,0:01:58.24,Default,,0,0,0,,karegi; self approval nahi.
+Dialogue: 0,0:01:58.24,0:02:03.12,Default,,0,0,0,,Example, Director khud HoD hai; apna\NJaipur se Udaipur change apne signature
+Dialogue: 0,0:02:03.12,0:02:04.74,Default,,0,0,0,,se clear nahi karega.
+Dialogue: 0,0:02:04.74,0:02:07.90,Default,,0,0,0,,Rule five, once during service ceiling.
+Dialogue: 0,0:02:07.90,0:02:11.88,Default,,0,0,0,,Normal Rule five power mein entire\Nservice ke dauraan maximum one change;
+Dialogue: 0,0:02:11.88,0:02:14.94,Default,,0,0,0,,transfer ya new block se reset nahi.
+Dialogue: 0,0:02:14.94,0:02:19.29,Default,,0,0,0,,Example, Employee ek authorised change\Nle chuka hai; next posting par second
+Dialogue: 0,0:02:19.29,0:02:21.58,Default,,0,0,0,,change normal Rule five se nahi milega.
+Dialogue: 0,0:02:21.58,0:02:26.08,Default,,0,0,0,,Rule five, GID one, opening\Ntest; order twenty four June
+Dialogue: 0,0:02:26.08,0:02:27.40,Default,,0,0,0,,nineteen fifty eight.
+Dialogue: 0,0:02:27.40,0:02:32.38,Default,,0,0,0,,Main test: Government service ki wajah\Nse door na hote toh normally kahan rehte?
+Dialogue: 0,0:02:32.38,0:02:34.52,Default,,0,0,0,,Example, Neha Delhi posting par hai,
+Dialogue: 0,0:02:34.52,0:02:37.52,Default,,0,0,0,,par normal home connection\NKota ka hai; sirf Delhi job
+Dialogue: 0,0:02:37.52,0:02:38.44,Default,,0,0,0,,location decisive nahi.
+Dialogue: 0,0:02:38.44,0:02:43.14,Default,,0,0,0,,Rule five, GID one, paragraph\None, illustrative criteria.
+Dialogue: 0,0:02:43.14,0:02:47.37,Default,,0,0,0,,Property aur relatives ke clues\Nillustrative hain; har employee ke paas own
+Dialogue: 0,0:02:47.37,0:02:49.60,Default,,0,0,0,,house hona compulsory nahi.
+Dialogue: 0,0:02:49.60,0:02:53.40,Default,,0,0,0,,Example, Neha ke paas Kota mein house\Nnahi; sirf isi reason se baaki hometown
+Dialogue: 0,0:02:53.40,0:02:55.12,Default,,0,0,0,,evidence ignore mat karo.
+Dialogue: 0,0:02:55.12,0:02:58.78,Default,,0,0,0,,Rule five, GID one, criterion Roman one.
+Dialogue: 0,0:02:58.78,0:03:03.58,Default,,0,0,0,,First criterion: domestic ya social\Nobligations ke liye presence chahiye,
+Dialogue: 0,0:03:03.58,0:03:06.54,Default,,0,0,0,,aur service join karne ke\Nbaad frequent visits hue hon.
+Dialogue: 0,0:03:06.54,0:03:11.12,Default,,0,0,0,,Example, Ravi Jaipur regularly family\Nresponsibilities ke liye jaata hai; yeh
+Dialogue: 0,0:03:11.12,0:03:13.70,Default,,0,0,0,,first criterion ka evidence ho sakta hai.
+Dialogue: 0,0:03:13.70,0:03:17.38,Default,,0,0,0,,Rule five, GID one, criterion Roman two.
+Dialogue: 0,0:03:17.38,0:03:21.64,Default,,0,0,0,,Next criterion residential property\Nhai: own house ya employee ki joint
+Dialogue: 0,0:03:21.64,0:03:22.94,Default,,0,0,0,,family ka house.
+Dialogue: 0,0:03:22.94,0:03:25.55,Default,,0,0,0,,Example, Individual title Ravi ke naam nahi,
+Dialogue: 0,0:03:25.55,0:03:28.51,Default,,0,0,0,,par woh residential property wali\Njoint family ka member hai; yeh
+Dialogue: 0,0:03:28.51,0:03:29.88,Default,,0,0,0,,route check karo.
+Dialogue: 0,0:03:29.88,0:03:32.64,Default,,0,0,0,,Rule five, GID one, criterion Roman three.
+Dialogue: 0,0:03:32.64,0:03:37.67,Default,,0,0,0,,Third criterion near relations ka\Nresidence hai; deciding basis ho toh fairly
+Dialogue: 0,0:03:37.67,0:03:39.22,Default,,0,0,0,,permanent connection chahiye.
+Dialogue: 0,0:03:39.22,0:03:43.18,Default,,0,0,0,,Example, Kota mein near relations\Ngenuinely settle hain; short holiday visit
+Dialogue: 0,0:03:43.18,0:03:44.84,Default,,0,0,0,,se yeh fact alag hai.
+Dialogue: 0,0:03:44.84,0:03:47.50,Default,,0,0,0,,Rule five, GID one, criterion Roman four.
+Dialogue: 0,0:03:47.50,0:03:51.86,Default,,0,0,0,,Fourth criterion: Government service se\Npehle employee wahan kuch years raha tha kya?
+Dialogue: 0,0:03:51.86,0:03:56.36,Default,,0,0,0,,Example, Neha Kota mein several years\Nrahi thi before service; sirf hospital
+Dialogue: 0,0:03:56.36,0:03:58.18,Default,,0,0,0,,mein birth hona same fact nahi.
+Dialogue: 0,0:03:58.18,0:04:03.13,Default,,0,0,0,,Rule five, GID one, Note\Non sequential criteria.
+Dialogue: 0,0:04:03.13,0:04:07.12,Default,,0,0,0,,Order visits, property, near\Nrelations, pre service residence hai.
+Dialogue: 0,0:04:07.12,0:04:11.12,Default,,0,0,0,,Previous criterion satisfy\Nna ho tab next par jao.
+Dialogue: 0,0:04:11.12,0:04:15.78,Default,,0,0,0,,Example, First criterion satisfy hai;\Nphir bhi chaaron ko compulsory bana kar
+Dialogue: 0,0:04:15.78,0:04:17.57,Default,,0,0,0,,rejection mat karo.
+Dialogue: 0,0:04:17.57,0:04:21.62,Default,,0,0,0,,Rule five, GID one,\Nmultiple property paragraph.
+Dialogue: 0,0:04:21.62,0:04:23.90,Default,,0,0,0,,Employee ya jis family ka woh member hai,
+Dialogue: 0,0:04:23.90,0:04:27.19,Default,,0,0,0,,unki residential ya landed\Nproperty multiple places par ho,
+Dialogue: 0,0:04:27.19,0:04:30.86,Default,,0,0,0,,toh reasons ke saath choice\Ndo; CO accept ya reject karega.
+Dialogue: 0,0:04:30.86,0:04:35.74,Default,,0,0,0,,Example, Jaipur aur Kota dono jagah\Nfamily property hai; employee Kota choose
+Dialogue: 0,0:04:35.74,0:04:38.92,Default,,0,0,0,,karke reasons de, automatic acceptance nahi.
+Dialogue: 0,0:04:38.92,0:04:43.56,Default,,0,0,0,,Rule five, GID one, near\Nrelations permanence paragraph.
+Dialogue: 0,0:04:43.56,0:04:47.20,Default,,0,0,0,,Near relations ko deciding basis bana\Nrahe ho toh unka stay fairly permanent
+Dialogue: 0,0:04:47.20,0:04:49.40,Default,,0,0,0,,hona chahiye, temporary holiday nahi.
+Dialogue: 0,0:04:49.40,0:04:54.26,Default,,0,0,0,,Example, Aunt ek week Shimla ghoomne\Naayi hai; us visit se Shimla ka permanent
+Dialogue: 0,0:04:54.26,0:04:56.78,Default,,0,0,0,,family connection establish nahi hota.
+Dialogue: 0,0:04:56.78,0:05:01.43,Default,,0,0,0,,Rule five, GID one, paragraphs\Ntwo and three, historical only.
+Dialogue: 0,0:05:01.43,0:05:05.40,Default,,0,0,0,,Thirty one October nineteen fifty\Neight redeclaration window expired hai;
+Dialogue: 0,0:05:05.40,0:05:08.06,Default,,0,0,0,,nineteen fifty eight to fifty\Nnine block historical hai.
+Dialogue: 0,0:05:08.06,0:05:12.96,Default,,0,0,0,,Example, Aaj new declaration ko old\Ntransition bolkar one change limit bypass
+Dialogue: 0,0:05:12.96,0:05:13.82,Default,,0,0,0,,nahi kar sakte.
+Dialogue: 0,0:05:13.82,0:05:19.60,Default,,0,0,0,,Rule seven, GID four; order eleven\NFebruary nineteen fifty eight.
+Dialogue: 0,0:05:19.60,0:05:24.48,Default,,0,0,0,,Officer apna own Controlling Officer\Nho toh initial ya subsequent hometown
+Dialogue: 0,0:05:24.48,0:05:28.30,Default,,0,0,0,,declaration next superior\Nadministrative authority ko acceptance
+Dialogue: 0,0:05:28.30,0:05:29.44,Default,,0,0,0,,ke liye bheje.
+Dialogue: 0,0:05:29.44,0:05:35.08,Default,,0,0,0,,Example, Officer TA mein own CO hai;\Nhometown acceptance ke liye sirf apne aap
+Dialogue: 0,0:05:35.08,0:05:37.27,Default,,0,0,0,,sign karke file close nahi kare.
+Dialogue: 0,0:05:37.27,0:05:41.86,Default,,0,0,0,,Rule seven, GID four, already\Nsent declarations sentence.
+Dialogue: 0,0:05:41.86,0:05:46.15,Default,,0,0,0,,Own CO officer ne pehle declaration\Ndirect Accounts ko bheji thi,
+Dialogue: 0,0:05:46.15,0:05:49.80,Default,,0,0,0,,tab bhi prescribed superior\Nacceptance procedure follow karna hai.
+Dialogue: 0,0:05:49.80,0:05:54.06,Default,,0,0,0,,Example, Accounts mein declaration\Nki copy mil gayi; sirf receipt ko
+Dialogue: 0,0:05:54.06,0:05:56.80,Default,,0,0,0,,competent acceptance ka substitute mat maano.
+Dialogue: 0,0:05:56.80,0:06:01.30,Default,,0,0,0,,Rule seven, GID four, CAG\Nand Secretaries exception.
+Dialogue: 0,0:06:01.30,0:06:05.22,Default,,0,0,0,,Comptroller and Auditor General aur\NSecretaries to Government initial aur
+Dialogue: 0,0:06:05.22,0:06:08.71,Default,,0,0,0,,subsequent change declarations\Ndirect concerned Accounts Officer ko
+Dialogue: 0,0:06:08.71,0:06:10.32,Default,,0,0,0,,communicate karte hain.
+Dialogue: 0,0:06:10.32,0:06:12.88,Default,,0,0,0,,Example, Regional Director own CO hai,
+Dialogue: 0,0:06:12.88,0:06:16.56,Default,,0,0,0,,par Secretary to Government nahi;\Ndirect Accounts wali special exception
+Dialogue: 0,0:06:16.56,0:06:18.14,Default,,0,0,0,,assume nahi kare.
+Dialogue: 0,0:06:18.14,0:06:22.34,Default,,0,0,0,,Rule six, advance declaration,\Nself or any family member.
+Dialogue: 0,0:06:22.34,0:06:25.28,Default,,0,0,0,,All India LTC self ya family ke liye ho,
+Dialogue: 0,0:06:25.28,0:06:28.76,Default,,0,0,0,,intended place employee advance mein\NControlling Officer ko declare kare.
+Dialogue: 0,0:06:28.76,0:06:33.06,Default,,0,0,0,,Example, Sirf wife Kochi jaa rahi\Nhai; employee travel nahi kar raha,
+Dialogue: 0,0:06:33.06,0:06:35.32,Default,,0,0,0,,phir bhi destination declaration chahiye.
+Dialogue: 0,0:06:35.32,0:06:42.40,Default,,0,0,0,,Rule six, recipient and timing; Rule\Nfour GID two, Roman one se distinction.
+Dialogue: 0,0:06:42.40,0:06:45.72,Default,,0,0,0,,Destination Controlling Officer\Nko advance declare karo.
+Dialogue: 0,0:06:45.72,0:06:50.02,Default,,0,0,0,,Rule six khud universal twenty one\Nya thirty day deadline nahi deta.
+Dialogue: 0,0:06:50.02,0:06:54.24,Default,,0,0,0,,Example, Head of Office ne money\Nadvance sanction kiya; isse destination
+Dialogue: 0,0:06:54.24,0:06:56.89,Default,,0,0,0,,declaration automatically complete mat samjho.
+Dialogue: 0,0:06:56.89,0:07:00.13,Default,,0,0,0,,Rule six, change before\Ncommencement of journey.
+Dialogue: 0,0:07:00.13,0:07:03.94,Default,,0,0,0,,Journey start se pehle declared\Ndestination Controlling Officer ki approval
+Dialogue: 0,0:07:03.94,0:07:05.18,Default,,0,0,0,,se badal sakte hain.
+Dialogue: 0,0:07:05.18,0:07:09.38,Default,,0,0,0,,Example, Goa declared tha; departure\Nse pehle Kochi change chahiye,
+Dialogue: 0,0:07:09.38,0:07:12.19,Default,,0,0,0,,toh CO approval lo, sirf ticket edit nahi.
+Dialogue: 0,0:07:12.19,0:07:15.69,Default,,0,0,0,,Rule six, prohibition after\Ncommencement of journey.
+Dialogue: 0,0:07:15.69,0:07:19.42,Default,,0,0,0,,Journey start ke baad destination\Nnormally change nahi; ticket change karna
+Dialogue: 0,0:07:19.42,0:07:21.29,Default,,0,0,0,,legal approval ka substitute nahi.
+Dialogue: 0,0:07:21.29,0:07:25.44,Default,,0,0,0,,Example, Goa ke liye journey start\Nhui; holiday preference se Kochi jaakar
+Dialogue: 0,0:07:25.44,0:07:27.80,Default,,0,0,0,,claim mein quietly naam change mat karo.
+Dialogue: 0,0:07:27.80,0:07:30.70,Default,,0,0,0,,Rule six, post commencement\Nexception conditions.
+Dialogue: 0,0:07:30.70,0:07:34.38,Default,,0,0,0,,Exception mein establish karo ki\Nbeyond control circumstances se change
+Dialogue: 0,0:07:34.38,0:07:36.96,Default,,0,0,0,,request journey se pehle nahi ho sakti thi.
+Dialogue: 0,0:07:36.96,0:07:40.98,Default,,0,0,0,,Example, Journey start ke baad sudden\Nclosure hua; dated evidence ke saath
+Dialogue: 0,0:07:40.98,0:07:43.96,Default,,0,0,0,,exceptional relaxation seek\Nkaro, approval automatic nahi.
+Dialogue: 0,0:07:43.96,0:07:48.10,Default,,0,0,0,,Rule six, exceptional relaxation authority.
+Dialogue: 0,0:07:48.10,0:07:51.00,Default,,0,0,0,,After start exception Administrative Ministry,
+Dialogue: 0,0:07:51.00,0:07:55.54,Default,,0,0,0,,Department ya Head of Department relax\Nkar sakte hain; sirf normal CO approval
+Dialogue: 0,0:07:55.54,0:07:57.02,Default,,0,0,0,,par rely mat karo.
+Dialogue: 0,0:07:57.02,0:08:01.99,Default,,0,0,0,,Example, CO ne okay likha, par competent\NHoD capacity mein sanction nahi;
+Dialogue: 0,0:08:01.99,0:08:04.10,Default,,0,0,0,,proper authority check karo.
+Dialogue: 0,0:08:04.10,0:08:08.32,Default,,0,0,0,,Rule six, inability to request\Nbefore departure, contrast case.
+Dialogue: 0,0:08:08.32,0:08:11.59,Default,,0,0,0,,Pehle se known holiday\Npreference par request late di,
+Dialogue: 0,0:08:11.59,0:08:14.90,Default,,0,0,0,,toh beyond control exception\Nautomatically nahi banta.
+Dialogue: 0,0:08:14.90,0:08:19.16,Default,,0,0,0,,Example, Employee departure se week\Npehle Goa ki jagah Kochi chahta tha,
+Dialogue: 0,0:08:19.16,0:08:22.98,Default,,0,0,0,,par request nahi di; baad mein\Nexception assume mat karo.
+Dialogue: 0,0:08:22.98,0:08:26.80,Default,,0,0,0,,Rule five and Rule six, hometown\Nversus destination distinction.
+Dialogue: 0,0:08:26.80,0:08:29.64,Default,,0,0,0,,Hometown change ka once in service cap,
+Dialogue: 0,0:08:29.64,0:08:32.52,Default,,0,0,0,,All India destinations\Npar lifetime cap nahi hai.
+Dialogue: 0,0:08:32.52,0:08:36.88,Default,,0,0,0,,Example, Available occasion par is\Nblock Goa aur later valid block Kochi
+Dialogue: 0,0:08:36.88,0:08:39.51,Default,,0,0,0,,choose karna second hometown change nahi.
+Dialogue: 0,0:08:39.51,0:08:43.17,Default,,0,0,0,,Rule six read with Rule eleven,\Nseparate family destinations.
+Dialogue: 0,0:08:43.17,0:08:45.90,Default,,0,0,0,,Family different destinations\Nchoose kar sakti hai,
+Dialogue: 0,0:08:45.90,0:08:50.42,Default,,0,0,0,,par intended claims ke places advance\Ndeclare karo; extra occasion nahi banta.
+Dialogue: 0,0:08:50.42,0:08:55.02,Default,,0,0,0,,Example, Employee Goa, eligible spouse\NKochi jaaye; declaration mein dono ke
+Dialogue: 0,0:08:55.02,0:08:57.42,Default,,0,0,0,,actual intended destinations clear rakho.
+Dialogue: 0,0:08:57.42,0:09:01.38,Default,,0,0,0,,FAQ nineteen; order\Neighteen May twenty fifteen.
+Dialogue: 0,0:09:01.38,0:09:05.90,Default,,0,0,0,,HQ aur accepted hometown same\Nho toh hometown LTC nahi.
+Dialogue: 0,0:09:05.90,0:09:10.20,Default,,0,0,0,,Isse available All India LTC\Nautomatically barred nahi hoti.
+Dialogue: 0,0:09:10.20,0:09:14.62,Default,,0,0,0,,Example, HQ Delhi, accepted hometown\NDelhi: local Delhi visit ko hometown
+Dialogue: 0,0:09:14.62,0:09:17.24,Default,,0,0,0,,LTC mat label karo.
+Dialogue: 0,0:09:17.24,0:09:20.64,Default,,0,0,0,,FAQ twenty; order eighteen May twenty fifteen.
+Dialogue: 0,0:09:20.64,0:09:26.40,Default,,0,0,0,,Delhi ke bahar other states ke NCR towns\Nko Delhi HQ mat treat karo; accepted
+Dialogue: 0,0:09:26.40,0:09:28.44,Default,,0,0,0,,hometown ka record separately check karo.
+Dialogue: 0,0:09:28.44,0:09:31.78,Default,,0,0,0,,Example, HQ Delhi aur accepted hometown Noida,
+Dialogue: 0,0:09:31.78,0:09:36.75,Default,,0,0,0,,Uttar Pradesh hai; sirf NCR label\Nse same HQ kehkar reject mat karo.
+Dialogue: 0,0:09:36.75,0:09:40.61,Default,,0,0,0,,Rule six full text; twenty twenty\Nfive consolidation, paragraph two.
+Dialogue: 0,0:09:40.61,0:09:44.44,Default,,0,0,0,,Twenty twenty five summary ki\Ntiming line inconsistent hai.
+Dialogue: 0,0:09:44.44,0:09:48.50,Default,,0,0,0,,Full Rule six ka before aur after start\Ndistinction padho; governing order
+Dialogue: 0,0:09:48.50,0:09:49.66,Default,,0,0,0,,prevail karta hai.
+Dialogue: 0,0:09:49.66,0:09:53.74,Default,,0,0,0,,Example, Summary ki compressed line se\NCO approval ko after start ka blanket
+Dialogue: 0,0:09:53.74,0:09:57.34,Default,,0,0,0,,waiver mat banao; office se\Napplicable rule verify karo.
+Dialogue: 0,0:09:57.34,0:10:00.50,Default,,0,0,0,,Rules four E, five and six, worked checklist.
+Dialogue: 0,0:10:00.50,0:10:04.86,Default,,0,0,0,,Accepted hometown, authorised hometown\Nchange aur All India destination ko
+Dialogue: 0,0:10:04.86,0:10:07.94,Default,,0,0,0,,alag fields mein rakho;\Nauthority aur dates match karo.
+Dialogue: 0,0:10:07.94,0:10:12.70,Default,,0,0,0,,Example, Jaipur hometown hai, HoD ne\NUdaipur change authorise kiya; All India
+Dialogue: 0,0:10:12.70,0:10:16.20,Default,,0,0,0,,Goa se Kochi pre start change ke\Nliye CO approval alag chahiye.

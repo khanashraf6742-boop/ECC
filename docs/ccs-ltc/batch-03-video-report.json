@@ -1,0 +1,662 @@
+{
+  "file": "batch-03-video.mp4",
+  "bytes": 13978943,
+  "width": 1920,
+  "height": 1080,
+  "duration_seconds": 616.2,
+  "fps": 10,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode_check": "passed",
+  "embedded_chapter_check": "passed",
+  "source_script_sha256": "7e2d4f15f6a5f7ee098fcce966214f758a93492ad94b20af5a80205981ac5bc1",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Important dates: law and practical blocks",
+      "start_seconds": 0.0,
+      "end_seconds": 42.92,
+      "card_ids": [],
+      "voice_id": "voice-01",
+      "source_clip_file": "b3-01.mp3",
+      "source_text_sha256": "d3f5b9d09e340708d37665e11489c88b5bc3437dc224dfb4a66a68c04a9d8ad9",
+      "source_clip_sha256": "e0911077cde5574d1e4451d51a031473f41f104337f6058fc1fdb5e3aeb798dd"
+    },
+    {
+      "number": 2,
+      "title": "Rules 4(e) and 5: acceptance, finality and change authority",
+      "start_seconds": 42.92,
+      "end_seconds": 107.82,
+      "card_ids": [
+        "B3-01",
+        "B3-02",
+        "B3-03",
+        "B3-04"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-02.mp3",
+      "source_text_sha256": "0d103667fa88194fd2a6619a1d2c7e7cc045903517bb53d04df6cc9aa0f4b8fd",
+      "source_clip_sha256": "77bd2f7d68e2fa39cde3aa09c959736f5fe5e321c6f6571d99d4a8c391c1b9ea"
+    },
+    {
+      "number": 3,
+      "title": "Rule 5: HoD employee, one-change ceiling and normal-residence test",
+      "start_seconds": 107.82,
+      "end_seconds": 175.12,
+      "card_ids": [
+        "B3-05",
+        "B3-06",
+        "B3-07",
+        "B3-08"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-03.mp3",
+      "source_text_sha256": "7f412e5d72d590584caaab28ccca4e5f1c36a7887e776fdb028aa43281f01335",
+      "source_clip_sha256": "ecdbb0fa37fd3ceb713874f18481dfba5225e66faf9c4d282e7bd5a3f7fea49d"
+    },
+    {
+      "number": 4,
+      "title": "Rule 5 GID (1): all four criteria in legal order",
+      "start_seconds": 175.12,
+      "end_seconds": 238.18,
+      "card_ids": [
+        "B3-09",
+        "B3-10",
+        "B3-11",
+        "B3-12"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-04.mp3",
+      "source_text_sha256": "512759bcc52a02211f94e3a6d6454dba6b0d905bbf1f17a1fe9cd62b924cd014",
+      "source_clip_sha256": "24463f6529910e8f8137b0db914d15335ede0a4a4e130f5aa56ea14c084a5370"
+    },
+    {
+      "number": 5,
+      "title": "Rule 5 GID (1): sequence, property, permanence and expired transition",
+      "start_seconds": 238.18,
+      "end_seconds": 313.82,
+      "card_ids": [
+        "B3-13",
+        "B3-14",
+        "B3-15",
+        "B3-16"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-05.mp3",
+      "source_text_sha256": "0ffbb285578d0519266d4fbb0680bf611bb0217906cf71d2e059eda8b8d8fba3",
+      "source_clip_sha256": "c4aba58320d9528d87be82efdafb359940cc886d2b39048c9b494639dbd4845a"
+    },
+    {
+      "number": 6,
+      "title": "Rule 7 GID (4) declaration routes; Rule 6 family scope",
+      "start_seconds": 313.82,
+      "end_seconds": 395.32,
+      "card_ids": [
+        "B3-17",
+        "B3-18",
+        "B3-19",
+        "B3-20"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-06.mp3",
+      "source_text_sha256": "930ee56e553c2c11ba39abea29490f14414da552fca8549c3386decd788525fd",
+      "source_clip_sha256": "1445d7929feefd4e6400d8df2920e9b4d6ee50986c673567501cedebf034fc0b"
+    },
+    {
+      "number": 7,
+      "title": "Rule 6: advance declaration, pre-start approval and post-start exception",
+      "start_seconds": 395.32,
+      "end_seconds": 463.96,
+      "card_ids": [
+        "B3-21",
+        "B3-22",
+        "B3-23",
+        "B3-24"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-07.mp3",
+      "source_text_sha256": "471d182ebcff3c315860b3f63f8f275b72c56549690f07e76d17b7e94b491a51",
+      "source_clip_sha256": "d053378a2c1fd5ab09b6fa54233d7558b02b4b80d610c0febd84fe0f280e0b31"
+    },
+    {
+      "number": 8,
+      "title": "Rules 5-6: competent relaxation, limits and family destinations",
+      "start_seconds": 463.96,
+      "end_seconds": 537.42,
+      "card_ids": [
+        "B3-25",
+        "B3-26",
+        "B3-27",
+        "B3-28"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-08.mp3",
+      "source_text_sha256": "89ffb85c4fe5d8622a8f4e0d4dc82e0081551eeb3d9f89d8e66bdaa5ae25ffd4",
+      "source_clip_sha256": "6e8c21a1b9cd96ef79f58646cf3ea9a48fdda758c03f96acad08825ec77483c0"
+    },
+    {
+      "number": 9,
+      "title": "FAQs 19-20, source discrepancy and worked approval checklist",
+      "start_seconds": 537.42,
+      "end_seconds": 616.2,
+      "card_ids": [
+        "B3-29",
+        "B3-30",
+        "B3-31",
+        "B3-32"
+      ],
+      "voice_id": "voice-00",
+      "source_clip_file": "b3-09.mp3",
+      "source_text_sha256": "17ab8f50a1c4978965140691583ced3984e170faffb3cf1c5a29c1eea4cbb3a7",
+      "source_clip_sha256": "fae9c0153f1ee51696b136cf104247df7a4a2438e03bea7364a399f4f6d631b7"
+    }
+  ],
+  "pages": [
+    {
+      "id": "OPEN-LEGAL",
+      "start_seconds": 0.0,
+      "chapter": 1,
+      "end_seconds": 23.74,
+      "layout": {
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "OPEN-PRACTICAL",
+      "start_seconds": 23.74,
+      "chapter": 1,
+      "end_seconds": 42.92,
+      "layout": {
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-01",
+      "start_seconds": 42.92,
+      "chapter": 2,
+      "end_seconds": 62.48,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-02",
+      "start_seconds": 62.48,
+      "chapter": 2,
+      "end_seconds": 77.44,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-03",
+      "start_seconds": 77.44,
+      "chapter": 2,
+      "end_seconds": 91.79,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-04",
+      "start_seconds": 91.79,
+      "chapter": 2,
+      "end_seconds": 107.82,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-05",
+      "start_seconds": 107.82,
+      "chapter": 3,
+      "end_seconds": 124.74,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-06",
+      "start_seconds": 124.74,
+      "chapter": 3,
+      "end_seconds": 141.58,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-07",
+      "start_seconds": 141.58,
+      "chapter": 3,
+      "end_seconds": 158.44,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-08",
+      "start_seconds": 158.44,
+      "chapter": 3,
+      "end_seconds": 175.12,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-09",
+      "start_seconds": 175.12,
+      "chapter": 4,
+      "end_seconds": 193.7,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-10",
+      "start_seconds": 193.7,
+      "chapter": 4,
+      "end_seconds": 209.88,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-11",
+      "start_seconds": 209.88,
+      "chapter": 4,
+      "end_seconds": 224.84,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-12",
+      "start_seconds": 224.84,
+      "chapter": 4,
+      "end_seconds": 238.18,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-13",
+      "start_seconds": 238.18,
+      "chapter": 5,
+      "end_seconds": 257.57,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-14",
+      "start_seconds": 257.57,
+      "chapter": 5,
+      "end_seconds": 278.92,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-15",
+      "start_seconds": 278.92,
+      "chapter": 5,
+      "end_seconds": 296.78,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-16",
+      "start_seconds": 296.78,
+      "chapter": 5,
+      "end_seconds": 313.82,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-17",
+      "start_seconds": 313.82,
+      "chapter": 6,
+      "end_seconds": 337.27,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-18",
+      "start_seconds": 337.27,
+      "chapter": 6,
+      "end_seconds": 356.8,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-19",
+      "start_seconds": 356.8,
+      "chapter": 6,
+      "end_seconds": 378.14,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-20",
+      "start_seconds": 378.14,
+      "chapter": 6,
+      "end_seconds": 395.32,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-21",
+      "start_seconds": 395.32,
+      "chapter": 7,
+      "end_seconds": 416.89,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-22",
+      "start_seconds": 416.89,
+      "chapter": 7,
+      "end_seconds": 432.19,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-23",
+      "start_seconds": 432.19,
+      "chapter": 7,
+      "end_seconds": 447.8,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-24",
+      "start_seconds": 447.8,
+      "chapter": 7,
+      "end_seconds": 463.96,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-25",
+      "start_seconds": 463.96,
+      "chapter": 8,
+      "end_seconds": 484.1,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-26",
+      "start_seconds": 484.1,
+      "chapter": 8,
+      "end_seconds": 502.98,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-27",
+      "start_seconds": 502.98,
+      "chapter": 8,
+      "end_seconds": 519.51,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-28",
+      "start_seconds": 519.51,
+      "chapter": 8,
+      "end_seconds": 537.42,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-29",
+      "start_seconds": 537.42,
+      "chapter": 9,
+      "end_seconds": 557.24,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-30",
+      "start_seconds": 557.24,
+      "chapter": 9,
+      "end_seconds": 576.75,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-31",
+      "start_seconds": 576.75,
+      "chapter": 9,
+      "end_seconds": 597.34,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    },
+    {
+      "id": "B3-32",
+      "start_seconds": 597.34,
+      "chapter": 9,
+      "end_seconds": 616.2,
+      "layout": {
+        "body_font_sizes": [
+          30,
+          39,
+          39,
+          30
+        ],
+        "caption_band_height": 144
+      }
+    }
+  ],
+  "subtitles": {
+    "burned_in": true,
+    "script": "Roman Hinglish",
+    "srt": "batch-03-video.srt",
+    "vtt": "batch-03-video.vtt",
+    "caption_band_height": 144
+  },
+  "review_limit": "Automatic acoustic phrase alignment and technical checks; not a certified word-level or full manual listening audit."
+}

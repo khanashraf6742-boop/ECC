@@ -1,0 +1,417 @@
+{
+  "title": "CCS LTC Batch 3: Rules 5-6, hometown and destination declarations",
+  "reviewed_on": "2026-10-27",
+  "master_chapters": [
+    9
+  ],
+  "sources": {
+    "H": {
+      "title": "Government-hosted CCS (LTC) Rules compilation: Rules 4(e), 5, 6; Rule 5 GID (1); Rule 7 GID (4)",
+      "url": "https://cdnbbsr.s3waas.gov.in/s30f46c64b74a6c964c674853a89796c8e/uploads/2022/11/2022112351.pdf",
+      "use": "Full Rule 6 text; exact GID numbering and 1958 instructions. Current operative clauses are distinguished from expired transitional paragraphs. Not an original Gazette scan."
+    },
+    "G25": {
+      "title": "DoPT DOPT-1752820096240, 03.09.2025; CSIR forwarding 22.09.2025",
+      "url": "https://www.csir.res.in/sites/default/files/2025-09/guidelines_on_ltc.pdf",
+      "use": "Current consolidation, Rule 5 normal-residence test and source-priority paragraph 2. Its Rule 6 summary has an internally inconsistent timing sentence; this edition flags rather than silently treats it as an amendment."
+    },
+    "F25": {
+      "title": "DoPT 31011/07/2025 PP.A-IV, 01.07.2025, especially FAQs 19 and 20",
+      "url": "https://documents.doptcirculars.nic.in/D2/D02est/FAQs%20on%20LTC5hctT.pdf",
+      "use": "HQ=hometown and Delhi/other-state NCR clarifications, citing OM 31011/4/2007-Estt.(A-IV), 18.05.2015. The entire FAQ/2015 OM is not represented as covered here."
+    }
+  },
+  "cards": [
+    {
+      "ref": "Rule 4(e); Rule 5: declaration and acceptance",
+      "title": "Hometown is not just a postal address",
+      "spoken_ref_roman": "Rule four, clause E; Rule five, hometown acceptance.",
+      "rule": "Hometown is the town, village or other place declared by the employee AND accepted by the Controlling Officer. An address, birthplace, Aadhaar entry or property purchase alone does not perform the required LTC declaration and acceptance.",
+      "explanation_roman": "Hometown employee declare kare aur Controlling Officer accept kare. Sirf postal address ya birthplace enough nahi.",
+      "example_roman": "Ravi ka new flat Pune mein hai; flat purchase se accepted hometown Jaipur automatically Pune nahi hota.",
+      "trap": "LTC hometown, residential address and birthplace are not interchangeable.",
+      "source": "H;G25",
+      "id": "B3-01"
+    },
+    {
+      "ref": "Rule 5: finality of accepted hometown",
+      "title": "Once accepted, the hometown is final",
+      "spoken_ref_roman": "Rule five, accepted hometown ki finality.",
+      "rule": "The declared hometown, once accepted by the Controlling Officer, is treated as final. A later change must use the Rule 5 exception and competent authority; a fresh form cannot quietly replace the accepted record.",
+      "explanation_roman": "Accepted hometown final hai; next LTC form par naya naam likhkar record replace nahi kar sakte.",
+      "example_roman": "Jaipur accepted hai; next form par Goa likhne se Goa hometown nahi banega.",
+      "trap": "Finality is subject to the specific Rule 5 change mechanism, not personal preference.",
+      "source": "H;G25",
+      "id": "B3-02"
+    },
+    {
+      "ref": "Rule 5: exceptional circumstances",
+      "title": "An unused change is not a free coupon",
+      "spoken_ref_roman": "Rule five, exceptional circumstances condition.",
+      "rule": "Rule 5 permits authorisation of a change in exceptional circumstances. Having never changed hometown is not, by itself, an entitlement to change it on demand. The authority must consider the circumstances and hometown test.",
+      "explanation_roman": "Change sirf exceptional circumstances mein authorise ho sakta hai; unused option automatic right nahi.",
+      "example_roman": "Employee ne kabhi change nahi liya, par bas holiday preference badli hai; change guaranteed nahi.",
+      "trap": "Exceptional circumstances and competent authorisation are separate from the numerical limit.",
+      "source": "H;G25",
+      "id": "B3-03"
+    },
+    {
+      "ref": "Rule 5: Head of Department authority",
+      "title": "Normal hometown-change authority: HoD",
+      "spoken_ref_roman": "Rule five, Head of Department authority.",
+      "rule": "For an employee who is not himself/herself Head of Department, the Head of Department may authorise the exceptional hometown change. Initial acceptance by the Controlling Officer is distinct from this change authority.",
+      "explanation_roman": "Normal employee ka hometown change Head of Department authorise karta hai; initial acceptance wala role alag hai.",
+      "example_roman": "Section officer ne approval sign kiya; pehle check karo kya woh competent HoD capacity mein authorised hai.",
+      "trap": "Head of Office, Controlling Officer and Head of Department are not automatically identical roles.",
+      "source": "H;G25",
+      "id": "B3-04"
+    },
+    {
+      "ref": "Rule 5: employee is Head of Department",
+      "title": "If the employee is HoD: Administrative Ministry",
+      "spoken_ref_roman": "Rule five, employee khud Head of Department ho.",
+      "rule": "If the government servant is himself/herself Head of Department, the Administrative Ministry is the authorising authority under Rule 5. The HoD cannot use the ordinary HoD provision to self-authorise that change.",
+      "explanation_roman": "Employee khud HoD hai toh hometown change Administrative Ministry authorise karegi; self approval nahi.",
+      "example_roman": "Director khud HoD hai; apna Jaipur se Udaipur change apne signature se clear nahi karega.",
+      "trap": "This is hometown-change authority, not merely where a copy of the declaration is sent.",
+      "source": "H;G25",
+      "id": "B3-05"
+    },
+    {
+      "ref": "Rule 5: once during service ceiling",
+      "title": "At most one change during service",
+      "spoken_ref_roman": "Rule five, once during service ceiling.",
+      "rule": "An authorised change under the ordinary Rule 5 power cannot be made more than once during the government servant's service. A transfer/new LTC block does not itself reset this allowance. Do not convert this into an unsupported assertion that every broader statutory relaxation power is impossible; Rule 18 is a separate later topic.",
+      "explanation_roman": "Normal Rule five power mein entire service ke dauraan maximum one change; transfer ya new block se reset nahi.",
+      "example_roman": "Employee ek authorised change le chuka hai; next posting par second change normal Rule five se nahi milega.",
+      "trap": "Maximum one is a ceiling, not an automatic right; broader relaxation is not decided here.",
+      "source": "H;G25",
+      "id": "B3-06"
+    },
+    {
+      "ref": "Rule 5 GID (1), opening test; OM 43/15/57-Ests.(A), 24.06.1958",
+      "title": "Where would you normally live but for service?",
+      "spoken_ref_roman": "Rule five, GID one, opening test; order twenty four June nineteen fifty eight.",
+      "rule": "The controlling test is whether the declared place is where the employee would normally reside but for absence due to government service. It is not simply the most convenient tourist place, current posting or place of birth.",
+      "explanation_roman": "Main test: Government service ki wajah se door na hote toh normally kahan rehte?",
+      "example_roman": "Neha Delhi posting par hai, par normal home connection Kota ka hai; sirf Delhi job location decisive nahi.",
+      "trap": "The test is reaffirmed in the 2025 consolidation; 1958 is not obsolete merely because old.",
+      "source": "H;G25",
+      "id": "B3-07"
+    },
+    {
+      "ref": "Rule 5 GID (1), paragraph 1: illustrative, not exhaustive",
+      "title": "Owning a house is not compulsory in every case",
+      "spoken_ref_roman": "Rule five, GID one, paragraph one, illustrative criteria.",
+      "rule": "Property ownership and permanent residence of relatives in the older 1956 instruction were illustrative, not exhaustive. Apply the normal-residence test and the ordered criteria; do not turn every clue into an additional compulsory condition.",
+      "explanation_roman": "Property aur relatives ke clues illustrative hain; har employee ke paas own house hona compulsory nahi.",
+      "example_roman": "Neha ke paas Kota mein house nahi; sirf isi reason se baaki hometown evidence ignore mat karo.",
+      "trap": "No four-out-of-four scorecard or universal compulsory property condition.",
+      "source": "H",
+      "id": "B3-08"
+    },
+    {
+      "ref": "Rule 5 GID (1), criterion (i)",
+      "title": "First: obligations and visits after joining",
+      "spoken_ref_roman": "Rule five, GID one, criterion Roman one.",
+      "rule": "Check whether the place requires physical presence at intervals for domestic/social obligations AND whether the employee has visited frequently since entering service. This is the first criterion, before property.",
+      "explanation_roman": "First criterion: domestic ya social obligations ke liye presence chahiye, aur service join karne ke baad frequent visits hue hon.",
+      "example_roman": "Ravi Jaipur regularly family responsibilities ke liye jaata hai; yeh first criterion ka evidence ho sakta hai.",
+      "trap": "Both the obligations and post-entry visiting pattern matter.",
+      "source": "H",
+      "id": "B3-09"
+    },
+    {
+      "ref": "Rule 5 GID (1), criterion (ii)",
+      "title": "Second: own or joint-family residential property",
+      "spoken_ref_roman": "Rule five, GID one, criterion Roman two.",
+      "rule": "If the preceding criterion is not satisfied, consider residential property owned by the employee or held by the joint family of which the employee is a member. This does not require individual ownership alone.",
+      "explanation_roman": "Next criterion residential property hai: own house ya employee ki joint family ka house.",
+      "example_roman": "Individual title Ravi ke naam nahi, par woh residential property wali joint family ka member hai; yeh route check karo.",
+      "trap": "Residential property here; the separate multiple-property paragraph also mentions landed property.",
+      "source": "H",
+      "id": "B3-10"
+    },
+    {
+      "ref": "Rule 5 GID (1), criterion (iii)",
+      "title": "Third: near relations who live there",
+      "spoken_ref_roman": "Rule five, GID one, criterion Roman three.",
+      "rule": "If preceding criteria are not satisfied, consider near relations resident at the place. Where this is the determining criterion, residence should be more or less permanent, not a brief visit.",
+      "explanation_roman": "Third criterion near relations ka residence hai; deciding basis ho toh fairly permanent connection chahiye.",
+      "example_roman": "Kota mein near relations genuinely settle hain; short holiday visit se yeh fact alag hai.",
+      "trap": "The source does not provide a universal invented list of documents or a fixed number of years here.",
+      "source": "H",
+      "id": "B3-11"
+    },
+    {
+      "ref": "Rule 5 GID (1), criterion (iv)",
+      "title": "Fourth: living there before government service",
+      "spoken_ref_roman": "Rule five, GID one, criterion Roman four.",
+      "rule": "If the earlier criteria are not satisfied, consider whether the employee lived at the place for some years before entering government service. A hospital birthplace or a brief stop is not the same factual question.",
+      "explanation_roman": "Fourth criterion: Government service se pehle employee wahan kuch years raha tha kya?",
+      "example_roman": "Neha Kota mein several years rahi thi before service; sirf hospital mein birth hona same fact nahi.",
+      "trap": "Read in the ordered test, not as a mandatory extra condition in every case.",
+      "source": "H",
+      "id": "B3-12"
+    },
+    {
+      "ref": "Rule 5 GID (1), NOTE: sequential application",
+      "title": "Correct sequence: visits, property, relations, residence",
+      "spoken_ref_roman": "Rule five, GID one, Note on sequential criteria.",
+      "rule": "The criteria are applied one after another only where the immediately preceding criterion is not satisfied: (i) obligations/visits, (ii) residential/joint-family property, (iii) near relations, (iv) pre-service residence. The master's property-first memory hook is not the legal sequence.",
+      "explanation_roman": "Order visits, property, near relations, pre service residence hai. Previous criterion satisfy na ho tab next par jao.",
+      "example_roman": "First criterion satisfy hai; phir bhi chaaron ko compulsory bana kar rejection mat karo.",
+      "trap": "The uploaded master's property-first mnemonic conflicts with its own correctly ordered text.",
+      "source": "H",
+      "id": "B3-13"
+    },
+    {
+      "ref": "Rule 5 GID (1), multiple-property paragraph",
+      "title": "Several properties: give reasons; CO decides",
+      "spoken_ref_roman": "Rule five, GID one, multiple property paragraph.",
+      "rule": "Where the employee or the family of which he/she is a member owns residential or landed property in more than one place, the employee may choose a place with reasons. The Controlling Officer's decision to accept or reject that choice as hometown is final.",
+      "explanation_roman": "Employee ya jis family ka woh member hai, unki residential ya landed property multiple places par ho, toh reasons ke saath choice do; CO accept ya reject karega.",
+      "example_roman": "Jaipur aur Kota dono jagah family property hai; employee Kota choose karke reasons de, automatic acceptance nahi.",
+      "trap": "Choosing a place is not the same as authorising a later change to an already accepted hometown.",
+      "source": "H",
+      "id": "B3-14"
+    },
+    {
+      "ref": "Rule 5 GID (1), near-relations permanence paragraph",
+      "title": "A visiting relative is not permanent residence",
+      "spoken_ref_roman": "Rule five, GID one, near relations permanence paragraph.",
+      "rule": "When near relations are the determining criterion, their presence should be of a more or less permanent nature. This is not satisfied merely by temporarily arranging for relatives to visit a preferred destination.",
+      "explanation_roman": "Near relations ko deciding basis bana rahe ho toh unka stay fairly permanent hona chahiye, temporary holiday nahi.",
+      "example_roman": "Aunt ek week Shimla ghoomne aayi hai; us visit se Shimla ka permanent family connection establish nahi hota.",
+      "trap": "No invented universal six-month, one-year or domicile-certificate threshold.",
+      "source": "H",
+      "id": "B3-15"
+    },
+    {
+      "ref": "Rule 5 GID (1), paragraphs 2-3: expired historical transition",
+      "title": "31 October 1958 is NOT a current deadline",
+      "spoken_ref_roman": "Rule five, GID one, paragraphs two and three, historical only.",
+      "rule": "The one-time redeclaration window ended on 31.10.1958; approved declarations within that transition were treated as first declarations, not changes, and the newly eligible concession started from block 1958-59. These expired transition provisions are explained only to prevent misuse, not offered as present benefits.",
+      "explanation_roman": "Thirty one October nineteen fifty eight redeclaration window expired hai; nineteen fifty eight to fifty nine block historical hai.",
+      "example_roman": "Aaj new declaration ko old transition bolkar one change limit bypass nahi kar sakte.",
+      "trap": "Excluded from current instruction in the GID register; old does not mean every paragraph is still usable.",
+      "source": "H",
+      "id": "B3-16"
+    },
+    {
+      "ref": "Rule 7 GID (4), first sentence; OM 43/5/57-Ests.(A), 11.02.1958",
+      "title": "Own Controlling Officer: go to the next superior",
+      "spoken_ref_roman": "Rule seven, GID four; order eleven February nineteen fifty eight.",
+      "rule": "An officer who is his/her own Controlling Officer for TA purposes sends the initial or subsequent hometown declaration to the next superior administrative authority for acceptance. Being own CO is not a general self-acceptance licence.",
+      "explanation_roman": "Officer apna own Controlling Officer ho toh initial ya subsequent hometown declaration next superior administrative authority ko acceptance ke liye bheje.",
+      "example_roman": "Officer TA mein own CO hai; hometown acceptance ke liye sirf apne aap sign karke file close nahi kare.",
+      "trap": "For an actual hometown change, Rule 5 authorisation also remains relevant.",
+      "source": "H",
+      "id": "B3-17"
+    },
+    {
+      "ref": "Rule 7 GID (4), already-sent declarations sentence",
+      "title": "Direct submission to Accounts is not the normal acceptance route",
+      "spoken_ref_roman": "Rule seven, GID four, already sent declarations sentence.",
+      "rule": "The same superior-authority procedure also applies to own-CO officers who already sent declarations directly to Accounts Officers. Mere filing with Accounts does not substitute for the prescribed acceptance process; examine and regularise the record through the proper authority.",
+      "explanation_roman": "Own CO officer ne pehle declaration direct Accounts ko bheji thi, tab bhi prescribed superior acceptance procedure follow karna hai.",
+      "example_roman": "Accounts mein declaration ki copy mil gayi; sirf receipt ko competent acceptance ka substitute mat maano.",
+      "trap": "Do not automatically cancel past sanctioned claims; inspect actual acceptance and the applicable procedure.",
+      "source": "H",
+      "id": "B3-18"
+    },
+    {
+      "ref": "Rule 7 GID (4), CAG and Secretaries exception sentence",
+      "title": "CAG and Secretaries: special communication route",
+      "spoken_ref_roman": "Rule seven, GID four, CAG and Secretaries exception.",
+      "rule": "The Comptroller and Auditor General and Secretaries to Government communicate their initial hometown declaration and subsequent declarations for change directly to the Accounts Officers concerned. This is the expressly named communication exception; it is not a blanket exemption for every own-CO officer or a stated waiver of Rule 5's change limit.",
+      "explanation_roman": "Comptroller and Auditor General aur Secretaries to Government initial aur subsequent change declarations direct concerned Accounts Officer ko communicate karte hain.",
+      "example_roman": "Regional Director own CO hai, par Secretary to Government nahi; direct Accounts wali special exception assume nahi kare.",
+      "trap": "Communication route is distinct from the applicable legal change-authorisation requirement.",
+      "source": "H",
+      "id": "B3-19"
+    },
+    {
+      "ref": "Rule 6: scope, self or any family member",
+      "title": "All-India destination: declare before travel",
+      "spoken_ref_roman": "Rule six, advance declaration, self or any family member.",
+      "rule": "When LTC to any place in India is proposed by the employee or any family member, the employee must declare the intended place of visit in advance to the Controlling Officer. Family-only travel is not exempt.",
+      "explanation_roman": "All India LTC self ya family ke liye ho, intended place employee advance mein Controlling Officer ko declare kare.",
+      "example_roman": "Sirf wife Kochi jaa rahi hai; employee travel nahi kar raha, phir bhi destination declaration chahiye.",
+      "trap": "A fixed accepted hometown is not a substitute for declaring an All-India destination.",
+      "source": "H;G25",
+      "id": "B3-20"
+    },
+    {
+      "ref": "Rule 6: recipient and advance timing; Rule 4 GID (2)(i) distinction",
+      "title": "Destination approval is not advance-money sanction",
+      "spoken_ref_roman": "Rule six, recipient and timing; Rule four GID two, Roman one se distinction.",
+      "rule": "Rule 6 addresses the Controlling Officer and requires advance declaration; it specifies no universal 21-day or 30-day lead time. Separate booking advice, office procedures and Head-of-Office LTC advance-money authority must not be substituted for this declaration.",
+      "explanation_roman": "Destination Controlling Officer ko advance declare karo. Rule six khud universal twenty one ya thirty day deadline nahi deta.",
+      "example_roman": "Head of Office ne money advance sanction kiya; isse destination declaration automatically complete mat samjho.",
+      "trap": "Follow separately applicable administrative/booking requirements; no invented Rule 6 day count.",
+      "source": "H",
+      "id": "B3-21"
+    },
+    {
+      "ref": "Rule 6: change before commencement",
+      "title": "Before departure: CO approval for destination change",
+      "spoken_ref_roman": "Rule six, change before commencement of journey.",
+      "rule": "Before commencement, the declared place may be changed with the Controlling Officer's approval. The ordinary pre-commencement limb does not require importing the stringent post-commencement exception. Approval, not merely notification, is required for the change.",
+      "explanation_roman": "Journey start se pehle declared destination Controlling Officer ki approval se badal sakte hain.",
+      "example_roman": "Goa declared tha; departure se pehle Kochi change chahiye, toh CO approval lo, sirf ticket edit nahi.",
+      "trap": "This is an All-India destination change, not a service-record hometown change.",
+      "source": "H",
+      "id": "B3-22"
+    },
+    {
+      "ref": "Rule 6: prohibition after commencement",
+      "title": "After travel starts: no ordinary destination switch",
+      "spoken_ref_roman": "Rule six, prohibition after commencement of journey.",
+      "rule": "After commencement, the declared destination may not ordinarily be changed. A route/flight change and a change of declared place are different questions; a new ticket or later claim entry is not itself permission.",
+      "explanation_roman": "Journey start ke baad destination normally change nahi; ticket change karna legal approval ka substitute nahi.",
+      "example_roman": "Goa ke liye journey start hui; holiday preference se Kochi jaakar claim mein quietly naam change mat karo.",
+      "trap": "Assess the express exception separately; do not teach an absolute no-exception rule.",
+      "source": "H",
+      "id": "B3-23"
+    },
+    {
+      "ref": "Rule 6: post-commencement exception conditions",
+      "title": "Exceptional circumstances: why could you not request earlier?",
+      "spoken_ref_roman": "Rule six, post commencement exception conditions.",
+      "rule": "The exception requires exceptional circumstances establishing that the change request could not be made before commencement owing to circumstances beyond the employee's control. A change of mind or merely late paperwork is not enough. Facts and competent relaxation must be assessed.",
+      "explanation_roman": "Exception mein establish karo ki beyond control circumstances se change request journey se pehle nahi ho sakti thi.",
+      "example_roman": "Journey start ke baad sudden closure hua; dated evidence ke saath exceptional relaxation seek karo, approval automatic nahi.",
+      "trap": "A genuine disruption is evidence for consideration, not a guaranteed sanction.",
+      "source": "H",
+      "id": "B3-24"
+    },
+    {
+      "ref": "Rule 6: authority for post-commencement relaxation",
+      "title": "After-start exception: Ministry/Department or HoD",
+      "spoken_ref_roman": "Rule six, exceptional relaxation authority.",
+      "rule": "The Administrative Ministry/Department or the Head of Department, as the case may be, may grant this relaxation. Do not rely on ordinary CO approval alone; if one person holds both roles, the competent capacity in which approval is given matters.",
+      "explanation_roman": "After start exception Administrative Ministry, Department ya Head of Department relax kar sakte hain; sirf normal CO approval par rely mat karo.",
+      "example_roman": "CO ne okay likha, par competent HoD capacity mein sanction nahi; proper authority check karo.",
+      "trap": "HoD remains a named option; the master's short Ministry-only shorthand is incomplete.",
+      "source": "H",
+      "id": "B3-25"
+    },
+    {
+      "ref": "Rule 6: inability to request before departure — contrast case",
+      "title": "Known preference before departure is not beyond control",
+      "spoken_ref_roman": "Rule six, inability to request before departure, contrast case.",
+      "rule": "The timing condition asks why a request could not be made before travel. A preference already known before commencement, with no beyond-control inability to request, does not establish that exception merely because the form was filed later.",
+      "explanation_roman": "Pehle se known holiday preference par request late di, toh beyond control exception automatically nahi banta.",
+      "example_roman": "Employee departure se week pehle Goa ki jagah Kochi chahta tha, par request nahi di; baad mein exception assume mat karo.",
+      "trap": "Office must evaluate the actual facts; there is no invented universal automatic waiver.",
+      "source": "H",
+      "id": "B3-26"
+    },
+    {
+      "ref": "Rules 5 and 6: hometown versus destination-change limits",
+      "title": "Once-in-service limit is NOT a destination-change rule",
+      "spoken_ref_roman": "Rule five and Rule six, hometown versus destination distinction.",
+      "rule": "Rule 5's once-during-service hometown-change ceiling does not become a lifetime cap on All-India destinations. Rule 6 governs intended destinations and changes for the relevant journey; each occasion must otherwise be available.",
+      "explanation_roman": "Hometown change ka once in service cap, All India destinations par lifetime cap nahi hai.",
+      "example_roman": "Available occasion par is block Goa aur later valid block Kochi choose karna second hometown change nahi.",
+      "trap": "Different destination does not create an extra LTC occasion or ignore Rule 6.",
+      "source": "H;G25",
+      "id": "B3-27"
+    },
+    {
+      "ref": "Rule 6 read with Rule 11: separately declared family destinations",
+      "title": "Different family destinations still need declaration",
+      "spoken_ref_roman": "Rule six read with Rule eleven, separate family destinations.",
+      "rule": "Employee and eligible family members may visit different places under the applicable All-India entitlement; the place for each intended claim should be declared by the employee in advance. Separate travel does not remove Rule 6 or supply extra entitlement.",
+      "explanation_roman": "Family different destinations choose kar sakti hai, par intended claims ke places advance declare karo; extra occasion nahi banta.",
+      "example_roman": "Employee Goa, eligible spouse Kochi jaaye; declaration mein dono ke actual intended destinations clear rakho.",
+      "trap": "Full blocks and separate-travel accounting follow in Batch 5.",
+      "source": "H;G25",
+      "id": "B3-28"
+    },
+    {
+      "ref": "FAQ 19; OM 31011/4/2007-Estt.(A-IV), 18.05.2015",
+      "title": "HQ equals hometown: no hometown LTC",
+      "spoken_ref_roman": "FAQ nineteen; order eighteen May twenty fifteen.",
+      "rule": "Employees whose headquarters/place of posting and hometown are the same are not eligible for hometown LTC. Do not infer that all All-India LTC is also barred; its independent entitlement and availability must be checked under the scheme.",
+      "explanation_roman": "HQ aur accepted hometown same ho toh hometown LTC nahi. Isse available All India LTC automatically barred nahi hoti.",
+      "example_roman": "HQ Delhi, accepted hometown Delhi: local Delhi visit ko hometown LTC mat label karo.",
+      "trap": "Do not manufacture HT eligibility merely to convert it under a special scheme; scheme detail is deferred.",
+      "source": "F25",
+      "id": "B3-29"
+    },
+    {
+      "ref": "FAQ 20; OM 31011/4/2007-Estt.(A-IV), 18.05.2015",
+      "title": "Other-state NCR towns are not Delhi HQ",
+      "spoken_ref_roman": "FAQ twenty; order eighteen May twenty fifteen.",
+      "rule": "Cities/towns outside Delhi and in other NCR states are not to be treated as Delhi headquarters for this purpose. The FAQ recognises hometown-concession eligibility in that situation. A mere current residential address still does not silently replace the accepted hometown under Rules 4(e)/5.",
+      "explanation_roman": "Delhi ke bahar other states ke NCR towns ko Delhi HQ mat treat karo; accepted hometown ka record separately check karo.",
+      "example_roman": "HQ Delhi aur accepted hometown Noida, Uttar Pradesh hai; sirf NCR label se same HQ kehkar reject mat karo.",
+      "trap": "Not every current NCR residence is automatically an accepted hometown; normal eligibility still applies.",
+      "source": "F25;H",
+      "id": "B3-30"
+    },
+    {
+      "ref": "Rule 6 full text; 03.09.2025 consolidation paragraph 2",
+      "title": "Flag the compressed 2025 timing sentence",
+      "spoken_ref_roman": "Rule six full text; twenty twenty five consolidation, paragraph two.",
+      "rule": "The 2025 Rule 6 summary says the place may be changed before commencement in circumstances where the request could not be made before commencement, an internally inconsistent compression. The full government-hosted Rule 6 separately states ordinary pre-start CO approval and exceptional post-start Ministry/Department/HoD relaxation. Paragraph 2 says governing OMs/orders prevail over imprecision. No new signed amendment reversing the full rule was authenticated in this review.",
+      "explanation_roman": "Twenty twenty five summary ki timing line inconsistent hai. Full Rule six ka before aur after start distinction padho; governing order prevail karta hai.",
+      "example_roman": "Summary ki compressed line se CO approval ko after start ka blanket waiver mat banao; office se applicable rule verify karo.",
+      "trap": "Discrepancy is disclosed, not silently edited or presented as a newly authenticated amendment.",
+      "source": "H;G25",
+      "id": "B3-31"
+    },
+    {
+      "ref": "Rules 4(e), 5 and 6: worked office checklist, not a new subrule",
+      "title": "One case, three distinct approval questions",
+      "spoken_ref_roman": "Rules four E, five and six, worked checklist.",
+      "rule": "Keep accepted hometown, any authorised service-record change and the All-India journey destination in separate fields. Check competent authority and chronology for each. This checklist is teaching guidance, not a new numbered statutory subrule or a new universal documentary schedule.",
+      "explanation_roman": "Accepted hometown, authorised hometown change aur All India destination ko alag fields mein rakho; authority aur dates match karo.",
+      "example_roman": "Jaipur hometown hai, HoD ne Udaipur change authorise kiya; All India Goa se Kochi pre start change ke liye CO approval alag chahiye.",
+      "trap": "Record actual approvals and circumstances; the PDF sample is not an official prescribed form.",
+      "source": "H;G25",
+      "id": "B3-32"
+    }
+  ],
+  "dates": [
+    [
+      "11.02.1958",
+      "OM 43/5/57: own-Controlling-Officer declaration procedure; 2025 consolidation also cites this date under Rule 5. Issue date, not a new 2025 benefit."
+    ],
+    [
+      "24.06.1958",
+      "OM 43/15/57: normal-residence test, sequential criteria, multi-property and near-relations conditions."
+    ],
+    [
+      "31.10.1958 / 1958-59",
+      "EXPIRED redeclaration deadline / historical entry block. Not a current deadline or a fresh-declaration loophole today."
+    ],
+    [
+      "18.05.2015",
+      "OM 31011/4/2007 as cited in official 2025 FAQs 19-20: HQ=hometown and other-state NCR clarification."
+    ],
+    [
+      "01.07.2025 / 03.09.2025",
+      "FAQ / consolidation issue dates, not blanket replacement or new commencement dates for every earlier rule."
+    ],
+    [
+      "Before journey starts",
+      "Rule 6 advance destination declaration; ordinary change requires CO approval. No universal 21/30-day lead time is created by Rule 6."
+    ],
+    [
+      "After journey starts",
+      "Rule 6 normally bars destination change; the express beyond-control/inability-to-request-earlier test and competent relaxation must be established."
+    ],
+    [
+      "2026-2029",
+      "Current regular four-calendar-year block on 27.10.2026; sub-blocks 2026-27 and 2028-29. Fresh-recruit personal blocks differ."
+    ],
+    [
+      "31.12.2026",
+      "Conditional first-year carryover deadline for eligible unused prior-block LTC. HT-entitled employees must satisfy Rule 10's applicable second-sub-block condition for All-India carryover. Detailed block accounting is Batch 5."
+    ]
+  ],
+  "status": "Authored and source-reviewed; see media reports for build QA"
+}
