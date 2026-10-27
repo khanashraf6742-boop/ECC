@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <title>CCS Travelling Allowance — Batch 02</title>
+  <style>
+    :root { color-scheme: dark; --ink:#edf4ff; --muted:#b7c8dc; --bg:#070d1b;
+      --panel:#101b30; --line:#2a3a58; --teal:#45e0bd; --gold:#ffd56a; --violet:#c493ff; }
+    * { box-sizing: border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.7 system-ui,-apple-system,Segoe UI,sans-serif; }
+    a { color:#7edbff; text-underline-offset:3px; }
+    a:hover { color:#b1edff; }
+    a:focus-visible, video:focus-visible { outline:3px solid var(--gold); outline-offset:4px; }
+    .skip { position:absolute; left:-10000px; }
+    .skip:focus { left:1rem; top:1rem; z-index:5; background:#fff; color:#111; padding:.6rem; }
+    header { border-bottom:1px solid var(--line); background:linear-gradient(90deg,#0a1428 0%,rgba(10,20,40,.97) 47%,rgba(10,20,40,.28) 100%), url('assets/route-illustration.png') right center / cover no-repeat #0a1428; }
+    .shell { width:min(1120px, calc(100% - 36px)); margin:0 auto; }
+    .topline { display:flex; flex-wrap:wrap; gap:1rem; align-items:center; justify-content:space-between;
+      padding:1rem 0; font-size:.78rem; letter-spacing:.11em; font-weight:700; text-transform:uppercase; color:var(--muted); }
+    .badge { color:var(--violet); border:1px solid #9256c9; border-radius:999px; padding:.25rem .7rem; }
+    .hero { padding:2.2rem 0 2.8rem; max-width:690px; }
+    .hero h1 { font-size:clamp(2.1rem,5vw,3.8rem); line-height:1.08; letter-spacing:-.04em; margin:.6rem 0 1rem; }
+    .hero p { color:var(--muted); max-width:70ch; margin:0; }
+    .chips { display:flex; flex-wrap:wrap; gap:.65rem; margin-top:1.3rem; }
+    .chip { border:1px solid var(--line); background:#101e32; color:#d5e9fa; border-radius:8px; padding:.35rem .65rem; font-size:.83rem; }
+    main { padding:2rem 0 4rem; }
+    .player, article { background:var(--panel); border:1px solid var(--line); border-radius:18px; }
+    .player { overflow:hidden; margin-bottom:1.5rem; }
+    .player-heading { padding:1.15rem 1.5rem .4rem; display:flex; flex-wrap:wrap; gap:1rem; justify-content:space-between; align-items:center; }
+    .player-heading h2 { margin:0; font-size:1.15rem; }
+    .player-heading span { color:var(--teal); font-size:.8rem; font-weight:700; }
+    video { display:block; background:#000; width:100%; aspect-ratio:16/9; }
+    @media (min-width:768px) { video::cue { font-size:75%; } }
+    .player p { color:var(--muted); font-size:.89rem; margin:0; padding:1rem 1.5rem 1.25rem; }
+    article { padding:clamp(1.2rem,4vw,3rem); }
+    article h1, article h2, article h3 { color:#f8fbff; line-height:1.25; scroll-margin-top:1rem; }
+    article h1 { font-size:2rem; margin:0 0 .6rem; }
+    article h2 { font-size:1.55rem; margin:2.7rem 0 1rem; padding-bottom:.55rem; border-bottom:1px solid var(--line); }
+    article h3 { font-size:1.15rem; margin:2rem 0 .6rem; color:#e5d3ff; }
+    article { overflow-wrap:anywhere; }
+    article p { margin:.7rem 0; } article strong { color:#fff; }
+    article p:has(strong:first-child) { padding:.25rem 0; }
+    article h3 + p strong:first-child { color:var(--teal); }
+    article table { width:100%; border-collapse:collapse; display:block; overflow-x:auto; margin:1.2rem 0 1.6rem; }
+    article th, article td { border:1px solid #344767; padding:.7rem .8rem; text-align:left; vertical-align:top; }
+    article th { background:#172942; color:var(--teal); }
+    article tr:nth-child(even) td { background:#122037; }
+    article hr { border:0; height:1px; background:var(--line); margin:2.3rem 0; }
+    article li { margin:.35rem 0; }
+    footer { border-top:1px solid var(--line); padding:1.5rem 0 3rem; color:var(--muted); font-size:.88rem; }
+    @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+    @media print { :root { color-scheme:light; } body { color:#111; background:#fff; }
+      header,.player,footer { display:none; } main { padding:0; } article { color:#111; border:0; padding:0; background:#fff; }
+      article h1,article h2,article h3,article strong,article h3 + p strong:first-child { color:#111; }
+      article a { color:#134e7b; } article tr:nth-child(even) td,article th { background:#eee; color:#111; }
+    }
+  </style>
+</head>
+<body>
+<a href="#guide" class="skip">Skip to the companion guide</a>
+<header><div class="shell">
+  <div class="topline"><span class="badge">Batch 02 / Study series</span><span>Central Government civilian context</span><span>Research: 27 Oct 2026</span></div>
+  <div class="hero"><span style="color:var(--teal);font-weight:700;letter-spacing:.1em;font-size:.8rem">TRAVEL. RULES. REAL-LIFE APPLICATION.</span>
+    <h1>International air,<br>sea &amp; road TA.</h1>
+    <p>Foreign-tour allowances, air booking, ship classes and road entitlements — explained in city Hinglish with practical examples and links to official sources.</p>
+    <div class="chips"><span class="chip">20 illustrated teaching beats</span><span class="chip">Source-linked guide</span><span class="chip">City-Hinglish narration</span><span class="chip">Level 2–9 foreign rate: verify</span></div>
+  </div>
+</div></header>
+<main class="shell">
+  <section class="player" aria-labelledby="watch-title">
+    <div class="player-heading"><h2 id="watch-title">Watch the Batch 2 lecture</h2><span>CITY HINGLISH · AUDIO-ALIGNED CAPTIONS</span></div>
+    <video controls preload="metadata" aria-label="Batch 2 narrated Travelling Allowance lecture">
+      <source src="Batch-02-Lecture.mp4" type="video/mp4">
+      <track src="Captions-en.vtt" kind="subtitles" srclang="en" label="English translation (automatic, optional)">
+      Your browser cannot play this video. <a href="Batch-02-Lecture.mp4">Download the MP4</a> or read the detailed guide below.
+    </video>
+    <p><strong>Subtitle check:</strong> The video has burned-in Roman-Hinglish, transliterated from the synthesis input. The optional English translation appears near the top to avoid the burned-in captions; placement may vary by player. Both tracks are automatically audio-aligned, and a separate automatic recognition pass checked the recording. Neither wording nor timing has been human-verified as verbatim. <a href="Caption-Check.md">How the check was done</a> · <a href="Caption-Review.html">Human cue-by-cue review</a> · <a href="Narration-hi.txt">Read narration script</a> · <a href="Captions-en.vtt">English subtitles</a> · <a href="Captions-roman.vtt">Roman-Hinglish subtitles</a> · <a href="Batch-02-Audio.mp3">Download audio</a> · <a href="Batch-02-Lecture.mp4">Download video</a></p>
+  </section>
+  <article id="guide" tabindex="-1"><h1 id="batch-02-international-air-foreign-daily-allowance-sea-and-road">Batch 02 — International Air, Foreign Daily Allowance, Sea and Road</h1>
+<p><strong>Research checked: 27 October 2026.</strong> Educational guidance for civilian Central Government official journeys and training, not a sanction, bill-preparation authority or legal opinion. All examples are hypothetical. Applicability depends on the employee, service, dates, posting, purpose, route, approval, funding, records, saving clauses, department-specific adoption and later instructions. Railway and Armed Forces orders are separate; autonomous bodies may have adoption conditions. For domestic tour DA, transfer, retirement and claims generally, also read <a href="../batch-01/Batch-01-Guide.html">Batch 01</a>.</p>
+<p><strong>Important verification stop.</strong> The MEA 25 September 2023 foreign-tour order forwarded by CSIR is the latest relevant MEA schedule located in this research, <strong>not a certification that no later MEA modification exists</strong>. Its official-scan text extraction reads <strong>75%</strong> for pay Levels 2–9, while several unofficial transcriptions read <strong>79%</strong>. We could not obtain a visually verified authoritative page to resolve this conflict. Do not calculate that row from this guide: obtain a legible authoritative order and ask the competent accounts authority. <a href="https://www.gconnect.in/orders-in-brief/allowance-orders-in-brief/daily-allowance-rates-official-tours-abroad.html">S2</a></p>
+<p>The Department of Expenditure (DoE) TA, air-travel and foreign-visit indices were checked on the research date. Their search/index results do not prove that all applicable later instructions, service-specific exceptions, Government of India decisions or FAQs have been located. The 2023 MEA order’s own effective date is 21 September 2023, but its CSIR forwarding letter applies its terms to <strong>CSIR personnel from the CSIR endorsement date</strong>. Different services may have different adoption dates. <a href="https://doe.gov.in/orders-circulars/44">S2</a> <a href="https://doe.gov.in/orders-circulars/30">S4</a></p>
+<h2 id="how-to-use-this-batch">How to use this batch</h2>
+<ol>
+<li>Identify official purpose, civilian/service status, pay level, exact date, home posting, place and method of travel, and who pays. Obtain the competent sanction, clearances and funds.</li>
+<li>Apply the correct mode/class and relevant booking instructions. Distinguish <strong>international air</strong>, <strong>sea/steamer class</strong>, <strong>inter-city road mileage</strong>, <strong>domestic city travel</strong>, <strong>foreign duty conveyance</strong> and <strong>transfer of effects</strong>.</li>
+<li>For a foreign tour, verify the current MEA order, country rate, employee category, trip-duration slab, hotel panel, any permitted reductions and funding; do not transplant domestic tour DA.</li>
+<li>Keep approvals, itinerary, tickets and evidence, any required declarations, and the department's current rules. See the <a href="#coverage-ledger-and-open-items">coverage ledger</a> before treating a topic as fully checked.</li>
+</ol>
+<p>Each numbered unit below includes an application example. A calculated ceiling is not a promise of payment.</p>
+<hr />
+<h2 id="a-scope-dates-and-international-air-class">A. Scope, dates and international air class</h2>
+<h3 id="01-which-rules-and-date">01 — Which rules and date?</h3>
+<p>The 2017 DoE order applies its revised civilian TA entitlements to journeys from <strong>1 July 2017</strong>; earlier journeys start with the earlier orders. Its mode/class saving clause can preserve an employee or group’s existing higher entitlement until a higher entitlement arises normally. Basic pay in the appropriate level, not NPA, MSP or special pay, determines the relevant pay-level framework. International rules have their own table. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">S1</a></p>
+<p><strong>Example:</strong> A Level 13A civilian on a sanctioned foreign tour in 2026 starts with the international table and any applicable protection; a 2016 journey needs its then-applicable rules.</p>
+<h3 id="02-international-air-entitlement">02 — International air entitlement</h3>
+<table>
+<thead>
+<tr>
+<th>Pay level</th>
+<th>International table</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17 and above</td>
+<td>First Class</td>
+<td>A Level 17 officer checks First, subject to sanction and other restrictions.</td>
+</tr>
+<tr>
+<td>14–16</td>
+<td>Business / Club</td>
+<td>Level 14 checks Business/Club rather than assuming First.</td>
+</tr>
+<tr>
+<td>13 and below</td>
+<td>Economy</td>
+<td>Level 12 checks Economy.</td>
+</tr>
+<tr>
+<td>13A</td>
+<td>Equivalent TA/DA entitlement to Level 13 under the separate clarification</td>
+<td>Level 13A checks Economy in the international table.</td>
+</tr>
+</tbody>
+</table>
+<p>Class entitlement does not in itself approve a particular trip, fare, itinerary, sponsor arrangement or upgrade. Domestic and international tables differ. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">S1</a></p>
+<h3 id="03-non-availability-and-rail-related-bus-provisions">03 — Non-availability and rail-related bus provisions</h3>
+<p>The 2017 domestic travel conditions say that, if seats in an entitled class are unavailable, a Government servant may travel in the <strong>class below</strong> the entitled class. In the specified no-rail and rail-connected road situations, the separate bus/public-transport conditions in units 48–50 apply. This wording does not create an automatic right to a higher class. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<p><strong>Example:</strong> If an entitled rail class is unavailable, an employee may consider an available lower class subject to the applicable instructions; unavailable seats do not themselves authorise a higher fare class.</p>
+<hr />
+<h2 id="b-booking-air-tickets-on-government-account">B. Booking air tickets on Government account</h2>
+<p>The 16 February 2022 and 16 June 2022 DoE instructions below should be read together and checked against later orders and the facts. These are Government-account instructions; do not assume their funding condition is identical for every third-party-funded visit. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S7</a></p>
+<h3 id="04-airline-and-the-three-authorised-agents">04 — Airline and the three authorised agents</h3>
+<p>For air travel where Government of India bears the air-passage cost, the 2022 instructions require ticket purchase through <strong>Balmer Lawrie &amp; Company Limited (BLCL), Ashok Travels &amp; Tours (ATT), or IRCTC</strong>. Private airlines may be used for domestic and international Government-account air travel. Airline eligibility and booking channel are different questions. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S7</a></p>
+<p><strong>Example:</strong> An approved foreign tour can use a private airline but, when the Government bears the fare, the ticket is booked through an authorised agent, subject to current instructions.</p>
+<h3 id="05-agent-choice-group-and-charges">05 — Agent choice, group and charges</h3>
+<p>The Ministry/Department, or the official making a permitted self-booking, may choose among the three agents based on convenience and service quality. Tickets for <strong>all employees for a single tour</strong> should be booked through <strong>one selected agent</strong>. No agency charges/convenience fees are to be paid to the three agents. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (para 2)</p>
+<p><strong>Example:</strong> For four employees on the same tour, the office selects one of the three agents for the group rather than assuming each employee may select a different agent for that tour.</p>
+<h3 id="06-best-available-fare-and-the-three-hour-slot">06 — Best available fare and the three-hour slot</h3>
+<p>Choose the cheapest fare available in the <strong>entitled travel class</strong>, preferably a non-stop flight, in the chosen three-hour slot on the travel day. The order permits optimisation within a <strong>10% price band</strong> for convenience and comfort. The slots are 00–03, 03–06, 06–09, 09–12, 12–15, 15–18, 18–21 and 21–24 hours. Retain the fare/slot evidence required by the office. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (para 3)</p>
+<p><strong>Example:</strong> For a 09:00–12:00 slot, compare the eligible-class fares available at booking, prefer non-stop where appropriate, and document a choice within the applicable price-band provision. A 10% band is not permission to buy an otherwise ineligible class.</p>
+<h3 id="07-advance-purchase-and-tour-booking-under-72-hours">07 — Advance purchase and tour booking under 72 hours</h3>
+<p>Booking <strong>at least 21 days ahead is encouraged</strong>, not expressed as an absolute condition of entitlement. A tour booking made <strong>less than 72 hours before intended travel</strong> requires a self-declared justification. The order permits booking even while approval of the tour programme is under process; that does not eliminate the need for approval. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (paras 4–5)</p>
+<p><strong>Example:</strong> A ticket booked 48 hours before an official tour needs the stated justification; it is not automatically invalid solely because it was not booked 21 days ahead.</p>
+<h3 id="08-cancellation-under-24-hours">08 — Cancellation under 24 hours</h3>
+<p>Unnecessary cancellation should be avoided. A cancellation made <strong>less than 24 hours before intended travel</strong> requires a self-declared justification. This is a different clock from the under-72-hour booking justification. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (para 6)</p>
+<p><strong>Example:</strong> A ticket cancelled 12 hours before departure calls for the cancellation justification even if it was originally booked more than 21 days ahead.</p>
+<h3 id="09-one-ticket-per-leg-and-exceptional-alternatives">09 — One ticket per leg and exceptional alternatives</h3>
+<p>The order prefers one ticket per leg and disallows holding more than one, with an exception for <strong>special exigencies or exceptional circumstances</strong>: at most <strong>two alternative flights in different time slots for the same leg</strong>, with self-declared justification. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (para 7)</p>
+<p><strong>Example:</strong> For a genuinely exceptional uncertain meeting time, two alternative-slot tickets may be considered only with the specified justification; three alternatives are outside this exception.</p>
+<h3 id="10-self-booking-and-official-email">10 — Self-booking and official email</h3>
+<p>Tickets can be arranged by the office through an authorised agent. Employees are encouraged to use the self-booking tool or online booking portal of one of the three agents and must register their <strong>official Government email ID</strong> with those agents for digital booking. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (para 8)</p>
+<p><strong>Example:</strong> A self-booking officer uses an authorised portal registered with the official email, rather than assuming any commercial comparison site is an authorised booking agent.</p>
+<h3 id="11-unauthorised-booking-and-competent-relaxation">11 — Unauthorised booking and competent relaxation</h3>
+<p>In unavoidable circumstances involving an unauthorised agent/website, the <strong>Financial Adviser of the Ministry/Department</strong> and the <strong>Head of Department not below Joint Secretary rank in subordinate/attached offices</strong> have the stated relaxation authority. Actual facts and the competent order matter; the rule does not promise approval or require automatic total forfeiture in every case. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (para 10)</p>
+<p><strong>Example:</strong> After an unavoidable booking through an unauthorised site, submit the justification and seek relaxation from the authority specified for the office; do not declare the claim automatically paid or automatically lost.</p>
+<h3 id="12-journey-certificate-bill-and-settlement">12 — Journey certificate, bill and settlement</h3>
+<p>The prescribed journey-completion certificate/undertaking is due <strong>within 72 hours of completion</strong>; the TA bill may follow under its own applicable filing rules. Ministries/Departments should settle the agent’s air-ticket dues within a maximum of <strong>30 days after completion of the journey</strong>. The prescribed certificate warns that a false declaration can attract disciplinary action. <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a> (paras 11–12 and Annexure 1)</p>
+<p><strong>Example:</strong> An officer returning Monday submits the completion certificate within 72 hours, while completing the TA bill through the separate office process.</p>
+<h3 id="13-mileage-points-and-superseded-directions">13 — Mileage points and superseded directions</h3>
+<p>The 2017 TA annexure discussed use of mileage points earned on Government-funded tickets for Government purposes. The later 2022 air-booking OM says <strong>no mileage points will be generated against Government-account travel</strong> and supersedes existing instructions on its subject. Old Air-India-only language must not be treated as a current blanket airline rule after the 2022 private-airline clarification. <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_16_02_2022.pdf">S1</a> <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">S8</a></p>
+<p><strong>Example:</strong> A 2026 Government-account booking is not a basis to claim private frequent-flyer rewards under the superseded older practice; check any subsequent instructions.</p>
+<hr />
+<h2 id="c-foreign-visit-approvals-exceptions-and-sponsorship">C. Foreign-visit approvals, exceptions and sponsorship</h2>
+<p>Approval rules are wider than TA rates and can change. The following is a <strong>paragraph-level teaching map</strong> of the located 5 January 2016 instructions, their 25 January 2016 clarification, and 2017/2019 timeline instructions—not an assurance that all later relaxations or ministry-specific powers have been found. <a href="https://doe.gov.in/files/circulars_document/SCoSClarification25012016.pdf">S9</a> <a href="https://doe.gov.in/files/circulars_document/SCoS.pdf">S11</a></p>
+<h3 id="14-plan-and-minimise-the-visit-2016-paras-14">14 — Plan and minimise the visit: 2016 paras 1–4</h3>
+<p>The 2016 instructions call for foreign-visit data and a quarterly rolling plan in FVMS, only essential visits, minimal delegation strength and duration, and consideration of available Indian Missions or video-conferencing. Appropriate functional-level officers should be selected. Check present administrative workflow and any updated portal. <a href="https://doe.gov.in/files/circulars_document/InstsOnForeignVisits60116.pdf">S9</a></p>
+<p><strong>Example:</strong> Before sending a five-member team, the Ministry checks whether the Mission abroad or a video meeting can accomplish part of the objective.</p>
+<h3 id="15-five-days-five-members-and-the-training-clarification">15 — Five days, five members and the training clarification</h3>
+<p>The 2016 para 5 states that a delegation exceeding <strong>five working days or five members</strong> is to be placed before the Screening Committee of Secretaries (SCoS). The 25 January 2016 clarification says SCoS approval is <strong>not required for officers up to Joint Secretary level as part of the foreign training component, mid-career training programme or other training, irrespective of number and days</strong>. Check the precise case and later instructions; this is not a waiver of every other approval. <a href="https://doe.gov.in/files/circulars_document/SCoSClarification25012016.pdf">S9</a></p>
+<p><strong>Example:</strong> Do not apply the older 2014 “more than five trainees” instruction alone to a qualifying up-to-Joint-Secretary training component; check the later clarification and competent authority.</p>
+<h3 id="16-number-of-visits-and-international-events-paras-68">16 — Number of visits and international events: paras 6–8</h3>
+<p>The 2016 instructions set a norm of no more than <strong>four official foreign visits per officer in a year</strong>, with stated approval channels for exceeding it, and discourage participation in fairs/workshops/conferences unless essential. They address use of the host Mission and exceptional mobilisation of personnel. The January clarification uses the <strong>calendar year</strong> for counting. <a href="https://doe.gov.in/files/circulars_document/SCoSClarification25012016.pdf">S9</a></p>
+<p><strong>Example:</strong> Before a proposed fifth official visit in the same calendar year, the office checks the correct SCoS/Prime Minister route and applicable exceptions, rather than assuming every fifth visit is impossible.</p>
+<h3 id="17-senior-officers-and-saarcmyanmar-paras-915">17 — Senior officers and SAARC/Myanmar: paras 9–15</h3>
+<p>The 2016 instructions address when Secretaries should travel, Parliament sessions and simultaneous absence of Minister and Secretary. They specify SCoS routing for Secretary/Additional Secretary proposals with stated SAARC/Myanmar exceptions, and special treatment if a Secretary accompanies a Minister. Composite Secretary/Additional-Secretary-led delegations must not be split to evade the prescribed review. FA/Minister approval is required as stated for cases referred to SCoS. <a href="https://doe.gov.in/files/circulars_document/InstsOnForeignVisits60116.pdf">S9</a></p>
+<p><strong>Example:</strong> If a Secretary accompanies the Minister on a qualifying SAARC visit, the office checks the specified exception and SCoS route rather than assuming all SAARC travel is exempt.</p>
+<h3 id="18-psuautonomous-bodies-and-non-officials-paras-1618">18 — PSU/autonomous bodies and non-officials: paras 16–18</h3>
+<p>The 2016 order exempts PSU/autonomous-body visits from SCoS procedure <strong>unless part of a composite delegation from the administrative Ministry</strong>. It also addresses who bears Ministry/Department officers’ foreign-visit expenses and requires Prime Minister approval for Government-funded non-official visits, with routing depending on whether the non-official is part of a composite delegation. These are scoped rules, not universal exemptions for all bodies. <a href="https://doe.gov.in/files/circulars_document/InstsOnForeignVisits60116.pdf">S9</a></p>
+<p><strong>Example:</strong> An autonomous-body officer joining a composite Ministry delegation must be checked under that composite-delegation provision, not treated automatically as independently exempt.</p>
+<h3 id="19-international-sponsors-foreign-hospitality-and-personal-invitations-paras-1921">19 — International sponsors, foreign hospitality and personal invitations: paras 19–21</h3>
+<p>For the specified international bodies of which India is a member, bilateral/multilateral agreements or regular exchange programmes, para 19 permits acceptance of international air travel cost and hospitality; the terms on deputation are not to be supplemented with Government of India deputation terms as stated, and cash/local travel/hotel allowances follow the sponsor terms. The order treats certain direct invitations involving no Government business as personal visits, with leave and the specified senior-officer approval. Relevant political and FCRA clearances, if required, accompany proposals. Do not double-claim an expense paid by a sponsor. <a href="https://doe.gov.in/files/circulars_document/InstsOnForeignVisits60116.pdf">S9</a></p>
+<p><strong>Example:</strong> If a qualifying international body pays a ticket, the officer does not claim the same ticket a second time; the office separately examines the sponsor’s terms, visit sanction and hospitality clearances.</p>
+<h3 id="20-submission-timeline-and-approval-delegation-paras-2225-2019">20 — Submission timeline and approval delegation: paras 22–25; 2019</h3>
+<p>Where the specified SCoS/Prime Minister approval is required, the 2019 OM directs proposals to be received <strong>15 days before departure, but not later than 5 days before departure</strong>; proposals outside that timeframe are liable to rejection. The 2016 order also describes delegated decisions for Director/Joint-Secretary-level visits, states the spirit of the guidelines applies to specified bodies, and requires the delegation leader’s tour report and copies as stated. Verify current delegations and portal. <a href="https://doe.gov.in/files/circulars_document/OM_Foreign_Visits_SCoS_Order_27_11_2017.pdf">S9</a> <a href="https://doe.gov.in/files/circulars_document/SCoS.pdf">S12</a></p>
+<p><strong>Example:</strong> A qualifying proposal arriving two days before departure is outside the stated five-day outer limit and may be rejected; approval cannot be assumed because air tickets were booked.</p>
+<hr />
+<h2 id="d-mea-daily-allowance-for-official-foreign-tours">D. MEA daily allowance for official foreign tours</h2>
+<h3 id="21-start-with-the-correct-order-and-posting">21 — Start with the correct order and posting</h3>
+<p>The 2023 MEA order supersedes its stated <strong>11 November 1996</strong> order and says it is effective <strong>21 September 2023</strong>. Its country rates are stated to be the same throughout a country. India-posted and overseas-posted tours use different duration schedules. Before a live claim, verify the order and country rate currently applicable, including departmental endorsement. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a></p>
+<p><strong>Example:</strong> A Delhi-based officer’s approved trip to Singapore needs the current MEA foreign schedule; the domestic ₹ food-table ceiling is not the Singapore foreign DA.</p>
+<h3 id="22-country-rate-selected-2023-examples">22 — Country rate: selected 2023 examples</h3>
+<p>The 2023 annexure lists country rates in US-dollar terms; the order also permits local-currency payment as described below. These examples are <strong>2023 annexure transcriptions</strong>, not an independently certified 2026 schedule. The full original annexure is linked in <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a>; verify each country in an authoritative copy, especially names, currencies and updates.</p>
+<table>
+<thead>
+<tr>
+<th>Country in 2023 annexure</th>
+<th style="text-align: right;">Full prescribed rate (USD)</th>
+<th>Example of a check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bangladesh</td>
+<td style="text-align: right;">100</td>
+<td>A Level 10+ officer checks the 100 base before duration and other conditions.</td>
+</tr>
+<tr>
+<td>Bhutan</td>
+<td style="text-align: right;">100</td>
+<td>A Bhutan trip is not calculated by borrowing the UK's 150 base.</td>
+</tr>
+<tr>
+<td>Nepal</td>
+<td style="text-align: right;">100</td>
+<td>A Level 12 case starts with this 2023 base if still applicable.</td>
+</tr>
+<tr>
+<td>Singapore</td>
+<td style="text-align: right;">125</td>
+<td>Check 125, not a domestic rupee food ceiling.</td>
+</tr>
+<tr>
+<td>United Arab Emirates</td>
+<td style="text-align: right;">125</td>
+<td>Check the actual current UAE entry and sanction.</td>
+</tr>
+<tr>
+<td>United Kingdom</td>
+<td style="text-align: right;">150</td>
+<td>A full-rate illustration may begin at 150, subject to the applicable order.</td>
+</tr>
+<tr>
+<td>United States of America</td>
+<td style="text-align: right;">150</td>
+<td>The 2023 US entry is 150; later changes remain to be checked.</td>
+</tr>
+<tr>
+<td>Japan</td>
+<td style="text-align: right;">150</td>
+<td>A Japan case should not assume a per-city US-style table.</td>
+</tr>
+<tr>
+<td>France</td>
+<td style="text-align: right;">150</td>
+<td>Check the current MEA list before using the historical 150 entry.</td>
+</tr>
+<tr>
+<td>Australia</td>
+<td style="text-align: right;">150</td>
+<td>Confirm both country and date rather than copying another country.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="23-pay-level-rate-and-unresolved-levels-29">23 — Pay-level rate and unresolved Levels 2–9</h3>
+<p>The 2023 order’s extracted para 3 gives <strong>Level 10 and above the full annexure rate</strong>; the extracted Level 1 line reads <strong>33%</strong>. The scan extraction reads <strong>75% for above Level 1 but below Level 10</strong>, but unofficial transcriptions report <strong>79%</strong>. The conflicting middle row is <strong>unresolved</strong> until a legible authoritative copy is visually verified. Level 13A is equivalent to Level 13 for TA/DA under the DoE clarification. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">S2</a> <a href="https://www.gconnect.in/orders-in-brief/allowance-orders-in-brief/daily-allowance-rates-official-tours-abroad.html">S18</a></p>
+<p><strong>Example:</strong> Level 12 may begin a simple 2023 country-rate illustration with the full base, subject to other conditions. For Level 7, stop: request the authenticated rate and do not compute either 75% or 79% as fact.</p>
+<h3 id="24-india-posted-tour-duration">24 — India-posted tour duration</h3>
+<p>For an officer <strong>posted in India</strong>, on a tour from India to one or more countries abroad, the 2023 order gives <strong>full admissible DA for the first 14 days; 75% for the next 14 days; 60% thereafter</strong>, for each tour. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (para 2(ii))</p>
+<p><strong>Example:</strong> If the relevant full admissible daily rate is assumed to be $100 and day 15 is a complete qualifying day, the unadjusted day-15 slab is $75. Do not infer partial-day counting, exchange rate or overlapping deductions from this simplified example.</p>
+<h3 id="25-overseas-posted-tour-duration">25 — Overseas-posted tour duration</h3>
+<p>For the stated tours by an officer <strong>posted abroad</strong>, within the country of posting or from one Mission to another, the 2023 order gives <strong>full admissible DA for the first 7 days; 75% for the next 7; 50% thereafter</strong>. The India-posted 14-day schedule is different. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (para 2(i))</p>
+<p><strong>Example:</strong> At an assumed full daily rate of $100, complete qualifying day 8 is $75 and day 15 is $50 before other applicable conditions. Do not automatically restart the duration on a border crossing.</p>
+<h3 id="26-conveyance-is-separate-not-unlimited">26 — Conveyance is separate, not unlimited</h3>
+<p>MEA para 4 says foreign DA does not include the cost of official-journey transport. Actual taxi/conveyance cost for duty trips may be reimbursed if the controlling authority considers it <strong>necessary and reasonable</strong>, subject to admissibility and <strong>specific provision of funds in the deputation/delegation sanction</strong>. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a></p>
+<p><strong>Example:</strong> A necessary taxi from the approved hotel to an official meeting may be separately considered when the sanction contains the funds; a sightseeing taxi does not become an official expense merely because the officer is abroad.</p>
+<h3 id="27-approved-hotel-panel-and-actual-charges">27 — Approved hotel panel and actual charges</h3>
+<p>The 2023 order prescribes hotel <strong>panels</strong> in major cities instead of a general monetary hotel-rental ceiling. It requires accommodation in an approved-panel hotel and reimbursement of actual room rental, including service charges, taxes etc. Check the current Mission panel, grade and records. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (para 5)</p>
+<p><strong>Example:</strong> An eligible officer stays in a hotel on the current Mission panel and submits the actual room invoice; a domestic ₹ hotel ceiling cannot simply be substituted for this panel rule.</p>
+<h3 id="28-city-without-a-panel-own-or-free-accommodation">28 — City without a panel; own or free accommodation</h3>
+<p>For a city without an approved panel, the order uses the <strong>lowest hotel rate for the officer’s level in the country’s capital city</strong> as the ceiling for a hotel in that city. Where the officer makes their own arrangement, or accommodation <strong>alone</strong> is provided free, DA is granted at the rate prescribed for the grade. Confirm current panel details and other qualifying conditions. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (para 5)</p>
+<p><strong>Example:</strong> For a no-panel city, the officer asks the Mission for the relevant level’s lowest capital-city hotel rate; free lodging alone does not by itself invoke the State-Guest/all-meals-free rule.</p>
+<h3 id="29-non-representational-training-or-seminar">29 — Non-representational training or seminar</h3>
+<p>The hotel entitlement for non-representational visits such as training courses or seminars is <strong>one step below the normal entitlement</strong>. This is a hotel entitlement rule, not an assertion that every foreign DA percentage is reduced by one step. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (para 6)</p>
+<p><strong>Example:</strong> For an approved non-representational seminar, the Mission checks the one-step-lower hotel category for the officer’s normal grade.</p>
+<h3 id="30-state-guest-plus-all-meals-free">30 — State Guest plus all meals free</h3>
+<p>When an officer is <strong>treated as a State Guest and provided all meals free</strong>, the 2023 order says only <strong>25% of the DA rates</strong> is admissible. Both stated facts matter. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (para 7)</p>
+<p><strong>Example:</strong> If the officer is a State Guest and all meals are free, a simple $100 otherwise applicable rate gives $25 before checking any other applicable conditions. Free accommodation alone is a different situation under para 5.</p>
+<h3 id="31-tips-and-breakfast">31 — Tips and breakfast</h3>
+<p>There is no reimbursement of tips <strong>in addition to DA</strong> under the 2023 order. Where hotel charges include breakfast, DA is reduced by <strong>10%</strong>. The order does not, in the quoted paragraphs, settle every possible overlap or sequencing question. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (paras 8–9)</p>
+<p><strong>Example:</strong> For a $100 applicable daily rate, if only the breakfast reduction applies, $90 remains. If State-Guest and breakfast provisions appear to overlap, obtain the department’s authoritative calculation instead of inventing a sequence.</p>
+<h3 id="32-currency-and-official-exchange-rates">32 — Currency and official exchange rates</h3>
+<p>Where the local currency is freely convertible, the US-dollar-equivalent DA <strong>may</strong> be paid in local currency, with the local equivalent arrived at <strong>via rupees using MEA’s official exchange rates</strong> fixed from time to time. At missions with non-freely-convertible local currencies, prescribed DA <strong>may</strong> be paid in US dollars. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (para 10)</p>
+<p><strong>Example:</strong> The accounts office uses the relevant official MEA exchange rate rather than an arbitrary airport-counter rate to convert an eligible dollar amount into freely convertible local currency.</p>
+<h3 id="33-concurrence-effective-date-and-adoption">33 — Concurrence, effective date and adoption</h3>
+<p>The 2023 order records DoE and MEA internal-finance concurrence and its 21 September 2023 effective date. The CSIR forwarding letter says CSIR’s implementation begins from its own endorsement. The fact that an indexed copy is hosted by CSIR does not by itself establish a universal CSIR adoption date for every civilian department. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a> (paras 11–12 and forwarding letter)</p>
+<p><strong>Example:</strong> An officer in another department confirms that department’s applicable order and date; they do not copy a CSIR-specific implementation date automatically.</p>
+<hr />
+<h2 id="e-sea-and-river-steamer">E. Sea and river steamer</h2>
+<h3 id="34-conventional-steamer-table-places-other-than-the-named-island-groups">34 — Conventional steamer table: places other than the named island groups</h3>
+<table>
+<thead>
+<tr>
+<th>Pay level</th>
+<th>2017 entitlement</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9 and above</td>
+<td>Highest class</td>
+<td>Level 10 checks the highest class.</td>
+</tr>
+<tr>
+<td>6–8</td>
+<td>Lower class <strong>if there are only two classes</strong></td>
+<td>Level 7 on a two-class steamer checks the lower class.</td>
+</tr>
+<tr>
+<td>4–5</td>
+<td>Two classes: lower; three: middle/second; four: third</td>
+<td>Level 5 on a three-class steamer checks middle/second, not third.</td>
+</tr>
+<tr>
+<td>3 and below</td>
+<td>Lowest class</td>
+<td>Level 3 checks the lowest class.</td>
+</tr>
+</tbody>
+</table>
+<p>The Level 6–8 entry does <strong>not</strong> specify what to do on a three- or four-class vessel; seek the applicable authority instead of inventing a row. Applicability, available class, sanction and saving clause still matter. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(C)(i))</p>
+<h3 id="35-mainlandan-lakshadweep-on-sci-ships">35 — Mainland–A&amp;N / Lakshadweep on SCI ships</h3>
+<table>
+<thead>
+<tr>
+<th>Pay level</th>
+<th>Class in the specified SCI-operated ship table</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>9 and above</td>
+<td>Deluxe</td>
+<td>Level 9 checks Deluxe on a qualifying route and operator.</td>
+</tr>
+<tr>
+<td>6–8</td>
+<td>First / ‘A’ Cabin</td>
+<td>Level 7 checks First/A cabin.</td>
+</tr>
+<tr>
+<td>4–5</td>
+<td>Second / ‘B’ Cabin</td>
+<td>Level 5 checks Second/B cabin.</td>
+</tr>
+<tr>
+<td>3 and below</td>
+<td>Bunk</td>
+<td>Level 3 checks Bunk.</td>
+</tr>
+</tbody>
+</table>
+<p>The separate table expressly concerns travel <strong>between the mainland and the Andaman &amp; Nicobar / Lakshadweep groups by ships operated by Shipping Corporation of India Ltd.</strong> Do not automatically apply it to every private ferry, intra-island connection or operator. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(C)(ii))</p>
+<h3 id="36-government-shipsboats-and-scientific-field-journeys">36 — Government ships/boats and scientific field journeys</h3>
+<p>The 2017 tour-DA special provision addresses qualifying stay/journey on Government ships/boats and remote foot/mule journeys for scientific/data collection in organisations such as FSI, Survey of India and GSI. DA is at the food-reimbursement-equivalent rate and is sanctioned irrespective of actual food expenditure <strong>with Head of Department/controlling-officer approval</strong>. Check the precise purpose and conditions; this is not a blanket private-ferry rate. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(E)(vi))</p>
+<p><strong>Example:</strong> For a qualifying sanctioned scientific survey on a Government boat, the office checks the special food-rate-equivalent DA and approval separately from the ship's passenger-class entitlement.</p>
+<hr />
+<h2 id="f-road-prescribed-rates-fallback-route-and-adjacent-rules">F. Road: prescribed rates, fallback, route and adjacent rules</h2>
+<h3 id="37-places-with-specific-prescribed-rates-level-14">37 — Places with specific prescribed rates: Level 14+</h3>
+<p>The 2017 table gives Level 14+ <strong>actual fare by any type of public bus including AC</strong>, or the prescribed AC-taxi rate when the journey is actually by AC taxi, or the prescribed auto-rickshaw rate for the listed modes including auto, own car, scooter, motorcycle and moped. Routes, sanction and other applicable rules remain relevant. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(D)(i))</p>
+<p><strong>Example:</strong> A Level 14 employee actually using an AC taxi at a place with a prescribed rate checks that AC-taxi rate; an unused AC-taxi mode is not claimable merely because it is entitled.</p>
+<h3 id="38-levels-613-and-13a">38 — Levels 6–13 and 13A</h3>
+<p>The prescribed-rate table gives Levels 6–13 the same entitlement as the preceding row <strong>except AC-taxi journeys are not permissible</strong> under that row. Level 13A follows Level 13 for TA/DA under the separate clarification. Public AC bus and the listed auto-rate alternatives are not the same as an AC taxi. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">S1</a></p>
+<p><strong>Example:</strong> A Level 9 employee can check the public AC-bus option at a prescribed-rate place but cannot assume this row permits an AC taxi.</p>
+<h3 id="39-levels-45">39 — Levels 4–5</h3>
+<p>The prescribed-rate table allows <strong>actual fare by any public bus other than AC</strong>, or prescribed auto-rickshaw rates for the listed modes, including auto, own car, scooter, motorcycle and moped. This is not the same as the Level 14 AC-taxi option. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<p><strong>Example:</strong> A Level 5 officer using a non-AC public bus checks the actual fare and applicable route cap; an AC bus is not covered by this particular row.</p>
+<h3 id="40-level-3-and-below">40 — Level 3 and below</h3>
+<p>The prescribed-rate row allows actual fare by <strong>ordinary public bus only</strong>, or prescribed auto-rickshaw rates for journeys by auto, own scooter, motorcycle, moped etc. Unlike the preceding rows, <strong>own car is not expressly listed</strong> in this row. Do not invent an own-car entitlement from another level’s list. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<p><strong>Example:</strong> A Level 3 employee on an ordinary public bus checks the actual eligible fare; a claim for own-car mileage requires a separate applicable authority.</p>
+<h3 id="41-no-specific-state-or-neighbouring-state-rate-2017-fallback">41 — No specific State or neighbouring-State rate: 2017 fallback</h3>
+<p>Where no specific rate is prescribed by the Directorate of Transport of the concerned State <strong>or the neighbouring States</strong>, the 2017 fallback is <strong>₹24/km for own car/taxi</strong> and <strong>₹12/km for auto-rickshaw/own scooter etc.</strong> Its clause provides a 25% increase whenever DA increases by 50%. Eligibility, actual journey, other rules and the correct local rate still need checking. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(D)(ii))</p>
+<p><strong>Example:</strong> If an applicable prescribed State or neighbouring-State rate exists, start with that rate rather than automatically substituting the fallback.</p>
+<h3 id="42-first-25-indexed-fallback-calculation">42 — First 25% indexed fallback calculation</h3>
+<p>Dearness Allowance reached the 50% threshold from 1 January 2024; 60% from 1 January 2026 is <strong>not itself another 50-percentage-point trigger</strong>. For the 2017 fallback clause, one 25% increase calculates <strong>₹24 × 1.25 = ₹30/km</strong> and <strong>₹12 × 1.25 = ₹15/km</strong>, subject to applicability and later instructions. The Department of Posts implementation is a department-specific confirmation, not a universal consolidation for every service. <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S1</a> <a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">S14</a></p>
+<p><strong>Example:</strong> On a qualifying fallback journey by an eligible auto for 20 km, the formula gives 20 × ₹15 = <strong>₹300</strong> before any other applicable limits and proof checks. The formula does not authorise a mode not otherwise allowed.</p>
+<h3 id="43-separate-foot-mileage">43 — Separate foot mileage</h3>
+<p>The 2017 city-travel reimbursement provision says an allowance of <strong>₹12/km on foot</strong> is payable additionally for journeys on foot and rises by 25% when DA rises by 50%. One such increase calculates <strong>₹15/km</strong>, subject to its context, applicability and later instructions; it is not a general automatic payment for all walking. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(E)(iii)) <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S13</a></p>
+<p><strong>Example:</strong> An eligible official foot journey of 4 km, to which this provision applies, calculates 4 × ₹15 = ₹60, subject to sanction and evidence.</p>
+<h3 id="44-domestic-city-travel-is-not-inter-city-fallback">44 — Domestic city travel is not inter-city fallback</h3>
+<p>Within-city travel under domestic tour DA has its own mode and level-specific ceilings or mileage conditions; it is distinct from an inter-city journey under the road-mileage table. Level 9–11 city-travel self-certification is addressed by the 2020 DoE clarification. Foreign duty conveyance is a third, separate rule. <a href="https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf">S1</a> <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a></p>
+<p><strong>Example:</strong> A Level 9 taxi within the tour city is checked under the domestic city-travel rules, not automatically as an unlimited ₹30/km inter-city journey; a foreign duty taxi is considered under MEA para 4.</p>
+<h3 id="45-transfer-effects-by-road-are-not-the-employees-fare">45 — Transfer effects by road are not the employee's fare</h3>
+<p>For eligible transfer of personal effects, the 2017 base road rates are <strong>₹50/km for Level 6 and above, ₹25/km for Level 5, and ₹15/km for Level 4 and below</strong>. One 25% increase calculates <strong>₹62.50, ₹31.25 and ₹18.75 per km</strong>, respectively. These rates and conditions concern effects, not the employee’s separate road-travel fare or the Composite Transfer Grant. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 3(iii)) <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">S13</a></p>
+<p><strong>Example:</strong> Level 7 eligible effects over 50 km calculate a ₹3,125 ceiling (50 × ₹62.50); actual qualifying transport, evidence, weight and other conditions must be checked before reimbursement.</p>
+<h3 id="46-effects-evidence-and-the-specified-region-exception">46 — Effects evidence and the specified-region exception</h3>
+<p>The 2017 order requires receipts/vouchers for effects, including its named regions. The 16 June 2022 DoE clarification creates a <strong>specific one-third entitlement without mandatory receipts</strong> for qualifying cases of an employee transferring to/from the North Eastern Region, A&amp;N, Lakshadweep or Ladakh <strong>without family</strong>; accompanied claims require receipts under that order. It is effective from its issue date, and settled past cases are not reopened. Check the exact applicability and later amendments. It is not a blanket waiver for every regional transfer. <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_16_06_2022.pdf">S1</a></p>
+<p><strong>Example:</strong> An eligible unaccompanied regional transfer may invoke the one-third no-receipt provision; an accompanied transfer cannot assume that exception applies merely because the destination is in the region.</p>
+<h3 id="47-rates-purpose-and-proof-are-separate">47 — Rates, purpose and proof are separate</h3>
+<p>The road tables do not turn a personal excursion into official travel, or prove that a ride took place. The controlling/accounts authority applies the sanctioned purpose, permitted mode, actual route, fare/mileage and evidence requirements. A prescribed kilometre rate is not always an automatic reimbursement of the full amount. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<p><strong>Example:</strong> A 30 km private weekend trip during an official tour is not automatically eligible for the official road rate.</p>
+<h3 id="48-places-not-connected-by-rail">48 — Places not connected by rail</h3>
+<p>For places <strong>not connected by rail</strong>, the 2017 domestic travel conditions allow AC bus for those entitled to <strong>AC II Tier and above by train</strong>, and Deluxe/ordinary bus for others. Consider any individual saving or later instructions. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(A)(iii)(a))</p>
+<p><strong>Example:</strong> An officer whose eligible rail entitlement is AC II checks the AC-bus provision for a no-rail destination; a different rail entitlement must be assessed under the other row.</p>
+<h3 id="49-road-public-transport-between-rail-connected-places">49 — Road public transport between rail-connected places</h3>
+<p>Between places connected by rail, the 2017 condition allows travel by any means of <strong>public transport</strong> provided total fare does not exceed the fare by the entitled train class. The clause is not worded as an automatic private-vehicle mileage cap. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a> (para 2(A)(iii)(b))</p>
+<p><strong>Example:</strong> A qualifying public-bus fare of ₹400 against an entitled-class train fare of ₹500 does not exceed this specific cap. Other mode, sanction and evidence rules still apply.</p>
+<h3 id="50-do-not-extrapolate-the-public-transport-cap">50 — Do not extrapolate the public-transport cap</h3>
+<p>The explicit public-transport train-fare condition in unit 49 should not automatically be applied to <strong>every private car or scooter mileage</strong> claim. Nor does its wording prove every private-vehicle claim has no other restriction. Seek the correct authority for the actual mode and route. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<p><strong>Example:</strong> For an approved own-car journey on a rail-connected route, the office checks the specific private-vehicle and mileage instructions instead of asserting either unlimited payment or the public-bus cap without authority.</p>
+<hr />
+<h2 id="g-worked-integrated-cases-and-faqs">G. Worked integrated cases and FAQs</h2>
+<h3 id="51-foreign-tour-duration-and-separate-taxi">51 — Foreign tour: duration and separate taxi</h3>
+<p><strong>Rule:</strong> A Level 12 India-posted officer uses the applicable MEA country base and 14/14/thereafter schedule; necessary, reasonable duty conveyance is separate if specific sanction funds and admissibility requirements exist. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S2</a></p>
+<p><strong>Example:</strong> Assume a $100 full qualifying country rate, no other adjustment and a complete day 15: the slab gives $75. A necessary official-meeting taxi is examined separately; neither the $75 nor the taxi is automatically payable without the actual conditions.</p>
+<h3 id="52-two-different-sea-cases">52 — Two different sea cases</h3>
+<p><strong>Rule:</strong> The SCI mainland–island ship table and conventional other-place steamer table are not interchangeable. <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">S1</a></p>
+<p><strong>Example:</strong> Level 7 on a qualifying SCI mainland–island ship checks First/A cabin. Level 5 on a conventional three-class steamer checks middle/second class.</p>
+<h3 id="53-one-route-three-kinds-of-amount">53 — One route, three kinds of amount</h3>
+<p><strong>Rule:</strong> The employee's inter-city fare, eligible domestic city travel and qualifying transfer-effects transport are different components with different tables and proof. <a href="https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf">S1</a> <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_16_06_2022.pdf">S16</a></p>
+<p><strong>Example:</strong> An officer’s public bus to a new station, a local official taxi and a truck carrying effects must be tested under their respective applicable provisions; do not add three generic mileage rates to the same expense.</p>
+<h3 id="54-can-2023-foreign-country-rates-be-called-final-2026-rates">54 — Can 2023 foreign country rates be called final 2026 rates?</h3>
+<p><strong>Answer:</strong> Not from this research alone. The 2023 order is the latest relevant MEA order located, but later orders and department-specific adoption remain to be verified. <a href="https://doe.gov.in/orders-circulars/30">S2</a></p>
+<p><strong>Example:</strong> Before sanctioning a 2026 Nepal tour, obtain the currently applicable MEA rate and department instruction, even though the 2023 annexure reads $100.</p>
+<h3 id="55-does-a-60-dearness-allowance-mean-another-25-hike">55 — Does a 60% Dearness Allowance mean another 25% hike?</h3>
+<p><strong>Answer:</strong> No automatic second hike follows merely because Dearness Allowance rose from 50% to 60%. The relevant individual rate clause and its future 50-point trigger must be checked. Foreign daily allowance is separately regulated by MEA. <a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">S1</a></p>
+<p><strong>Example:</strong> The 2017 road fallback’s first indexed amounts calculate to ₹30/₹15 per km after one 25% increase; do not multiply them by 1.25 again just because DA is 60%.</p>
+<h3 id="56-do-ltc-or-training-orders-automatically-replace-tour-rules">56 — Do LTC or training orders automatically replace tour rules?</h3>
+<p><strong>Answer:</strong> No. An approved tour, training, transfer, retirement and leave travel can have different conditions; the DoPT LTC framework is not a substitute for MEA foreign-tour DA. This batch identifies the official foreign-training hotel/approval provisions located, but does not claim to reproduce every training or LTC instruction. <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">S1</a> <a href="https://doe.gov.in/files/circulars_document/SCoSClarification25012016.pdf">S9</a></p>
+<p><strong>Example:</strong> An employee attending a sanctioned foreign seminar checks its non-representational hotel rule and sponsor terms; a personal holiday to the same city is not the same claim.</p>
+<h3 id="57-what-records-and-deadline-should-i-check">57 — What records and deadline should I check?</h3>
+<p><strong>Rule:</strong> Keep the sanction, funding and necessary clearances, itinerary, relevant official fare/agent documentation, tickets and declarations, applicable hotel and conveyance evidence, and any self-certification. The general tour/training/transfer claim period is <strong>60 days</strong>, with retirement generally <strong>180 days</strong>, subject to relevant dates and exceptions; the 72-hour air-completion certificate is separate. <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">S8</a> <a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">S19</a></p>
+<p><strong>Example:</strong> After returning from an air tour, an officer submits the completion certificate within 72 hours and separately checks the claim deadline and supporting documents with the office.</p>
+<hr />
+<h2 id="coverage-ledger-and-open-items">Coverage ledger and open items</h2>
+<p>This ledger is deliberately specific: <strong>linked</strong> means the stated source was located and the described portion is discussed here; it does not mean a lawyer or a human narrator has certified every line, every service exception or every later amendment.</p>
+<table>
+<thead>
+<tr>
+<th>Source / provision</th>
+<th>Guide and lecture</th>
+<th>Status / boundary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2017 OM paras 2–9: level, basic pay, saving, date, service scope</td>
+<td>01; lecture 01</td>
+<td>Linked; historical/protected entitlement needs individual proof.</td>
+</tr>
+<tr>
+<td>2017 Annexure 2(B); 2017 Level 13A clarification</td>
+<td>02; lecture 01</td>
+<td>Linked: all three international air rows and 13A.</td>
+</tr>
+<tr>
+<td>2022 DoE air OMs: agents, airline, fares, clocks, exception, declaration, payment, mileage points</td>
+<td>04–13; lecture 02</td>
+<td>Linked; confirm amendments and competent relaxation in the individual case.</td>
+</tr>
+<tr>
+<td>2016 foreign visits paras 1–25; Jan 2016 clarification; 2017/2019 timeframes</td>
+<td>14–20; lecture 03</td>
+<td>Paragraph-level map, not a line-by-line legal reproduction; current ministry delegations and later changes remain to be checked. Older 2014 training instruction must be read with later clarification.</td>
+</tr>
+<tr>
+<td>MEA 2023 paras 1–12 and annexure</td>
+<td>21–33; lectures 04–06</td>
+<td>All numbered paragraphs mapped; selected country rows illustrated, complete annexure linked but <strong>not individually audited</strong>. Levels 2–9 conflicting reading unresolved; later MEA changes and exact adoption remain open.</td>
+</tr>
+<tr>
+<td>2017 Annexure 2(C)(i) conventional and (ii) SCI island tables</td>
+<td>34–35; lecture 07</td>
+<td>All express rows mapped; Level 6–8 three-/four-class case and non-SCI island operator rules need authority.</td>
+</tr>
+<tr>
+<td>2017 Annexure 2(E)(vi) Government ships/remote scientific work</td>
+<td>36; lecture 10</td>
+<td>Linked; condition and approval must be tested case by case.</td>
+</tr>
+<tr>
+<td>2017 Annexure 2(D)(i)/(ii), all rows and first indexed fallback</td>
+<td>37–42; lectures 08–09</td>
+<td>Linked; applicable State/neighbouring-State rates, mode and 50% trigger require verification in the case.</td>
+</tr>
+<tr>
+<td>2017 2(E)(iii) foot mileage; domestic city travel and 2020 clarification</td>
+<td>43–44; lecture 10 briefly</td>
+<td>Linked; full domestic DA detail is in Batch 01.</td>
+</tr>
+<tr>
+<td>2017 3(iii) road effects and 2022 specified-region clarification</td>
+<td>45–46; lecture 10</td>
+<td>Linked; regional exception and receipt conditions are scoped, not universal.</td>
+</tr>
+<tr>
+<td>2017 2(A)(iii)(a), (b), (d): no rail, public fare cap, lower class</td>
+<td>03, 48–50; lecture 09</td>
+<td>Linked; private-vehicle cap and unlisted route exceptions remain a separate source check.</td>
+</tr>
+<tr>
+<td>DoPT LTC and service-specific instructions, all historical GIDs / FR-SR provisos / FAQs</td>
+<td>56; Batch 01 appendix</td>
+<td>Not exhaustively audited here. No claim that every non-obsolete FAQ, rule, GID or DoPT OM is covered.</td>
+</tr>
+<tr>
+<td>Foreign partial-day calculation, country-change clock, overlapping breakfast/State-Guest deductions, current hotel panels/exchange rates</td>
+<td>24–32</td>
+<td><strong>Open</strong>: obtain authoritative case-specific instructions; do not infer formulas from this guide.</td>
+</tr>
+<tr>
+<td>Audio and captions</td>
+<td><a href="Caption-Check.md">Caption check</a>, <a href="Caption-Review.html">cue review</a></td>
+<td>Automated alignment/recognition only; no complete human-verbatim audio review has been performed. Roman text is transliterated synthesis input and can differ from actual speech.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="sources-and-version-notes">Sources and version notes</h2>
+<p>Official links were checked on 27 October 2026 through accessible copies and searchable indexes. The CSIR order is an official-hosted scan forwarding an MEA order; OCR can be wrong. Read the governing document itself and the latest departmental instructions.</p>
+<ul>
+<li><strong>S1 — DoE 2017 master TA OM and annexure:</strong> <a href="https://doe.gov.in/files/cenetral-pay_document/TA_English.pdf">official PDF</a>, especially paras 2–9 and Annexure 2(A)–(E), 3. The extract’s annexure date has an OCR/header inconsistency; the order is conventionally cited as 13 July 2017, effective 1 July 2017.</li>
+<li><strong>S2 — MEA 25 September 2023 foreign DA order, forwarded by CSIR:</strong> <a href="https://www.csir.res.in/sites/default/files/2024-04/Revised%20DA%20Rates%20for%20Foreign%20Visit.pdf">official-hosted scan and country annexure</a>. The CSIR forwarding date is 12 February 2024; CSIR-specific implementation begins at endorsement. The Level 2–9 optical reading is unresolved.</li>
+<li><strong>S3 — DoE TA orders index:</strong> <a href="https://doe.gov.in/orders-circulars/44">official index</a>.</li>
+<li><strong>S4 — DoE air-travel instructions index:</strong> <a href="https://doe.gov.in/orders-circulars/21">official index</a>.</li>
+<li><strong>S5 — DoE foreign deputation/delegation/tour index:</strong> <a href="https://doe.gov.in/orders-circulars/30">official index</a>. The 2019 entry is the latest listed there when checked, not proof that no later instruction exists elsewhere.</li>
+<li><strong>S6 — DoE 4 September 2017 Level 13A clarification:</strong> <a href="https://doe.gov.in/files/cenetral-pay_document/TA_Order_dt_04_09_2017.pdf">official PDF</a>.</li>
+<li><strong>S7 — DoE 16 February 2022 private-airline clarification:</strong> <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_16_02_2022.pdf">official PDF</a>.</li>
+<li><strong>S8 — DoE 16 June 2022 Government-account air booking OM:</strong> <a href="https://doe.gov.in/files/circulars_document/Air_ticket_booking_instructions_dated_16_06_2022_0.pdf">official PDF and completion certificate</a>.</li>
+<li><strong>S9 — DoE 5 January 2016 foreign-visit guidelines:</strong> <a href="https://doe.gov.in/files/circulars_document/InstsOnForeignVisits60116.pdf">official PDF</a>, paragraphs 1–25 and supersession clause; check subsequent instructions.</li>
+<li><strong>S10 — DoE 25 January 2016 clarification:</strong> <a href="https://doe.gov.in/files/circulars_document/SCoSClarification25012016.pdf">official PDF</a>, including specified up-to-Joint-Secretary training and calendar-year clarification.</li>
+<li><strong>S11 — DoE 27 November 2017 SCoS timeline:</strong> <a href="https://doe.gov.in/files/circulars_document/OM_Foreign_Visits_SCoS_Order_27_11_2017.pdf">official PDF</a>.</li>
+<li><strong>S12 — DoE 9 May 2019 SCoS / Prime Minister proposal timeline:</strong> <a href="https://doe.gov.in/files/circulars_document/SCoS.pdf">official PDF</a>.</li>
+<li><strong>S13 — Department of Posts 2024 indexed allowances:</strong> <a href="https://utilities.cept.gov.in/dop/pdfbind.ashx?id=9580">official Posts implementation</a>; limited to that administration and its stated advice.</li>
+<li><strong>S14 — DoE Dearness Allowance effective 1 January 2026:</strong> <a href="https://doe.gov.in/files/circulars_document/DAorder7cpc.pdf">official order</a>.</li>
+<li><strong>S15 — DoE 22 December 2020 Level 9–11 city-travel evidence clarification:</strong> <a href="https://doe.gov.in/files/circulars_document/OM_dated_22_12_2020_Eng_0.pdf">official PDF</a>.</li>
+<li><strong>S16 — DoE 16 June 2022 specified-region personal-effects clarification:</strong> <a href="https://doe.gov.in/files/circulars_document/DoE_OM_dated_16_06_2022.pdf">official PDF</a>.</li>
+<li><strong>S17 — DoE 13 March 2018 TA claim timeline:</strong> <a href="https://doe.gov.in/files/circulars_document/TA_order_dated_13032018_English.pdf">official PDF</a>.</li>
+<li><strong>S18 — Contrasting unofficial transcription:</strong> <a href="https://www.gconnect.in/orders-in-brief/allowance-orders-in-brief/daily-allowance-rates-official-tours-abroad.html">third-party page</a>, included only to document the 79% conflict; it is <strong>not</strong> an authority for fixing the rate.</li>
+<li><strong>S19 — DoE 15 June 2021 retirement TA timeline:</strong> <a href="https://doe.gov.in/files/circulars_document/OM_dated_15062021_Eng_0.pdf">official PDF</a>; retirement is not the main focus of this batch.</li>
+</ul></article>
+</main>
+<footer><div class="shell">Batch 02 is an educational resource, not a sanction. Check the latest applicable orders and your controlling/accounts authority before making a claim.</div></footer>
+</body>
+</html>

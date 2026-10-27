@@ -1,0 +1,896 @@
+{
+  "title": "CCS Travelling Allowance — Batch 02",
+  "research_cutoff": "2026-10-27",
+  "speaker": "voice-00 (user selected)",
+  "sections": [
+    {
+      "audio": "01-international-class.mp3",
+      "title": "International air: scope and class",
+      "source": "DoE TA 2017, para 2(B); 13A OM 2017",
+      "icon": "air",
+      "beats": [
+        {
+          "heading": "01A  |  Batch 2: route map",
+          "cards": [
+            [
+              "SCOPE",
+              "Civilian official duty"
+            ],
+            [
+              "AIR",
+              "International classes"
+            ],
+            [
+              "SEA",
+              "Ship / steamer"
+            ],
+            [
+              "ROAD",
+              "Fare and mileage"
+            ]
+          ],
+          "rule": "Use the civilian official-tour and training rules; separate service instructions can apply.",
+          "example": "A foreign official tour needs the international table, not a copy of the domestic table.",
+          "trap": "Examples are hypothetical; sanction, exceptions and later orders must be checked.",
+          "key": "Always identify the journey, service, date, pay level and funding first.",
+          "lines": [
+            "Hey everyone! Batch Two में international air, sea और road टी ए सीखेंगे।",
+            "ये Central Government civilian tour और training पर focus करता है।",
+            "Railway और Armed Forces के अलग instructions check करें।",
+            "Example: foreign tour में domestic class को copy नहीं करेंगे।",
+            "हर example hypothetical है; sanction और latest order check करें।"
+          ],
+          "english_lines": [
+            "In Batch 2 we study international air, sea and road travelling allowance.",
+            "The focus is Central Government civilian tours and training.",
+            "Check the separate instructions for Railways and the Armed Forces.",
+            "For example, do not copy the domestic class for a foreign tour.",
+            "Every example is hypothetical; check the sanction and latest orders."
+          ]
+        },
+        {
+          "heading": "01B  |  Match the level to the international table",
+          "cards": [
+            [
+              "17+",
+              "First"
+            ],
+            [
+              "14–16",
+              "Business / Club"
+            ],
+            [
+              "13A",
+              "Same as Level 13"
+            ],
+            [
+              "13 & BELOW",
+              "Economy"
+            ]
+          ],
+          "rule": "International: Level 17+ First, 14–16 Business/Club, Level 13 and below Economy; 13A follows 13.",
+          "example": "Level 13A checks the Economy row; Level 14 checks the Business/Club row.",
+          "trap": "A class entitlement is not automatic approval of a specific fare or journey.",
+          "key": "International air class and domestic air class are different tables.",
+          "lines": [
+            "International travel में Level seventeen और ऊपर First Class है।",
+            "Level fourteen से sixteen Business या Club Class है।",
+            "Level thirteen और नीचे Economy Class है।",
+            "Level thirteen A को Level thirteen के बराबर check करेंगे।",
+            "Example: Level thirteen A में Economy; Level fourteen में Business।",
+            "लेकिन entitlement, booking और sanction तीन अलग checks हैं।"
+          ],
+          "english_lines": [
+            "Internationally, Level 17 and above is First Class.",
+            "Levels 14 to 16 are Business or Club Class.",
+            "Level 13 and below is Economy Class.",
+            "Check Level 13A as equivalent to Level 13.",
+            "For example, 13A checks Economy; Level 14 checks Business.",
+            "Entitlement, booking and sanction are separate checks."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-air-booking.mp3",
+      "title": "Air booking: choice and clocks",
+      "source": "DoE air OMs 16 Feb and 16 Jun 2022",
+      "icon": "air",
+      "beats": [
+        {
+          "heading": "02A  |  Government-funded air tickets",
+          "cards": [
+            [
+              "AGENTS",
+              "BLCL · ATT · IRCTC"
+            ],
+            [
+              "AIRLINE",
+              "Private permitted"
+            ],
+            [
+              "SLOT",
+              "Chosen 3-hour band"
+            ],
+            [
+              "FARE",
+              "Best available + rule"
+            ]
+          ],
+          "rule": "Government-funded tickets: use the three authorised agents; a private airline may be used.",
+          "example": "An authorised-agent portal compares eligible-class flights in the chosen three-hour slot.",
+          "trap": "A 10% optimisation provision is not an unrestricted fare upgrade.",
+          "key": "One selected agent for all employees on a single tour; no agency convenience fee.",
+          "lines": [
+            "Government पैसे दे रही हो, तो ticket तीन authorised agents से लें।",
+            "ये हैं Balmer Lawrie, Ashok Travels और IRCTC।",
+            "Private airline भी allowed है; class और sanction अलग checks हैं।",
+            "Chosen three-hour slot में cheapest eligible fare देखें।",
+            "Non-stop preferably लें; ten percent price band की rule check करें।",
+            "Example: group के एक tour के लिए एक ही selected agent use होगा।"
+          ],
+          "english_lines": [
+            "When the Government bears the fare, use the three authorised agents.",
+            "These are Balmer Lawrie, Ashok Travels and IRCTC.",
+            "A private airline is permitted; class and sanction remain separate checks.",
+            "Check the cheapest eligible fare in the chosen three-hour slot.",
+            "Prefer non-stop travel and check the 10% price-band provision.",
+            "For example, one selected agent is used for all staff on one tour."
+          ]
+        },
+        {
+          "heading": "02B  |  Booking, cancellation and proof",
+          "cards": [
+            [
+              "21 DAYS",
+              "Booking encouraged"
+            ],
+            [
+              "<72 HOURS",
+              "Booking justification"
+            ],
+            [
+              "<24 HOURS",
+              "Cancellation reason"
+            ],
+            [
+              "AFTER",
+              "Journey certificate"
+            ]
+          ],
+          "rule": "21 days is encouraged; late bookings and cancellations have different declaration clocks.",
+          "example": "A tour booking 48 hours before departure needs self-declared justification.",
+          "trap": "A non-authorised website needs competent relaxation; rejection is not automatic.",
+          "key": "Submit journey certificate within 72 hours after completion; TA bill may follow.",
+          "lines": [
+            "Twenty one days पहले booking करना encouraged है।",
+            "Tour booking seventy two hours से कम पहले हो, justification दें।",
+            "Cancellation twenty four hours से कम पहले हो, अलग reason दें।",
+            "Example: forty eight hours पहले booking पर self declaration लगेगा।",
+            "Journey के बाद seventy two hours में completion certificate दें।",
+            "Unauthorised booking पर competent relaxation check करें।"
+          ],
+          "english_lines": [
+            "Booking 21 days in advance is encouraged.",
+            "For a tour booking less than 72 hours before travel, justify it.",
+            "Give a separate reason for cancellation less than 24 hours before travel.",
+            "A booking 48 hours before travel requires a self-declaration.",
+            "Submit the journey-completion certificate within 72 hours after travel.",
+            "For unauthorised booking, check competent relaxation."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-foreign-approvals.mp3",
+      "title": "Foreign visits: approval and funding",
+      "source": "DoE 2016 paras 12–25; 2019 SCoS OM",
+      "icon": "globe",
+      "beats": [
+        {
+          "heading": "03A  |  Approval before departure",
+          "cards": [
+            [
+              "APPROVAL",
+              "Competent authority"
+            ],
+            [
+              "SCoS",
+              "Where required"
+            ],
+            [
+              "TIMELINE",
+              "15 / 5 days"
+            ],
+            [
+              "EXCEPTIONS",
+              "Check scope"
+            ]
+          ],
+          "rule": "Where SCoS and PM approval is required, the 2019 OM prescribes a 15-day / 5-day submission timeline.",
+          "example": "An eligible Secretary-level proposal requiring SCoS must reach the right authority on time.",
+          "trap": "2016 clarification has training exceptions; the 2014 rule alone is not a safe shortcut.",
+          "key": "Political / other clearance, budget and current delegations must also be checked.",
+          "lines": [
+            "Foreign visit के लिए competent approval और budget पहले check करें।",
+            "जहाँ Screening Committee और Prime Minister approval चाहिए,",
+            "proposal fifteen days पहले भेजें, और five days से late नहीं।",
+            "Example: Secretary का qualifying proposal time पर भेजना होगा।",
+            "Training और कुछ delegations के exceptions भी check करें।"
+          ],
+          "english_lines": [
+            "Check competent approval and budget before the foreign visit.",
+            "Where Screening Committee and Prime Minister approval is required,",
+            "send the proposal 15 days ahead and no later than five days ahead.",
+            "For example, a qualifying Secretary-level proposal must be submitted on time.",
+            "Also check exceptions for training and certain delegations."
+          ]
+        },
+        {
+          "heading": "03B  |  Sponsor-funded is not a duplicate claim",
+          "cards": [
+            [
+              "SPONSOR",
+              "Read written terms"
+            ],
+            [
+              "PARA 19",
+              "Specified arrangements"
+            ],
+            [
+              "FARE",
+              "No double payment"
+            ],
+            [
+              "SANCTION",
+              "Approval still needed"
+            ]
+          ],
+          "rule": "For specified international-body / bilateral sponsorship, check para 19 and the sponsor terms.",
+          "example": "If an approved sponsor pays the airfare, do not also claim the same airfare from Government.",
+          "trap": "Do not assume all sponsored visits qualify or that every other cost is automatically payable.",
+          "key": "Approval, hospitality clearance and any other conditions are separate questions.",
+          "lines": [
+            "कुछ international bodies या agreements में sponsor terms apply हो सकते हैं।",
+            "दोनों sets की allowances automatic जोड़ना सही नहीं है।",
+            "Example: sponsor ने flight pay की, तो वही fare दोबारा claim न करें।",
+            "Visit approval, hospitality और बाकी expenses अलग check होंगे।"
+          ],
+          "english_lines": [
+            "For some international bodies or agreements, sponsor terms may apply.",
+            "Do not automatically add both sets of allowances.",
+            "If the sponsor paid the flight, do not claim the same fare again.",
+            "Visit approval, hospitality and other expenses need separate checks."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-foreign-da-slabs.mp3",
+      "title": "Foreign daily allowance: duration",
+      "source": "MEA order 25 Sep 2023, paras 1–3",
+      "icon": "globe",
+      "beats": [
+        {
+          "heading": "04A  |  Starting from India",
+          "cards": [
+            [
+              "DAYS 1–14",
+              "Full admissible"
+            ],
+            [
+              "DAYS 15–28",
+              "75%"
+            ],
+            [
+              "DAY 29+",
+              "60%"
+            ],
+            [
+              "BASE",
+              "Country + level"
+            ]
+          ],
+          "rule": "For an India-posted officer touring abroad: first 14 days full, next 14 at 75%, thereafter 60%.",
+          "example": "With an assumed full rate of $100: day 15 is $75 before other applicable adjustments.",
+          "trap": "The example assumes a full qualifying day; cross-border and partial-day cases need checking.",
+          "key": "These are 2023 order slabs, not domestic food-allowance timing slabs.",
+          "lines": [
+            "Latest MEA order जो हमें मिला, September twenty twenty three का है।",
+            "India से foreign tour पर पहले fourteen days full admissible rate।",
+            "Next fourteen days seventy five percent; फिर sixty percent।",
+            "Example: मान लें full rate hundred dollars है।",
+            "Qualifying day fifteen पर seventy five dollars बनेगा।",
+            "Partial day और बाकी adjustments अलग verify करें।"
+          ],
+          "english_lines": [
+            "The latest MEA order located is from September 2023.",
+            "For a foreign tour from India, the first 14 days are at the full admissible rate.",
+            "The next 14 days are at 75%; subsequent days are at 60%.",
+            "For example, assume the full rate is 100 dollars.",
+            "A qualifying day 15 gives 75 dollars before other adjustments.",
+            "Verify partial days and other adjustments separately."
+          ]
+        },
+        {
+          "heading": "04B  |  Officers posted abroad",
+          "cards": [
+            [
+              "DAYS 1–7",
+              "Full admissible"
+            ],
+            [
+              "DAYS 8–14",
+              "75%"
+            ],
+            [
+              "DAY 15+",
+              "50%"
+            ],
+            [
+              "COMPARE",
+              "Different schedule"
+            ]
+          ],
+          "rule": "For the specified tours by officers posted abroad: first 7 days full, next 7 at 75%, then 50%.",
+          "example": "At an assumed full $100 rate, qualifying day 8 is $75 and day 15 is $50.",
+          "trap": "The 14-day India-posted schedule must not be substituted for this overseas-posted schedule.",
+          "key": "Check the order’s posting and tour conditions; do not assume a new clock at a border.",
+          "lines": [
+            "अब overseas posted officers के specified tours का अलग schedule।",
+            "पहले seven days full; अगले seven days seventy five percent।",
+            "उसके बाद fifty percent of the full admissible rate।",
+            "Example: hundred dollars base पर day eight है seventy five।",
+            "Day fifteen है fifty dollars, बाकी applicable adjustments से पहले।",
+            "India और overseas schedules को mix मत करें।"
+          ],
+          "english_lines": [
+            "Now consider the different schedule for specified tours by overseas-posted officers.",
+            "The first seven days are full; the next seven days are 75%.",
+            "After that, the rate is 50% of the full admissible rate.",
+            "For example, at a 100-dollar base, day eight is 75 dollars.",
+            "Day fifteen is 50 dollars before other applicable adjustments.",
+            "Do not mix the India and overseas schedules."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "05-foreign-hotel-meals.mp3",
+      "title": "Foreign hotel, meals and incidental costs",
+      "source": "MEA order 2023, paras 5–9",
+      "icon": "hotel",
+      "beats": [
+        {
+          "heading": "05A  |  Panel, cap and training visits",
+          "cards": [
+            [
+              "HOTEL",
+              "Approved panel"
+            ],
+            [
+              "NO PANEL",
+              "Capital-city benchmark"
+            ],
+            [
+              "ACTUAL",
+              "Room + taxes"
+            ],
+            [
+              "TRAINING",
+              "One step below"
+            ]
+          ],
+          "rule": "Use the approved hotel panel and actual room rental; the order specifies a no-panel city benchmark.",
+          "example": "A non-representational foreign seminar requires the one-step-lower hotel entitlement check.",
+          "trap": "Do not replace the panel system with the domestic rupee ceiling.",
+          "key": "Own arrangement or accommodation alone free: DA at the rate prescribed for the grade.",
+          "lines": [
+            "Foreign hotel के लिए approved panel और actual rental check करें।",
+            "Room rental में service charges और taxes भी order में हैं।",
+            "No-panel city में capital city का relevant lowest rate check होगा।",
+            "Non-representational training में hotel entitlement एक step lower है।",
+            "Example: seminar के लिए normal panel की lower step confirm करें।",
+            "Domestic hotel limit को foreign hotel पर copy न करें।"
+          ],
+          "english_lines": [
+            "For a foreign hotel, check the approved panel and actual rental.",
+            "The order includes service charges and taxes in room rental.",
+            "In a no-panel city, check the relevant lowest rate in the capital city.",
+            "Non-representational training uses one step lower hotel entitlement.",
+            "For a seminar, confirm the lower step of the normal hotel panel.",
+            "Do not copy the domestic hotel limit into the foreign hotel rule."
+          ]
+        },
+        {
+          "heading": "05B  |  Breakfast, State Guest and tips",
+          "cards": [
+            [
+              "BREAKFAST",
+              "10% reduction"
+            ],
+            [
+              "STATE GUEST",
+              "All meals free"
+            ],
+            [
+              "DA",
+              "25% in that case"
+            ],
+            [
+              "TIPS",
+              "No extra payment"
+            ]
+          ],
+          "rule": "Breakfast included in hotel charges reduces DA by 10%; State Guest plus all meals free gives 25%.",
+          "example": "A $100 applicable daily rate with only breakfast reduction gives $90 in this simple example.",
+          "trap": "Do not invent an order of overlapping reductions; ask the accounts authority.",
+          "key": "Tips are not separately reimbursable in addition to foreign DA under this order.",
+          "lines": [
+            "Hotel charge में breakfast हो, तो daily allowance ten percent कम।",
+            "Example: hundred dollars पर सिर्फ ये reduction लगे तो ninety।",
+            "State Guest और सारे meals free हों, तो twenty five percent rate।",
+            "Tips के लिए daily allowance के ऊपर extra reimbursement नहीं।",
+            "एक से ज़्यादा deductions हों तो office से method confirm करें।"
+          ],
+          "english_lines": [
+            "If hotel charges include breakfast, daily allowance is reduced by 10%.",
+            "For example, 100 dollars becomes 90 if only this reduction applies.",
+            "A State Guest receiving all meals free gets 25% of the rate.",
+            "Tips are not separately reimbursed in addition to daily allowance.",
+            "When deductions overlap, confirm the method with the office."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-foreign-conveyance.mp3",
+      "title": "Foreign conveyance, currency and source check",
+      "source": "MEA order 2023, paras 3, 4, 10, 12",
+      "icon": "globe",
+      "beats": [
+        {
+          "heading": "06A  |  Duty conveyance and currency",
+          "cards": [
+            [
+              "CONVEYANCE",
+              "Separate from DA"
+            ],
+            [
+              "TEST",
+              "Necessary + reasonable"
+            ],
+            [
+              "FUNDING",
+              "Specified in sanction"
+            ],
+            [
+              "CURRENCY",
+              "Official exchange rate"
+            ]
+          ],
+          "rule": "Necessary and reasonable duty conveyance is separate, subject to admissibility and specific sanction funds.",
+          "example": "A necessary taxi to an official meeting may be reimbursed if the sanction provides funds.",
+          "trap": "A private sightseeing taxi is not automatically official conveyance.",
+          "key": "Convertible local-currency equivalents use official MEA exchange rates via rupees.",
+          "lines": [
+            "Foreign daily allowance में official-duty transport included नहीं है।",
+            "Necessary और reasonable conveyance अलग से check हो सकता है।",
+            "Sanction में इस खर्च के लिए specific funds होना भी ज़रूरी है।",
+            "Example: official meeting का eligible taxi bill separately देखें।",
+            "Sightseeing का taxi अपने आप official duty claim नहीं बनता।",
+            "Currency conversion के लिए official MEA rate check करें।"
+          ],
+          "english_lines": [
+            "Foreign daily allowance does not include transport for official duty.",
+            "Necessary and reasonable conveyance can be considered separately.",
+            "The sanction must also specifically provide funds for this cost.",
+            "For example, consider an eligible taxi to an official meeting separately.",
+            "A sightseeing taxi does not automatically become an official-duty claim.",
+            "Check the official MEA exchange rate for currency conversion."
+          ]
+        },
+        {
+          "heading": "06B  |  Rate conflict: stop and verify",
+          "cards": [
+            [
+              "2023",
+              "Latest order located"
+            ],
+            [
+              "LEVEL 10+",
+              "Full annexure rate"
+            ],
+            [
+              "LEVEL 1",
+              "33% in extraction"
+            ],
+            [
+              "LEVEL 2–9",
+              "Conflict: verify"
+            ]
+          ],
+          "rule": "The located 2023 order gives Level 10+ the full annexure rate; Level 2–9 transcription conflicts.",
+          "example": "For a Level 7 claim, obtain a legible authoritative order before calculating that percentage.",
+          "trap": "A search dated 27 Oct 2026 cannot prove that no later MEA order exists.",
+          "key": "Level 1 is transcribed as 33%; verify the primary copy and your department’s latest adoption.",
+          "lines": [
+            "Latest MEA order जो हमें मिला, September twenty twenty three का है।",
+            "Level ten और ऊपर annexure का full prescribed rate check करें।",
+            "Level two से nine में copies की percentage reading conflict करती है।",
+            "Example: Level seven का calculation legible official copy से verify करें।",
+            "Later amendment और departmental adoption भी check करें।"
+          ],
+          "english_lines": [
+            "The latest MEA order we located is from September 2023.",
+            "Level 10 and above checks the full prescribed annexure rate.",
+            "For Levels 2 to 9, copies conflict on the percentage reading.",
+            "For a Level 7 calculation, verify a legible official copy first.",
+            "Also check later amendments and departmental adoption."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "07-sea-river.mp3",
+      "title": "Sea and river: which class?",
+      "source": "DoE TA OM 2017, para 2(C)",
+      "icon": "ship",
+      "beats": [
+        {
+          "heading": "07A  |  Conventional sea / river steamer",
+          "cards": [
+            [
+              "LEVEL 9+",
+              "Highest class"
+            ],
+            [
+              "LEVEL 6–8",
+              "Lower if two"
+            ],
+            [
+              "LEVEL 4–5",
+              "2 / 3 / 4 classes"
+            ],
+            [
+              "LEVEL 3 OR BELOW",
+              "Lowest class"
+            ]
+          ],
+          "rule": "Outside the island route table: Level 9+ highest; Level 6–8 lower where there are two classes.",
+          "example": "Level 5 on a three-class steamer uses middle / second class; with four classes, third.",
+          "trap": "The Level 6–8 row does not specify a three-class answer: do not invent one.",
+          "key": "Level 4–5: lower in two; middle in three; third in four. Level 3 or below: lowest.",
+          "lines": [
+            "अब sea या river steamer का standard table।",
+            "Level nine और ऊपर highest; Level three और नीचे lowest class।",
+            "Level six से eight में दो classes हों तो lower class।",
+            "Level four और five में दो, तीन या चार classes अलग देखें।",
+            "Example: तीन classes में Level five के लिए middle या second।",
+            "Level six से eight के तीन-class case में office से पूछें।"
+          ],
+          "english_lines": [
+            "Now consider the standard sea or river steamer table.",
+            "Level nine and above is highest; Level three and below is lowest class.",
+            "For Levels six to eight, the lower class applies when there are two classes.",
+            "For Levels four and five, check the two-, three- and four-class cases separately.",
+            "For example, on a three-class steamer, Level five checks middle or second class.",
+            "Ask the office about a three-class case for Levels six to eight."
+          ]
+        },
+        {
+          "heading": "07B  |  Mainland to island: SCI ships",
+          "cards": [
+            [
+              "LEVEL 9+",
+              "Deluxe"
+            ],
+            [
+              "LEVEL 6–8",
+              "First / A cabin"
+            ],
+            [
+              "LEVEL 4–5",
+              "Second / B cabin"
+            ],
+            [
+              "LEVEL 3 OR BELOW",
+              "Bunk"
+            ]
+          ],
+          "rule": "For the specified mainland–A&N / Lakshadweep journeys on SCI-operated ships, a separate table applies.",
+          "example": "A Level 7 officer on a qualifying SCI ship checks First / A cabin.",
+          "trap": "Do not automatically extend this special SCI table to every ferry or operator.",
+          "key": "Confirm the operator, route, class availability, sanction and saving clause.",
+          "lines": [
+            "Mainland और island के बीच qualifying SCI ship का अलग table।",
+            "Level nine और ऊपर Deluxe; six से eight First या A cabin।",
+            "Level four और five Second या B cabin; three और नीचे Bunk।",
+            "Example: eligible Level seven का SCI ship पर A cabin check होगा।",
+            "हर private ferry पर ये special table automatic नहीं लगाएँ।"
+          ],
+          "english_lines": [
+            "A separate table applies to qualifying SCI ships between mainland and islands.",
+            "Level nine and above is Deluxe; six to eight is First or A cabin.",
+            "Levels four and five are Second or B cabin; three and below is Bunk.",
+            "For example, an eligible Level seven checks A cabin on an SCI ship.",
+            "Do not apply this special table automatically to every private ferry."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "08-prescribed-road-rates.mp3",
+      "title": "Road mileage: prescribed-rate places",
+      "source": "DoE TA OM 2017, para 2(D)(i)",
+      "icon": "road",
+      "beats": [
+        {
+          "heading": "08A  |  Levels 6–13 and 14+",
+          "cards": [
+            [
+              "LEVEL 14+",
+              "Any public bus"
+            ],
+            [
+              "AC TAXI",
+              "14+ actual use"
+            ],
+            [
+              "LEVEL 6–13",
+              "No AC taxi"
+            ],
+            [
+              "AUTO RATE",
+              "Listed modes"
+            ]
+          ],
+          "rule": "Level 14+: public bus including AC, prescribed AC taxi rate when used, or auto rate for listed modes.",
+          "example": "At a prescribed-rate place a Level 14 AC-taxi journey can use the applicable AC-taxi rate.",
+          "trap": "Levels 6–13 have the same row except AC taxi is not permissible.",
+          "key": "Auto rate for a listed mode is not the same as an unlimited taxi bill.",
+          "lines": [
+            "जहाँ specific transport rates prescribed हैं, pay level देखें।",
+            "Level fourteen और ऊपर public AC bus भी ले सकते हैं।",
+            "AC taxi actually use हो, तो prescribed AC taxi rate देखें।",
+            "Listed modes पर prescribed auto rate वाला option भी है।",
+            "Example: Level fourteen AC taxi use करे तो relevant rate check होगा।",
+            "Level six से thirteen के लिए AC taxi permissible नहीं है।"
+          ],
+          "english_lines": [
+            "Where transport rates are prescribed, check the pay level.",
+            "Level fourteen and above may use a public AC bus.",
+            "When an AC taxi is actually used, check the prescribed AC-taxi rate.",
+            "The prescribed auto-rate option also applies to the listed modes.",
+            "For example, check the relevant rate when Level fourteen uses an AC taxi.",
+            "For Levels six to thirteen, AC taxi is not permissible under this table."
+          ]
+        },
+        {
+          "heading": "08B  |  Levels 4–5 and 3 or below",
+          "cards": [
+            [
+              "LEVEL 4–5",
+              "Public bus except AC"
+            ],
+            [
+              "LEVEL 3 OR BELOW",
+              "Ordinary public bus"
+            ],
+            [
+              "AUTO RATE",
+              "Listed vehicles"
+            ],
+            [
+              "OWN CAR",
+              "Not listed in 3 and below row"
+            ]
+          ],
+          "rule": "Level 4–5: public bus except AC or auto rate for listed modes; Level 3 and below: ordinary bus or listed auto modes.",
+          "example": "A Level 3 officer using ordinary public bus checks actual fare and the relevant route rule.",
+          "trap": "Own car is not expressly listed in the Level 3-and-below prescribed-rate row.",
+          "key": "Pay-level eligibility, applicable route cap and proof all remain relevant.",
+          "lines": [
+            "Level four और five के लिए public bus, लेकिन AC bus नहीं।",
+            "Level three और नीचे ordinary public bus वाली row है।",
+            "Listed auto या own scooter जैसे modes पर auto rate देखें।",
+            "Example: Level three ordinary bus का actual fare check करेगा।",
+            "उस lower row में own car expressly listed नहीं है।",
+            "Route, sanction और proof के बाकी checks भी ज़रूरी हैं।"
+          ],
+          "english_lines": [
+            "For Levels four and five, public bus is allowed but not AC bus.",
+            "For Level three and below, the row specifies ordinary public bus.",
+            "For listed modes such as auto or own scooter, check the auto rate.",
+            "For example, Level three checks the actual ordinary bus fare.",
+            "Own car is not expressly listed in that lower row.",
+            "Route, sanction and proof checks are also needed."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-fallback-and-rail.mp3",
+      "title": "Road fallback and route constraints",
+      "source": "DoE TA OM 2017, paras 2(A)(iii), 2(D)(ii)",
+      "icon": "road",
+      "beats": [
+        {
+          "heading": "09A  |  No prescribed rate: indexed fallback",
+          "cards": [
+            [
+              "NO RATE",
+              "State + neighbours"
+            ],
+            [
+              "BASE 2017",
+              "24 / 12 per km"
+            ],
+            [
+              "FIRST 25%",
+              "30 / 15 per km"
+            ],
+            [
+              "MODE",
+              "Eligibility first"
+            ]
+          ],
+          "rule": "Only where the specified State / neighbouring State rates do not exist: base ₹24 / ₹12 per km.",
+          "example": "After the first 25% increase, an eligible 20 km auto example calculates 20 × ₹15 = ₹300.",
+          "trap": "The fallback calculation is not permission for every employee to use every vehicle.",
+          "key": "At 60% Dearness Allowance, a second 50-point trigger has not been crossed.",
+          "lines": [
+            "State और neighbouring State दोनों की specific rate न हो, fallback देखें।",
+            "2017 base own car या taxi के लिए twenty four rupees per kilometre।",
+            "Auto या own scooter के लिए twelve rupees per kilometre।",
+            "पहली twenty five percent increase से thirty और fifteen बनते हैं।",
+            "Example: eligible auto में twenty kilometres का result three hundred।",
+            "ये result sanction, actual journey और mode eligibility के subject है।"
+          ],
+          "english_lines": [
+            "Where neither State nor neighbouring State has a specific rate, check the fallback.",
+            "The 2017 base is 24 rupees per kilometre for own car or taxi.",
+            "For auto or own scooter, the base is 12 rupees per kilometre.",
+            "After the first 25% increase, those become 30 and 15.",
+            "For example, 20 kilometres by eligible auto calculates to 300 rupees.",
+            "This result is subject to sanction, actual journey and mode eligibility."
+          ]
+        },
+        {
+          "heading": "09B  |  Rail-connected versus not connected",
+          "cards": [
+            [
+              "NO RAIL",
+              "Eligible AC bus"
+            ],
+            [
+              "OTHERS",
+              "Deluxe / ordinary"
+            ],
+            [
+              "RAIL ROUTE",
+              "Public-fare cap"
+            ],
+            [
+              "PRIVATE",
+              "Do not extrapolate"
+            ]
+          ],
+          "rule": "No rail: AC bus for AC-II-or-above rail entitlement, Deluxe/ordinary for others.",
+          "example": "Rail-connected public bus fare ₹400 against entitled rail fare ₹500 meets this fare cap.",
+          "trap": "The public-transport train-fare cap must not automatically be imposed on every private-vehicle claim.",
+          "key": "Check fare proof, route, class, sanction, saving clause and any other applicable rules.",
+          "lines": [
+            "जहाँ rail नहीं है, eligible AC Two और ऊपर वालों के लिए AC bus।",
+            "बाकी के लिए Deluxe या ordinary bus का rule देखें।",
+            "Rail-connected route पर public transport का fare train class से capped है।",
+            "Example: bus four hundred, entitled train five hundred।",
+            "इस public-fare example में cap cross नहीं हुआ।",
+            "Private vehicle claims पर वही clause automatic मत लगाएँ।"
+          ],
+          "english_lines": [
+            "Where there is no rail, AC bus applies for those entitled to AC Two and above.",
+            "For others, check the Deluxe or ordinary bus rule.",
+            "On a rail-connected route, public transport fare is capped by entitled-class train fare.",
+            "For example, bus fare is 400 and entitled train fare is 500.",
+            "In this public-fare example, the cap has not been crossed.",
+            "Do not apply that exact clause automatically to private-vehicle claims."
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "10-effects-and-field.mp3",
+      "title": "Road effects and field journeys",
+      "source": "DoE TA OM 2017 2(E)(iii),(vi), 3(iii); DoE 2022",
+      "icon": "ship",
+      "beats": [
+        {
+          "heading": "10A  |  Personal effects are a different component",
+          "cards": [
+            [
+              "JOURNEY",
+              "Personal travel"
+            ],
+            [
+              "EFFECTS",
+              "Goods on transfer"
+            ],
+            [
+              "LEVEL 6+",
+              "₹62.50 / km*"
+            ],
+            [
+              "EVIDENCE",
+              "Receipts / exception"
+            ]
+          ],
+          "rule": "Transfer effects are distinct from the traveller’s road mileage; Level 6+ base ₹50 indexes to ₹62.50/km.",
+          "example": "For an eligible 50 km transfer, 50 × ₹62.50 = ₹3,125 is a ceiling calculation, not automatic payment.",
+          "trap": "Regional one-third no-receipt exception is conditional, not a blanket receipt waiver.",
+          "key": "*First 25% indexed calculation; verify applicability, actual transport and evidence.",
+          "lines": [
+            "Road पर employee की journey और transfer effects अलग components हैं।",
+            "Level six और ऊपर effects का base fifty rupees per kilometre था।",
+            "पहली increase के बाद calculation sixty two point five zero है।",
+            "Example: fifty kilometres का ceiling calculation देखें।",
+            "Result है three thousand one hundred twenty five rupees।",
+            "Actual transport, receipt और applicable exception अलग check करें।",
+            "ये calculated ceiling अपने आप payment नहीं है।"
+          ],
+          "english_lines": [
+            "Road travel by the employee and transfer effects are separate components.",
+            "For Level six and above, the effects base was 50 rupees per kilometre.",
+            "After the first increase, the calculation is 62 rupees 50 paise.",
+            "For example, consider the ceiling calculation for 50 kilometres.",
+            "The calculated result is 3,125 rupees.",
+            "Check actual transport, receipts and any applicable exception separately.",
+            "This calculated ceiling is not an automatic payment."
+          ]
+        },
+        {
+          "heading": "10B  |  Government boats and scientific field work",
+          "cards": [
+            [
+              "FIELD",
+              "Qualifying purpose"
+            ],
+            [
+              "DA",
+              "Food-rate equivalent"
+            ],
+            [
+              "APPROVAL",
+              "Head / controller"
+            ],
+            [
+              "FOOT",
+              "Indexed rate check"
+            ]
+          ],
+          "rule": "The special Government-boat / remote scientific-field provision requires its stated conditions and approval.",
+          "example": "A qualifying survey on a Government boat needs the food-rate-equivalent DA approval checked.",
+          "trap": "This is not a blanket rule for every private boat or all remote travel.",
+          "key": "Foot mileage and its indexed rate are a separate question under para 2(E)(iii).",
+          "lines": [
+            "Government boats और remote scientific field work का special rule है।",
+            "Qualifying case में daily allowance food-rate के बराबर हो सकता है।",
+            "Head या controlling officer की approval और conditions check करें।",
+            "Example: approved survey का Government boat journey अलग assess होगा।",
+            "Foot mileage और उसकी indexed rate भी अलग check हैं।",
+            "Detailed sources और pending verification companion guide में हैं।"
+          ],
+          "english_lines": [
+            "There is a special rule for Government boats and remote scientific field work.",
+            "In a qualifying case, daily allowance can be equivalent to the food rate.",
+            "Check the Head or controlling officer approval and conditions.",
+            "For example, an approved survey journey on a Government boat is assessed separately.",
+            "Foot mileage and its indexed rate are separate checks.",
+            "Detailed sources and pending verification are in the companion guide."
+          ]
+        }
+      ]
+    }
+  ],
+  "narration_lines_status": "Synthesis text; chapter 04 opening was assembled from the same selected-voice chapter 06 after a 2023 recognition ambiguity. No human-verbatim audio review."
+}

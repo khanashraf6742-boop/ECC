@@ -1,0 +1,6354 @@
+{
+  "disclosure": "Automatic recognition is fallible and not human-verbatim verification. The known script was not used as a prompt.",
+  "method": "Whisper small int8, English hint, generic Hinglish prompt, beam 3, word timestamps",
+  "sections": [
+    {
+      "audio": "01-international-class.mp3",
+      "audio_sha256": "4b713dd1783b40f5e22d1feaba3da38f071883ce38bfa5ce39b40bc294c638aa",
+      "duration": 42.92,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.66,
+          "text": " Hey everyone! Batch 2 mein international air, sea aur road TAC khingge.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.4,
+              "word": " Hey"
+            },
+            {
+              "start": 0.4,
+              "end": 0.84,
+              "word": " everyone!"
+            },
+            {
+              "start": 1.46,
+              "end": 1.76,
+              "word": " Batch"
+            },
+            {
+              "start": 1.76,
+              "end": 1.98,
+              "word": " 2"
+            },
+            {
+              "start": 1.98,
+              "end": 2.16,
+              "word": " mein"
+            },
+            {
+              "start": 2.16,
+              "end": 2.7,
+              "word": " international"
+            },
+            {
+              "start": 2.7,
+              "end": 3.46,
+              "word": " air,"
+            },
+            {
+              "start": 3.9,
+              "end": 4.1,
+              "word": " sea"
+            },
+            {
+              "start": 4.1,
+              "end": 4.48,
+              "word": " aur"
+            },
+            {
+              "start": 4.48,
+              "end": 4.78,
+              "word": " road"
+            },
+            {
+              "start": 4.78,
+              "end": 5.26,
+              "word": " TAC"
+            },
+            {
+              "start": 5.26,
+              "end": 5.66,
+              "word": " khingge."
+            }
+          ]
+        },
+        {
+          "start": 6.0,
+          "end": 9.48,
+          "text": " Ye central government civilian tour aur training par focus karta hai.",
+          "words": [
+            {
+              "start": 6.0,
+              "end": 6.14,
+              "word": " Ye"
+            },
+            {
+              "start": 6.14,
+              "end": 6.5,
+              "word": " central"
+            },
+            {
+              "start": 6.5,
+              "end": 6.88,
+              "word": " government"
+            },
+            {
+              "start": 6.88,
+              "end": 7.36,
+              "word": " civilian"
+            },
+            {
+              "start": 7.36,
+              "end": 7.86,
+              "word": " tour"
+            },
+            {
+              "start": 7.86,
+              "end": 8.14,
+              "word": " aur"
+            },
+            {
+              "start": 8.14,
+              "end": 8.46,
+              "word": " training"
+            },
+            {
+              "start": 8.46,
+              "end": 8.68,
+              "word": " par"
+            },
+            {
+              "start": 8.68,
+              "end": 8.92,
+              "word": " focus"
+            },
+            {
+              "start": 8.92,
+              "end": 9.32,
+              "word": " karta"
+            },
+            {
+              "start": 9.32,
+              "end": 9.48,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 9.86,
+          "end": 12.74,
+          "text": " Railway aur armed forces ki alag instructions chek karen.",
+          "words": [
+            {
+              "start": 9.86,
+              "end": 10.34,
+              "word": " Railway"
+            },
+            {
+              "start": 10.34,
+              "end": 10.56,
+              "word": " aur"
+            },
+            {
+              "start": 10.56,
+              "end": 10.86,
+              "word": " armed"
+            },
+            {
+              "start": 10.86,
+              "end": 11.2,
+              "word": " forces"
+            },
+            {
+              "start": 11.2,
+              "end": 11.42,
+              "word": " ki"
+            },
+            {
+              "start": 11.42,
+              "end": 11.74,
+              "word": " alag"
+            },
+            {
+              "start": 11.74,
+              "end": 12.2,
+              "word": " instructions"
+            },
+            {
+              "start": 12.2,
+              "end": 12.54,
+              "word": " chek"
+            },
+            {
+              "start": 12.54,
+              "end": 12.74,
+              "word": " karen."
+            }
+          ]
+        },
+        {
+          "start": 13.16,
+          "end": 16.64,
+          "text": " Example, foreign tour mein domestic klas ko copy nahi karenge.",
+          "words": [
+            {
+              "start": 13.16,
+              "end": 13.74,
+              "word": " Example,"
+            },
+            {
+              "start": 13.98,
+              "end": 14.32,
+              "word": " foreign"
+            },
+            {
+              "start": 14.32,
+              "end": 14.62,
+              "word": " tour"
+            },
+            {
+              "start": 14.62,
+              "end": 14.78,
+              "word": " mein"
+            },
+            {
+              "start": 14.78,
+              "end": 15.08,
+              "word": " domestic"
+            },
+            {
+              "start": 15.08,
+              "end": 15.6,
+              "word": " klas"
+            },
+            {
+              "start": 15.6,
+              "end": 15.74,
+              "word": " ko"
+            },
+            {
+              "start": 15.74,
+              "end": 15.98,
+              "word": " copy"
+            },
+            {
+              "start": 15.98,
+              "end": 16.28,
+              "word": " nahi"
+            },
+            {
+              "start": 16.28,
+              "end": 16.64,
+              "word": " karenge."
+            }
+          ]
+        },
+        {
+          "start": 17.08,
+          "end": 20.84,
+          "text": " Har example, hypothetical hai, sanction aur latest order chek karen.",
+          "words": [
+            {
+              "start": 17.08,
+              "end": 17.28,
+              "word": " Har"
+            },
+            {
+              "start": 17.28,
+              "end": 17.7,
+              "word": " example,"
+            },
+            {
+              "start": 17.86,
+              "end": 18.24,
+              "word": " hypothetical"
+            },
+            {
+              "start": 18.24,
+              "end": 18.68,
+              "word": " hai,"
+            },
+            {
+              "start": 19.1,
+              "end": 19.34,
+              "word": " sanction"
+            },
+            {
+              "start": 19.34,
+              "end": 19.74,
+              "word": " aur"
+            },
+            {
+              "start": 19.74,
+              "end": 20.02,
+              "word": " latest"
+            },
+            {
+              "start": 20.02,
+              "end": 20.34,
+              "word": " order"
+            },
+            {
+              "start": 20.34,
+              "end": 20.66,
+              "word": " chek"
+            },
+            {
+              "start": 20.66,
+              "end": 20.84,
+              "word": " karen."
+            }
+          ]
+        },
+        {
+          "start": 21.32,
+          "end": 24.92,
+          "text": " International travel mein level 17 aur upar first klas hai.",
+          "words": [
+            {
+              "start": 21.32,
+              "end": 21.86,
+              "word": " International"
+            },
+            {
+              "start": 21.86,
+              "end": 22.34,
+              "word": " travel"
+            },
+            {
+              "start": 22.34,
+              "end": 22.54,
+              "word": " mein"
+            },
+            {
+              "start": 22.54,
+              "end": 22.8,
+              "word": " level"
+            },
+            {
+              "start": 22.8,
+              "end": 23.42,
+              "word": " 17"
+            },
+            {
+              "start": 23.42,
+              "end": 23.76,
+              "word": " aur"
+            },
+            {
+              "start": 23.76,
+              "end": 24.14,
+              "word": " upar"
+            },
+            {
+              "start": 24.14,
+              "end": 24.46,
+              "word": " first"
+            },
+            {
+              "start": 24.46,
+              "end": 24.8,
+              "word": " klas"
+            },
+            {
+              "start": 24.8,
+              "end": 24.92,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 25.32,
+          "end": 28.12,
+          "text": " Level 14 se 16 business ya club klas hai.",
+          "words": [
+            {
+              "start": 25.32,
+              "end": 25.56,
+              "word": " Level"
+            },
+            {
+              "start": 25.56,
+              "end": 26.06,
+              "word": " 14"
+            },
+            {
+              "start": 26.06,
+              "end": 26.26,
+              "word": " se"
+            },
+            {
+              "start": 26.26,
+              "end": 26.66,
+              "word": " 16"
+            },
+            {
+              "start": 26.66,
+              "end": 27.08,
+              "word": " business"
+            },
+            {
+              "start": 27.08,
+              "end": 27.38,
+              "word": " ya"
+            },
+            {
+              "start": 27.38,
+              "end": 27.64,
+              "word": " club"
+            },
+            {
+              "start": 27.64,
+              "end": 28.0,
+              "word": " klas"
+            },
+            {
+              "start": 28.0,
+              "end": 28.12,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 28.12,
+          "end": 30.82,
+          "text": " Level 13 aur niche ekonomi klas hai.",
+          "words": [
+            {
+              "start": 28.12,
+              "end": 28.72,
+              "word": " Level"
+            },
+            {
+              "start": 28.72,
+              "end": 29.14,
+              "word": " 13"
+            },
+            {
+              "start": 29.14,
+              "end": 29.48,
+              "word": " aur"
+            },
+            {
+              "start": 29.48,
+              "end": 29.76,
+              "word": " niche"
+            },
+            {
+              "start": 29.76,
+              "end": 30.4,
+              "word": " ekonomi"
+            },
+            {
+              "start": 30.4,
+              "end": 30.7,
+              "word": " klas"
+            },
+            {
+              "start": 30.7,
+              "end": 30.82,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 31.2,
+          "end": 34.22,
+          "text": " Level 13 eku level 13 ke barabar chek karenge.",
+          "words": [
+            {
+              "start": 31.2,
+              "end": 31.46,
+              "word": " Level"
+            },
+            {
+              "start": 31.46,
+              "end": 31.9,
+              "word": " 13"
+            },
+            {
+              "start": 31.9,
+              "end": 32.46,
+              "word": " eku"
+            },
+            {
+              "start": 32.46,
+              "end": 32.64,
+              "word": " level"
+            },
+            {
+              "start": 32.64,
+              "end": 33.14,
+              "word": " 13"
+            },
+            {
+              "start": 33.14,
+              "end": 33.28,
+              "word": " ke"
+            },
+            {
+              "start": 33.28,
+              "end": 33.66,
+              "word": " barabar"
+            },
+            {
+              "start": 33.66,
+              "end": 33.88,
+              "word": " chek"
+            },
+            {
+              "start": 33.88,
+              "end": 34.22,
+              "word": " karenge."
+            }
+          ]
+        },
+        {
+          "start": 34.56,
+          "end": 38.46,
+          "text": " Example, level 13A mein ekonomi, level 14 mein business.",
+          "words": [
+            {
+              "start": 34.56,
+              "end": 35.1,
+              "word": " Example,"
+            },
+            {
+              "start": 35.32,
+              "end": 35.54,
+              "word": " level"
+            },
+            {
+              "start": 35.54,
+              "end": 36.34,
+              "word": " 13A"
+            },
+            {
+              "start": 36.34,
+              "end": 36.42,
+              "word": " mein"
+            },
+            {
+              "start": 36.42,
+              "end": 37.0,
+              "word": " ekonomi,"
+            },
+            {
+              "start": 37.18,
+              "end": 37.44,
+              "word": " level"
+            },
+            {
+              "start": 37.44,
+              "end": 37.88,
+              "word": " 14"
+            },
+            {
+              "start": 37.88,
+              "end": 38.08,
+              "word": " mein"
+            },
+            {
+              "start": 38.08,
+              "end": 38.46,
+              "word": " business."
+            }
+          ]
+        },
+        {
+          "start": 38.98,
+          "end": 42.62,
+          "text": " Lekin entitlement, booking aur sanction, teen alag cheks hai.",
+          "words": [
+            {
+              "start": 38.98,
+              "end": 39.34,
+              "word": " Lekin"
+            },
+            {
+              "start": 39.34,
+              "end": 40.08,
+              "word": " entitlement,"
+            },
+            {
+              "start": 40.36,
+              "end": 40.62,
+              "word": " booking"
+            },
+            {
+              "start": 40.62,
+              "end": 40.94,
+              "word": " aur"
+            },
+            {
+              "start": 40.94,
+              "end": 41.28,
+              "word": " sanction,"
+            },
+            {
+              "start": 41.7,
+              "end": 41.82,
+              "word": " teen"
+            },
+            {
+              "start": 41.82,
+              "end": 42.2,
+              "word": " alag"
+            },
+            {
+              "start": 42.2,
+              "end": 42.54,
+              "word": " cheks"
+            },
+            {
+              "start": 42.54,
+              "end": 42.62,
+              "word": " hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-air-booking.mp3",
+      "audio_sha256": "8abd128376de56af3024c4af02bde761b7b7043555587b08e64dbde1ac3425a5",
+      "duration": 44.2,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.28,
+          "text": " Government paise de rahi ho, to ticket 3 authorized agents se lein.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.68,
+              "word": " Government"
+            },
+            {
+              "start": 0.68,
+              "end": 1.12,
+              "word": " paise"
+            },
+            {
+              "start": 1.12,
+              "end": 1.32,
+              "word": " de"
+            },
+            {
+              "start": 1.32,
+              "end": 1.6,
+              "word": " rahi"
+            },
+            {
+              "start": 1.6,
+              "end": 1.78,
+              "word": " ho,"
+            },
+            {
+              "start": 2.12,
+              "end": 2.22,
+              "word": " to"
+            },
+            {
+              "start": 2.22,
+              "end": 2.48,
+              "word": " ticket"
+            },
+            {
+              "start": 2.48,
+              "end": 2.9,
+              "word": " 3"
+            },
+            {
+              "start": 2.9,
+              "end": 3.4,
+              "word": " authorized"
+            },
+            {
+              "start": 3.4,
+              "end": 3.86,
+              "word": " agents"
+            },
+            {
+              "start": 3.86,
+              "end": 4.08,
+              "word": " se"
+            },
+            {
+              "start": 4.08,
+              "end": 4.28,
+              "word": " lein."
+            }
+          ]
+        },
+        {
+          "start": 4.6,
+          "end": 8.22,
+          "text": " Ye hai Balmer Lorry, Ashok Travels aur IRCTC.",
+          "words": [
+            {
+              "start": 4.6,
+              "end": 4.82,
+              "word": " Ye"
+            },
+            {
+              "start": 4.82,
+              "end": 4.96,
+              "word": " hai"
+            },
+            {
+              "start": 4.96,
+              "end": 5.48,
+              "word": " Balmer"
+            },
+            {
+              "start": 5.48,
+              "end": 5.74,
+              "word": " Lorry,"
+            },
+            {
+              "start": 6.2,
+              "end": 6.48,
+              "word": " Ashok"
+            },
+            {
+              "start": 6.48,
+              "end": 7.24,
+              "word": " Travels"
+            },
+            {
+              "start": 7.24,
+              "end": 7.38,
+              "word": " aur"
+            },
+            {
+              "start": 7.38,
+              "end": 8.22,
+              "word": " IRCTC."
+            }
+          ]
+        },
+        {
+          "start": 8.68,
+          "end": 12.1,
+          "text": " Private airline bhi allowed hai, class aur sanction alak cheks hai.",
+          "words": [
+            {
+              "start": 8.68,
+              "end": 9.02,
+              "word": " Private"
+            },
+            {
+              "start": 9.02,
+              "end": 9.38,
+              "word": " airline"
+            },
+            {
+              "start": 9.38,
+              "end": 9.6,
+              "word": " bhi"
+            },
+            {
+              "start": 9.6,
+              "end": 9.82,
+              "word": " allowed"
+            },
+            {
+              "start": 9.82,
+              "end": 10.06,
+              "word": " hai,"
+            },
+            {
+              "start": 10.4,
+              "end": 10.68,
+              "word": " class"
+            },
+            {
+              "start": 10.68,
+              "end": 10.94,
+              "word": " aur"
+            },
+            {
+              "start": 10.94,
+              "end": 11.24,
+              "word": " sanction"
+            },
+            {
+              "start": 11.24,
+              "end": 11.72,
+              "word": " alak"
+            },
+            {
+              "start": 11.72,
+              "end": 11.98,
+              "word": " cheks"
+            },
+            {
+              "start": 11.98,
+              "end": 12.1,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 12.64,
+          "end": 15.62,
+          "text": " Chozen 3-hour slot mein cheepest eligible fare bighin.",
+          "words": [
+            {
+              "start": 12.64,
+              "end": 13.0,
+              "word": " Chozen"
+            },
+            {
+              "start": 13.0,
+              "end": 13.28,
+              "word": " 3"
+            },
+            {
+              "start": 13.28,
+              "end": 13.48,
+              "word": "-hour"
+            },
+            {
+              "start": 13.48,
+              "end": 13.82,
+              "word": " slot"
+            },
+            {
+              "start": 13.82,
+              "end": 14.04,
+              "word": " mein"
+            },
+            {
+              "start": 14.04,
+              "end": 14.56,
+              "word": " cheepest"
+            },
+            {
+              "start": 14.56,
+              "end": 14.9,
+              "word": " eligible"
+            },
+            {
+              "start": 14.9,
+              "end": 15.24,
+              "word": " fare"
+            },
+            {
+              "start": 15.24,
+              "end": 15.62,
+              "word": " bighin."
+            }
+          ]
+        },
+        {
+          "start": 15.98,
+          "end": 19.7,
+          "text": " Non-stop preferabli lein, 10% price band ki rule check karein.",
+          "words": [
+            {
+              "start": 15.98,
+              "end": 16.28,
+              "word": " Non"
+            },
+            {
+              "start": 16.28,
+              "end": 16.56,
+              "word": "-stop"
+            },
+            {
+              "start": 16.56,
+              "end": 17.12,
+              "word": " preferabli"
+            },
+            {
+              "start": 17.12,
+              "end": 17.4,
+              "word": " lein,"
+            },
+            {
+              "start": 17.72,
+              "end": 17.9,
+              "word": " 10"
+            },
+            {
+              "start": 17.9,
+              "end": 18.18,
+              "word": "%"
+            },
+            {
+              "start": 18.18,
+              "end": 18.48,
+              "word": " price"
+            },
+            {
+              "start": 18.48,
+              "end": 18.8,
+              "word": " band"
+            },
+            {
+              "start": 18.8,
+              "end": 18.96,
+              "word": " ki"
+            },
+            {
+              "start": 18.96,
+              "end": 19.16,
+              "word": " rule"
+            },
+            {
+              "start": 19.16,
+              "end": 19.38,
+              "word": " check"
+            },
+            {
+              "start": 19.38,
+              "end": 19.7,
+              "word": " karein."
+            }
+          ]
+        },
+        {
+          "start": 20.08,
+          "end": 23.82,
+          "text": " Example, groob ke ek tour ke li, ek hi selected agent use ho ga.",
+          "words": [
+            {
+              "start": 20.08,
+              "end": 20.64,
+              "word": " Example,"
+            },
+            {
+              "start": 21.0,
+              "end": 21.28,
+              "word": " groob"
+            },
+            {
+              "start": 21.28,
+              "end": 21.4,
+              "word": " ke"
+            },
+            {
+              "start": 21.4,
+              "end": 21.66,
+              "word": " ek"
+            },
+            {
+              "start": 21.66,
+              "end": 21.9,
+              "word": " tour"
+            },
+            {
+              "start": 21.9,
+              "end": 22.1,
+              "word": " ke"
+            },
+            {
+              "start": 22.1,
+              "end": 22.2,
+              "word": " li,"
+            },
+            {
+              "start": 22.4,
+              "end": 22.52,
+              "word": " ek"
+            },
+            {
+              "start": 22.52,
+              "end": 22.68,
+              "word": " hi"
+            },
+            {
+              "start": 22.68,
+              "end": 22.94,
+              "word": " selected"
+            },
+            {
+              "start": 22.94,
+              "end": 23.34,
+              "word": " agent"
+            },
+            {
+              "start": 23.34,
+              "end": 23.58,
+              "word": " use"
+            },
+            {
+              "start": 23.58,
+              "end": 23.74,
+              "word": " ho"
+            },
+            {
+              "start": 23.74,
+              "end": 23.82,
+              "word": " ga."
+            }
+          ]
+        },
+        {
+          "start": 24.26,
+          "end": 26.58,
+          "text": " 21 days pehle booking karna encouraged hai.",
+          "words": [
+            {
+              "start": 24.26,
+              "end": 24.7,
+              "word": " 21"
+            },
+            {
+              "start": 24.7,
+              "end": 24.98,
+              "word": " days"
+            },
+            {
+              "start": 24.98,
+              "end": 25.32,
+              "word": " pehle"
+            },
+            {
+              "start": 25.32,
+              "end": 25.52,
+              "word": " booking"
+            },
+            {
+              "start": 25.52,
+              "end": 25.88,
+              "word": " karna"
+            },
+            {
+              "start": 25.88,
+              "end": 26.28,
+              "word": " encouraged"
+            },
+            {
+              "start": 26.28,
+              "end": 26.58,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 26.58,
+          "end": 30.26,
+          "text": " Tour booking 72 hours se kum pehle ho, justification de.",
+          "words": [
+            {
+              "start": 26.58,
+              "end": 27.2,
+              "word": " Tour"
+            },
+            {
+              "start": 27.2,
+              "end": 27.46,
+              "word": " booking"
+            },
+            {
+              "start": 27.46,
+              "end": 27.92,
+              "word": " 72"
+            },
+            {
+              "start": 27.92,
+              "end": 28.28,
+              "word": " hours"
+            },
+            {
+              "start": 28.28,
+              "end": 28.5,
+              "word": " se"
+            },
+            {
+              "start": 28.5,
+              "end": 28.76,
+              "word": " kum"
+            },
+            {
+              "start": 28.76,
+              "end": 29.06,
+              "word": " pehle"
+            },
+            {
+              "start": 29.06,
+              "end": 29.2,
+              "word": " ho,"
+            },
+            {
+              "start": 29.42,
+              "end": 29.8,
+              "word": " justification"
+            },
+            {
+              "start": 29.8,
+              "end": 30.26,
+              "word": " de."
+            }
+          ]
+        },
+        {
+          "start": 30.74,
+          "end": 33.74,
+          "text": " Cancellation 24 hours se kum pehle ho, alag reason de.",
+          "words": [
+            {
+              "start": 30.74,
+              "end": 31.3,
+              "word": " Cancellation"
+            },
+            {
+              "start": 31.3,
+              "end": 31.76,
+              "word": " 24"
+            },
+            {
+              "start": 31.76,
+              "end": 32.02,
+              "word": " hours"
+            },
+            {
+              "start": 32.02,
+              "end": 32.24,
+              "word": " se"
+            },
+            {
+              "start": 32.24,
+              "end": 32.5,
+              "word": " kum"
+            },
+            {
+              "start": 32.5,
+              "end": 32.76,
+              "word": " pehle"
+            },
+            {
+              "start": 32.76,
+              "end": 32.94,
+              "word": " ho,"
+            },
+            {
+              "start": 33.02,
+              "end": 33.32,
+              "word": " alag"
+            },
+            {
+              "start": 33.32,
+              "end": 33.54,
+              "word": " reason"
+            },
+            {
+              "start": 33.54,
+              "end": 33.74,
+              "word": " de."
+            }
+          ]
+        },
+        {
+          "start": 34.16,
+          "end": 37.58,
+          "text": " Example, 48 hours pehle booking per self declaration lagi ga.",
+          "words": [
+            {
+              "start": 34.16,
+              "end": 34.7,
+              "word": " Example,"
+            },
+            {
+              "start": 34.94,
+              "end": 35.26,
+              "word": " 48"
+            },
+            {
+              "start": 35.26,
+              "end": 35.62,
+              "word": " hours"
+            },
+            {
+              "start": 35.62,
+              "end": 35.96,
+              "word": " pehle"
+            },
+            {
+              "start": 35.96,
+              "end": 36.16,
+              "word": " booking"
+            },
+            {
+              "start": 36.16,
+              "end": 36.4,
+              "word": " per"
+            },
+            {
+              "start": 36.4,
+              "end": 36.62,
+              "word": " self"
+            },
+            {
+              "start": 36.62,
+              "end": 37.04,
+              "word": " declaration"
+            },
+            {
+              "start": 37.04,
+              "end": 37.48,
+              "word": " lagi"
+            },
+            {
+              "start": 37.48,
+              "end": 37.58,
+              "word": " ga."
+            }
+          ]
+        },
+        {
+          "start": 38.04,
+          "end": 40.92,
+          "text": " Journey ke baat 72 hours mein completion certificate de,",
+          "words": [
+            {
+              "start": 38.04,
+              "end": 38.36,
+              "word": " Journey"
+            },
+            {
+              "start": 38.36,
+              "end": 38.54,
+              "word": " ke"
+            },
+            {
+              "start": 38.54,
+              "end": 38.76,
+              "word": " baat"
+            },
+            {
+              "start": 38.76,
+              "end": 39.12,
+              "word": " 72"
+            },
+            {
+              "start": 39.12,
+              "end": 39.54,
+              "word": " hours"
+            },
+            {
+              "start": 39.54,
+              "end": 39.7,
+              "word": " mein"
+            },
+            {
+              "start": 39.7,
+              "end": 40.08,
+              "word": " completion"
+            },
+            {
+              "start": 40.08,
+              "end": 40.64,
+              "word": " certificate"
+            },
+            {
+              "start": 40.64,
+              "end": 40.92,
+              "word": " de,"
+            }
+          ]
+        },
+        {
+          "start": 41.32,
+          "end": 43.92,
+          "text": " unauthorized booking per competent relaxation chekk karein.",
+          "words": [
+            {
+              "start": 41.32,
+              "end": 41.94,
+              "word": " unauthorized"
+            },
+            {
+              "start": 41.94,
+              "end": 42.18,
+              "word": " booking"
+            },
+            {
+              "start": 42.18,
+              "end": 42.4,
+              "word": " per"
+            },
+            {
+              "start": 42.4,
+              "end": 42.76,
+              "word": " competent"
+            },
+            {
+              "start": 42.76,
+              "end": 43.3,
+              "word": " relaxation"
+            },
+            {
+              "start": 43.3,
+              "end": 43.72,
+              "word": " chekk"
+            },
+            {
+              "start": 43.72,
+              "end": 43.92,
+              "word": " karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-foreign-approvals.mp3",
+      "audio_sha256": "a89fb0c5fe802aa2bcccee2401302c83c02557b37a4b7306e56dae01ac1c54b8",
+      "duration": 35.6,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.78,
+          "text": " Foreign visit ke liye competent approval aur budget pehle chek karen, jaha screening committee",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.62,
+              "word": " Foreign"
+            },
+            {
+              "start": 0.62,
+              "end": 0.98,
+              "word": " visit"
+            },
+            {
+              "start": 0.98,
+              "end": 1.24,
+              "word": " ke"
+            },
+            {
+              "start": 1.24,
+              "end": 1.46,
+              "word": " liye"
+            },
+            {
+              "start": 1.46,
+              "end": 1.9,
+              "word": " competent"
+            },
+            {
+              "start": 1.9,
+              "end": 2.6,
+              "word": " approval"
+            },
+            {
+              "start": 2.6,
+              "end": 3.04,
+              "word": " aur"
+            },
+            {
+              "start": 3.04,
+              "end": 3.38,
+              "word": " budget"
+            },
+            {
+              "start": 3.38,
+              "end": 3.8,
+              "word": " pehle"
+            },
+            {
+              "start": 3.8,
+              "end": 4.1,
+              "word": " chek"
+            },
+            {
+              "start": 4.1,
+              "end": 4.3,
+              "word": " karen,"
+            },
+            {
+              "start": 4.76,
+              "end": 4.94,
+              "word": " jaha"
+            },
+            {
+              "start": 4.94,
+              "end": 5.34,
+              "word": " screening"
+            },
+            {
+              "start": 5.34,
+              "end": 5.78,
+              "word": " committee"
+            }
+          ]
+        },
+        {
+          "start": 5.78,
+          "end": 11.5,
+          "text": " aur prime minister approval chahiye proposal 15 days pehle bhejhe aur 5 days se late nahi.",
+          "words": [
+            {
+              "start": 5.78,
+              "end": 6.1,
+              "word": " aur"
+            },
+            {
+              "start": 6.1,
+              "end": 6.34,
+              "word": " prime"
+            },
+            {
+              "start": 6.34,
+              "end": 6.7,
+              "word": " minister"
+            },
+            {
+              "start": 6.7,
+              "end": 7.12,
+              "word": " approval"
+            },
+            {
+              "start": 7.12,
+              "end": 7.64,
+              "word": " chahiye"
+            },
+            {
+              "start": 7.64,
+              "end": 8.1,
+              "word": " proposal"
+            },
+            {
+              "start": 8.1,
+              "end": 8.74,
+              "word": " 15"
+            },
+            {
+              "start": 8.74,
+              "end": 9.08,
+              "word": " days"
+            },
+            {
+              "start": 9.08,
+              "end": 9.44,
+              "word": " pehle"
+            },
+            {
+              "start": 9.44,
+              "end": 9.82,
+              "word": " bhejhe"
+            },
+            {
+              "start": 9.82,
+              "end": 10.18,
+              "word": " aur"
+            },
+            {
+              "start": 10.18,
+              "end": 10.5,
+              "word": " 5"
+            },
+            {
+              "start": 10.5,
+              "end": 10.74,
+              "word": " days"
+            },
+            {
+              "start": 10.74,
+              "end": 10.92,
+              "word": " se"
+            },
+            {
+              "start": 10.92,
+              "end": 11.2,
+              "word": " late"
+            },
+            {
+              "start": 11.2,
+              "end": 11.5,
+              "word": " nahi."
+            }
+          ]
+        },
+        {
+          "start": 11.96,
+          "end": 17.6,
+          "text": " Example, secretary ka qualifying proposal time pehjna hoga. Training aur kuch delegations",
+          "words": [
+            {
+              "start": 11.96,
+              "end": 12.52,
+              "word": " Example,"
+            },
+            {
+              "start": 12.84,
+              "end": 13.14,
+              "word": " secretary"
+            },
+            {
+              "start": 13.14,
+              "end": 13.44,
+              "word": " ka"
+            },
+            {
+              "start": 13.44,
+              "end": 13.84,
+              "word": " qualifying"
+            },
+            {
+              "start": 13.84,
+              "end": 14.32,
+              "word": " proposal"
+            },
+            {
+              "start": 14.32,
+              "end": 14.74,
+              "word": " time"
+            },
+            {
+              "start": 14.74,
+              "end": 15.3,
+              "word": " pehjna"
+            },
+            {
+              "start": 15.3,
+              "end": 15.56,
+              "word": " hoga."
+            },
+            {
+              "start": 16.04,
+              "end": 16.46,
+              "word": " Training"
+            },
+            {
+              "start": 16.46,
+              "end": 16.8,
+              "word": " aur"
+            },
+            {
+              "start": 16.8,
+              "end": 17.02,
+              "word": " kuch"
+            },
+            {
+              "start": 17.02,
+              "end": 17.6,
+              "word": " delegations"
+            }
+          ]
+        },
+        {
+          "start": 17.6,
+          "end": 22.8,
+          "text": " ke exceptions bhi chek karen. Kuch international bodies ya agreements me sponsor terms apply",
+          "words": [
+            {
+              "start": 17.6,
+              "end": 17.82,
+              "word": " ke"
+            },
+            {
+              "start": 17.82,
+              "end": 18.26,
+              "word": " exceptions"
+            },
+            {
+              "start": 18.26,
+              "end": 18.6,
+              "word": " bhi"
+            },
+            {
+              "start": 18.6,
+              "end": 18.84,
+              "word": " chek"
+            },
+            {
+              "start": 18.84,
+              "end": 19.02,
+              "word": " karen."
+            },
+            {
+              "start": 19.5,
+              "end": 19.68,
+              "word": " Kuch"
+            },
+            {
+              "start": 19.68,
+              "end": 20.14,
+              "word": " international"
+            },
+            {
+              "start": 20.14,
+              "end": 20.7,
+              "word": " bodies"
+            },
+            {
+              "start": 20.7,
+              "end": 20.96,
+              "word": " ya"
+            },
+            {
+              "start": 20.96,
+              "end": 21.36,
+              "word": " agreements"
+            },
+            {
+              "start": 21.36,
+              "end": 21.68,
+              "word": " me"
+            },
+            {
+              "start": 21.68,
+              "end": 22.14,
+              "word": " sponsor"
+            },
+            {
+              "start": 22.14,
+              "end": 22.46,
+              "word": " terms"
+            },
+            {
+              "start": 22.46,
+              "end": 22.8,
+              "word": " apply"
+            }
+          ]
+        },
+        {
+          "start": 22.8,
+          "end": 28.6,
+          "text": " ho sakte hai. Dono sets ki allowances automatic jodna sahi nahi hai. Example, sponsor ne",
+          "words": [
+            {
+              "start": 22.8,
+              "end": 22.96,
+              "word": " ho"
+            },
+            {
+              "start": 22.96,
+              "end": 23.24,
+              "word": " sakte"
+            },
+            {
+              "start": 23.24,
+              "end": 23.38,
+              "word": " hai."
+            },
+            {
+              "start": 23.92,
+              "end": 24.26,
+              "word": " Dono"
+            },
+            {
+              "start": 24.26,
+              "end": 24.46,
+              "word": " sets"
+            },
+            {
+              "start": 24.46,
+              "end": 24.68,
+              "word": " ki"
+            },
+            {
+              "start": 24.68,
+              "end": 25.22,
+              "word": " allowances"
+            },
+            {
+              "start": 25.22,
+              "end": 25.7,
+              "word": " automatic"
+            },
+            {
+              "start": 25.7,
+              "end": 26.24,
+              "word": " jodna"
+            },
+            {
+              "start": 26.24,
+              "end": 26.54,
+              "word": " sahi"
+            },
+            {
+              "start": 26.54,
+              "end": 26.76,
+              "word": " nahi"
+            },
+            {
+              "start": 26.76,
+              "end": 26.88,
+              "word": " hai."
+            },
+            {
+              "start": 27.2,
+              "end": 27.84,
+              "word": " Example,"
+            },
+            {
+              "start": 28.04,
+              "end": 28.4,
+              "word": " sponsor"
+            },
+            {
+              "start": 28.4,
+              "end": 28.6,
+              "word": " ne"
+            }
+          ]
+        },
+        {
+          "start": 28.6,
+          "end": 33.9,
+          "text": " flight peh ki toh wahi fair dubara kleem na karen. Visit approval, hospitality aur baaki",
+          "words": [
+            {
+              "start": 28.6,
+              "end": 28.88,
+              "word": " flight"
+            },
+            {
+              "start": 28.88,
+              "end": 29.2,
+              "word": " peh"
+            },
+            {
+              "start": 29.2,
+              "end": 29.32,
+              "word": " ki"
+            },
+            {
+              "start": 29.32,
+              "end": 29.68,
+              "word": " toh"
+            },
+            {
+              "start": 29.68,
+              "end": 29.94,
+              "word": " wahi"
+            },
+            {
+              "start": 29.94,
+              "end": 30.14,
+              "word": " fair"
+            },
+            {
+              "start": 30.14,
+              "end": 30.58,
+              "word": " dubara"
+            },
+            {
+              "start": 30.58,
+              "end": 30.88,
+              "word": " kleem"
+            },
+            {
+              "start": 30.88,
+              "end": 30.98,
+              "word": " na"
+            },
+            {
+              "start": 30.98,
+              "end": 31.18,
+              "word": " karen."
+            },
+            {
+              "start": 31.6,
+              "end": 31.92,
+              "word": " Visit"
+            },
+            {
+              "start": 31.92,
+              "end": 32.34,
+              "word": " approval,"
+            },
+            {
+              "start": 32.64,
+              "end": 33.08,
+              "word": " hospitality"
+            },
+            {
+              "start": 33.08,
+              "end": 33.52,
+              "word": " aur"
+            },
+            {
+              "start": 33.52,
+              "end": 33.9,
+              "word": " baaki"
+            }
+          ]
+        },
+        {
+          "start": 33.9,
+          "end": 35.26,
+          "text": " expenses alak chek hoonge.",
+          "words": [
+            {
+              "start": 33.9,
+              "end": 34.38,
+              "word": " expenses"
+            },
+            {
+              "start": 34.38,
+              "end": 34.8,
+              "word": " alak"
+            },
+            {
+              "start": 34.8,
+              "end": 35.04,
+              "word": " chek"
+            },
+            {
+              "start": 35.04,
+              "end": 35.26,
+              "word": " hoonge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-foreign-da-slabs.mp3",
+      "audio_sha256": "a0c057af8b5c03425483b388cf85d9d8b35d9dc0487f080cdf6e2059fb2f9481",
+      "duration": 41.39,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.52,
+          "text": " Latest MEA order jo hume mila September 2023 ka hai. India se foreign tour par pehle 14 days",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.58,
+              "word": " Latest"
+            },
+            {
+              "start": 0.58,
+              "end": 0.92,
+              "word": " MEA"
+            },
+            {
+              "start": 0.92,
+              "end": 1.12,
+              "word": " order"
+            },
+            {
+              "start": 1.12,
+              "end": 1.32,
+              "word": " jo"
+            },
+            {
+              "start": 1.32,
+              "end": 1.56,
+              "word": " hume"
+            },
+            {
+              "start": 1.56,
+              "end": 1.82,
+              "word": " mila"
+            },
+            {
+              "start": 1.82,
+              "end": 2.16,
+              "word": " September"
+            },
+            {
+              "start": 2.16,
+              "end": 3.18,
+              "word": " 2023"
+            },
+            {
+              "start": 3.18,
+              "end": 3.64,
+              "word": " ka"
+            },
+            {
+              "start": 3.64,
+              "end": 3.78,
+              "word": " hai."
+            },
+            {
+              "start": 4.16,
+              "end": 4.44,
+              "word": " India"
+            },
+            {
+              "start": 4.44,
+              "end": 4.64,
+              "word": " se"
+            },
+            {
+              "start": 4.64,
+              "end": 4.96,
+              "word": " foreign"
+            },
+            {
+              "start": 4.96,
+              "end": 5.28,
+              "word": " tour"
+            },
+            {
+              "start": 5.28,
+              "end": 5.5,
+              "word": " par"
+            },
+            {
+              "start": 5.5,
+              "end": 5.9,
+              "word": " pehle"
+            },
+            {
+              "start": 5.9,
+              "end": 6.22,
+              "word": " 14"
+            },
+            {
+              "start": 6.22,
+              "end": 6.52,
+              "word": " days"
+            }
+          ]
+        },
+        {
+          "start": 6.52,
+          "end": 14.94,
+          "text": " full admissible rate, next 14 days 75%, phir 60%. Example, mahan li full rate $100 hai. Qualifying",
+          "words": [
+            {
+              "start": 6.52,
+              "end": 6.86,
+              "word": " full"
+            },
+            {
+              "start": 6.86,
+              "end": 7.26,
+              "word": " admissible"
+            },
+            {
+              "start": 7.26,
+              "end": 7.64,
+              "word": " rate,"
+            },
+            {
+              "start": 8.0,
+              "end": 8.24,
+              "word": " next"
+            },
+            {
+              "start": 8.24,
+              "end": 8.6,
+              "word": " 14"
+            },
+            {
+              "start": 8.6,
+              "end": 8.84,
+              "word": " days"
+            },
+            {
+              "start": 8.84,
+              "end": 9.92,
+              "word": " 75%,"
+            },
+            {
+              "start": 9.92,
+              "end": 10.24,
+              "word": " phir"
+            },
+            {
+              "start": 10.24,
+              "end": 11.14,
+              "word": " 60%."
+            },
+            {
+              "start": 11.14,
+              "end": 11.98,
+              "word": " Example,"
+            },
+            {
+              "start": 12.34,
+              "end": 12.56,
+              "word": " mahan"
+            },
+            {
+              "start": 12.56,
+              "end": 12.7,
+              "word": " li"
+            },
+            {
+              "start": 12.7,
+              "end": 12.96,
+              "word": " full"
+            },
+            {
+              "start": 12.96,
+              "end": 13.24,
+              "word": " rate"
+            },
+            {
+              "start": 13.24,
+              "end": 13.82,
+              "word": " $100"
+            },
+            {
+              "start": 13.82,
+              "end": 14.1,
+              "word": " hai."
+            },
+            {
+              "start": 14.5,
+              "end": 14.94,
+              "word": " Qualifying"
+            }
+          ]
+        },
+        {
+          "start": 14.94,
+          "end": 20.2,
+          "text": " day 15 pr 75 dollars banega. Partial day aur baki adjustments alag verify karein.",
+          "words": [
+            {
+              "start": 14.94,
+              "end": 15.14,
+              "word": " day"
+            },
+            {
+              "start": 15.14,
+              "end": 15.56,
+              "word": " 15"
+            },
+            {
+              "start": 15.56,
+              "end": 15.76,
+              "word": " pr"
+            },
+            {
+              "start": 15.76,
+              "end": 16.24,
+              "word": " 75"
+            },
+            {
+              "start": 16.24,
+              "end": 16.7,
+              "word": " dollars"
+            },
+            {
+              "start": 16.7,
+              "end": 17.02,
+              "word": " banega."
+            },
+            {
+              "start": 17.52,
+              "end": 17.94,
+              "word": " Partial"
+            },
+            {
+              "start": 17.94,
+              "end": 18.14,
+              "word": " day"
+            },
+            {
+              "start": 18.14,
+              "end": 18.28,
+              "word": " aur"
+            },
+            {
+              "start": 18.28,
+              "end": 18.64,
+              "word": " baki"
+            },
+            {
+              "start": 18.64,
+              "end": 19.04,
+              "word": " adjustments"
+            },
+            {
+              "start": 19.04,
+              "end": 19.54,
+              "word": " alag"
+            },
+            {
+              "start": 19.54,
+              "end": 19.86,
+              "word": " verify"
+            },
+            {
+              "start": 19.86,
+              "end": 20.2,
+              "word": " karein."
+            }
+          ]
+        },
+        {
+          "start": 20.68,
+          "end": 25.7,
+          "text": " Up overseas posted officers ki specified tours ka alag schedule. Pehle 7 days full,",
+          "words": [
+            {
+              "start": 20.68,
+              "end": 20.84,
+              "word": " Up"
+            },
+            {
+              "start": 20.84,
+              "end": 21.42,
+              "word": " overseas"
+            },
+            {
+              "start": 21.42,
+              "end": 21.78,
+              "word": " posted"
+            },
+            {
+              "start": 21.78,
+              "end": 22.26,
+              "word": " officers"
+            },
+            {
+              "start": 22.26,
+              "end": 22.48,
+              "word": " ki"
+            },
+            {
+              "start": 22.48,
+              "end": 22.86,
+              "word": " specified"
+            },
+            {
+              "start": 22.86,
+              "end": 23.26,
+              "word": " tours"
+            },
+            {
+              "start": 23.26,
+              "end": 23.52,
+              "word": " ka"
+            },
+            {
+              "start": 23.52,
+              "end": 23.88,
+              "word": " alag"
+            },
+            {
+              "start": 23.88,
+              "end": 24.08,
+              "word": " schedule."
+            },
+            {
+              "start": 24.64,
+              "end": 24.92,
+              "word": " Pehle"
+            },
+            {
+              "start": 24.92,
+              "end": 25.16,
+              "word": " 7"
+            },
+            {
+              "start": 25.16,
+              "end": 25.4,
+              "word": " days"
+            },
+            {
+              "start": 25.4,
+              "end": 25.7,
+              "word": " full,"
+            }
+          ]
+        },
+        {
+          "start": 25.7,
+          "end": 33.14,
+          "text": " agli 70-75%. Uski baat 50% of the full admissible rate. Example, $100 bees per day",
+          "words": [
+            {
+              "start": 25.7,
+              "end": 26.38,
+              "word": " agli"
+            },
+            {
+              "start": 26.38,
+              "end": 26.74,
+              "word": " 70"
+            },
+            {
+              "start": 26.74,
+              "end": 27.92,
+              "word": "-75%."
+            },
+            {
+              "start": 27.92,
+              "end": 28.38,
+              "word": " Uski"
+            },
+            {
+              "start": 28.38,
+              "end": 28.6,
+              "word": " baat"
+            },
+            {
+              "start": 28.6,
+              "end": 28.9,
+              "word": " 50"
+            },
+            {
+              "start": 28.9,
+              "end": 29.2,
+              "word": "%"
+            },
+            {
+              "start": 29.2,
+              "end": 29.38,
+              "word": " of"
+            },
+            {
+              "start": 29.38,
+              "end": 29.52,
+              "word": " the"
+            },
+            {
+              "start": 29.52,
+              "end": 29.72,
+              "word": " full"
+            },
+            {
+              "start": 29.72,
+              "end": 30.14,
+              "word": " admissible"
+            },
+            {
+              "start": 30.14,
+              "end": 30.42,
+              "word": " rate."
+            },
+            {
+              "start": 30.86,
+              "end": 31.42,
+              "word": " Example,"
+            },
+            {
+              "start": 31.72,
+              "end": 32.14,
+              "word": " $100"
+            },
+            {
+              "start": 32.14,
+              "end": 32.6,
+              "word": " bees"
+            },
+            {
+              "start": 32.6,
+              "end": 32.88,
+              "word": " per"
+            },
+            {
+              "start": 32.88,
+              "end": 33.14,
+              "word": " day"
+            }
+          ]
+        },
+        {
+          "start": 33.14,
+          "end": 40.48,
+          "text": " 8-75, day 15-50 dollars, baki applicable adjustments se pehle. India aur overseas schedules ko mix",
+          "words": [
+            {
+              "start": 33.14,
+              "end": 33.56,
+              "word": " 8"
+            },
+            {
+              "start": 33.56,
+              "end": 34.22,
+              "word": "-75,"
+            },
+            {
+              "start": 34.52,
+              "end": 34.76,
+              "word": " day"
+            },
+            {
+              "start": 34.76,
+              "end": 35.2,
+              "word": " 15"
+            },
+            {
+              "start": 35.2,
+              "end": 35.68,
+              "word": "-50"
+            },
+            {
+              "start": 35.68,
+              "end": 36.08,
+              "word": " dollars,"
+            },
+            {
+              "start": 36.38,
+              "end": 36.68,
+              "word": " baki"
+            },
+            {
+              "start": 36.68,
+              "end": 37.08,
+              "word": " applicable"
+            },
+            {
+              "start": 37.08,
+              "end": 37.58,
+              "word": " adjustments"
+            },
+            {
+              "start": 37.58,
+              "end": 37.84,
+              "word": " se"
+            },
+            {
+              "start": 37.84,
+              "end": 38.12,
+              "word": " pehle."
+            },
+            {
+              "start": 38.56,
+              "end": 38.96,
+              "word": " India"
+            },
+            {
+              "start": 38.96,
+              "end": 39.16,
+              "word": " aur"
+            },
+            {
+              "start": 39.16,
+              "end": 39.6,
+              "word": " overseas"
+            },
+            {
+              "start": 39.6,
+              "end": 40.06,
+              "word": " schedules"
+            },
+            {
+              "start": 40.06,
+              "end": 40.26,
+              "word": " ko"
+            },
+            {
+              "start": 40.26,
+              "end": 40.48,
+              "word": " mix"
+            }
+          ]
+        },
+        {
+          "start": 40.48,
+          "end": 41.04,
+          "text": " mat karein.",
+          "words": [
+            {
+              "start": 40.48,
+              "end": 40.7,
+              "word": " mat"
+            },
+            {
+              "start": 40.7,
+              "end": 41.04,
+              "word": " karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "05-foreign-hotel-meals.mp3",
+      "audio_sha256": "16bd7d4276efcf1d831b1e9fe9d04ea99f8694a3443b06cd9ab190a218a250c8",
+      "duration": 45.0,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.26,
+          "text": " Foreign hotel ke liye approved panel aur actual rental check karen.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.58,
+              "word": " Foreign"
+            },
+            {
+              "start": 0.58,
+              "end": 0.98,
+              "word": " hotel"
+            },
+            {
+              "start": 0.98,
+              "end": 1.26,
+              "word": " ke"
+            },
+            {
+              "start": 1.26,
+              "end": 1.5,
+              "word": " liye"
+            },
+            {
+              "start": 1.5,
+              "end": 1.9,
+              "word": " approved"
+            },
+            {
+              "start": 1.9,
+              "end": 2.4,
+              "word": " panel"
+            },
+            {
+              "start": 2.4,
+              "end": 2.8,
+              "word": " aur"
+            },
+            {
+              "start": 2.8,
+              "end": 3.26,
+              "word": " actual"
+            },
+            {
+              "start": 3.26,
+              "end": 3.68,
+              "word": " rental"
+            },
+            {
+              "start": 3.68,
+              "end": 4.0,
+              "word": " check"
+            },
+            {
+              "start": 4.0,
+              "end": 4.26,
+              "word": " karen."
+            }
+          ]
+        },
+        {
+          "start": 4.74,
+          "end": 8.06,
+          "text": " Room rental mein service charges aur taxes bhi order mein hai.",
+          "words": [
+            {
+              "start": 4.74,
+              "end": 5.06,
+              "word": " Room"
+            },
+            {
+              "start": 5.06,
+              "end": 5.4,
+              "word": " rental"
+            },
+            {
+              "start": 5.4,
+              "end": 5.64,
+              "word": " mein"
+            },
+            {
+              "start": 5.64,
+              "end": 6.0,
+              "word": " service"
+            },
+            {
+              "start": 6.0,
+              "end": 6.5,
+              "word": " charges"
+            },
+            {
+              "start": 6.5,
+              "end": 6.86,
+              "word": " aur"
+            },
+            {
+              "start": 6.86,
+              "end": 7.22,
+              "word": " taxes"
+            },
+            {
+              "start": 7.22,
+              "end": 7.54,
+              "word": " bhi"
+            },
+            {
+              "start": 7.54,
+              "end": 7.72,
+              "word": " order"
+            },
+            {
+              "start": 7.72,
+              "end": 7.92,
+              "word": " mein"
+            },
+            {
+              "start": 7.92,
+              "end": 8.06,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 8.6,
+          "end": 12.6,
+          "text": " Non-panel city mein capital city ka relevant lowest rate check ho ga.",
+          "words": [
+            {
+              "start": 8.6,
+              "end": 8.9,
+              "word": " Non"
+            },
+            {
+              "start": 8.9,
+              "end": 9.32,
+              "word": "-panel"
+            },
+            {
+              "start": 9.32,
+              "end": 9.58,
+              "word": " city"
+            },
+            {
+              "start": 9.58,
+              "end": 9.76,
+              "word": " mein"
+            },
+            {
+              "start": 9.76,
+              "end": 10.26,
+              "word": " capital"
+            },
+            {
+              "start": 10.26,
+              "end": 10.64,
+              "word": " city"
+            },
+            {
+              "start": 10.64,
+              "end": 10.84,
+              "word": " ka"
+            },
+            {
+              "start": 10.84,
+              "end": 11.22,
+              "word": " relevant"
+            },
+            {
+              "start": 11.22,
+              "end": 11.7,
+              "word": " lowest"
+            },
+            {
+              "start": 11.7,
+              "end": 12.04,
+              "word": " rate"
+            },
+            {
+              "start": 12.04,
+              "end": 12.36,
+              "word": " check"
+            },
+            {
+              "start": 12.36,
+              "end": 12.52,
+              "word": " ho"
+            },
+            {
+              "start": 12.52,
+              "end": 12.6,
+              "word": " ga."
+            }
+          ]
+        },
+        {
+          "start": 13.2,
+          "end": 17.38,
+          "text": " Non-representational training mein hotel entitlement ek step lower hai.",
+          "words": [
+            {
+              "start": 13.2,
+              "end": 13.54,
+              "word": " Non"
+            },
+            {
+              "start": 13.54,
+              "end": 14.46,
+              "word": "-representational"
+            },
+            {
+              "start": 14.46,
+              "end": 14.76,
+              "word": " training"
+            },
+            {
+              "start": 14.76,
+              "end": 15.02,
+              "word": " mein"
+            },
+            {
+              "start": 15.02,
+              "end": 15.44,
+              "word": " hotel"
+            },
+            {
+              "start": 15.44,
+              "end": 16.18,
+              "word": " entitlement"
+            },
+            {
+              "start": 16.18,
+              "end": 16.52,
+              "word": " ek"
+            },
+            {
+              "start": 16.52,
+              "end": 16.78,
+              "word": " step"
+            },
+            {
+              "start": 16.78,
+              "end": 17.16,
+              "word": " lower"
+            },
+            {
+              "start": 17.16,
+              "end": 17.38,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 17.88,
+          "end": 21.68,
+          "text": " Example, seminar ke liye normal panel ki lower step confirm karen.",
+          "words": [
+            {
+              "start": 17.88,
+              "end": 18.5,
+              "word": " Example,"
+            },
+            {
+              "start": 18.7,
+              "end": 19.0,
+              "word": " seminar"
+            },
+            {
+              "start": 19.0,
+              "end": 19.28,
+              "word": " ke"
+            },
+            {
+              "start": 19.28,
+              "end": 19.48,
+              "word": " liye"
+            },
+            {
+              "start": 19.48,
+              "end": 19.74,
+              "word": " normal"
+            },
+            {
+              "start": 19.74,
+              "end": 20.22,
+              "word": " panel"
+            },
+            {
+              "start": 20.22,
+              "end": 20.42,
+              "word": " ki"
+            },
+            {
+              "start": 20.42,
+              "end": 20.72,
+              "word": " lower"
+            },
+            {
+              "start": 20.72,
+              "end": 20.98,
+              "word": " step"
+            },
+            {
+              "start": 20.98,
+              "end": 21.36,
+              "word": " confirm"
+            },
+            {
+              "start": 21.36,
+              "end": 21.68,
+              "word": " karen."
+            }
+          ]
+        },
+        {
+          "start": 22.26,
+          "end": 25.34,
+          "text": " Domestic hotel limit ko foreign hotel par copy na karen.",
+          "words": [
+            {
+              "start": 22.26,
+              "end": 22.78,
+              "word": " Domestic"
+            },
+            {
+              "start": 22.78,
+              "end": 23.12,
+              "word": " hotel"
+            },
+            {
+              "start": 23.12,
+              "end": 23.46,
+              "word": " limit"
+            },
+            {
+              "start": 23.46,
+              "end": 23.7,
+              "word": " ko"
+            },
+            {
+              "start": 23.7,
+              "end": 24.04,
+              "word": " foreign"
+            },
+            {
+              "start": 24.04,
+              "end": 24.46,
+              "word": " hotel"
+            },
+            {
+              "start": 24.46,
+              "end": 24.62,
+              "word": " par"
+            },
+            {
+              "start": 24.62,
+              "end": 24.94,
+              "word": " copy"
+            },
+            {
+              "start": 24.94,
+              "end": 25.12,
+              "word": " na"
+            },
+            {
+              "start": 25.12,
+              "end": 25.34,
+              "word": " karen."
+            }
+          ]
+        },
+        {
+          "start": 25.9,
+          "end": 29.3,
+          "text": " Hotel charge mein breakfast ho to daily allowance 10% kump.",
+          "words": [
+            {
+              "start": 25.9,
+              "end": 26.2,
+              "word": " Hotel"
+            },
+            {
+              "start": 26.2,
+              "end": 26.58,
+              "word": " charge"
+            },
+            {
+              "start": 26.58,
+              "end": 26.76,
+              "word": " mein"
+            },
+            {
+              "start": 26.76,
+              "end": 27.12,
+              "word": " breakfast"
+            },
+            {
+              "start": 27.12,
+              "end": 27.44,
+              "word": " ho"
+            },
+            {
+              "start": 27.44,
+              "end": 27.7,
+              "word": " to"
+            },
+            {
+              "start": 27.7,
+              "end": 27.98,
+              "word": " daily"
+            },
+            {
+              "start": 27.98,
+              "end": 28.36,
+              "word": " allowance"
+            },
+            {
+              "start": 28.36,
+              "end": 28.74,
+              "word": " 10"
+            },
+            {
+              "start": 28.74,
+              "end": 28.98,
+              "word": "%"
+            },
+            {
+              "start": 28.98,
+              "end": 29.3,
+              "word": " kump."
+            }
+          ]
+        },
+        {
+          "start": 29.3,
+          "end": 33.14,
+          "text": " Example, 100 dollars par sirf yeh reduction lagi to 90.",
+          "words": [
+            {
+              "start": 29.3,
+              "end": 30.36,
+              "word": " Example,"
+            },
+            {
+              "start": 30.42,
+              "end": 30.74,
+              "word": " 100"
+            },
+            {
+              "start": 30.74,
+              "end": 31.12,
+              "word": " dollars"
+            },
+            {
+              "start": 31.12,
+              "end": 31.34,
+              "word": " par"
+            },
+            {
+              "start": 31.34,
+              "end": 31.72,
+              "word": " sirf"
+            },
+            {
+              "start": 31.72,
+              "end": 31.94,
+              "word": " yeh"
+            },
+            {
+              "start": 31.94,
+              "end": 32.2,
+              "word": " reduction"
+            },
+            {
+              "start": 32.2,
+              "end": 32.6,
+              "word": " lagi"
+            },
+            {
+              "start": 32.6,
+              "end": 32.8,
+              "word": " to"
+            },
+            {
+              "start": 32.8,
+              "end": 33.14,
+              "word": " 90."
+            }
+          ]
+        },
+        {
+          "start": 33.8,
+          "end": 37.24,
+          "text": " State guest aur sari meals free ho to 25% rate.",
+          "words": [
+            {
+              "start": 33.8,
+              "end": 34.12,
+              "word": " State"
+            },
+            {
+              "start": 34.12,
+              "end": 34.5,
+              "word": " guest"
+            },
+            {
+              "start": 34.5,
+              "end": 34.72,
+              "word": " aur"
+            },
+            {
+              "start": 34.72,
+              "end": 35.1,
+              "word": " sari"
+            },
+            {
+              "start": 35.1,
+              "end": 35.34,
+              "word": " meals"
+            },
+            {
+              "start": 35.34,
+              "end": 35.64,
+              "word": " free"
+            },
+            {
+              "start": 35.64,
+              "end": 35.8,
+              "word": " ho"
+            },
+            {
+              "start": 35.8,
+              "end": 36.06,
+              "word": " to"
+            },
+            {
+              "start": 36.06,
+              "end": 36.54,
+              "word": " 25"
+            },
+            {
+              "start": 36.54,
+              "end": 36.86,
+              "word": "%"
+            },
+            {
+              "start": 36.86,
+              "end": 37.24,
+              "word": " rate."
+            }
+          ]
+        },
+        {
+          "start": 37.74,
+          "end": 41.02,
+          "text": " Tips ke liye daily allowance ke upar extra reimbursement nahi.",
+          "words": [
+            {
+              "start": 37.74,
+              "end": 38.02,
+              "word": " Tips"
+            },
+            {
+              "start": 38.02,
+              "end": 38.24,
+              "word": " ke"
+            },
+            {
+              "start": 38.24,
+              "end": 38.46,
+              "word": " liye"
+            },
+            {
+              "start": 38.46,
+              "end": 38.7,
+              "word": " daily"
+            },
+            {
+              "start": 38.7,
+              "end": 39.14,
+              "word": " allowance"
+            },
+            {
+              "start": 39.14,
+              "end": 39.34,
+              "word": " ke"
+            },
+            {
+              "start": 39.34,
+              "end": 39.7,
+              "word": " upar"
+            },
+            {
+              "start": 39.7,
+              "end": 39.98,
+              "word": " extra"
+            },
+            {
+              "start": 39.98,
+              "end": 40.76,
+              "word": " reimbursement"
+            },
+            {
+              "start": 40.76,
+              "end": 41.02,
+              "word": " nahi."
+            }
+          ]
+        },
+        {
+          "start": 41.58,
+          "end": 44.66,
+          "text": " Ek se zyada deductions ho to office se method confirm karen.",
+          "words": [
+            {
+              "start": 41.58,
+              "end": 41.74,
+              "word": " Ek"
+            },
+            {
+              "start": 41.74,
+              "end": 41.94,
+              "word": " se"
+            },
+            {
+              "start": 41.94,
+              "end": 42.26,
+              "word": " zyada"
+            },
+            {
+              "start": 42.26,
+              "end": 42.76,
+              "word": " deductions"
+            },
+            {
+              "start": 42.76,
+              "end": 42.94,
+              "word": " ho"
+            },
+            {
+              "start": 42.94,
+              "end": 43.14,
+              "word": " to"
+            },
+            {
+              "start": 43.14,
+              "end": 43.48,
+              "word": " office"
+            },
+            {
+              "start": 43.48,
+              "end": 43.68,
+              "word": " se"
+            },
+            {
+              "start": 43.68,
+              "end": 43.92,
+              "word": " method"
+            },
+            {
+              "start": 43.92,
+              "end": 44.34,
+              "word": " confirm"
+            },
+            {
+              "start": 44.34,
+              "end": 44.66,
+              "word": " karen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-foreign-conveyance.mp3",
+      "audio_sha256": "a85c70fa17b861576dada03ae7c07694144903ddafb2337ec503a3bd610feaa7",
+      "duration": 43.32,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.22,
+          "text": " Foreign daily allowance mein, official duty transport included nahi hai. Necessary aur reasonable",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.62,
+              "word": " Foreign"
+            },
+            {
+              "start": 0.62,
+              "end": 0.94,
+              "word": " daily"
+            },
+            {
+              "start": 0.94,
+              "end": 1.5,
+              "word": " allowance"
+            },
+            {
+              "start": 1.5,
+              "end": 1.78,
+              "word": " mein,"
+            },
+            {
+              "start": 2.0,
+              "end": 2.38,
+              "word": " official"
+            },
+            {
+              "start": 2.38,
+              "end": 2.76,
+              "word": " duty"
+            },
+            {
+              "start": 2.76,
+              "end": 3.28,
+              "word": " transport"
+            },
+            {
+              "start": 3.28,
+              "end": 3.82,
+              "word": " included"
+            },
+            {
+              "start": 3.82,
+              "end": 4.38,
+              "word": " nahi"
+            },
+            {
+              "start": 4.38,
+              "end": 4.52,
+              "word": " hai."
+            },
+            {
+              "start": 4.9,
+              "end": 5.54,
+              "word": " Necessary"
+            },
+            {
+              "start": 5.54,
+              "end": 5.8,
+              "word": " aur"
+            },
+            {
+              "start": 5.8,
+              "end": 6.22,
+              "word": " reasonable"
+            }
+          ]
+        },
+        {
+          "start": 6.22,
+          "end": 11.22,
+          "text": " conveyance alak se chek ho sakta hai. Sanction mein ish kharch ke liye specific funds hona",
+          "words": [
+            {
+              "start": 6.22,
+              "end": 6.92,
+              "word": " conveyance"
+            },
+            {
+              "start": 6.92,
+              "end": 7.26,
+              "word": " alak"
+            },
+            {
+              "start": 7.26,
+              "end": 7.38,
+              "word": " se"
+            },
+            {
+              "start": 7.38,
+              "end": 7.62,
+              "word": " chek"
+            },
+            {
+              "start": 7.62,
+              "end": 7.74,
+              "word": " ho"
+            },
+            {
+              "start": 7.74,
+              "end": 8.06,
+              "word": " sakta"
+            },
+            {
+              "start": 8.06,
+              "end": 8.2,
+              "word": " hai."
+            },
+            {
+              "start": 8.62,
+              "end": 9.02,
+              "word": " Sanction"
+            },
+            {
+              "start": 9.02,
+              "end": 9.26,
+              "word": " mein"
+            },
+            {
+              "start": 9.26,
+              "end": 9.58,
+              "word": " ish"
+            },
+            {
+              "start": 9.58,
+              "end": 9.76,
+              "word": " kharch"
+            },
+            {
+              "start": 9.76,
+              "end": 9.96,
+              "word": " ke"
+            },
+            {
+              "start": 9.96,
+              "end": 10.12,
+              "word": " liye"
+            },
+            {
+              "start": 10.12,
+              "end": 10.4,
+              "word": " specific"
+            },
+            {
+              "start": 10.4,
+              "end": 10.96,
+              "word": " funds"
+            },
+            {
+              "start": 10.96,
+              "end": 11.22,
+              "word": " hona"
+            }
+          ]
+        },
+        {
+          "start": 11.22,
+          "end": 16.92,
+          "text": " bhi zaroori hai. Example, official meeting ka eligible taxi bill separately dekhay. Sight",
+          "words": [
+            {
+              "start": 11.22,
+              "end": 11.4,
+              "word": " bhi"
+            },
+            {
+              "start": 11.4,
+              "end": 11.76,
+              "word": " zaroori"
+            },
+            {
+              "start": 11.76,
+              "end": 11.9,
+              "word": " hai."
+            },
+            {
+              "start": 12.32,
+              "end": 12.88,
+              "word": " Example,"
+            },
+            {
+              "start": 13.26,
+              "end": 13.54,
+              "word": " official"
+            },
+            {
+              "start": 13.54,
+              "end": 13.92,
+              "word": " meeting"
+            },
+            {
+              "start": 13.92,
+              "end": 14.2,
+              "word": " ka"
+            },
+            {
+              "start": 14.2,
+              "end": 14.54,
+              "word": " eligible"
+            },
+            {
+              "start": 14.54,
+              "end": 14.98,
+              "word": " taxi"
+            },
+            {
+              "start": 14.98,
+              "end": 15.28,
+              "word": " bill"
+            },
+            {
+              "start": 15.28,
+              "end": 15.68,
+              "word": " separately"
+            },
+            {
+              "start": 15.68,
+              "end": 16.18,
+              "word": " dekhay."
+            },
+            {
+              "start": 16.54,
+              "end": 16.92,
+              "word": " Sight"
+            }
+          ]
+        },
+        {
+          "start": 16.92,
+          "end": 19.84,
+          "text": " seeing ka taxi apne aap official duty claim nahi bantha.",
+          "words": [
+            {
+              "start": 16.92,
+              "end": 17.12,
+              "word": " seeing"
+            },
+            {
+              "start": 17.12,
+              "end": 17.32,
+              "word": " ka"
+            },
+            {
+              "start": 17.32,
+              "end": 17.58,
+              "word": " taxi"
+            },
+            {
+              "start": 17.58,
+              "end": 18.04,
+              "word": " apne"
+            },
+            {
+              "start": 18.04,
+              "end": 18.28,
+              "word": " aap"
+            },
+            {
+              "start": 18.28,
+              "end": 18.64,
+              "word": " official"
+            },
+            {
+              "start": 18.64,
+              "end": 18.92,
+              "word": " duty"
+            },
+            {
+              "start": 18.92,
+              "end": 19.24,
+              "word": " claim"
+            },
+            {
+              "start": 19.24,
+              "end": 19.56,
+              "word": " nahi"
+            },
+            {
+              "start": 19.56,
+              "end": 19.84,
+              "word": " bantha."
+            }
+          ]
+        },
+        {
+          "start": 20.38,
+          "end": 25.5,
+          "text": " Currency conversion ke liye official MEA rate chek karein. Latest MEA order jo hume mila",
+          "words": [
+            {
+              "start": 20.38,
+              "end": 20.76,
+              "word": " Currency"
+            },
+            {
+              "start": 20.76,
+              "end": 21.18,
+              "word": " conversion"
+            },
+            {
+              "start": 21.18,
+              "end": 21.46,
+              "word": " ke"
+            },
+            {
+              "start": 21.46,
+              "end": 21.68,
+              "word": " liye"
+            },
+            {
+              "start": 21.68,
+              "end": 22.08,
+              "word": " official"
+            },
+            {
+              "start": 22.08,
+              "end": 22.76,
+              "word": " MEA"
+            },
+            {
+              "start": 22.76,
+              "end": 22.9,
+              "word": " rate"
+            },
+            {
+              "start": 22.9,
+              "end": 23.2,
+              "word": " chek"
+            },
+            {
+              "start": 23.2,
+              "end": 23.48,
+              "word": " karein."
+            },
+            {
+              "start": 23.82,
+              "end": 24.26,
+              "word": " Latest"
+            },
+            {
+              "start": 24.26,
+              "end": 24.62,
+              "word": " MEA"
+            },
+            {
+              "start": 24.62,
+              "end": 24.84,
+              "word": " order"
+            },
+            {
+              "start": 24.84,
+              "end": 25.02,
+              "word": " jo"
+            },
+            {
+              "start": 25.02,
+              "end": 25.26,
+              "word": " hume"
+            },
+            {
+              "start": 25.26,
+              "end": 25.5,
+              "word": " mila"
+            }
+          ]
+        },
+        {
+          "start": 25.5,
+          "end": 31.94,
+          "text": " september 2023 ka hai. Level 10 aur upar annexure ka full prescribed rate chek karein. Level",
+          "words": [
+            {
+              "start": 25.5,
+              "end": 26.14,
+              "word": " september"
+            },
+            {
+              "start": 26.14,
+              "end": 26.98,
+              "word": " 2023"
+            },
+            {
+              "start": 26.98,
+              "end": 27.32,
+              "word": " ka"
+            },
+            {
+              "start": 27.32,
+              "end": 27.46,
+              "word": " hai."
+            },
+            {
+              "start": 27.86,
+              "end": 28.1,
+              "word": " Level"
+            },
+            {
+              "start": 28.1,
+              "end": 28.5,
+              "word": " 10"
+            },
+            {
+              "start": 28.5,
+              "end": 28.76,
+              "word": " aur"
+            },
+            {
+              "start": 28.76,
+              "end": 29.2,
+              "word": " upar"
+            },
+            {
+              "start": 29.2,
+              "end": 29.74,
+              "word": " annexure"
+            },
+            {
+              "start": 29.74,
+              "end": 29.84,
+              "word": " ka"
+            },
+            {
+              "start": 29.84,
+              "end": 30.1,
+              "word": " full"
+            },
+            {
+              "start": 30.1,
+              "end": 30.48,
+              "word": " prescribed"
+            },
+            {
+              "start": 30.48,
+              "end": 30.8,
+              "word": " rate"
+            },
+            {
+              "start": 30.8,
+              "end": 31.1,
+              "word": " chek"
+            },
+            {
+              "start": 31.1,
+              "end": 31.42,
+              "word": " karein."
+            },
+            {
+              "start": 31.66,
+              "end": 31.94,
+              "word": " Level"
+            }
+          ]
+        },
+        {
+          "start": 31.94,
+          "end": 37.6,
+          "text": " 2 se 9 mein copies ki percentage reading conflict karti hai. Example, level 7 ka calculation",
+          "words": [
+            {
+              "start": 31.94,
+              "end": 32.26,
+              "word": " 2"
+            },
+            {
+              "start": 32.26,
+              "end": 32.4,
+              "word": " se"
+            },
+            {
+              "start": 32.4,
+              "end": 32.72,
+              "word": " 9"
+            },
+            {
+              "start": 32.72,
+              "end": 32.88,
+              "word": " mein"
+            },
+            {
+              "start": 32.88,
+              "end": 33.26,
+              "word": " copies"
+            },
+            {
+              "start": 33.26,
+              "end": 33.52,
+              "word": " ki"
+            },
+            {
+              "start": 33.52,
+              "end": 33.86,
+              "word": " percentage"
+            },
+            {
+              "start": 33.86,
+              "end": 34.3,
+              "word": " reading"
+            },
+            {
+              "start": 34.3,
+              "end": 34.72,
+              "word": " conflict"
+            },
+            {
+              "start": 34.72,
+              "end": 35.16,
+              "word": " karti"
+            },
+            {
+              "start": 35.16,
+              "end": 35.32,
+              "word": " hai."
+            },
+            {
+              "start": 35.68,
+              "end": 36.24,
+              "word": " Example,"
+            },
+            {
+              "start": 36.48,
+              "end": 36.7,
+              "word": " level"
+            },
+            {
+              "start": 36.7,
+              "end": 37.06,
+              "word": " 7"
+            },
+            {
+              "start": 37.06,
+              "end": 37.26,
+              "word": " ka"
+            },
+            {
+              "start": 37.26,
+              "end": 37.6,
+              "word": " calculation"
+            }
+          ]
+        },
+        {
+          "start": 37.6,
+          "end": 42.58,
+          "text": " legible official copy se verify karein. Later amendment aur departmental adoption bhi",
+          "words": [
+            {
+              "start": 37.6,
+              "end": 38.36,
+              "word": " legible"
+            },
+            {
+              "start": 38.36,
+              "end": 38.76,
+              "word": " official"
+            },
+            {
+              "start": 38.76,
+              "end": 39.12,
+              "word": " copy"
+            },
+            {
+              "start": 39.12,
+              "end": 39.28,
+              "word": " se"
+            },
+            {
+              "start": 39.28,
+              "end": 39.54,
+              "word": " verify"
+            },
+            {
+              "start": 39.54,
+              "end": 39.96,
+              "word": " karein."
+            },
+            {
+              "start": 40.3,
+              "end": 40.6,
+              "word": " Later"
+            },
+            {
+              "start": 40.6,
+              "end": 41.0,
+              "word": " amendment"
+            },
+            {
+              "start": 41.0,
+              "end": 41.32,
+              "word": " aur"
+            },
+            {
+              "start": 41.32,
+              "end": 42.04,
+              "word": " departmental"
+            },
+            {
+              "start": 42.04,
+              "end": 42.32,
+              "word": " adoption"
+            },
+            {
+              "start": 42.32,
+              "end": 42.58,
+              "word": " bhi"
+            }
+          ]
+        },
+        {
+          "start": 42.58,
+          "end": 43.02,
+          "text": " chek karein.",
+          "words": [
+            {
+              "start": 42.58,
+              "end": 42.8,
+              "word": " chek"
+            },
+            {
+              "start": 42.8,
+              "end": 43.02,
+              "word": " karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "07-sea-river.mp3",
+      "audio_sha256": "b7754922d70a506c56af4846f00f2813c84187a477a05a67ea871477c9a9b456",
+      "duration": 44.72,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.94,
+          "text": " Ab see ya river steamer ka standard table. Level 9 aur upar highest, level 3 aur niche lowest",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.46,
+              "word": " Ab"
+            },
+            {
+              "start": 0.46,
+              "end": 0.86,
+              "word": " see"
+            },
+            {
+              "start": 0.86,
+              "end": 1.12,
+              "word": " ya"
+            },
+            {
+              "start": 1.12,
+              "end": 1.36,
+              "word": " river"
+            },
+            {
+              "start": 1.36,
+              "end": 1.86,
+              "word": " steamer"
+            },
+            {
+              "start": 1.86,
+              "end": 2.02,
+              "word": " ka"
+            },
+            {
+              "start": 2.02,
+              "end": 2.42,
+              "word": " standard"
+            },
+            {
+              "start": 2.42,
+              "end": 2.82,
+              "word": " table."
+            },
+            {
+              "start": 3.48,
+              "end": 3.68,
+              "word": " Level"
+            },
+            {
+              "start": 3.68,
+              "end": 4.06,
+              "word": " 9"
+            },
+            {
+              "start": 4.06,
+              "end": 4.26,
+              "word": " aur"
+            },
+            {
+              "start": 4.26,
+              "end": 4.6,
+              "word": " upar"
+            },
+            {
+              "start": 4.6,
+              "end": 4.96,
+              "word": " highest,"
+            },
+            {
+              "start": 5.52,
+              "end": 5.78,
+              "word": " level"
+            },
+            {
+              "start": 5.78,
+              "end": 6.12,
+              "word": " 3"
+            },
+            {
+              "start": 6.12,
+              "end": 6.28,
+              "word": " aur"
+            },
+            {
+              "start": 6.28,
+              "end": 6.6,
+              "word": " niche"
+            },
+            {
+              "start": 6.6,
+              "end": 6.94,
+              "word": " lowest"
+            }
+          ]
+        },
+        {
+          "start": 6.94,
+          "end": 14.4,
+          "text": " class. Level 6 se 8 mein 2 classes hon to lower class. Level 4 aur 5 mein 2, 3 ya 4 classes",
+          "words": [
+            {
+              "start": 6.94,
+              "end": 7.32,
+              "word": " class."
+            },
+            {
+              "start": 8.04,
+              "end": 8.32,
+              "word": " Level"
+            },
+            {
+              "start": 8.32,
+              "end": 8.68,
+              "word": " 6"
+            },
+            {
+              "start": 8.68,
+              "end": 8.84,
+              "word": " se"
+            },
+            {
+              "start": 8.84,
+              "end": 9.16,
+              "word": " 8"
+            },
+            {
+              "start": 9.16,
+              "end": 9.32,
+              "word": " mein"
+            },
+            {
+              "start": 9.32,
+              "end": 9.56,
+              "word": " 2"
+            },
+            {
+              "start": 9.56,
+              "end": 9.92,
+              "word": " classes"
+            },
+            {
+              "start": 9.92,
+              "end": 10.2,
+              "word": " hon"
+            },
+            {
+              "start": 10.2,
+              "end": 10.34,
+              "word": " to"
+            },
+            {
+              "start": 10.34,
+              "end": 10.58,
+              "word": " lower"
+            },
+            {
+              "start": 10.58,
+              "end": 10.9,
+              "word": " class."
+            },
+            {
+              "start": 11.52,
+              "end": 11.8,
+              "word": " Level"
+            },
+            {
+              "start": 11.8,
+              "end": 12.2,
+              "word": " 4"
+            },
+            {
+              "start": 12.2,
+              "end": 12.36,
+              "word": " aur"
+            },
+            {
+              "start": 12.36,
+              "end": 12.66,
+              "word": " 5"
+            },
+            {
+              "start": 12.66,
+              "end": 12.84,
+              "word": " mein"
+            },
+            {
+              "start": 12.84,
+              "end": 13.16,
+              "word": " 2,"
+            },
+            {
+              "start": 13.22,
+              "end": 13.5,
+              "word": " 3"
+            },
+            {
+              "start": 13.5,
+              "end": 13.74,
+              "word": " ya"
+            },
+            {
+              "start": 13.74,
+              "end": 14.02,
+              "word": " 4"
+            },
+            {
+              "start": 14.02,
+              "end": 14.4,
+              "word": " classes"
+            }
+          ]
+        },
+        {
+          "start": 14.4,
+          "end": 21.36,
+          "text": " alag dekhhen. Example, teen classes mein level 5 ke liye middle ya second. Level 6 se 8 ke",
+          "words": [
+            {
+              "start": 14.4,
+              "end": 14.82,
+              "word": " alag"
+            },
+            {
+              "start": 14.82,
+              "end": 15.14,
+              "word": " dekhhen."
+            },
+            {
+              "start": 15.64,
+              "end": 16.26,
+              "word": " Example,"
+            },
+            {
+              "start": 16.74,
+              "end": 16.84,
+              "word": " teen"
+            },
+            {
+              "start": 16.84,
+              "end": 17.24,
+              "word": " classes"
+            },
+            {
+              "start": 17.24,
+              "end": 17.48,
+              "word": " mein"
+            },
+            {
+              "start": 17.48,
+              "end": 17.76,
+              "word": " level"
+            },
+            {
+              "start": 17.76,
+              "end": 18.18,
+              "word": " 5"
+            },
+            {
+              "start": 18.18,
+              "end": 18.34,
+              "word": " ke"
+            },
+            {
+              "start": 18.34,
+              "end": 18.54,
+              "word": " liye"
+            },
+            {
+              "start": 18.54,
+              "end": 18.82,
+              "word": " middle"
+            },
+            {
+              "start": 18.82,
+              "end": 19.08,
+              "word": " ya"
+            },
+            {
+              "start": 19.08,
+              "end": 19.4,
+              "word": " second."
+            },
+            {
+              "start": 20.02,
+              "end": 20.34,
+              "word": " Level"
+            },
+            {
+              "start": 20.34,
+              "end": 20.7,
+              "word": " 6"
+            },
+            {
+              "start": 20.7,
+              "end": 20.86,
+              "word": " se"
+            },
+            {
+              "start": 20.86,
+              "end": 21.18,
+              "word": " 8"
+            },
+            {
+              "start": 21.18,
+              "end": 21.36,
+              "word": " ke"
+            }
+          ]
+        },
+        {
+          "start": 21.36,
+          "end": 26.92,
+          "text": " teen class case mein office se puhchhen. Mainland aur island ke beach qualifying SCI ship ka",
+          "words": [
+            {
+              "start": 21.36,
+              "end": 21.66,
+              "word": " teen"
+            },
+            {
+              "start": 21.66,
+              "end": 21.94,
+              "word": " class"
+            },
+            {
+              "start": 21.94,
+              "end": 22.2,
+              "word": " case"
+            },
+            {
+              "start": 22.2,
+              "end": 22.38,
+              "word": " mein"
+            },
+            {
+              "start": 22.38,
+              "end": 22.7,
+              "word": " office"
+            },
+            {
+              "start": 22.7,
+              "end": 22.92,
+              "word": " se"
+            },
+            {
+              "start": 22.92,
+              "end": 23.24,
+              "word": " puhchhen."
+            },
+            {
+              "start": 23.82,
+              "end": 24.46,
+              "word": " Mainland"
+            },
+            {
+              "start": 24.46,
+              "end": 24.6,
+              "word": " aur"
+            },
+            {
+              "start": 24.6,
+              "end": 24.94,
+              "word": " island"
+            },
+            {
+              "start": 24.94,
+              "end": 25.18,
+              "word": " ke"
+            },
+            {
+              "start": 25.18,
+              "end": 25.38,
+              "word": " beach"
+            },
+            {
+              "start": 25.38,
+              "end": 25.84,
+              "word": " qualifying"
+            },
+            {
+              "start": 25.84,
+              "end": 26.54,
+              "word": " SCI"
+            },
+            {
+              "start": 26.54,
+              "end": 26.76,
+              "word": " ship"
+            },
+            {
+              "start": 26.76,
+              "end": 26.92,
+              "word": " ka"
+            }
+          ]
+        },
+        {
+          "start": 26.92,
+          "end": 34.42,
+          "text": " alag table. Level 9 aur upar deluxe 6 se 8 first ya A cabin. Level 4 aur 5 second ya B cabin.",
+          "words": [
+            {
+              "start": 26.92,
+              "end": 27.24,
+              "word": " alag"
+            },
+            {
+              "start": 27.24,
+              "end": 27.5,
+              "word": " table."
+            },
+            {
+              "start": 28.08,
+              "end": 28.38,
+              "word": " Level"
+            },
+            {
+              "start": 28.38,
+              "end": 28.74,
+              "word": " 9"
+            },
+            {
+              "start": 28.74,
+              "end": 28.94,
+              "word": " aur"
+            },
+            {
+              "start": 28.94,
+              "end": 29.28,
+              "word": " upar"
+            },
+            {
+              "start": 29.28,
+              "end": 29.7,
+              "word": " deluxe"
+            },
+            {
+              "start": 29.7,
+              "end": 30.32,
+              "word": " 6"
+            },
+            {
+              "start": 30.32,
+              "end": 30.5,
+              "word": " se"
+            },
+            {
+              "start": 30.5,
+              "end": 30.76,
+              "word": " 8"
+            },
+            {
+              "start": 30.76,
+              "end": 31.08,
+              "word": " first"
+            },
+            {
+              "start": 31.08,
+              "end": 31.32,
+              "word": " ya"
+            },
+            {
+              "start": 31.32,
+              "end": 31.58,
+              "word": " A"
+            },
+            {
+              "start": 31.58,
+              "end": 31.84,
+              "word": " cabin."
+            },
+            {
+              "start": 32.3,
+              "end": 32.56,
+              "word": " Level"
+            },
+            {
+              "start": 32.56,
+              "end": 32.92,
+              "word": " 4"
+            },
+            {
+              "start": 32.92,
+              "end": 33.06,
+              "word": " aur"
+            },
+            {
+              "start": 33.06,
+              "end": 33.3,
+              "word": " 5"
+            },
+            {
+              "start": 33.3,
+              "end": 33.66,
+              "word": " second"
+            },
+            {
+              "start": 33.66,
+              "end": 33.9,
+              "word": " ya"
+            },
+            {
+              "start": 33.9,
+              "end": 34.1,
+              "word": " B"
+            },
+            {
+              "start": 34.1,
+              "end": 34.42,
+              "word": " cabin."
+            }
+          ]
+        },
+        {
+          "start": 34.74,
+          "end": 41.7,
+          "text": " 3 aur niche bunk. Example, eligible level 7 ka SCI ship par A cabin chekhoga. Har private",
+          "words": [
+            {
+              "start": 34.74,
+              "end": 35.04,
+              "word": " 3"
+            },
+            {
+              "start": 35.04,
+              "end": 35.22,
+              "word": " aur"
+            },
+            {
+              "start": 35.22,
+              "end": 35.52,
+              "word": " niche"
+            },
+            {
+              "start": 35.52,
+              "end": 35.78,
+              "word": " bunk."
+            },
+            {
+              "start": 36.44,
+              "end": 37.02,
+              "word": " Example,"
+            },
+            {
+              "start": 37.34,
+              "end": 37.64,
+              "word": " eligible"
+            },
+            {
+              "start": 37.64,
+              "end": 38.02,
+              "word": " level"
+            },
+            {
+              "start": 38.02,
+              "end": 38.4,
+              "word": " 7"
+            },
+            {
+              "start": 38.4,
+              "end": 38.6,
+              "word": " ka"
+            },
+            {
+              "start": 38.6,
+              "end": 39.1,
+              "word": " SCI"
+            },
+            {
+              "start": 39.1,
+              "end": 39.36,
+              "word": " ship"
+            },
+            {
+              "start": 39.36,
+              "end": 39.5,
+              "word": " par"
+            },
+            {
+              "start": 39.5,
+              "end": 39.74,
+              "word": " A"
+            },
+            {
+              "start": 39.74,
+              "end": 40.04,
+              "word": " cabin"
+            },
+            {
+              "start": 40.04,
+              "end": 40.52,
+              "word": " chekhoga."
+            },
+            {
+              "start": 41.18,
+              "end": 41.36,
+              "word": " Har"
+            },
+            {
+              "start": 41.36,
+              "end": 41.7,
+              "word": " private"
+            }
+          ]
+        },
+        {
+          "start": 41.7,
+          "end": 44.38,
+          "text": " feri par ye special table automatikli nahi lagain.",
+          "words": [
+            {
+              "start": 41.7,
+              "end": 42.08,
+              "word": " feri"
+            },
+            {
+              "start": 42.08,
+              "end": 42.2,
+              "word": " par"
+            },
+            {
+              "start": 42.2,
+              "end": 42.38,
+              "word": " ye"
+            },
+            {
+              "start": 42.38,
+              "end": 42.72,
+              "word": " special"
+            },
+            {
+              "start": 42.72,
+              "end": 43.04,
+              "word": " table"
+            },
+            {
+              "start": 43.04,
+              "end": 43.8,
+              "word": " automatikli"
+            },
+            {
+              "start": 43.8,
+              "end": 44.08,
+              "word": " nahi"
+            },
+            {
+              "start": 44.08,
+              "end": 44.38,
+              "word": " lagain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "08-prescribed-road-rates.mp3",
+      "audio_sha256": "6f25ce8f5d2a4924e34aa9452363278bf62b8b0d75beb5962b349af839933d62",
+      "duration": 45.44,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.38,
+          "text": " Jaha specific transport rates prescribed hai, pay level dekhain. Level 14 aur upar, public",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.64,
+              "word": " Jaha"
+            },
+            {
+              "start": 0.64,
+              "end": 1.14,
+              "word": " specific"
+            },
+            {
+              "start": 1.14,
+              "end": 1.68,
+              "word": " transport"
+            },
+            {
+              "start": 1.68,
+              "end": 2.02,
+              "word": " rates"
+            },
+            {
+              "start": 2.02,
+              "end": 2.52,
+              "word": " prescribed"
+            },
+            {
+              "start": 2.52,
+              "end": 2.84,
+              "word": " hai,"
+            },
+            {
+              "start": 3.12,
+              "end": 3.28,
+              "word": " pay"
+            },
+            {
+              "start": 3.28,
+              "end": 3.5,
+              "word": " level"
+            },
+            {
+              "start": 3.5,
+              "end": 3.92,
+              "word": " dekhain."
+            },
+            {
+              "start": 4.32,
+              "end": 4.54,
+              "word": " Level"
+            },
+            {
+              "start": 4.54,
+              "end": 5.06,
+              "word": " 14"
+            },
+            {
+              "start": 5.06,
+              "end": 5.44,
+              "word": " aur"
+            },
+            {
+              "start": 5.44,
+              "end": 5.98,
+              "word": " upar,"
+            },
+            {
+              "start": 6.16,
+              "end": 6.38,
+              "word": " public"
+            }
+          ]
+        },
+        {
+          "start": 6.38,
+          "end": 13.02,
+          "text": " AC bus bhi lehsakte hai. AC taxi actually use ho, to prescribed AC taxi rate dekhain. Listed",
+          "words": [
+            {
+              "start": 6.38,
+              "end": 6.82,
+              "word": " AC"
+            },
+            {
+              "start": 6.82,
+              "end": 7.1,
+              "word": " bus"
+            },
+            {
+              "start": 7.1,
+              "end": 7.3,
+              "word": " bhi"
+            },
+            {
+              "start": 7.3,
+              "end": 7.72,
+              "word": " lehsakte"
+            },
+            {
+              "start": 7.72,
+              "end": 7.84,
+              "word": " hai."
+            },
+            {
+              "start": 8.24,
+              "end": 8.64,
+              "word": " AC"
+            },
+            {
+              "start": 8.64,
+              "end": 8.94,
+              "word": " taxi"
+            },
+            {
+              "start": 8.94,
+              "end": 9.42,
+              "word": " actually"
+            },
+            {
+              "start": 9.42,
+              "end": 9.84,
+              "word": " use"
+            },
+            {
+              "start": 9.84,
+              "end": 10.0,
+              "word": " ho,"
+            },
+            {
+              "start": 10.28,
+              "end": 10.34,
+              "word": " to"
+            },
+            {
+              "start": 10.34,
+              "end": 10.68,
+              "word": " prescribed"
+            },
+            {
+              "start": 10.68,
+              "end": 11.18,
+              "word": " AC"
+            },
+            {
+              "start": 11.18,
+              "end": 11.52,
+              "word": " taxi"
+            },
+            {
+              "start": 11.52,
+              "end": 11.8,
+              "word": " rate"
+            },
+            {
+              "start": 11.8,
+              "end": 12.14,
+              "word": " dekhain."
+            },
+            {
+              "start": 12.58,
+              "end": 13.02,
+              "word": " Listed"
+            }
+          ]
+        },
+        {
+          "start": 13.02,
+          "end": 18.74,
+          "text": " modes par prescribed auto rate wala option bhi hai. Example, level 14 AC taxi use kare",
+          "words": [
+            {
+              "start": 13.02,
+              "end": 13.24,
+              "word": " modes"
+            },
+            {
+              "start": 13.24,
+              "end": 13.46,
+              "word": " par"
+            },
+            {
+              "start": 13.46,
+              "end": 13.82,
+              "word": " prescribed"
+            },
+            {
+              "start": 13.82,
+              "end": 14.38,
+              "word": " auto"
+            },
+            {
+              "start": 14.38,
+              "end": 14.6,
+              "word": " rate"
+            },
+            {
+              "start": 14.6,
+              "end": 14.8,
+              "word": " wala"
+            },
+            {
+              "start": 14.8,
+              "end": 15.06,
+              "word": " option"
+            },
+            {
+              "start": 15.06,
+              "end": 15.36,
+              "word": " bhi"
+            },
+            {
+              "start": 15.36,
+              "end": 15.46,
+              "word": " hai."
+            },
+            {
+              "start": 15.92,
+              "end": 16.48,
+              "word": " Example,"
+            },
+            {
+              "start": 16.82,
+              "end": 17.0,
+              "word": " level"
+            },
+            {
+              "start": 17.0,
+              "end": 17.46,
+              "word": " 14"
+            },
+            {
+              "start": 17.46,
+              "end": 17.84,
+              "word": " AC"
+            },
+            {
+              "start": 17.84,
+              "end": 18.24,
+              "word": " taxi"
+            },
+            {
+              "start": 18.24,
+              "end": 18.52,
+              "word": " use"
+            },
+            {
+              "start": 18.52,
+              "end": 18.74,
+              "word": " kare"
+            }
+          ]
+        },
+        {
+          "start": 18.74,
+          "end": 24.48,
+          "text": " to relevant rate check hoga. Level 6 to 13 ke liye AC taxi permissible nehi hai. Level",
+          "words": [
+            {
+              "start": 18.74,
+              "end": 18.98,
+              "word": " to"
+            },
+            {
+              "start": 18.98,
+              "end": 19.32,
+              "word": " relevant"
+            },
+            {
+              "start": 19.32,
+              "end": 19.64,
+              "word": " rate"
+            },
+            {
+              "start": 19.64,
+              "end": 19.9,
+              "word": " check"
+            },
+            {
+              "start": 19.9,
+              "end": 20.14,
+              "word": " hoga."
+            },
+            {
+              "start": 20.6,
+              "end": 20.86,
+              "word": " Level"
+            },
+            {
+              "start": 20.86,
+              "end": 21.2,
+              "word": " 6"
+            },
+            {
+              "start": 21.2,
+              "end": 21.2,
+              "word": " to"
+            },
+            {
+              "start": 21.2,
+              "end": 21.8,
+              "word": " 13"
+            },
+            {
+              "start": 21.8,
+              "end": 21.98,
+              "word": " ke"
+            },
+            {
+              "start": 21.98,
+              "end": 22.2,
+              "word": " liye"
+            },
+            {
+              "start": 22.2,
+              "end": 22.52,
+              "word": " AC"
+            },
+            {
+              "start": 22.52,
+              "end": 22.84,
+              "word": " taxi"
+            },
+            {
+              "start": 22.84,
+              "end": 23.32,
+              "word": " permissible"
+            },
+            {
+              "start": 23.32,
+              "end": 23.68,
+              "word": " nehi"
+            },
+            {
+              "start": 23.68,
+              "end": 23.8,
+              "word": " hai."
+            },
+            {
+              "start": 24.22,
+              "end": 24.48,
+              "word": " Level"
+            }
+          ]
+        },
+        {
+          "start": 24.48,
+          "end": 30.56,
+          "text": " 4 aur 5 ke liye public bus, likin AC bus nehi. Level 3 aur niche ordinary public bus wali",
+          "words": [
+            {
+              "start": 24.48,
+              "end": 24.82,
+              "word": " 4"
+            },
+            {
+              "start": 24.82,
+              "end": 25.08,
+              "word": " aur"
+            },
+            {
+              "start": 25.08,
+              "end": 25.4,
+              "word": " 5"
+            },
+            {
+              "start": 25.4,
+              "end": 25.56,
+              "word": " ke"
+            },
+            {
+              "start": 25.56,
+              "end": 25.8,
+              "word": " liye"
+            },
+            {
+              "start": 25.8,
+              "end": 26.04,
+              "word": " public"
+            },
+            {
+              "start": 26.04,
+              "end": 26.4,
+              "word": " bus,"
+            },
+            {
+              "start": 26.6,
+              "end": 26.86,
+              "word": " likin"
+            },
+            {
+              "start": 26.86,
+              "end": 27.14,
+              "word": " AC"
+            },
+            {
+              "start": 27.14,
+              "end": 27.44,
+              "word": " bus"
+            },
+            {
+              "start": 27.44,
+              "end": 27.68,
+              "word": " nehi."
+            },
+            {
+              "start": 28.14,
+              "end": 28.36,
+              "word": " Level"
+            },
+            {
+              "start": 28.36,
+              "end": 28.74,
+              "word": " 3"
+            },
+            {
+              "start": 28.74,
+              "end": 28.92,
+              "word": " aur"
+            },
+            {
+              "start": 28.92,
+              "end": 29.14,
+              "word": " niche"
+            },
+            {
+              "start": 29.14,
+              "end": 29.56,
+              "word": " ordinary"
+            },
+            {
+              "start": 29.56,
+              "end": 30.08,
+              "word": " public"
+            },
+            {
+              "start": 30.08,
+              "end": 30.32,
+              "word": " bus"
+            },
+            {
+              "start": 30.32,
+              "end": 30.56,
+              "word": " wali"
+            }
+          ]
+        },
+        {
+          "start": 30.56,
+          "end": 36.86,
+          "text": " ro hai. Listed auto ya own scooter jaisi modes par auto rate dekhain. Example, level 3 ordinary",
+          "words": [
+            {
+              "start": 30.56,
+              "end": 30.72,
+              "word": " ro"
+            },
+            {
+              "start": 30.72,
+              "end": 30.9,
+              "word": " hai."
+            },
+            {
+              "start": 31.28,
+              "end": 31.76,
+              "word": " Listed"
+            },
+            {
+              "start": 31.76,
+              "end": 32.14,
+              "word": " auto"
+            },
+            {
+              "start": 32.14,
+              "end": 32.34,
+              "word": " ya"
+            },
+            {
+              "start": 32.34,
+              "end": 32.64,
+              "word": " own"
+            },
+            {
+              "start": 32.64,
+              "end": 32.96,
+              "word": " scooter"
+            },
+            {
+              "start": 32.96,
+              "end": 33.34,
+              "word": " jaisi"
+            },
+            {
+              "start": 33.34,
+              "end": 33.58,
+              "word": " modes"
+            },
+            {
+              "start": 33.58,
+              "end": 33.78,
+              "word": " par"
+            },
+            {
+              "start": 33.78,
+              "end": 34.12,
+              "word": " auto"
+            },
+            {
+              "start": 34.12,
+              "end": 34.38,
+              "word": " rate"
+            },
+            {
+              "start": 34.38,
+              "end": 34.72,
+              "word": " dekhain."
+            },
+            {
+              "start": 35.16,
+              "end": 35.68,
+              "word": " Example,"
+            },
+            {
+              "start": 35.92,
+              "end": 36.14,
+              "word": " level"
+            },
+            {
+              "start": 36.14,
+              "end": 36.46,
+              "word": " 3"
+            },
+            {
+              "start": 36.46,
+              "end": 36.86,
+              "word": " ordinary"
+            }
+          ]
+        },
+        {
+          "start": 36.86,
+          "end": 42.58,
+          "text": " bus ka actual fare check kareega. Us lower ro mein own car expressly listed nehi hai. Rout,",
+          "words": [
+            {
+              "start": 36.86,
+              "end": 37.22,
+              "word": " bus"
+            },
+            {
+              "start": 37.22,
+              "end": 37.34,
+              "word": " ka"
+            },
+            {
+              "start": 37.34,
+              "end": 37.7,
+              "word": " actual"
+            },
+            {
+              "start": 37.7,
+              "end": 37.96,
+              "word": " fare"
+            },
+            {
+              "start": 37.96,
+              "end": 38.2,
+              "word": " check"
+            },
+            {
+              "start": 38.2,
+              "end": 38.54,
+              "word": " kareega."
+            },
+            {
+              "start": 39.04,
+              "end": 39.18,
+              "word": " Us"
+            },
+            {
+              "start": 39.18,
+              "end": 39.54,
+              "word": " lower"
+            },
+            {
+              "start": 39.54,
+              "end": 39.76,
+              "word": " ro"
+            },
+            {
+              "start": 39.76,
+              "end": 39.88,
+              "word": " mein"
+            },
+            {
+              "start": 39.88,
+              "end": 40.18,
+              "word": " own"
+            },
+            {
+              "start": 40.18,
+              "end": 40.42,
+              "word": " car"
+            },
+            {
+              "start": 40.42,
+              "end": 41.06,
+              "word": " expressly"
+            },
+            {
+              "start": 41.06,
+              "end": 41.34,
+              "word": " listed"
+            },
+            {
+              "start": 41.34,
+              "end": 41.68,
+              "word": " nehi"
+            },
+            {
+              "start": 41.68,
+              "end": 41.8,
+              "word": " hai."
+            },
+            {
+              "start": 42.2,
+              "end": 42.58,
+              "word": " Rout,"
+            }
+          ]
+        },
+        {
+          "start": 42.8,
+          "end": 45.1,
+          "text": " sanction aur proof ke baaki checks bhi zaruri hai.",
+          "words": [
+            {
+              "start": 42.8,
+              "end": 43.1,
+              "word": " sanction"
+            },
+            {
+              "start": 43.1,
+              "end": 43.44,
+              "word": " aur"
+            },
+            {
+              "start": 43.44,
+              "end": 43.7,
+              "word": " proof"
+            },
+            {
+              "start": 43.7,
+              "end": 43.88,
+              "word": " ke"
+            },
+            {
+              "start": 43.88,
+              "end": 44.22,
+              "word": " baaki"
+            },
+            {
+              "start": 44.22,
+              "end": 44.44,
+              "word": " checks"
+            },
+            {
+              "start": 44.44,
+              "end": 44.64,
+              "word": " bhi"
+            },
+            {
+              "start": 44.64,
+              "end": 44.94,
+              "word": " zaruri"
+            },
+            {
+              "start": 44.94,
+              "end": 45.1,
+              "word": " hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-fallback-and-rail.mp3",
+      "audio_sha256": "3c33f0778235455eaf43ab0ab3dcd5112f3e7bd79209c0c24f1437312bfc9744",
+      "duration": 48.0,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.62,
+          "text": " State aur neighbouring state dono ki specific rate na ho, fallback dikhe.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.66,
+              "word": " State"
+            },
+            {
+              "start": 0.66,
+              "end": 0.9,
+              "word": " aur"
+            },
+            {
+              "start": 0.9,
+              "end": 1.4,
+              "word": " neighbouring"
+            },
+            {
+              "start": 1.4,
+              "end": 1.64,
+              "word": " state"
+            },
+            {
+              "start": 1.64,
+              "end": 2.08,
+              "word": " dono"
+            },
+            {
+              "start": 2.08,
+              "end": 2.22,
+              "word": " ki"
+            },
+            {
+              "start": 2.22,
+              "end": 2.52,
+              "word": " specific"
+            },
+            {
+              "start": 2.52,
+              "end": 2.96,
+              "word": " rate"
+            },
+            {
+              "start": 2.96,
+              "end": 3.24,
+              "word": " na"
+            },
+            {
+              "start": 3.24,
+              "end": 3.46,
+              "word": " ho,"
+            },
+            {
+              "start": 3.74,
+              "end": 4.24,
+              "word": " fallback"
+            },
+            {
+              "start": 4.24,
+              "end": 4.62,
+              "word": " dikhe."
+            }
+          ]
+        },
+        {
+          "start": 5.22,
+          "end": 12.28,
+          "text": " 2017 base, onkarya taxi ke liye 24 rupees per kilometre, auto ya on scooter ke liye 12 rupees",
+          "words": [
+            {
+              "start": 5.22,
+              "end": 5.88,
+              "word": " 2017"
+            },
+            {
+              "start": 5.88,
+              "end": 6.5,
+              "word": " base,"
+            },
+            {
+              "start": 6.94,
+              "end": 7.54,
+              "word": " onkarya"
+            },
+            {
+              "start": 7.54,
+              "end": 7.92,
+              "word": " taxi"
+            },
+            {
+              "start": 7.92,
+              "end": 8.18,
+              "word": " ke"
+            },
+            {
+              "start": 8.18,
+              "end": 8.36,
+              "word": " liye"
+            },
+            {
+              "start": 8.36,
+              "end": 8.82,
+              "word": " 24"
+            },
+            {
+              "start": 8.82,
+              "end": 9.14,
+              "word": " rupees"
+            },
+            {
+              "start": 9.14,
+              "end": 9.38,
+              "word": " per"
+            },
+            {
+              "start": 9.38,
+              "end": 9.92,
+              "word": " kilometre,"
+            },
+            {
+              "start": 10.4,
+              "end": 10.64,
+              "word": " auto"
+            },
+            {
+              "start": 10.64,
+              "end": 10.82,
+              "word": " ya"
+            },
+            {
+              "start": 10.82,
+              "end": 11.08,
+              "word": " on"
+            },
+            {
+              "start": 11.08,
+              "end": 11.4,
+              "word": " scooter"
+            },
+            {
+              "start": 11.4,
+              "end": 11.64,
+              "word": " ke"
+            },
+            {
+              "start": 11.64,
+              "end": 11.82,
+              "word": " liye"
+            },
+            {
+              "start": 11.82,
+              "end": 12.04,
+              "word": " 12"
+            },
+            {
+              "start": 12.04,
+              "end": 12.28,
+              "word": " rupees"
+            }
+          ]
+        },
+        {
+          "start": 12.28,
+          "end": 19.84,
+          "text": " per kilometre. Peheli 25% increase se 30 aur 15 bante hai. Example, eligible auto me 20",
+          "words": [
+            {
+              "start": 12.28,
+              "end": 12.6,
+              "word": " per"
+            },
+            {
+              "start": 12.6,
+              "end": 13.16,
+              "word": " kilometre."
+            },
+            {
+              "start": 13.7,
+              "end": 13.94,
+              "word": " Peheli"
+            },
+            {
+              "start": 13.94,
+              "end": 14.46,
+              "word": " 25"
+            },
+            {
+              "start": 14.46,
+              "end": 14.76,
+              "word": "%"
+            },
+            {
+              "start": 14.76,
+              "end": 15.24,
+              "word": " increase"
+            },
+            {
+              "start": 15.24,
+              "end": 15.48,
+              "word": " se"
+            },
+            {
+              "start": 15.48,
+              "end": 15.92,
+              "word": " 30"
+            },
+            {
+              "start": 15.92,
+              "end": 16.22,
+              "word": " aur"
+            },
+            {
+              "start": 16.22,
+              "end": 16.56,
+              "word": " 15"
+            },
+            {
+              "start": 16.56,
+              "end": 16.94,
+              "word": " bante"
+            },
+            {
+              "start": 16.94,
+              "end": 17.12,
+              "word": " hai."
+            },
+            {
+              "start": 17.62,
+              "end": 18.24,
+              "word": " Example,"
+            },
+            {
+              "start": 18.62,
+              "end": 18.86,
+              "word": " eligible"
+            },
+            {
+              "start": 18.86,
+              "end": 19.26,
+              "word": " auto"
+            },
+            {
+              "start": 19.26,
+              "end": 19.44,
+              "word": " me"
+            },
+            {
+              "start": 19.44,
+              "end": 19.84,
+              "word": " 20"
+            }
+          ]
+        },
+        {
+          "start": 19.84,
+          "end": 25.88,
+          "text": " kilometres ka result 300. Ye result sanction, actual journey aur mode eligibility ki subject",
+          "words": [
+            {
+              "start": 19.84,
+              "end": 20.42,
+              "word": " kilometres"
+            },
+            {
+              "start": 20.42,
+              "end": 20.54,
+              "word": " ka"
+            },
+            {
+              "start": 20.54,
+              "end": 20.78,
+              "word": " result"
+            },
+            {
+              "start": 20.78,
+              "end": 21.46,
+              "word": " 300."
+            },
+            {
+              "start": 22.06,
+              "end": 22.2,
+              "word": " Ye"
+            },
+            {
+              "start": 22.2,
+              "end": 22.52,
+              "word": " result"
+            },
+            {
+              "start": 22.52,
+              "end": 22.96,
+              "word": " sanction,"
+            },
+            {
+              "start": 23.42,
+              "end": 23.72,
+              "word": " actual"
+            },
+            {
+              "start": 23.72,
+              "end": 24.16,
+              "word": " journey"
+            },
+            {
+              "start": 24.16,
+              "end": 24.58,
+              "word": " aur"
+            },
+            {
+              "start": 24.58,
+              "end": 24.84,
+              "word": " mode"
+            },
+            {
+              "start": 24.84,
+              "end": 25.22,
+              "word": " eligibility"
+            },
+            {
+              "start": 25.22,
+              "end": 25.58,
+              "word": " ki"
+            },
+            {
+              "start": 25.58,
+              "end": 25.88,
+              "word": " subject"
+            }
+          ]
+        },
+        {
+          "start": 25.88,
+          "end": 32.96,
+          "text": " hai. Jaha reel nahi hai, eligible EC2 aur uparwalon ke liye EC bus, baaki ke liye deluxe ya ordinary",
+          "words": [
+            {
+              "start": 25.88,
+              "end": 26.08,
+              "word": " hai."
+            },
+            {
+              "start": 26.54,
+              "end": 26.94,
+              "word": " Jaha"
+            },
+            {
+              "start": 26.94,
+              "end": 27.2,
+              "word": " reel"
+            },
+            {
+              "start": 27.2,
+              "end": 27.56,
+              "word": " nahi"
+            },
+            {
+              "start": 27.56,
+              "end": 27.68,
+              "word": " hai,"
+            },
+            {
+              "start": 28.0,
+              "end": 28.32,
+              "word": " eligible"
+            },
+            {
+              "start": 28.32,
+              "end": 29.16,
+              "word": " EC2"
+            },
+            {
+              "start": 29.16,
+              "end": 29.4,
+              "word": " aur"
+            },
+            {
+              "start": 29.4,
+              "end": 30.04,
+              "word": " uparwalon"
+            },
+            {
+              "start": 30.04,
+              "end": 30.14,
+              "word": " ke"
+            },
+            {
+              "start": 30.14,
+              "end": 30.36,
+              "word": " liye"
+            },
+            {
+              "start": 30.36,
+              "end": 30.64,
+              "word": " EC"
+            },
+            {
+              "start": 30.64,
+              "end": 30.9,
+              "word": " bus,"
+            },
+            {
+              "start": 31.46,
+              "end": 31.72,
+              "word": " baaki"
+            },
+            {
+              "start": 31.72,
+              "end": 31.86,
+              "word": " ke"
+            },
+            {
+              "start": 31.86,
+              "end": 32.06,
+              "word": " liye"
+            },
+            {
+              "start": 32.06,
+              "end": 32.48,
+              "word": " deluxe"
+            },
+            {
+              "start": 32.48,
+              "end": 32.62,
+              "word": " ya"
+            },
+            {
+              "start": 32.62,
+              "end": 32.96,
+              "word": " ordinary"
+            }
+          ]
+        },
+        {
+          "start": 32.96,
+          "end": 37.9,
+          "text": " bus ka rule dikhe. Reel connected route peh public transport ka fare train class se capped",
+          "words": [
+            {
+              "start": 32.96,
+              "end": 33.32,
+              "word": " bus"
+            },
+            {
+              "start": 33.32,
+              "end": 33.46,
+              "word": " ka"
+            },
+            {
+              "start": 33.46,
+              "end": 33.62,
+              "word": " rule"
+            },
+            {
+              "start": 33.62,
+              "end": 33.96,
+              "word": " dikhe."
+            },
+            {
+              "start": 34.4,
+              "end": 34.82,
+              "word": " Reel"
+            },
+            {
+              "start": 34.82,
+              "end": 35.1,
+              "word": " connected"
+            },
+            {
+              "start": 35.1,
+              "end": 35.44,
+              "word": " route"
+            },
+            {
+              "start": 35.44,
+              "end": 35.72,
+              "word": " peh"
+            },
+            {
+              "start": 35.72,
+              "end": 35.94,
+              "word": " public"
+            },
+            {
+              "start": 35.94,
+              "end": 36.42,
+              "word": " transport"
+            },
+            {
+              "start": 36.42,
+              "end": 36.62,
+              "word": " ka"
+            },
+            {
+              "start": 36.62,
+              "end": 36.82,
+              "word": " fare"
+            },
+            {
+              "start": 36.82,
+              "end": 37.16,
+              "word": " train"
+            },
+            {
+              "start": 37.16,
+              "end": 37.44,
+              "word": " class"
+            },
+            {
+              "start": 37.44,
+              "end": 37.6,
+              "word": " se"
+            },
+            {
+              "start": 37.6,
+              "end": 37.9,
+              "word": " capped"
+            }
+          ]
+        },
+        {
+          "start": 37.9,
+          "end": 44.6,
+          "text": " hai. Example, bus 400, entitled train 500. Is public fare example me cap cross nahi hua.",
+          "words": [
+            {
+              "start": 37.9,
+              "end": 38.02,
+              "word": " hai."
+            },
+            {
+              "start": 38.44,
+              "end": 38.96,
+              "word": " Example,"
+            },
+            {
+              "start": 39.28,
+              "end": 39.42,
+              "word": " bus"
+            },
+            {
+              "start": 39.42,
+              "end": 39.96,
+              "word": " 400,"
+            },
+            {
+              "start": 40.34,
+              "end": 40.66,
+              "word": " entitled"
+            },
+            {
+              "start": 40.66,
+              "end": 41.08,
+              "word": " train"
+            },
+            {
+              "start": 41.08,
+              "end": 41.64,
+              "word": " 500."
+            },
+            {
+              "start": 42.3,
+              "end": 42.38,
+              "word": " Is"
+            },
+            {
+              "start": 42.38,
+              "end": 42.72,
+              "word": " public"
+            },
+            {
+              "start": 42.72,
+              "end": 42.96,
+              "word": " fare"
+            },
+            {
+              "start": 42.96,
+              "end": 43.32,
+              "word": " example"
+            },
+            {
+              "start": 43.32,
+              "end": 43.5,
+              "word": " me"
+            },
+            {
+              "start": 43.5,
+              "end": 43.78,
+              "word": " cap"
+            },
+            {
+              "start": 43.78,
+              "end": 44.08,
+              "word": " cross"
+            },
+            {
+              "start": 44.08,
+              "end": 44.38,
+              "word": " nahi"
+            },
+            {
+              "start": 44.38,
+              "end": 44.6,
+              "word": " hua."
+            }
+          ]
+        },
+        {
+          "start": 44.98,
+          "end": 47.64,
+          "text": " Private vehicle claims peh rahi clause automatic mat lagain.",
+          "words": [
+            {
+              "start": 44.98,
+              "end": 45.28,
+              "word": " Private"
+            },
+            {
+              "start": 45.28,
+              "end": 45.58,
+              "word": " vehicle"
+            },
+            {
+              "start": 45.58,
+              "end": 45.94,
+              "word": " claims"
+            },
+            {
+              "start": 45.94,
+              "end": 46.2,
+              "word": " peh"
+            },
+            {
+              "start": 46.2,
+              "end": 46.44,
+              "word": " rahi"
+            },
+            {
+              "start": 46.44,
+              "end": 46.62,
+              "word": " clause"
+            },
+            {
+              "start": 46.62,
+              "end": 47.12,
+              "word": " automatic"
+            },
+            {
+              "start": 47.12,
+              "end": 47.36,
+              "word": " mat"
+            },
+            {
+              "start": 47.36,
+              "end": 47.64,
+              "word": " lagain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "10-effects-and-field.mp3",
+      "audio_sha256": "10071831bbeab55eaf4efdee7655e15e90d6b4c391a7f0a2eb4ffc270ca367f2",
+      "duration": 48.96,
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 6.1,
+          "text": " Road per employee ki journey aur transfer effects alak components hai. Level 6 aur upper effects",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.58,
+              "word": " Road"
+            },
+            {
+              "start": 0.58,
+              "end": 0.82,
+              "word": " per"
+            },
+            {
+              "start": 0.82,
+              "end": 1.34,
+              "word": " employee"
+            },
+            {
+              "start": 1.34,
+              "end": 1.56,
+              "word": " ki"
+            },
+            {
+              "start": 1.56,
+              "end": 1.9,
+              "word": " journey"
+            },
+            {
+              "start": 1.9,
+              "end": 2.16,
+              "word": " aur"
+            },
+            {
+              "start": 2.16,
+              "end": 2.6,
+              "word": " transfer"
+            },
+            {
+              "start": 2.6,
+              "end": 3.02,
+              "word": " effects"
+            },
+            {
+              "start": 3.02,
+              "end": 3.44,
+              "word": " alak"
+            },
+            {
+              "start": 3.44,
+              "end": 3.84,
+              "word": " components"
+            },
+            {
+              "start": 3.84,
+              "end": 4.16,
+              "word": " hai."
+            },
+            {
+              "start": 4.6,
+              "end": 4.88,
+              "word": " Level"
+            },
+            {
+              "start": 4.88,
+              "end": 5.24,
+              "word": " 6"
+            },
+            {
+              "start": 5.24,
+              "end": 5.46,
+              "word": " aur"
+            },
+            {
+              "start": 5.46,
+              "end": 5.74,
+              "word": " upper"
+            },
+            {
+              "start": 5.74,
+              "end": 6.1,
+              "word": " effects"
+            }
+          ]
+        },
+        {
+          "start": 6.1,
+          "end": 13.9,
+          "text": " ka base Rs. 50 per kilometre tha. Pehli increase ke baat, calculation 62.50 hai. Example, 50",
+          "words": [
+            {
+              "start": 6.1,
+              "end": 6.3,
+              "word": " ka"
+            },
+            {
+              "start": 6.3,
+              "end": 6.52,
+              "word": " base"
+            },
+            {
+              "start": 6.52,
+              "end": 6.7,
+              "word": " Rs."
+            },
+            {
+              "start": 7.0,
+              "end": 7.0,
+              "word": " 50"
+            },
+            {
+              "start": 7.0,
+              "end": 7.46,
+              "word": " per"
+            },
+            {
+              "start": 7.46,
+              "end": 7.98,
+              "word": " kilometre"
+            },
+            {
+              "start": 7.98,
+              "end": 8.14,
+              "word": " tha."
+            },
+            {
+              "start": 8.72,
+              "end": 9.02,
+              "word": " Pehli"
+            },
+            {
+              "start": 9.02,
+              "end": 9.34,
+              "word": " increase"
+            },
+            {
+              "start": 9.34,
+              "end": 9.64,
+              "word": " ke"
+            },
+            {
+              "start": 9.64,
+              "end": 9.9,
+              "word": " baat,"
+            },
+            {
+              "start": 10.0,
+              "end": 10.26,
+              "word": " calculation"
+            },
+            {
+              "start": 10.26,
+              "end": 11.06,
+              "word": " 62"
+            },
+            {
+              "start": 11.06,
+              "end": 11.88,
+              "word": ".50"
+            },
+            {
+              "start": 11.88,
+              "end": 12.18,
+              "word": " hai."
+            },
+            {
+              "start": 12.68,
+              "end": 13.24,
+              "word": " Example,"
+            },
+            {
+              "start": 13.58,
+              "end": 13.9,
+              "word": " 50"
+            }
+          ]
+        },
+        {
+          "start": 13.9,
+          "end": 21.02,
+          "text": " kilometres ka ceiling calculation dekhe. Result hai, Rs. 3125. Actual transport, receipt",
+          "words": [
+            {
+              "start": 13.9,
+              "end": 14.52,
+              "word": " kilometres"
+            },
+            {
+              "start": 14.52,
+              "end": 14.62,
+              "word": " ka"
+            },
+            {
+              "start": 14.62,
+              "end": 14.9,
+              "word": " ceiling"
+            },
+            {
+              "start": 14.9,
+              "end": 15.38,
+              "word": " calculation"
+            },
+            {
+              "start": 15.38,
+              "end": 15.94,
+              "word": " dekhe."
+            },
+            {
+              "start": 16.32,
+              "end": 16.7,
+              "word": " Result"
+            },
+            {
+              "start": 16.7,
+              "end": 16.86,
+              "word": " hai,"
+            },
+            {
+              "start": 17.04,
+              "end": 17.1,
+              "word": " Rs."
+            },
+            {
+              "start": 17.42,
+              "end": 18.12,
+              "word": " 3125."
+            },
+            {
+              "start": 19.24,
+              "end": 19.94,
+              "word": " Actual"
+            },
+            {
+              "start": 19.94,
+              "end": 20.36,
+              "word": " transport,"
+            },
+            {
+              "start": 20.7,
+              "end": 21.02,
+              "word": " receipt"
+            }
+          ]
+        },
+        {
+          "start": 21.02,
+          "end": 26.18,
+          "text": " aur applicable exception alak chek karen. Ye calculated ceiling apnea payment nahi hai.",
+          "words": [
+            {
+              "start": 21.02,
+              "end": 21.32,
+              "word": " aur"
+            },
+            {
+              "start": 21.32,
+              "end": 21.68,
+              "word": " applicable"
+            },
+            {
+              "start": 21.68,
+              "end": 22.28,
+              "word": " exception"
+            },
+            {
+              "start": 22.28,
+              "end": 22.74,
+              "word": " alak"
+            },
+            {
+              "start": 22.74,
+              "end": 22.96,
+              "word": " chek"
+            },
+            {
+              "start": 22.96,
+              "end": 23.14,
+              "word": " karen."
+            },
+            {
+              "start": 23.68,
+              "end": 23.86,
+              "word": " Ye"
+            },
+            {
+              "start": 23.86,
+              "end": 24.34,
+              "word": " calculated"
+            },
+            {
+              "start": 24.34,
+              "end": 24.78,
+              "word": " ceiling"
+            },
+            {
+              "start": 24.78,
+              "end": 25.28,
+              "word": " apnea"
+            },
+            {
+              "start": 25.28,
+              "end": 25.66,
+              "word": " payment"
+            },
+            {
+              "start": 25.66,
+              "end": 26.06,
+              "word": " nahi"
+            },
+            {
+              "start": 26.06,
+              "end": 26.18,
+              "word": " hai."
+            }
+          ]
+        },
+        {
+          "start": 26.18,
+          "end": 31.48,
+          "text": " Government Boats aur remote scientific fieldwork ka special rule hai. Qualifying case mein",
+          "words": [
+            {
+              "start": 26.18,
+              "end": 27.04,
+              "word": " Government"
+            },
+            {
+              "start": 27.04,
+              "end": 27.6,
+              "word": " Boats"
+            },
+            {
+              "start": 27.6,
+              "end": 27.76,
+              "word": " aur"
+            },
+            {
+              "start": 27.76,
+              "end": 28.04,
+              "word": " remote"
+            },
+            {
+              "start": 28.04,
+              "end": 28.46,
+              "word": " scientific"
+            },
+            {
+              "start": 28.46,
+              "end": 29.12,
+              "word": " fieldwork"
+            },
+            {
+              "start": 29.12,
+              "end": 29.24,
+              "word": " ka"
+            },
+            {
+              "start": 29.24,
+              "end": 29.52,
+              "word": " special"
+            },
+            {
+              "start": 29.52,
+              "end": 29.86,
+              "word": " rule"
+            },
+            {
+              "start": 29.86,
+              "end": 30.02,
+              "word": " hai."
+            },
+            {
+              "start": 30.52,
+              "end": 31.02,
+              "word": " Qualifying"
+            },
+            {
+              "start": 31.02,
+              "end": 31.28,
+              "word": " case"
+            },
+            {
+              "start": 31.28,
+              "end": 31.48,
+              "word": " mein"
+            }
+          ]
+        },
+        {
+          "start": 31.48,
+          "end": 36.22,
+          "text": " daily allowance food rate ke baarabar hosakta hai. Head ya controlling officer ki approval",
+          "words": [
+            {
+              "start": 31.48,
+              "end": 31.74,
+              "word": " daily"
+            },
+            {
+              "start": 31.74,
+              "end": 32.16,
+              "word": " allowance"
+            },
+            {
+              "start": 32.16,
+              "end": 32.52,
+              "word": " food"
+            },
+            {
+              "start": 32.52,
+              "end": 32.78,
+              "word": " rate"
+            },
+            {
+              "start": 32.78,
+              "end": 32.92,
+              "word": " ke"
+            },
+            {
+              "start": 32.92,
+              "end": 33.3,
+              "word": " baarabar"
+            },
+            {
+              "start": 33.3,
+              "end": 33.7,
+              "word": " hosakta"
+            },
+            {
+              "start": 33.7,
+              "end": 33.86,
+              "word": " hai."
+            },
+            {
+              "start": 34.3,
+              "end": 34.66,
+              "word": " Head"
+            },
+            {
+              "start": 34.66,
+              "end": 34.84,
+              "word": " ya"
+            },
+            {
+              "start": 34.84,
+              "end": 35.22,
+              "word": " controlling"
+            },
+            {
+              "start": 35.22,
+              "end": 35.7,
+              "word": " officer"
+            },
+            {
+              "start": 35.7,
+              "end": 35.88,
+              "word": " ki"
+            },
+            {
+              "start": 35.88,
+              "end": 36.22,
+              "word": " approval"
+            }
+          ]
+        },
+        {
+          "start": 36.22,
+          "end": 41.46,
+          "text": " aur conditions chek karen. Example, approved survey ka government boat journey alag assess",
+          "words": [
+            {
+              "start": 36.22,
+              "end": 36.56,
+              "word": " aur"
+            },
+            {
+              "start": 36.56,
+              "end": 36.9,
+              "word": " conditions"
+            },
+            {
+              "start": 36.9,
+              "end": 37.34,
+              "word": " chek"
+            },
+            {
+              "start": 37.34,
+              "end": 37.52,
+              "word": " karen."
+            },
+            {
+              "start": 38.08,
+              "end": 38.66,
+              "word": " Example,"
+            },
+            {
+              "start": 38.96,
+              "end": 39.28,
+              "word": " approved"
+            },
+            {
+              "start": 39.28,
+              "end": 39.7,
+              "word": " survey"
+            },
+            {
+              "start": 39.7,
+              "end": 39.86,
+              "word": " ka"
+            },
+            {
+              "start": 39.86,
+              "end": 40.18,
+              "word": " government"
+            },
+            {
+              "start": 40.18,
+              "end": 40.54,
+              "word": " boat"
+            },
+            {
+              "start": 40.54,
+              "end": 40.86,
+              "word": " journey"
+            },
+            {
+              "start": 40.86,
+              "end": 41.26,
+              "word": " alag"
+            },
+            {
+              "start": 41.26,
+              "end": 41.46,
+              "word": " assess"
+            }
+          ]
+        },
+        {
+          "start": 41.46,
+          "end": 46.8,
+          "text": " hoga. Foot mileage aur uski index trade bhi alak chek hai. Detailed sources aur pending",
+          "words": [
+            {
+              "start": 41.46,
+              "end": 41.74,
+              "word": " hoga."
+            },
+            {
+              "start": 42.22,
+              "end": 42.48,
+              "word": " Foot"
+            },
+            {
+              "start": 42.48,
+              "end": 42.84,
+              "word": " mileage"
+            },
+            {
+              "start": 42.84,
+              "end": 43.14,
+              "word": " aur"
+            },
+            {
+              "start": 43.14,
+              "end": 43.4,
+              "word": " uski"
+            },
+            {
+              "start": 43.4,
+              "end": 43.74,
+              "word": " index"
+            },
+            {
+              "start": 43.74,
+              "end": 44.06,
+              "word": " trade"
+            },
+            {
+              "start": 44.06,
+              "end": 44.28,
+              "word": " bhi"
+            },
+            {
+              "start": 44.28,
+              "end": 44.54,
+              "word": " alak"
+            },
+            {
+              "start": 44.54,
+              "end": 44.8,
+              "word": " chek"
+            },
+            {
+              "start": 44.8,
+              "end": 44.88,
+              "word": " hai."
+            },
+            {
+              "start": 45.34,
+              "end": 45.86,
+              "word": " Detailed"
+            },
+            {
+              "start": 45.86,
+              "end": 46.14,
+              "word": " sources"
+            },
+            {
+              "start": 46.14,
+              "end": 46.52,
+              "word": " aur"
+            },
+            {
+              "start": 46.52,
+              "end": 46.8,
+              "word": " pending"
+            }
+          ]
+        },
+        {
+          "start": 46.8,
+          "end": 48.6,
+          "text": " verification companion guide mein hai.",
+          "words": [
+            {
+              "start": 46.8,
+              "end": 47.42,
+              "word": " verification"
+            },
+            {
+              "start": 47.42,
+              "end": 47.96,
+              "word": " companion"
+            },
+            {
+              "start": 47.96,
+              "end": 48.28,
+              "word": " guide"
+            },
+            {
+              "start": 48.28,
+              "end": 48.46,
+              "word": " mein"
+            },
+            {
+              "start": 48.46,
+              "end": 48.6,
+              "word": " hai."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

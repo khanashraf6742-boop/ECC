@@ -1,0 +1,55 @@
+BATCH 02 — CITY HINGLISH NARRATION SCRIPT
+The text below records the selected-voice synthesis inputs and assembled narration for each chapter.
+The audio was checked with automatic speech recognition, not human-reviewed for verbatim accuracy.
+Chapter 04 opens with a sentence from chapter 06 of the same voice; timing was aligned automatically and may still be off.
+All examples are hypothetical. Consult Batch-02-Guide.md and cited orders for details.
+
+01. International air: scope and class
+Sources: DoE TA 2017, para 2(B); 13A OM 2017
+TTS INPUT:
+Hey everyone! Batch Two में international air, sea और road टी ए सीखेंगे। ये Central Government civilian tour और training पर focus करता है। Railway और Armed Forces के अलग instructions check करें। Example: foreign tour में domestic class को copy नहीं करेंगे। हर example hypothetical है; sanction और latest order check करें। International travel में Level seventeen और ऊपर First Class है। Level fourteen से sixteen Business या Club Class है। Level thirteen और नीचे Economy Class है। Level thirteen A को Level thirteen के बराबर check करेंगे। Example: Level thirteen A में Economy; Level fourteen में Business। लेकिन entitlement, booking और sanction तीन अलग checks हैं।
+
+02. Air booking: choice and clocks
+Sources: DoE air OMs 16 Feb and 16 Jun 2022
+TTS INPUT:
+Government पैसे दे रही हो, तो ticket तीन authorised agents से लें। ये हैं Balmer Lawrie, Ashok Travels और IRCTC। Private airline भी allowed है; class और sanction अलग checks हैं। Chosen three-hour slot में cheapest eligible fare देखें। Non-stop preferably लें; ten percent price band की rule check करें। Example: group के एक tour के लिए एक ही selected agent use होगा। Twenty one days पहले booking करना encouraged है। Tour booking seventy two hours से कम पहले हो, justification दें। Cancellation twenty four hours से कम पहले हो, अलग reason दें। Example: forty eight hours पहले booking पर self declaration लगेगा। Journey के बाद seventy two hours में completion certificate दें। Unauthorised booking पर competent relaxation check करें।
+
+03. Foreign visits: approval and funding
+Sources: DoE 2016 paras 12–25; 2019 SCoS OM
+TTS INPUT:
+Foreign visit के लिए competent approval और budget पहले check करें। जहाँ Screening Committee और Prime Minister approval चाहिए, proposal fifteen days पहले भेजें, और five days से late नहीं। Example: Secretary का qualifying proposal time पर भेजना होगा। Training और कुछ delegations के exceptions भी check करें। कुछ international bodies या agreements में sponsor terms apply हो सकते हैं। दोनों sets की allowances automatic जोड़ना सही नहीं है। Example: sponsor ने flight pay की, तो वही fare दोबारा claim न करें। Visit approval, hospitality और बाकी expenses अलग check होंगे।
+
+04. Foreign daily allowance: duration
+Sources: MEA order 25 Sep 2023, paras 1–3
+TTS INPUT:
+Latest MEA order जो हमें मिला, September twenty twenty three का है। India से foreign tour पर पहले fourteen days full admissible rate। Next fourteen days seventy five percent; फिर sixty percent। Example: मान लें full rate hundred dollars है। Qualifying day fifteen पर seventy five dollars बनेगा। Partial day और बाकी adjustments अलग verify करें। अब overseas posted officers के specified tours का अलग schedule। पहले seven days full; अगले seven days seventy five percent। उसके बाद fifty percent of the full admissible rate। Example: hundred dollars base पर day eight है seventy five। Day fifteen है fifty dollars, बाकी applicable adjustments से पहले। India और overseas schedules को mix मत करें।
+
+05. Foreign hotel, meals and incidental costs
+Sources: MEA order 2023, paras 5–9
+TTS INPUT:
+Foreign hotel के लिए approved panel और actual rental check करें। Room rental में service charges और taxes भी order में हैं। No-panel city में capital city का relevant lowest rate check होगा। Non-representational training में hotel entitlement एक step lower है। Example: seminar के लिए normal panel की lower step confirm करें। Domestic hotel limit को foreign hotel पर copy न करें। Hotel charge में breakfast हो, तो daily allowance ten percent कम। Example: hundred dollars पर सिर्फ ये reduction लगे तो ninety। State Guest और सारे meals free हों, तो twenty five percent rate। Tips के लिए daily allowance के ऊपर extra reimbursement नहीं। एक से ज़्यादा deductions हों तो office से method confirm करें।
+
+06. Foreign conveyance, currency and source check
+Sources: MEA order 2023, paras 3, 4, 10, 12
+TTS INPUT:
+Foreign daily allowance में official-duty transport included नहीं है। Necessary और reasonable conveyance अलग से check हो सकता है। Sanction में इस खर्च के लिए specific funds होना भी ज़रूरी है। Example: official meeting का eligible taxi bill separately देखें। Sightseeing का taxi अपने आप official duty claim नहीं बनता। Currency conversion के लिए official MEA rate check करें। Latest MEA order जो हमें मिला, September twenty twenty three का है। Level ten और ऊपर annexure का full prescribed rate check करें। Level two से nine में copies की percentage reading conflict करती है। Example: Level seven का calculation legible official copy से verify करें। Later amendment और departmental adoption भी check करें।
+
+07. Sea and river: which class?
+Sources: DoE TA OM 2017, para 2(C)
+TTS INPUT:
+अब sea या river steamer का standard table। Level nine और ऊपर highest; Level three और नीचे lowest class। Level six से eight में दो classes हों तो lower class। Level four और five में दो, तीन या चार classes अलग देखें। Example: तीन classes में Level five के लिए middle या second। Level six से eight के तीन-class case में office से पूछें। Mainland और island के बीच qualifying SCI ship का अलग table। Level nine और ऊपर Deluxe; six से eight First या A cabin। Level four और five Second या B cabin; three और नीचे Bunk। Example: eligible Level seven का SCI ship पर A cabin check होगा। हर private ferry पर ये special table automatic नहीं लगाएँ।
+
+08. Road mileage: prescribed-rate places
+Sources: DoE TA OM 2017, para 2(D)(i)
+TTS INPUT:
+जहाँ specific transport rates prescribed हैं, pay level देखें। Level fourteen और ऊपर public AC bus भी ले सकते हैं। AC taxi actually use हो, तो prescribed AC taxi rate देखें। Listed modes पर prescribed auto rate वाला option भी है। Example: Level fourteen AC taxi use करे तो relevant rate check होगा। Level six से thirteen के लिए AC taxi permissible नहीं है। Level four और five के लिए public bus, लेकिन AC bus नहीं। Level three और नीचे ordinary public bus वाली row है। Listed auto या own scooter जैसे modes पर auto rate देखें। Example: Level three ordinary bus का actual fare check करेगा। उस lower row में own car expressly listed नहीं है। Route, sanction और proof के बाकी checks भी ज़रूरी हैं।
+
+09. Road fallback and route constraints
+Sources: DoE TA OM 2017, paras 2(A)(iii), 2(D)(ii)
+TTS INPUT:
+State और neighbouring State दोनों की specific rate न हो, fallback देखें। 2017 base own car या taxi के लिए twenty four rupees per kilometre। Auto या own scooter के लिए twelve rupees per kilometre। पहली twenty five percent increase से thirty और fifteen बनते हैं। Example: eligible auto में twenty kilometres का result three hundred। ये result sanction, actual journey और mode eligibility के subject है। जहाँ rail नहीं है, eligible AC Two और ऊपर वालों के लिए AC bus। बाकी के लिए Deluxe या ordinary bus का rule देखें। Rail-connected route पर public transport का fare train class से capped है। Example: bus four hundred, entitled train five hundred। इस public-fare example में cap cross नहीं हुआ। Private vehicle claims पर वही clause automatic मत लगाएँ।
+
+10. Road effects and field journeys
+Sources: DoE TA OM 2017 2(E)(iii),(vi), 3(iii); DoE 2022
+TTS INPUT:
+Road पर employee की journey और transfer effects अलग components हैं। Level six और ऊपर effects का base fifty rupees per kilometre था। पहली increase के बाद calculation sixty two point five zero है। Example: fifty kilometres का ceiling calculation देखें। Result है three thousand one hundred twenty five rupees। Actual transport, receipt और applicable exception अलग check करें। ये calculated ceiling अपने आप payment नहीं है। Government boats और remote scientific field work का special rule है। Qualifying case में daily allowance food-rate के बराबर हो सकता है। Head या controlling officer की approval और conditions check करें। Example: approved survey का Government boat journey अलग assess होगा। Foot mileage और उसकी indexed rate भी अलग check हैं। Detailed sources और pending verification companion guide में हैं।
