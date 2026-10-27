@@ -1,0 +1,1393 @@
+{
+  "disclosure": "UNEDITED AUTOMATIC RECOGNITION OUTPUT. It is not an authoritative transcript: it can translate, omit, hallucinate, or misspell words. It is retained as evidence for the audio comparison, not as the lecture captions.",
+  "method": "Whisper small multilingual int8, language hint en, generic Hinglish style prompt, beam 3, segment-by-segment; no lesson text was supplied as prompt.",
+  "sections": [
+    {
+      "audio": "01-foundations.mp3",
+      "audio_sha256": "c5234ae0c0849a04eeca3e0e5a6d3c0c403de3f71022abdbafd831cab7f08a8f",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 25.75,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.84,
+              "text": " Hey everyone! Batch 1 mein hum travelling allowance yani TA ki basics aasan hinglish mein sikhenge."
+            },
+            {
+              "start": 7.36,
+              "end": 13.28,
+              "text": " TA, official duty ke liye honewali travel costs se joda hai. Ye har personal trip ka paisa nahi hai."
+            },
+            {
+              "start": 13.82,
+              "end": 17.58,
+              "text": " Maan lo, Delhi ka ek employee office inspection ke liye Jaipur jata hai."
+            },
+            {
+              "start": 18.02,
+              "end": 20.72,
+              "text": " Approved trip par rules ke hisaap se TA chek hoga."
+            },
+            {
+              "start": 21.24,
+              "end": 25.48,
+              "text": " Lekin, wahi employee family ke saath weekend trip kare, toh wo official tour nahi hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 25.75,
+          "end": 50.44,
+          "segments": [
+            {
+              "start": 25.75,
+              "end": 32.13,
+              "text": " Ikor important baat, TA aur LTC same nahi hai. Central Government Civilian TA ke orders"
+            },
+            {
+              "start": 32.13,
+              "end": 37.53,
+              "text": " Department of Expenditure deta hai. LTC aur service rules ke liye DOPT ki guidelines"
+            },
+            {
+              "start": 37.53,
+              "end": 42.71,
+              "text": " bhi chek karen. Example, official training ki trip aur chutti mein hometown jaane ka claim"
+            },
+            {
+              "start": 42.71,
+              "end": 48.19,
+              "text": " do alag cases hai. Railway aur armed forces ke liye alag orders bhi ho sakti hai. Isliye"
+            },
+            {
+              "start": 48.19,
+              "end": 50.01,
+              "text": " apni service ke rules zaroor chek karen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-dates-and-safeguard.mp3",
+      "audio_sha256": "11a9b3e81ef21be867a8ccffd5fd5582e547f0499cf591a536001d59f0b60e2b",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 19.8,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 5.44,
+              "text": " Updates ki baat, main TA order 13 July 2017 ko issue hoa."
+            },
+            {
+              "start": 5.88,
+              "end": 9.1,
+              "text": " Likin changes, 1st July 2017 se effective thay."
+            },
+            {
+              "start": 9.56,
+              "end": 13.22,
+              "text": " Maanlu trip 30 June ko khatm hoa. Purane rules chek honge."
+            },
+            {
+              "start": 13.72,
+              "end": 16.3,
+              "text": " 2 July wale trip ke liye new rules se shuru kare."
+            },
+            {
+              "start": 16.82,
+              "end": 19.5,
+              "text": " Matlab issue date aur effective date ek nahi hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 19.8,
+          "end": 46.52,
+          "segments": [
+            {
+              "start": 19.8,
+              "end": 25.72,
+              "text": " Ab old entitlement wali safety cheq. Agar newa order kisi individual ya group ki pehle se"
+            },
+            {
+              "start": 25.72,
+              "end": 31.18,
+              "text": " mili travel klas ya mode ko kum krta hai toh saving clause ki hisaap se purani higher entitlement"
+            },
+            {
+              "start": 31.18,
+              "end": 36.78,
+              "text": " jari rahiti hai. Japtak normal course me usse higher entitlement na mili. Example, kisi"
+            },
+            {
+              "start": 36.78,
+              "end": 41.52,
+              "text": " officer ki purani approved klas new table se better thi. Toh office se saving clause"
+            },
+            {
+              "start": 41.52,
+              "end": 46.24,
+              "text": " aur purani proof chek karain. Iska matlab har employee ko automatic upgrade nahi milta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-pay-level.mp3",
+      "audio_sha256": "f44b7187acf8f39413968a37667c5ab7a554abe2793d63bc3bb6d715b6ee002a",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 22.44,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 5.84,
+              "text": " TA ki entitlement pay level setai hoti hai. Pay level aur pay amount same cheez nahi hai."
+            },
+            {
+              "start": 6.3,
+              "end": 13.34,
+              "text": " 2017 order me pay in the level ka matlab matrix wale level ka basic pay hai. NPA, MSP ya special"
+            },
+            {
+              "start": 13.34,
+              "end": 18.6,
+              "text": " pay iss mein nahi jordte. Manlub basic pay 50,000 rupees hai aur NPA 10,000."
+            },
+            {
+              "start": 19.06,
+              "end": 22.22,
+              "text": " Is definition me pay 50,000 hi hai, 60,000 nahi."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 22.44,
+          "end": 38.2,
+          "segments": [
+            {
+              "start": 22.44,
+              "end": 28.3,
+              "text": " Ab ek aur example, level 7 employee apna travel class level 6 to 11 wali row mein chek karega."
+            },
+            {
+              "start": 28.74,
+              "end": 31.64,
+              "text": " Likin hurt ye component ka calculation alag hosakta hai."
+            },
+            {
+              "start": 32.04,
+              "end": 35.64,
+              "text": " Sirf travel class wali table dekkar transfer grant ka amount decide mat kariye."
+            },
+            {
+              "start": 35.84,
+              "end": 37.94,
+              "text": " Us component ki conditions alag chek hongi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-domestic-entitlement.mp3",
+      "audio_sha256": "0a927155e3164e9f02dc9685e573cea609be133513846625960bdd667891abd3",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 26.04,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 5.22,
+              "text": " Official tour or training mein, domestic travel ke liye pay level se class thai hoti hai."
+            },
+            {
+              "start": 5.66,
+              "end": 10.12,
+              "text": " Level 14 aur upar, business ya club air, ya train mein AC first."
+            },
+            {
+              "start": 10.72,
+              "end": 14.28,
+              "text": " Level 12 aur 13, economy air ya AC first dekhenge."
+            },
+            {
+              "start": 14.9,
+              "end": 20.48,
+              "text": " Example, level 13 E ko TA aur daily allowance mein level 13 jaya sa treatment milta hai."
+            },
+            {
+              "start": 20.86,
+              "end": 22.9,
+              "text": " Sirf A honi se business class nahi milti."
+            },
+            {
+              "start": 23.4,
+              "end": 25.9,
+              "text": " Trip ka approval aur booking rules bhi zaroori hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 26.04,
+          "end": 50.52,
+          "segments": [
+            {
+              "start": 26.04,
+              "end": 33.16,
+              "text": " Level 6 to 11, economy air ya train mein AC second. Level 5 on niche, first class AC third"
+            },
+            {
+              "start": 33.16,
+              "end": 39.02,
+              "text": " ya AC chair carbide train. Example, level 7 employee approved official tour par economy"
+            },
+            {
+              "start": 39.02,
+              "end": 43.98,
+              "text": " flight ki entitlement raksakta hai. Lekin level 6 to 8 ke liye ordinary LTC mein vahi"
+            },
+            {
+              "start": 43.98,
+              "end": 48.82,
+              "text": " air entitlement nahi hoti. Kuch special LTC schemes alag ho sakti hai. Toh tour aur"
+            },
+            {
+              "start": 48.82,
+              "end": 50.14,
+              "text": " LTC ko mix mat kariye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "05-premium-trains.mp3",
+      "audio_sha256": "11b8c867b04d58369973f68e32c257c7d0756b8ce45056ccbf990d652ef5bbca",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 18.72,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.02,
+              "text": " Kuch premium trains ke liye alak table hai. List mein Rajdhani, Shatabdi, Duronto, Premium,"
+            },
+            {
+              "start": 6.32,
+              "end": 13.3,
+              "text": " Premium Tatkal aur Suvidha hai. Level 12 aur upar Executive ya AC first, level 6-11 AC"
+            },
+            {
+              "start": 13.3,
+              "end": 18.46,
+              "text": " second ya Shatabdi chairkar aur level 5 vaniche AC third ya chairkar chek karte hai."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 18.72,
+          "end": 41.54,
+          "segments": [
+            {
+              "start": 18.72,
+              "end": 23.8,
+              "text": " Example, level 7 ka employee Shatabdi mein apni chair kaar entitlement chek karega."
+            },
+            {
+              "start": 24.16,
+              "end": 25.94,
+              "text": " Executive class assume nahi karega."
+            },
+            {
+              "start": 26.52,
+              "end": 31.98,
+              "text": " Premium tatkal charges aur Shatabdi Rajdhani Duronto ki dynamic ya flexi fare ke liye order"
+            },
+            {
+              "start": 31.98,
+              "end": 33.36,
+              "text": " ka exact wording dekhhi."
+            },
+            {
+              "start": 33.68,
+              "end": 35.98,
+              "text": " Fixed fare, tatkal sewa charges bhi jari hi hai."
+            },
+            {
+              "start": 36.36,
+              "end": 40.98,
+              "text": " Example, eligible Shatabdi ticket par dynamic fare claim karte sa me order ki conditions"
+            },
+            {
+              "start": 40.98,
+              "end": 41.52,
+              "text": " chek karein."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 41.54,
+          "end": 65.76,
+          "segments": [
+            {
+              "start": 41.54,
+              "end": 49.4,
+              "text": " Up 2023 ka train update. Tejas aur Vande Bharat ki entitlement Shatabdi jaisi aur Hamsafar ki Rajdhani jaisi hai."
+            },
+            {
+              "start": 49.86,
+              "end": 59.78,
+              "text": " Ye mapping, tour, training, transfer aur retirement wali listed journeys par chek hoti hai. Example, level 7 employee approved Vande Bharat tour ke li Shatabdi wali chair card chek kareega."
+            },
+            {
+              "start": 60.2,
+              "end": 65.48,
+              "text": " Hamsafar ke li Rajdhani wali class dikhega. Train ka naam executive class ka automatic pass nahi hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-road-and-seats.mp3",
+      "audio_sha256": "67c8b3557df351a149996b8d60a9b4f88801a0a0af5cd8545c4a9fd08e47b689",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 21.2,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 5.86,
+              "text": " Jab 2 jagahe rail se connected nahi hai, to AC second aur upper ki train entitlement wale"
+            },
+            {
+              "start": 5.86,
+              "end": 11.2,
+              "text": " employees ko AC bus ki chhout hai. Baaki log deluxe ya ordinary bus chek karen. Example,"
+            },
+            {
+              "start": 11.46,
+              "end": 16.3,
+              "text": " level 7 ko aise destination par jaana hai, jaha rail connection nahi hai, wo baaki conditions"
+            },
+            {
+              "start": 16.3,
+              "end": 20.9,
+              "text": " ke saath AC bus dek sakta hai. Ye rule poori taxi ya road mileage table nahi hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 21.2,
+          "end": 44.24,
+          "segments": [
+            {
+              "start": 21.2,
+              "end": 25.6,
+              "text": " Agar donu jaga hi real se connected hain to public road transport allowed hain."
+            },
+            {
+              "start": 25.6,
+              "end": 28.86,
+              "text": " Paar total fare aapke entitled train fare se zyada nahi hona chahiye."
+            },
+            {
+              "start": 29.24,
+              "end": 34.68,
+              "text": " Example, bus fare 900 aur entitled train fare 1000 rupi hain to hi fare condition poori hain."
+            },
+            {
+              "start": 34.9,
+              "end": 36.74,
+              "text": " Baki checks abhi bhi zaroori hain."
+            },
+            {
+              "start": 36.8,
+              "end": 41.6,
+              "text": " Aur maan lul level 7 ki AC second seat nahi milti, iss rule mein lower class mein jaasakte hain."
+            },
+            {
+              "start": 41.82,
+              "end": 43.92,
+              "text": " Higher class ka automatic upgrade nahi milta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "07-booking-and-points.mp3",
+      "audio_sha256": "25897ce376a18c3c84f6a1af8a2e54a5f42f38566c4373fb536ade2d4b488401",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 17.06,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 9.26,
+              "text": " Government account se air ticket book karne ho, to is order mein 3 approved agents hai, Balmalori, Ashok Travels & Tours aur IRCTC."
+            },
+            {
+              "start": 9.76,
+              "end": 16.8,
+              "text": " Example, level 7 employee air travel ke liye eligible hosakta hai, likin ticket booking aur tour approval bhi chek honge."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 17.06,
+          "end": 38.85,
+          "segments": [
+            {
+              "start": 17.06,
+              "end": 21.86,
+              "text": " Best available fare apne entitle klas aur fixed 3 hour slot mein chek kare."
+            },
+            {
+              "start": 22.38,
+              "end": 28.62,
+              "text": " Convenience ke liye order ka 10% price band bhi dekhe. Example, 10 a.m. flight ke liye 9-12"
+            },
+            {
+              "start": 28.62,
+              "end": 33.7,
+              "text": " wala slot dekhe. Koi rolling window nahi. Ye air ticket rule hai. Ise, her rail ticket"
+            },
+            {
+              "start": 33.7,
+              "end": 38.72,
+              "text": " par automatically mat lagain. Unavoidable case mein limited relaxation ka process guide mein."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 38.85,
+          "end": 67.64,
+          "segments": [
+            {
+              "start": 38.85,
+              "end": 43.29,
+              "text": " Tuvar aur LTC ke liye 21 days pehle flight book karna encouraged hai."
+            },
+            {
+              "start": 43.69,
+              "end": 45.95,
+              "text": " Isse har kis mein mandatory deadline mat maaniye."
+            },
+            {
+              "start": 46.17,
+              "end": 51.55,
+              "text": " Tuvar booking departure se less than 72 hours pehle ho, to employee ko apna reason deena hota hai."
+            },
+            {
+              "start": 52.01,
+              "end": 56.75,
+              "text": " Example, urgent tour ki ticket doh din pehle book hui to self-declared reason ready rakhe."
+            },
+            {
+              "start": 57.29,
+              "end": 61.39,
+              "text": " Usi trip ke baat 72 hours ke andar required journey completion certificate ne."
+            },
+            {
+              "start": 61.79,
+              "end": 63.13,
+              "text": " Ye booking reason se alag hai."
+            },
+            {
+              "start": 63.63,
+              "end": 67.37,
+              "text": " Government account ke air travel par mileage points generate nahi hu nahi chahiye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "08-deadlines.mp3",
+      "audio_sha256": "eca05f0498ec89ca970ef12314da74e4515d210e1c92349b9afc3e0d9c15d317",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 22.17,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 7.1,
+              "text": " Tour, transfer, or training card, TA claim, normally journey khatm hu ne ke baat 60 days me submit karna hota hai."
+            },
+            {
+              "start": 7.46,
+              "end": 10.82,
+              "text": " Late hu ne par claim forfitted, yani lost maana jaa sakta hai."
+            },
+            {
+              "start": 11.36,
+              "end": 18.64,
+              "text": " Example, journey 1st October 2026 ko khatm hu hi, to 2nd October day 1 hai aur 30th November day 60."
+            },
+            {
+              "start": 19.2,
+              "end": 21.94,
+              "text": " Correct office me time par submit kari aur proof rakhi."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 22.17,
+          "end": 47.4,
+          "segments": [
+            {
+              "start": 22.17,
+              "end": 28.67,
+              "text": " Retirement TME 2021 order ne limit 180 days after journey kardi, 2 transfer or training"
+            },
+            {
+              "start": 28.67,
+              "end": 33.35,
+              "text": " ke liye 60 days rehte. Example, eligible retirement journey 1st October"
+            },
+            {
+              "start": 33.35,
+              "end": 37.91,
+              "text": " 2026 ko khatm ho, to 180th day 30th March 2027 hai."
+            },
+            {
+              "start": 38.47,
+              "end": 43.43,
+              "text": " Yad rakh hi, trip karne ki eligibility period aur clean file karne ki deadline alag baate"
+            },
+            {
+              "start": 43.43,
+              "end": 47.13,
+              "text": " purani unsettled cases par review ki possibility guide me hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-submission.mp3",
+      "audio_sha256": "eaaac1e5d651eab0049e54f8bf8c0f3d257df7ccd9c249c3bb240712cc67a219",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 19.78,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 7.2,
+              "text": " Transfer me agar employee aur family alag alag travel karte hain, to har journey ke rie clean clock alag shuru hota hain."
+            },
+            {
+              "start": 7.3,
+              "end": 14.08,
+              "text": " Example, employee 1st October aur family 11th October ko pohchhi, to dono ki completion date alag count hogi."
+            },
+            {
+              "start": 14.6,
+              "end": 19.52,
+              "text": " Personal effects ya conveyance ke liye new station par actual delivery ki date alag check karein."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 19.78,
+          "end": 47.16,
+          "segments": [
+            {
+              "start": 19.78,
+              "end": 24.6,
+              "text": " Claim when submit maana jayega, ye is baat par bhi depend karta hai ki aap apne controlling"
+            },
+            {
+              "start": 24.6,
+              "end": 29.58,
+              "text": " officer hud hai ya nahi. Agar nahi, to head of office ya controlling officer ko submission"
+            },
+            {
+              "start": 29.58,
+              "end": 34.42,
+              "text": " deed dekhain. Agar aap apne controlling officer hai, treasury ya cash section me presentation"
+            },
+            {
+              "start": 34.42,
+              "end": 39.94,
+              "text": " deed dekhain. Example, aapne controlling officer ko day 45 par claim dia. Aur treasury"
+            },
+            {
+              "start": 39.94,
+              "end": 43.96,
+              "text": " ko baad me mila, to order ki conditions ke saath pehle wali submission deed matter"
+            },
+            {
+              "start": 43.96,
+              "end": 46.96,
+              "text": " kar sakti hai. Receipt ya acknowledgement sambhal kar rakhain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "10-boarding-pass.mp3",
+      "audio_sha256": "98f61d7d5d17cb1666c81ef8669b23000d6c2758a35a5cbf49dbcea97719166b",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 15.52,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 4.1,
+              "text": " Quick official update. Boarding pass missing ho to kya karein?"
+            },
+            {
+              "start": 4.56,
+              "end": 9.08,
+              "text": " DOE ka 2020 order central government ki official tour journey ke liye hai."
+            },
+            {
+              "start": 9.6,
+              "end": 15.32,
+              "text": " Agar physical aur digital copy dono nahi hai to prescribed self-declaration TA bill ke saath de sakte hai."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 15.52,
+          "end": 28.94,
+          "segments": [
+            {
+              "start": 15.52,
+              "end": 18.84,
+              "text": " Example, level 9 employee apna pas kho deta hai."
+            },
+            {
+              "start": 19.24,
+              "end": 23.76,
+              "text": " Wo actual journey, PNR aur no double claim ki details declaration mein deta hai."
+            },
+            {
+              "start": 24.24,
+              "end": 28.86,
+              "text": " Level 10 aur niche ki employees ko controlling officer se declaration counter-sign karaana hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 28.94,
+          "end": 41.6,
+          "segments": [
+            {
+              "start": 28.94,
+              "end": 32.98,
+              "text": " Ye lost pass declaration Johnny Completion Certificate se alag hai."
+            },
+            {
+              "start": 33.52,
+              "end": 38.64,
+              "text": " June 2022 order mein Completion Certificate Johnny ke 72 hours ke andar mangah gaya hai."
+            },
+            {
+              "start": 39.02,
+              "end": 41.34,
+              "text": " TA bill alag rule se baad me submit huta hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 41.6,
+          "end": 53.48,
+          "segments": [
+            {
+              "start": 41.6,
+              "end": 45.32,
+              "text": " Example, employee flight ke baat completion certificate bheechta hai."
+            },
+            {
+              "start": 45.64,
+              "end": 49.4,
+              "text": " Boarding pass nahi mila to bil ke saath alag prescribe declaration lagata hai."
+            },
+            {
+              "start": 49.84,
+              "end": 53.12,
+              "text": " False declaration pa disciplinary action aur recovery ho sakti hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "11-local-travel-proof.mp3",
+      "audio_sha256": "ab2b2435393786028040af3a6165290fea9e1b551e276e5d172be2bb64d70f0e",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 17.9,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.06,
+              "text": " Official tour per local travel ki reimbursement, actual expense aur baaki conditions par depend karti hai."
+            },
+            {
+              "start": 6.42,
+              "end": 12.94,
+              "text": " DOE ke 2020 clarification ne pay level 9-11 ke liye city travel vouchers ki condition hatai."
+            },
+            {
+              "start": 13.2,
+              "end": 17.66,
+              "text": " Lekin self-certification mein travel period aur vehicle number jaisi details deeni hai."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 17.9,
+          "end": 29.4,
+          "segments": [
+            {
+              "start": 17.9,
+              "end": 21.82,
+              "text": " Example, level 10 employee official visits ki liye cab leeta hai."
+            },
+            {
+              "start": 22.14,
+              "end": 26.22,
+              "text": " Receipt nahi hai to wo sahi expense aur vehicle number self-certify karta hai."
+            },
+            {
+              "start": 26.6,
+              "end": 29.22,
+              "text": " Applicable limits aur baki checks abhi bhi zaruni hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 29.4,
+          "end": 45.4,
+          "segments": [
+            {
+              "start": 29.4,
+              "end": 34.6,
+              "text": " Free boarding aur lodging milne par bhi, tour ke liye genuinely incurred local travel applicable"
+            },
+            {
+              "start": 34.6,
+              "end": 39.98,
+              "text": " rules ke hasaap se claim ho sakta hai. Example, Trini ko free hotel aur meals mile, lakin"
+            },
+            {
+              "start": 39.98,
+              "end": 44.66,
+              "text": " official local trip ka allowed kharch khut diya. Woh us kharch ko rules aur evidence ke saath"
+            },
+            {
+              "start": 44.66,
+              "end": 45.14,
+              "text": " chek kareega."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 45.4,
+          "end": 53.52,
+          "segments": [
+            {
+              "start": 45.4,
+              "end": 53.16,
+              "text": " Level 9-11 ki ye voucher relaxation, hotel, food, transfer ya LTC ke har claim par automatikli lagu nahi hoti."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "12-ltc-faq-basics.mp3",
+      "audio_sha256": "1d37a2c8dde6ec15c9252dbb77bcc622083d495faa66cfcb92c643bc7fe129fb",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 15.4,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.26,
+              "text": " Ab DOPT ki 1 July 2025 wali LTC FAQ se kuch important differences."
+            },
+            {
+              "start": 6.92,
+              "end": 9.54,
+              "text": " Eligible family members alak travel kar sakte hain."
+            },
+            {
+              "start": 9.86,
+              "end": 15.2,
+              "text": " Agar sir family LTC par jaare hi hai, employee ko sirf us wajah se leave lene ki zoroorat nahi hain."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 15.4,
+          "end": 30.5,
+          "segments": [
+            {
+              "start": 15.4,
+              "end": 21.34,
+              "text": " Example, employee office me kaam karta hai aur eligible family member approved LTC pa jata hai."
+            },
+            {
+              "start": 21.68,
+              "end": 25.38,
+              "text": " Lekin employee hooth LTC le, to admissible leave zaroori hai."
+            },
+            {
+              "start": 25.66,
+              "end": 27.52,
+              "text": " Sirf weekend ya holiday kaafi nahi hai."
+            },
+            {
+              "start": 28.04,
+              "end": 30.14,
+              "text": " Ye official tour TA ka rule nahi hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 30.5,
+          "end": 44.9,
+          "segments": [
+            {
+              "start": 31.24,
+              "end": 35.94,
+              "text": " DOPTFAQ ke mutabik, LTC mein incidental aur local journey kharch kawar nahi hote."
+            },
+            {
+              "start": 36.32,
+              "end": 39.28,
+              "text": " Ghar se airport ka local taxi fare bhi LTC mein nahi hai."
+            },
+            {
+              "start": 39.72,
+              "end": 44.8,
+              "text": " Example, family holiday ke liye ghar se airport jaane ki cab us LTC claim mein madh jodiye."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 44.9,
+          "end": 50.44,
+          "segments": [
+            {
+              "start": 44.9,
+              "end": 50.1,
+              "text": " Official tour par local travel ki alak konditions hosakti hai. Dono systems ko mix mat kariye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "13-ltc-faq-booking.mp3",
+      "audio_sha256": "2c6199aff873c8d24e40b83c7d20bf258c79a3735c040c8cf5a02397316d7f22",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 25.55,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 8.2,
+              "text": " DOPT ki 2025 FAQ ke anusar, Tejas, Vande Bharat aur hum suffer se LTC travel entitlement ke"
+            },
+            {
+              "start": 8.2,
+              "end": 14.56,
+              "text": " hisaab se allowed hai. Example, employee pehle LTC ki entitled class chek krta hai. Sirf train"
+            },
+            {
+              "start": 14.56,
+              "end": 20.2,
+              "text": " ke naam se executive class assume nahi krta. Flight ko 21 days pehle book karna encouraged"
+            },
+            {
+              "start": 20.2,
+              "end": 25.52,
+              "text": " hai. FAQ isi harki iski automatic four feature deadline nahi banati. Agar office ka karenge"
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 25.55,
+          "end": 50.96,
+          "segments": [
+            {
+              "start": 25.55,
+              "end": 29.23,
+              "text": " If there is no official email, then for LTC, in FAQ, the office has given a way to register"
+            },
+            {
+              "start": 29.23,
+              "end": 35.99,
+              "text": " through details to the authorized agent. Example, the required details of the office"
+            },
+            {
+              "start": 35.99,
+              "end": 39.79,
+              "text": " and the private email to the agent. This is a specific answer for LTC."
+            },
+            {
+              "start": 40.43,
+              "end": 45.45,
+              "text": " Check the rules of the tour separately. FAQ also states that the old LTC ET fair"
+            },
+            {
+              "start": 45.45,
+              "end": 49.35,
+              "text": " scheme is not present now. Verify the validity of a special relaxation from the"
+            },
+            {
+              "start": 49.35,
+              "end": 49.99,
+              "text": " booking."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "13b-ltc-agent-exception.mp3",
+      "audio_sha256": "191f8abab2e514061f2f9483973b2264cf6c80be8b5492698702249dfdd40d4e",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 22.15,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 5.96,
+              "text": " Important correction – LTC ke har air ticket par 3 agents ki requirement ek jaisi nahi hai."
+            },
+            {
+              "start": 6.5,
+              "end": 11.12,
+              "text": " DOPT ki 2023 instruction 2025 guidelines me bhi dihi gai hai."
+            },
+            {
+              "start": 11.7,
+              "end": 18.88,
+              "text": " Jo employee ordinary LTC me air entitled nahi hai, phir bhi apni marzi se flight lay aur special dispensation use nahi karta"
+            },
+            {
+              "start": 18.88,
+              "end": 21.92,
+              "text": " uske liye 3 agents se hi ticket lena mandatory nahi hai."
+            }
+          ]
+        },
+        {
+          "beat": 1,
+          "start": 22.15,
+          "end": 28.7,
+          "segments": [
+            {
+              "start": 22.15,
+              "end": 28.67,
+              "text": " Example, level 7 employee ordinary LTC par flight chunta hai toh iss specific exception ko check karenge."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 28.7,
+          "end": 52.96,
+          "segments": [
+            {
+              "start": 28.7,
+              "end": 33.84,
+              "text": " Reimbursement, actual airfare aur shortest route ki entitle train ya bus fare me jo kam ho"
+            },
+            {
+              "start": 33.84,
+              "end": 40.44,
+              "text": " us tak limited hai. Example, flight 8000 rupees aur eligible rail fare 5000 ho, to 5000 ki"
+            },
+            {
+              "start": 40.44,
+              "end": 45.18,
+              "text": " ceiling check hogi, baaki conditions alak check karein. Valid special dispensation ke tahan"
+            },
+            {
+              "start": 45.18,
+              "end": 50.06,
+              "text": " non-air entitle flight ke liye authorised agents ki alag requirement hai. Scheme ki current"
+            },
+            {
+              "start": 50.06,
+              "end": 52.7,
+              "text": " validity aur cancellation rules bhi pehile verify karein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "14-ltc-claim-clocks.mp3",
+      "audio_sha256": "fd20ef14848f0be737af787f3b54fa5890aefcf5333d352ff8abaffd9d2575da",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 24.5,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 3.7,
+              "text": " LTC claim ki clock, official tour TA se alag hai."
+            },
+            {
+              "start": 4.26,
+              "end": 9.94,
+              "text": " DOPT FAQ ke mutabek, advance liya ho to return journey ke baat ek month ke andar claim de."
+            },
+            {
+              "start": 10.3,
+              "end": 14.42,
+              "text": " Advance nahi liya ho to return journey ke baat 3 month ke andar claim de."
+            },
+            {
+              "start": 14.96,
+              "end": 21.16,
+              "text": " Example, bina advance wala employee return ki date note karke 3 month me LTC bill submit karta hai."
+            },
+            {
+              "start": 21.6,
+              "end": 24.26,
+              "text": " Isi tour TA ke 60 days se confuse mat kariye."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 24.5,
+          "end": 52.32,
+          "segments": [
+            {
+              "start": 24.5,
+              "end": 30.22,
+              "text": " Late LTC claim automatically approve nahin hota. FAQ mein department aur financial advisor"
+            },
+            {
+              "start": 30.22,
+              "end": 35.28,
+              "text": " ki konkarin se limited relaxation di gayi hai. Without advance wale case mein 6 months tak"
+            },
+            {
+              "start": 35.28,
+              "end": 40.22,
+              "text": " aur advance wale case mein 3 months tak ki stated limits hai. Advance wale case mein poora"
+            },
+            {
+              "start": 40.22,
+              "end": 45.18,
+              "text": " advance aur prescribed penal interest refund ki condition bhi hai. Example, late claim"
+            },
+            {
+              "start": 45.18,
+              "end": 49.4,
+              "text": " mein employee reason aur documents deta hai aur competent authority se decision mangta"
+            },
+            {
+              "start": 49.4,
+              "end": 52.0,
+              "text": " hai. Extra time ko automatic right nahin samajhta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "15-technical-resignation.mp3",
+      "audio_sha256": "e98fe01f8f7748985d63d926807fe43c4851bebbff08e5faf5539c658ae9256c",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 28.9,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 4.94,
+              "text": " Technical resignation ke liye DOPT ke 2022 consolidated order ko dekhayin."
+            },
+            {
+              "start": 5.34,
+              "end": 9.74,
+              "text": " Proper channel se government post ke liye apply kiya, selection hui aur administrative"
+            },
+            {
+              "start": 9.74,
+              "end": 14.28,
+              "text": " reason se resignation dena pada to stated conditions par wo technical ho sakta hai."
+            },
+            {
+              "start": 14.76,
+              "end": 18.96,
+              "text": " Example, employee approved channel se 2stri government post me select hota hai"
+            },
+            {
+              "start": 18.96,
+              "end": 23.98,
+              "text": " aur required resignation deta hai. Past service ya baaki benefits alag rules ke conditions"
+            },
+            {
+              "start": 23.98,
+              "end": 28.74,
+              "text": " per depend krte hai. Har resignation ko technical bol deni se benefits automatic nahi banti."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 28.9,
+          "end": 49.15,
+          "segments": [
+            {
+              "start": 28.9,
+              "end": 37.42,
+              "text": " Usi order ke paragraph 3.6.3 me, open competition ya interview se central government post par appointment ka specific transfer tiyay rule hai."
+            },
+            {
+              "start": 37.94,
+              "end": 44.16,
+              "text": " Usme temporary central government employee ki regular continuous service, 3 saal se kum ho to transfer tiyay nahi milta."
+            },
+            {
+              "start": 44.58,
+              "end": 48.84,
+              "text": " Permanent ya provisionally permanent state employee ke liye bhi paragraph ki alag wording dekhain."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 49.15,
+          "end": 58.48,
+          "segments": [
+            {
+              "start": 49.15,
+              "end": 54.21,
+              "text": " Example, temporary central employee ki asi service doh saal hai, toh wo is stated exclusion mein"
+            },
+            {
+              "start": 54.21,
+              "end": 58.15,
+              "text": " aata hai. Baaki cases mein appointment aur service status check karna zarudi hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "16-retirement-ctg.mp3",
+      "audio_sha256": "5abdc3b270dc710df22eb20a2e103282431eea0756d8f2d9f881ca76cf436164",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 29.05,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.42,
+              "text": " Retirement composite transfer grant, i.e. CTG ke liye DOE ka 6th January 2022 ka amendment"
+            },
+            {
+              "start": 6.42,
+              "end": 11.5,
+              "text": " important hai. Retirement ke baat settlement mein 20 kilometer wali condition hatai gai."
+            },
+            {
+              "start": 11.88,
+              "end": 15.7,
+              "text": " Lekin residence ka actual change aur prescribed declaration zaluri hai."
+            },
+            {
+              "start": 16.18,
+              "end": 20.76,
+              "text": " General rate last month's basic pay ka 80% hai, baaki applicable conditions ke saath."
+            },
+            {
+              "start": 21.18,
+              "end": 26.84,
+              "text": " Example, last basic pay Rs. 50,000 ho to eligible full CTG Rs. 40,000 banta hai."
+            },
+            {
+              "start": 27.22,
+              "end": 28.94,
+              "text": " Order apni issue date se effective hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 29.05,
+          "end": 51.76,
+          "segments": [
+            {
+              "start": 29.05,
+              "end": 34.53,
+              "text": " Andamanin Nikobar ya Lakshwadeep island territory se ya vaha qualifying settlement par order ke"
+            },
+            {
+              "start": 34.53,
+              "end": 40.75,
+              "text": " mutabik CTG last basic pay ka 100% hai, applicable terms ke saath. Example, eligible island ke"
+            },
+            {
+              "start": 40.75,
+              "end": 44.21,
+              "text": " isme 50,000 basic pay par is rate se 50,000 rupees chek honge."
+            },
+            {
+              "start": 44.79,
+              "end": 49.59,
+              "text": " Retirement journey ka TA claim normally journey ke baad 180 days mein dihani wali rule, move"
+            },
+            {
+              "start": 49.59,
+              "end": 51.45,
+              "text": " karni ki eligibility period se alag hai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "17-delay-and-wrap.mp3",
+      "audio_sha256": "c4696d298958605d491b648a9f8fcb9468addea648321184c663052fa5dc994d",
+      "blocks": [
+        {
+          "beat": 1,
+          "start": 0,
+          "end": 22,
+          "segments": [
+            {
+              "start": 0.0,
+              "end": 6.2,
+              "text": " Agar TA claim ek saal se zyada abayans, yani pending rakh ha gaya hai, head of department ko"
+            },
+            {
+              "start": 6.2,
+              "end": 12.14,
+              "text": " isse investigate karna chahiye. Example, long pending claim mein tickets, papers aur delay"
+            },
+            {
+              "start": 12.14,
+              "end": 17.56,
+              "text": " ka reason de. Department genuineness aur valid reasons chekk karke baaki formal cheks karega."
+            },
+            {
+              "start": 18.12,
+              "end": 21.7,
+              "text": " Iska matlab har late claim automatically approve hoga, aisa nahi hai."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 22,
+          "end": 38,
+          "segments": [
+            {
+              "start": 22.0,
+              "end": 29.42,
+              "text": " Batch 1 mein humne B6, domestic travel, booking, claim deadlines aur kuch verified FAQ aur amendments dekhhe."
+            },
+            {
+              "start": 29.82,
+              "end": 34.82,
+              "text": " Example, level 7 ka trainee flight leneh se pehle entitlement aur booking chekk kanega"
+            },
+            {
+              "start": 34.82,
+              "end": 37.52,
+              "text": " aur trip ke baat certificate aur clean ki deadline."
+            }
+          ]
+        },
+        {
+          "beat": 2,
+          "start": 38,
+          "end": 53.36,
+          "segments": [
+            {
+              "start": 38.0,
+              "end": 43.5,
+              "text": " Daily allowance aur road rates ke full tables, transfer, retirement aur technical resignation"
+            },
+            {
+              "start": 43.5,
+              "end": 49.06,
+              "text": " ki baaki konditions agi ke batches mein ainggi. Complete course abhi finish nahi hua hai. Detailed"
+            },
+            {
+              "start": 49.06,
+              "end": 52.9,
+              "text": " examples aur official source links saath wale guide mein hai. Thanks for watching."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

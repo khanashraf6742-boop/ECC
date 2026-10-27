@@ -1,0 +1,1228 @@
+{
+  "title": "Travelling Allowance · Batch 01",
+  "research_cutoff": "27 October 2026",
+  "speaker": "User-selected Indian voice; everyday city-Hinglish narration",
+  "sections": [
+    {
+      "audio": "01-foundations.mp3",
+      "title": "Foundation: TA, duty & scope",
+      "source": "FR 9(32) · DoE OM 2017 · DoPT LTC",
+      "beats": [
+        {
+          "heading": "01A  |  Public service comes first",
+          "cards": [
+            [
+              "TA",
+              "Official journey"
+            ],
+            [
+              "PURPOSE",
+              "Public service"
+            ],
+            [
+              "SCOPE",
+              "Civilian rules"
+            ],
+            [
+              "PROOF",
+              "Sanction + records"
+            ]
+          ],
+          "rule": "TA relates to expenses of travel in the interest of public service.",
+          "example": "Delhi to Jaipur for an authorised inspection: check tour TA rules.",
+          "trap": "A personal weekend in Jaipur is not an official tour.",
+          "key": "FIRST ASK: Why is the journey being made?",
+          "lines": [
+            "Hey everyone! Batch One में हम Travelling Allowance, यानी टी ए, की basics आसान Hinglish में सीखेंगे।",
+            "टी ए official duty के लिए होने वाले travel costs से जुड़ा है; ये हर personal trip का पैसा नहीं है।",
+            "मान लो Delhi का एक employee office inspection के लिए Jaipur जाता है: approved trip पर rules के हिसाब से टी ए check होगा।",
+            "लेकिन वही employee family के साथ weekend trip करे, तो वो official tour नहीं है।"
+          ]
+        },
+        {
+          "heading": "01B  |  TA is not the same as LTC",
+          "cards": [
+            [
+              "DOE",
+              "TA / DA orders"
+            ],
+            [
+              "DOPT",
+              "LTC & service rules"
+            ],
+            [
+              "TOUR",
+              "Official travel"
+            ],
+            [
+              "LTC",
+              "Leave concession"
+            ]
+          ],
+          "rule": "DoE issues civilian TA orders; DoPT is relevant to LTC and other service topics.",
+          "example": "Official training = TA inquiry. Home-town leave = separate LTC inquiry.",
+          "trap": "Armed Forces and Railways have separate orders to check.",
+          "key": "Same employee + same destination can mean different rulebooks.",
+          "lines": [
+            "एक और important बात: टी ए और एल टी सी same नहीं हैं।",
+            "Central Government civilian टी ए के orders Department of Expenditure देता है; एल टी सी और service rules के लिए DoPT की guidelines भी check करें।",
+            "Example: official training की trip और छुट्टी में home town जाने का claim, दो अलग cases हैं।",
+            "Railway और Armed Forces के लिए अलग orders भी हो सकते हैं, इसलिए अपनी service के rules जरूर check करें।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "02-dates-and-safeguard.mp3",
+      "title": "The 2017 order & its safeguard",
+      "source": "DoE OM 13 Jul 2017 · paras 4, 5, 7",
+      "beats": [
+        {
+          "heading": "02A  |  Issue date is not effective date",
+          "cards": [
+            [
+              "ISSUED",
+              "13 July 2017"
+            ],
+            [
+              "EFFECTIVE",
+              "1 July 2017"
+            ],
+            [
+              "OLDER TRIP",
+              "Prior orders"
+            ],
+            [
+              "CHECK",
+              "Journey date"
+            ]
+          ],
+          "rule": "The 2017 revision applies from 1 July; earlier journeys are regulated under the prior order.",
+          "example": "30 June 2017 and 2 July 2017 journeys require separate date checks.",
+          "trap": "Do not assume 13 July is the effective date.",
+          "key": "Issue date and effective date are different questions.",
+          "lines": [
+            "अब dates की बात। Main टी ए order thirteen July twenty seventeen को issue हुआ, लेकिन changes one July twenty seventeen से effective थे।",
+            "मान लो trip thirty June को खत्म हुआ: पुराने rules check होंगे; two July वाले trip के लिए new rules से शुरू करें।",
+            "मतलब issue date और effective date एक नहीं हैं।"
+          ]
+        },
+        {
+          "heading": "02B  |  Existing higher entitlement may be protected",
+          "cards": [
+            [
+              "SAVING",
+              "Para 4"
+            ],
+            [
+              "WHO",
+              "Individual / group"
+            ],
+            [
+              "WHAT",
+              "Mode / class"
+            ],
+            [
+              "UNTIL",
+              "Higher entitlement"
+            ]
+          ],
+          "rule": "If the revised entitlement lowers an existing one, the OM preserves the earlier entitlement as stated.",
+          "example": "A documented higher old travel class needs a saving-clause check.",
+          "trap": "The 2008 order is not useless for every historical or protected case.",
+          "key": "Check the earlier entitlement; protection is not an automatic upgrade.",
+          "lines": [
+            "अब old entitlement वाली safety check। अगर नया order किसी individual या group की पहले से मिली travel class या mode को कम करता है, तो saving clause के हिसाब से पुरानी higher entitlement जारी रहती है, जब तक normal course में उससे higher entitlement न मिले।",
+            "Example: किसी officer की पुरानी approved class new table से better थी, तो office से saving clause और पुराने proof check कराएं।",
+            "इसका मतलब हर employee को automatic upgrade नहीं मिलता।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "03-pay-level.mp3",
+      "title": "Pay Level is not pay amount",
+      "source": "DoE OM 2017 · paras 2–3; 13A clarification",
+      "beats": [
+        {
+          "heading": "03A  |  What counts as pay in the level?",
+          "cards": [
+            [
+              "LEVEL",
+              "Matrix category"
+            ],
+            [
+              "BASIC",
+              "Pay in the level"
+            ],
+            [
+              "EXCLUDE",
+              "NPA / MSP"
+            ],
+            [
+              "EXCLUDE",
+              "Special pay"
+            ]
+          ],
+          "rule": "The 2017 order uses basic pay in the relevant matrix level, excluding NPA, MSP and other pay.",
+          "example": "Basic Rs 50,000 + NPA Rs 10,000: pay in the level is Rs 50,000.",
+          "trap": "Do not add NPA or special pay into this definition.",
+          "key": "Pay Level decides the row; basic pay is a separate amount.",
+          "lines": [
+            "टी ए की entitlement Pay Level से तय होती है; Pay Level और pay amount same चीज़ नहीं हैं।",
+            "Twenty seventeen order में Pay in the Level का मतलब matrix वाले level का basic pay है; एन पी ए, एम एस पी या special pay इसमें नहीं जोड़ते।",
+            "मान लो basic pay fifty thousand rupees है और एन पी ए ten thousand: इस definition में pay fifty thousand ही है, sixty thousand नहीं।"
+          ]
+        },
+        {
+          "heading": "03B  |  Entitlement and calculation are separate",
+          "cards": [
+            [
+              "STEP 1",
+              "Identify level"
+            ],
+            [
+              "STEP 2",
+              "Journey purpose"
+            ],
+            [
+              "STEP 3",
+              "Apply component"
+            ],
+            [
+              "STEP 4",
+              "Check conditions"
+            ]
+          ],
+          "rule": "The calculation basis depends on the particular TA component and its conditions.",
+          "example": "First identify Level 7; then read the applicable journey-entitlement row.",
+          "trap": "A travel-class table does not determine every transfer-grant calculation.",
+          "key": "A matrix level is not a rupee amount.",
+          "lines": [
+            "अब एक और example: Level Seven employee अपना travel class Level Six to Eleven वाली row में check करेगा।",
+            "लेकिन हर टी ए component का calculation अलग हो सकता है।",
+            "सिर्फ travel class वाली table देखकर transfer grant का amount decide मत करिए; उस component की conditions अलग check होंगी।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "04-domestic-entitlement.mp3",
+      "title": "Domestic tour & training classes",
+      "source": "DoE 2017 Annex 2.A(i) · 13A OM · DoPT LTC",
+      "beats": [
+        {
+          "heading": "04A  |  Levels 12 and above",
+          "cards": [
+            [
+              "L14+ AIR",
+              "Business / Club"
+            ],
+            [
+              "L14+ RAIL",
+              "AC First"
+            ],
+            [
+              "L12–13 AIR",
+              "Economy"
+            ],
+            [
+              "L13A",
+              "Same as L13"
+            ]
+          ],
+          "rule": "Level 14+ has Business/Club air or AC-I; Levels 12–13 have Economy air or AC-I.",
+          "example": "A Level 13A officer receives the Level 13 TA / DA entitlement.",
+          "trap": "Level 13A does not automatically become Level 14 Business class.",
+          "key": "Domestic official tour/training • approval and booking rules still apply.",
+          "lines": [
+            "Official tour या training में domestic travel के लिए pay level से class तय होती है।",
+            "Level Fourteen और ऊपर Business या Club air, या train में ए सी First; Level Twelve और Thirteen Economy air, या ए सी First देखेंगे।",
+            "Example: Level Thirteen A को टी ए और Daily Allowance में Level Thirteen जैसा treatment मिलता है; सिर्फ A होने से Business class नहीं मिलती।",
+            "Trip का approval और booking rules भी जरूरी हैं।"
+          ]
+        },
+        {
+          "heading": "04B  |  Levels 6–11 and 5 & below",
+          "cards": [
+            [
+              "L6–11 AIR",
+              "Economy"
+            ],
+            [
+              "L6–11 RAIL",
+              "AC Second"
+            ],
+            [
+              "L5 & BELOW",
+              "First / AC-III / Chair"
+            ],
+            [
+              "LTC",
+              "Separate rules"
+            ]
+          ],
+          "rule": "L6–11: Economy air or AC-II; L5 and below: First / AC-III / AC Chair Car by train.",
+          "example": "Level 7 can be Economy-air entitled for an authorised official tour.",
+          "trap": "Ordinary LTC air entitlement for Levels 6–8 is different; check special schemes.",
+          "key": "A tour entitlement is not automatically an LTC entitlement.",
+          "lines": [
+            "Level Six से Eleven: Economy air या train में ए सी Second। Level Five और नीचे: First Class, ए सी Third या ए सी Chair Car by train।",
+            "Example: Level Seven employee approved official tour पर Economy flight की entitlement रख सकता है।",
+            "लेकिन Levels Six से Eight के लिए ordinary एल टी सी में वही air entitlement नहीं होती; कुछ special एल टी सी schemes अलग हो सकती हैं।",
+            "तो tour और एल टी सी को mix मत करिए।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "05-premium-trains.mp3",
+      "title": "Premium trains: Tejas & 2023 update",
+      "source": "DoE Annex 2.A(ii) · Tejas 2022 · Vande Bharat/Humsafar 2023",
+      "beats": [
+        {
+          "heading": "05A  |  Listed premium-train classes",
+          "cards": [
+            [
+              "L12+",
+              "Executive / AC First"
+            ],
+            [
+              "L6–11",
+              "AC Second / Chair"
+            ],
+            [
+              "L5 & BELOW",
+              "AC Third / Chair"
+            ],
+            [
+              "FARES",
+              "Specified conditions"
+            ]
+          ],
+          "rule": "The OM specifies class bands, Premium Tatkal charges and named dynamic/flexi fares.",
+          "example": "A Level 7 official checks AC Second or Shatabdi Chair Car, as applicable.",
+          "trap": "Highest-class and flexi-fare wording is train-specific.",
+          "key": "Use the precise named service, class and permitted fare.",
+          "lines": [
+            "कुछ premium trains के लिए अलग table है; list में Rajdhani, Shatabdi, Duronto, Premium, Premium Tatkal और Suvidha हैं।",
+            "Level Twelve और ऊपर Executive या ए सी First, Level Six से Eleven ए सी Second या Shatabdi Chair Car, और Level Five व नीचे ए सी Third या Chair Car check करते हैं।",
+            "Example: Level Seven का employee Shatabdi में अपनी Chair Car entitlement check करेगा, Executive class assume नहीं करेगा।",
+            "Premium Tatkal charges और Shatabdi, Rajdhani, Duronto के dynamic या flexi fare के लिए order का exact wording देखें; fixed fare Tatkal Seva charges भी जारी हैं। Example: eligible Shatabdi ticket पर dynamic fare claim करते समय order की conditions check करें।"
+          ]
+        },
+        {
+          "heading": "05B  |  Tejas and the 2023 train update",
+          "cards": [
+            [
+              "TEJAS",
+              "Shatabdi entitlement"
+            ],
+            [
+              "VANDE BHARAT",
+              "Shatabdi entitlement"
+            ],
+            [
+              "HUMSAFAR",
+              "Rajdhani entitlement"
+            ],
+            [
+              "PURPOSE",
+              "Tour / training / transfer / retirement"
+            ]
+          ],
+          "rule": "On stated journeys, Tejas and Vande Bharat follow Shatabdi; Humsafar follows Rajdhani.",
+          "example": "Level 7 on tour: check Shatabdi Chair Car for Vande Bharat or Tejas; Rajdhani class for Humsafar.",
+          "trap": "A train name does not automatically entitle an employee to Executive class.",
+          "key": "Use the matching class and journey purpose in the 2022 and 2023 orders.",
+          "lines": [
+            "अब twenty twenty three का train update। Tejas और Vande Bharat की entitlement Shatabdi जैसी, और Humsafar की Rajdhani जैसी है।",
+            "ये mapping tour, training, transfer और retirement वाली listed journeys पर check होती है।",
+            "Example: Level Seven employee approved Vande Bharat tour के लिए Shatabdi वाली Chair Car check करेगा; Humsafar के लिए Rajdhani वाली class देखेगा।",
+            "Train का नाम Executive class का automatic pass नहीं है।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "06-road-and-seats.mp3",
+      "title": "Road journeys & lower class",
+      "source": "DoE OM 2017 · Annex 2.A(iii)(a), (b), (d)",
+      "beats": [
+        {
+          "heading": "06A  |  When a place is not connected by rail",
+          "cards": [
+            [
+              "NO RAIL",
+              "Bus provision"
+            ],
+            [
+              "AC-II+",
+              "AC bus allowed"
+            ],
+            [
+              "OTHERS",
+              "Deluxe / ordinary"
+            ],
+            [
+              "CHECK",
+              "Journey sanction"
+            ]
+          ],
+          "rule": "Where places are not rail-connected, AC-II-and-above entitled travellers may use AC bus.",
+          "example": "A Level 7 officer may use an authorised AC bus to an unconnected place.",
+          "trap": "This is not the complete private-taxi / road-mileage rule.",
+          "key": "Start by asking whether the two places are rail-connected.",
+          "lines": [
+            "जब दो जगहें rail से connected नहीं हैं, तो ए सी Second और ऊपर की train entitlement वाले employees को ए सी bus की छूट है; बाकी लोग Deluxe या ordinary bus check करें।",
+            "Example: Level Seven को ऐसे destination पर जाना है जहाँ rail connection नहीं है; वो बाकी conditions के साथ ए सी bus देख सकता है।",
+            "ये rule पूरी taxi या road mileage table नहीं है।"
+          ]
+        },
+        {
+          "heading": "06B  |  Rail-connected road travel & seats",
+          "cards": [
+            [
+              "PUBLIC ROAD",
+              "Fare condition"
+            ],
+            [
+              "RAIL CAP",
+              "Entitled train fare"
+            ],
+            [
+              "NO SEAT",
+              "Lower class"
+            ],
+            [
+              "NO UPGRADE",
+              "Separate authority"
+            ]
+          ],
+          "rule": "Public road fare between rail-connected places must not exceed entitled train-class fare.",
+          "example": "Bus Rs 900 vs entitled rail Rs 1,000: this fare condition is satisfied.",
+          "trap": "No entitled seat permits lower class under this clause, not automatic upgrade.",
+          "key": "An above-cap fare is not automatically payable under this clause.",
+          "lines": [
+            "अगर दोनों जगहें rail से connected हैं, तो public road transport allowed है, पर total fare आपके entitled train fare से ज्यादा नहीं होना चाहिए।",
+            "Example: bus fare nine hundred और entitled train fare one thousand rupees है, तो ये fare condition पूरी है; बाकी checks अभी भी जरूरी हैं।",
+            "और मान लो Level Seven की ए सी Second seat नहीं मिलती: इस rule में lower class में जा सकते हैं; higher class का automatic upgrade नहीं मिलता।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "07-booking-and-points.mp3",
+      "title": "Air booking: channels & timing",
+      "source": "DoE air booking OM 16 Jun 2022 · DoPT LTC exception 10 Aug 2023",
+      "beats": [
+        {
+          "heading": "07A  |  Government-account air booking",
+          "cards": [
+            [
+              "BLCL",
+              "Balmer Lawrie"
+            ],
+            [
+              "ATT",
+              "Ashok Travels"
+            ],
+            [
+              "IRCTC",
+              "Authorised agent"
+            ],
+            [
+              "SCOPE",
+              "Air passage"
+            ]
+          ],
+          "rule": "Government-funded air booking follows the DoE OM; later LTC exceptions may apply.",
+          "example": "A Level 7 air-entitled officer must still check booking and sanction rules.",
+          "trap": "Ordinary LTC has a later exception for non-air-entitled employees; special dispensations differ.",
+          "key": "Best fare uses fixed 3-hour slots: 10:00 falls in 09:00–12:00.",
+          "lines": [
+            "Government account से air ticket book करनी हो तो इस order में तीन approved agents हैं: Balmer Lawrie, Ashok Travels and Tours, और आई आर सी टी सी।",
+            "Example: Level Seven employee air travel के लिए eligible हो सकता है, लेकिन ticket booking और tour approval भी check होंगे।",
+            "Best Available Fare अपने entitled class और fixed three hour slot में check करें; convenience के लिए order का ten percent price band भी देखें।",
+            "Example: ten A M flight के लिए nine to twelve वाला slot देखें, कोई rolling window नहीं।",
+            "ये air ticket rule है; इसे हर rail ticket पर automatically मत लगाएं। Unavoidable case में limited relaxation का process guide में है।"
+          ]
+        },
+        {
+          "heading": "07B  |  21 days, 72 hours & points",
+          "cards": [
+            [
+              "21 DAYS",
+              "Encouraged"
+            ],
+            [
+              "<72 HOURS",
+              "Tour justification"
+            ],
+            [
+              "POINTS",
+              "No air points"
+            ],
+            [
+              "AFTER JOURNEY",
+              "72h certificate"
+            ]
+          ],
+          "rule": "Advance booking is encouraged; tour bookings under 72 hours need self-justification.",
+          "example": "Booked 2 days ahead: give a reason; after travel, file the 72-hour certificate.",
+          "trap": "Do not turn the 21-day encouragement into an automatic forfeiture rule.",
+          "key": "2022 OM: no mileage points generated for Government-account air travel.",
+          "lines": [
+            "Tour और एल टी सी के लिए twenty one days पहले flight book करना encouraged है; इसे हर case में mandatory deadline मत मानिए।",
+            "Tour booking departure से less than seventy two hours पहले हो, तो employee को अपना reason देना होता है।",
+            "Example: urgent tour की ticket दो दिन पहले book हुई, तो self declared reason ready रखें।",
+            "उसी trip के बाद seventy two hours के अंदर required journey completion certificate दें; ये booking reason से अलग है।",
+            "Government account के air travel पर mileage points generate नहीं होने चाहिए।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "08-deadlines.mp3",
+      "title": "Two claim deadlines",
+      "source": "DoE claim OMs 13 Mar 2018 & 15 Jun 2021",
+      "beats": [
+        {
+          "heading": "08A  |  Tour, transfer and training",
+          "cards": [
+            [
+              "TOUR",
+              "60 days"
+            ],
+            [
+              "TRANSFER",
+              "60 days"
+            ],
+            [
+              "TRAINING",
+              "60 days"
+            ],
+            [
+              "START",
+              "After completion"
+            ]
+          ],
+          "rule": "The 2018 OM gives 60 days succeeding completion; an unpreferred claim is forfeited / relinquished.",
+          "example": "Journey ends 1 Oct: count 2 Oct as day 1; keep submission proof.",
+          "trap": "Submit to the correct recipient; the deadline is not a payment guarantee.",
+          "key": "For the worked calendar, day 60 is 30 November 2026.",
+          "lines": [
+            "Tour, transfer या training का टी ए claim normally journey खत्म होने के बाद sixty days में submit करना होता है; late होने पर claim forfeited, यानी lost, माना जा सकता है।",
+            "Example: journey first October twenty twenty six को खत्म हुई, तो second October day one है और thirtieth November day sixty।",
+            "Correct office में time पर submit करें और proof रखें।"
+          ]
+        },
+        {
+          "heading": "08B  |  Retirement TA was amended",
+          "cards": [
+            [
+              "RETIREMENT",
+              "180 days"
+            ],
+            [
+              "AMENDED",
+              "15 Jun 2021"
+            ],
+            [
+              "OTHERS",
+              "Still 60 days"
+            ],
+            [
+              "SEPARATE",
+              "Journey eligibility"
+            ]
+          ],
+          "rule": "The retirement-TA submission period is 180 days succeeding the journey, under the 2021 OM.",
+          "example": "Eligible retirement journey ends 1 Oct 2026: the 180th succeeding day is 30 Mar 2027.",
+          "trap": "Time to perform a retirement journey and time to submit a claim differ.",
+          "key": "Some unsettled old claims may be reconsidered: see the guide.",
+          "lines": [
+            "Retirement टी ए में twenty twenty one order ने limit one hundred eighty days after journey कर दी; tour, transfer और training के लिए sixty days रहते हैं।",
+            "Example: eligible retirement journey first October twenty twenty six को खत्म हो, तो one hundred eightieth day thirtieth March twenty twenty seven है।",
+            "याद रखें: trip करने की eligibility period और claim file करने की deadline अलग बातें हैं। पुरानी unsettled cases पर review की possibility guide में है।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "09-submission.mp3",
+      "title": "Separate dates & correct recipient",
+      "source": "DoE 2018 claim OM · paras 2–4",
+      "beats": [
+        {
+          "heading": "09A  |  Separate journeys, separate clocks",
+          "cards": [
+            [
+              "EMPLOYEE",
+              "Own journey date"
+            ],
+            [
+              "FAMILY",
+              "Separate journey"
+            ],
+            [
+              "EFFECTS",
+              "Delivery date"
+            ],
+            [
+              "RECORD",
+              "Proof of receipt"
+            ]
+          ],
+          "rule": "Transfer journeys by officer and family are reckoned separately; effects use actual delivery.",
+          "example": "Family arrives ten days after the officer: do not use one starting date for both.",
+          "trap": "Keep the actual delivery date for personal effects / conveyance.",
+          "key": "The guide distinguishes transfer examples from retirement claims.",
+          "lines": [
+            "Transfer में अगर employee और family अलग अलग travel करते हैं, तो हर journey के लिए claim clock अलग शुरू होता है।",
+            "Example: employee first October और family eleventh October को पहुंची, तो दोनों की completion date अलग count होगी।",
+            "Personal effects या conveyance के लिए new station पर actual delivery की date अलग check करें।"
+          ]
+        },
+        {
+          "heading": "09B  |  Who receives the claim?",
+          "cards": [
+            [
+              "NOT OWN CO",
+              "Head / controlling officer"
+            ],
+            [
+              "OWN CO",
+              "Treasury / cash"
+            ],
+            [
+              "ON TIME",
+              "Keep acknowledgement"
+            ],
+            [
+              "LATE OFFICE",
+              "Para 4"
+            ]
+          ],
+          "rule": "The date depends on whether the officer is their own controlling officer.",
+          "example": "Submitted to controlling officer on time; Treasury receives it later: check para 4.",
+          "trap": "Self-controlling officers use presentation at Treasury / Cash Section.",
+          "key": "Correct recipient + documented submission date matter.",
+          "lines": [
+            "Claim कब submit माना जाएगा, ये इस बात पर भी depend करता है कि आप अपने controlling officer खुद हैं या नहीं।",
+            "अगर नहीं, तो Head of Office या controlling officer को submission date देखें; अगर आप अपने controlling officer हैं, Treasury या Cash Section में presentation date देखें।",
+            "Example: आपने controlling officer को day forty five पर claim दिया और Treasury को बाद में मिला, तो order की conditions के साथ पहले वाली submission date matter कर सकती है।",
+            "Receipt या acknowledgement संभाल कर रखें।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Missing boarding pass: tour evidence",
+      "source": "DoE 23 Jun 2020 boarding-pass OM · DoE 16 Jun 2022 booking OM",
+      "audio": "10-boarding-pass.mp3",
+      "beats": [
+        {
+          "heading": "OFFICIAL UPDATE  /  LOST BOARDING PASS",
+          "cards": [
+            [
+              "Scope",
+              "Central Government tour"
+            ],
+            [
+              "If missing",
+              "Use prescribed declaration"
+            ],
+            [
+              "Bill",
+              "Attach the declaration"
+            ],
+            [
+              "Level 10 & below",
+              "Controlling officer signs"
+            ]
+          ],
+          "rule": "If the boarding pass cannot be produced, the prescribed self-declaration may accompany the tour TA bill.",
+          "example": "Level 9: record the actual journey and PNR; get the declaration countersigned.",
+          "trap": "The 2020 OM is for tours; do not automatically extend it to every journey.",
+          "key": "Tell the truth, attach the correct certificate, and retain evidence.",
+          "lines": [
+            "Quick official update: boarding pass missing हो, तो क्या करें? DoE का twenty twenty order Central Government की official tour journey के लिए है।",
+            "अगर physical और digital copy दोनों नहीं हैं, तो prescribed self declaration टी ए bill के साथ दे सकते हैं।",
+            "Example: Level Nine employee अपना pass खो देता है। वो actual journey, पी एन आर और no double claim की details declaration में देता है।",
+            "Level Ten और नीचे के employees को controlling officer से declaration countersign कराना है।"
+          ]
+        },
+        {
+          "heading": "OFFICIAL UPDATE  /  TWO DIFFERENT CERTIFICATES",
+          "cards": [
+            [
+              "Certificate 1",
+              "Journey completion"
+            ],
+            [
+              "Timing",
+              "Within 72 hours"
+            ],
+            [
+              "Certificate 2",
+              "Missing boarding pass"
+            ],
+            [
+              "Integrity",
+              "No duplicate claim"
+            ]
+          ],
+          "rule": "The 2022 journey-completion certificate is different from the 2020 missing-pass declaration.",
+          "example": "After the flight, send the completion certificate; attach the lost-pass declaration to the TA bill.",
+          "trap": "Do not assume the 72-hour certificate is the full TA bill.",
+          "key": "False declarations can trigger disciplinary action and recovery.",
+          "lines": [
+            "ये lost pass declaration, journey completion certificate से अलग है। June twenty twenty two order में completion certificate journey के seventy two hours के अंदर मांगा गया है; टी ए bill अलग rule से बाद में submit होता है।",
+            "Example: employee flight के बाद completion certificate भेजता है। Boarding pass नहीं मिला, तो bill के साथ अलग prescribed declaration लगाता है।",
+            "False declaration पर disciplinary action और recovery हो सकती है।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tour local travel: evidence and actual expense",
+      "source": "DoE 22 Dec 2020 · DoE 1 Feb 2018 · 2017 Annex 2.E",
+      "audio": "11-local-travel-proof.mp3",
+      "beats": [
+        {
+          "heading": "OFFICIAL UPDATE  /  LOCAL TRAVEL ON TOUR",
+          "cards": [
+            [
+              "Who",
+              "Pay Levels 9 to 11"
+            ],
+            [
+              "For",
+              "City travel on tour"
+            ],
+            [
+              "Evidence",
+              "Self-certification"
+            ],
+            [
+              "Details",
+              "Period and vehicle number"
+            ]
+          ],
+          "rule": "The 2020 OM removes the voucher condition for eligible Level 9–11 city-travel claims on tour, with self-certification.",
+          "example": "Level 10 employee states the travel period and vehicle number for official local visits.",
+          "trap": "The entitlement, applicable ceiling and other conditions still matter.",
+          "key": "Self-certification is not a flat payment or permission for invented expenses.",
+          "lines": [
+            "Official tour पर local travel की reimbursement, actual expense और बाकी conditions पर depend करती है।",
+            "DoE के twenty twenty clarification ने Pay Level Nine से Eleven के लिए city travel vouchers की condition हटाई, लेकिन self certification में travel period और vehicle number जैसी details देनी हैं।",
+            "Example: Level Ten employee official visits के लिए cab लेता है। Receipt नहीं है, तो वो सही expense और vehicle number self certify करता है; applicable limits और बाकी checks अभी भी जरूरी हैं।"
+          ]
+        },
+        {
+          "heading": "OFFICIAL UPDATE  /  FREE BOARDING IS NOT FREE TRAVEL",
+          "cards": [
+            [
+              "Free stay",
+              "No stay expense incurred"
+            ],
+            [
+              "Free meals",
+              "No meal expense incurred"
+            ],
+            [
+              "Local travel",
+              "Actual eligible expense"
+            ],
+            [
+              "Scope",
+              "Tour, not automatic LTC"
+            ]
+          ],
+          "rule": "The 2018 clarification permits eligible incurred local travel despite free boarding and lodging, subject to the rules.",
+          "example": "A trainee receives free hotel and meals but pays for an eligible official local journey.",
+          "trap": "The Level 9–11 voucher relaxation is for tour city travel, not every hotel, food, transfer or LTC claim.",
+          "key": "Identify the component and its own documentation rule.",
+          "lines": [
+            "Free boarding और lodging मिलने पर भी, tour के लिए genuinely incurred local travel applicable rules के हिसाब से claim हो सकता है।",
+            "Example: trainee को free hotel और meals मिले, लेकिन official local trip का allowed खर्च खुद दिया। वो उस खर्च को rules और evidence के साथ check करेगा।",
+            "Level Nine से Eleven की ये voucher relaxation hotel, food, transfer या एल टी सी के हर claim पर automatically लागू नहीं होती।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DoPT FAQ: LTC is not official tour TA",
+      "source": "DoPT LTC FAQ 1 Jul 2025 · questions 6, 26, 27, 37–38",
+      "audio": "12-ltc-faq-basics.mp3",
+      "beats": [
+        {
+          "heading": "DOPT FAQ  /  FAMILY, LEAVE AND LTC",
+          "cards": [
+            [
+              "Family",
+              "May travel separately"
+            ],
+            [
+              "Employee LTC",
+              "Admissible leave needed"
+            ],
+            [
+              "Family only",
+              "No employee leave needed"
+            ],
+            [
+              "Different",
+              "Tour TA is separate"
+            ]
+          ],
+          "rule": "DoPT's LTC FAQ distinguishes employee travel on leave from a journey by family alone.",
+          "example": "When only eligible family members use LTC, the employee need not take leave just for that journey.",
+          "trap": "For an employee's own LTC, weekends or holidays alone are not enough under the FAQ.",
+          "key": "These are LTC answers, not automatic rules for official tour TA.",
+          "lines": [
+            "अब DoPT की one July twenty twenty five वाली एल टी सी FAQ से कुछ important differences। Eligible family members अलग travel कर सकते हैं।",
+            "अगर सिर्फ family एल टी सी पर जा रही है, employee को सिर्फ उस वजह से leave लेने की जरूरत नहीं है।",
+            "Example: employee office में काम करता है और eligible family member approved एल टी सी पर जाता है।",
+            "लेकिन employee खुद एल टी सी ले तो admissible leave जरूरी है; सिर्फ weekend या holiday काफी नहीं है। ये official tour टी ए का rule नहीं है।"
+          ]
+        },
+        {
+          "heading": "DOPT FAQ  /  INCIDENTAL AND LOCAL COSTS",
+          "cards": [
+            [
+              "LTC",
+              "Point-to-point journey"
+            ],
+            [
+              "Local taxi",
+              "Not under LTC Rule 13"
+            ],
+            [
+              "Tour TA",
+              "Different rules"
+            ],
+            [
+              "Check",
+              "Purpose and sanction"
+            ]
+          ],
+          "rule": "LTC does not reimburse incidental or local journeys, including home-to-airport taxi, under the cited FAQ.",
+          "example": "A taxi from home to the airport for an LTC trip is not a reimbursable LTC local fare.",
+          "trap": "Do not copy this LTC answer into every sanctioned official-tour local-travel claim.",
+          "key": "LTC and tour may have different components, evidence and deadlines.",
+          "lines": [
+            "DoPT FAQ के मुताबिक एल टी सी में incidental और local journey खर्च cover नहीं होते; घर से airport का local taxi fare भी एल टी सी में नहीं है।",
+            "Example: family holiday के लिए घर से airport जाने की cab, उस एल टी सी claim में मत जोड़िए।",
+            "Official tour पर local travel की अलग conditions हो सकती हैं; दोनों systems को mix मत करिए।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "DoPT FAQ: trains, booking and obsolete fares",
+      "source": "DoPT LTC FAQ 1 Jul 2025 · questions 33, 45–48",
+      "audio": "13-ltc-faq-booking.mp3",
+      "beats": [
+        {
+          "heading": "DOPT FAQ  /  PREMIUM TRAINS AND BOOKING",
+          "cards": [
+            [
+              "Trains",
+              "Tejas / Vande / Humsafar"
+            ],
+            [
+              "LTC",
+              "Subject to entitlement"
+            ],
+            [
+              "21 days",
+              "Booking encouraged"
+            ],
+            [
+              "Check",
+              "Journey purpose and class"
+            ]
+          ],
+          "rule": "The 2025 FAQ permits listed premium trains for LTC as per entitlement; it encourages advance air booking.",
+          "example": "An employee checks their LTC class before booking a Vande Bharat journey.",
+          "trap": "Twenty-one days is encouraged in the cited FAQ, not a universal automatic-forfeiture rule.",
+          "key": "LTC train entitlement and official-tour entitlement have separate source orders.",
+          "lines": [
+            "DoPT की twenty twenty five FAQ के अनुसार, Tejas, Vande Bharat और Humsafar से एल टी सी travel entitlement के हिसाब से allowed है।",
+            "Example: employee पहले एल टी सी की entitled class check करता है, सिर्फ train के नाम से Executive class assume नहीं करता।",
+            "Flight को twenty one days पहले book करना encouraged है; FAQ इसे हर case की automatic forfeiture deadline नहीं बनाती।"
+          ]
+        },
+        {
+          "heading": "DOPT FAQ  /  EMAIL EXCEPTION AND OLD FARE",
+          "cards": [
+            [
+              "No official email",
+              "LTC office support"
+            ],
+            [
+              "Office",
+              "Send employee details"
+            ],
+            [
+              "Agents",
+              "Check later exception"
+            ],
+            [
+              "LTC-80",
+              "Old scheme ended"
+            ]
+          ],
+          "rule": "For LTC, the FAQ describes agent registration when no official email exists and states LTC-80 is no longer in existence.",
+          "example": "The office sends required employee and private-email details to an authorized agent for LTC registration.",
+          "trap": "This FAQ exception concerns LTC; check the relevant rules for other journey purposes.",
+          "key": "Do not present old LTC-80 or an expired special dispensation as current.",
+          "lines": [
+            "अगर official email नहीं है, तो एल टी सी के लिए FAQ में office के through details authorized agent को भेजकर registration का रास्ता दिया है।",
+            "Example: office employee की required details और private email agent को देता है। ये specific answer एल टी सी के लिए है; tour के rules अलग check करें।",
+            "FAQ ये भी बताती है कि पुराना एल टी सी eighty fare scheme अब मौजूद नहीं है। किसी special relaxation की validity भी booking से पहले verify करें।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "LTC air booking: non-entitled exception",
+      "source": "DoPT LTC guidelines 3 Sep 2025 · DoPT OM 10 Aug 2023",
+      "audio": "13b-ltc-agent-exception.mp3",
+      "beats": [
+        {
+          "heading": "IMPORTANT CORRECTION  /  LTC AIR BOOKING",
+          "cards": [
+            [
+              "Journey",
+              "Ordinary LTC"
+            ],
+            [
+              "Employee",
+              "Not entitled to fly"
+            ],
+            [
+              "Choice",
+              "Voluntary air travel"
+            ],
+            [
+              "Agents",
+              "Three-agent mandate relaxed"
+            ]
+          ],
+          "rule": "A non-air-entitled employee choosing air on ordinary LTC need not mandatorily book through the three agents, subject to the stated exception.",
+          "example": "A Level 7 employee choosing a flight on ordinary LTC checks this DoPT exception.",
+          "trap": "The exception does not automatically apply to an LTC special-dispensation journey or official tour.",
+          "key": "DoPT's later LTC-specific exception narrows the earlier three-agent summary.",
+          "lines": [
+            "Important correction: एल टी सी के हर air ticket पर three agents की requirement एक जैसी नहीं है। DoPT की twenty twenty three instruction, twenty twenty five guidelines में भी दी गई है।",
+            "जो employee ordinary एल टी सी में air entitled नहीं है, फिर भी अपनी मर्जी से flight ले, और special dispensation use नहीं करता, उसके लिए तीन agents से ही ticket लेना mandatory नहीं है।",
+            "Example: Level Seven employee ordinary एल टी सी पर flight चुनता है, तो इस specific exception को check करें।"
+          ]
+        },
+        {
+          "heading": "IMPORTANT CORRECTION  /  REIMBURSEMENT CAP",
+          "cards": [
+            [
+              "Compare",
+              "Actual airfare"
+            ],
+            [
+              "With",
+              "Entitled rail / bus"
+            ],
+            [
+              "Shortest route",
+              "Apply stated cap"
+            ],
+            [
+              "Special scheme",
+              "Separate rules"
+            ]
+          ],
+          "rule": "The ordinary-LTC reimbursement is limited to actual airfare or the entitled train/bus fare by the shortest route, whichever is less.",
+          "example": "Rs 8,000 airfare and Rs 5,000 eligible rail fare: check a Rs 5,000 ceiling, subject to other conditions.",
+          "trap": "Non-entitled air travel under a valid special dispensation has its own authorized-agent and other conditions.",
+          "key": "Check the purpose, scheme validity, cancellation terms and actual entitlement.",
+          "lines": [
+            "Reimbursement actual air fare और shortest route की entitled train या bus fare में जो कम हो, उस तक limited है।",
+            "Example: flight eight thousand rupees और eligible rail fare five thousand हो, तो five thousand की ceiling check होगी; बाकी conditions अलग check करें।",
+            "Valid special dispensation के तहत non-air-entitled flight के लिए authorized agents की अलग requirement है। Scheme की current validity और cancellation rules भी पहले verify करें।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "LTC claim clocks and delegated relaxation",
+      "source": "DoPT LTC FAQ 1 Jul 2025 · question 35; 21 Dec 2023 OM",
+      "audio": "14-ltc-claim-clocks.mp3",
+      "beats": [
+        {
+          "heading": "DOPT FAQ  /  LTC CLAIM DEADLINES",
+          "cards": [
+            [
+              "No advance",
+              "Within 3 months"
+            ],
+            [
+              "Advance drawn",
+              "Within 1 month"
+            ],
+            [
+              "Clock",
+              "After return journey"
+            ],
+            [
+              "Not",
+              "Tour TA's 60 days"
+            ]
+          ],
+          "rule": "The FAQ states one month after return when an LTC advance is drawn and three months when none is drawn.",
+          "example": "An employee without an LTC advance submits the claim within three months of the return journey.",
+          "trap": "These LTC clocks are separate from the general 60-day tour/transfer/training TA rule.",
+          "key": "Record whether an advance was drawn and the actual return date.",
+          "lines": [
+            "एल टी सी claim की clock official tour टी ए से अलग है। DoPT FAQ के मुताबिक advance लिया हो तो return journey के बाद एक महीने के अंदर claim दें।",
+            "Advance नहीं लिया हो तो return journey के बाद तीन महीने के अंदर claim दें।",
+            "Example: बिना advance वाला employee return की date note करके तीन महीने में एल टी सी bill submit करता है। इसे tour टी ए के sixty days से confuse मत करिए।"
+          ]
+        },
+        {
+          "heading": "DOPT FAQ  /  LATE CLAIM IS NOT AUTOMATIC",
+          "cards": [
+            [
+              "No advance",
+              "Delegated up to 6 months"
+            ],
+            [
+              "Advance",
+              "Delegated up to 3 months"
+            ],
+            [
+              "With advance",
+              "Refund + penal interest"
+            ],
+            [
+              "Approval",
+              "Financial adviser concurrence"
+            ]
+          ],
+          "rule": "The FAQ gives limited delegated relaxation with financial-adviser concurrence and extra conditions where an advance was drawn.",
+          "example": "A late LTC claimant asks the department for the applicable relaxation rather than assuming approval.",
+          "trap": "Where an advance was drawn, the FAQ requires refund of the entire advance with penal interest as specified.",
+          "key": "Late claims require the prescribed authority, time limits and conditions.",
+          "lines": [
+            "Late एल टी सी claim automatically approve नहीं होता। FAQ में department और Financial Adviser की concurrence से limited relaxation दी गई है।",
+            "Without advance वाले case में six months तक, और advance वाले case में three months तक की stated limits हैं। Advance वाले case में पूरा advance और prescribed penal interest refund की condition भी है।",
+            "Example: late claim में employee reason और documents देता है और competent authority से decision मांगता है; extra time को automatic right नहीं समझता।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Technical resignation: specific transfer-TA cases",
+      "source": "DoPT Technical Resignation and Lien OM 24 Nov 2022 · paras 2.1, 3.6.3",
+      "audio": "15-technical-resignation.mp3",
+      "beats": [
+        {
+          "heading": "DOPT OM  /  TECHNICAL RESIGNATION",
+          "cards": [
+            [
+              "Route",
+              "Proper channel"
+            ],
+            [
+              "Selection",
+              "Another Government post"
+            ],
+            [
+              "Resignation",
+              "Administrative formality"
+            ],
+            [
+              "Benefits",
+              "Only if rules allow"
+            ]
+          ],
+          "rule": "The DoPT consolidation explains when resignation is technical and preserves benefits only where otherwise admissible.",
+          "example": "An employee applies through the proper channel, is selected, and resigns as required for administration.",
+          "trap": "Calling every resignation technical does not make the conditions true.",
+          "key": "Verify the accepted resignation, application route and applicable service rules.",
+          "lines": [
+            "Technical resignation के लिए DoPT के twenty twenty two consolidated order को देखें। Proper channel से Government post के लिए apply किया, selection हुई, और administrative reason से resignation देना पड़ा, तो stated conditions पर वो technical हो सकता है।",
+            "Example: employee approved channel से दूसरी Government post में select होता है और required resignation देता है। Past service या बाकी benefits अलग rules की conditions पर depend करते हैं।",
+            "हर resignation को technical बोल देने से benefits automatic नहीं बनते।"
+          ]
+        },
+        {
+          "heading": "DOPT OM  /  TRANSFER TA IS CONDITIONAL",
+          "cards": [
+            [
+              "Specific case",
+              "Open competition / interview"
+            ],
+            [
+              "Appointment",
+              "Central Government post"
+            ],
+            [
+              "Exception",
+              "Temporary central: under 3 years"
+            ],
+            [
+              "Action",
+              "Check service and order"
+            ]
+          ],
+          "rule": "Paragraph 3.6.3 addresses qualifying open-competition appointments and excludes temporary Central employees with under three years' regular continuous service.",
+          "example": "A temporary Central employee with two years' regular continuous service falls within that stated exclusion.",
+          "trap": "Do not generalize the paragraph to every resignation, service or appointment.",
+          "key": "Transfer TA depends on the exact appointment, status, service and applicable rules.",
+          "lines": [
+            "उसी order के paragraph three point six point three में open competition या interview से Central Government post पर appointment का specific transfer टी ए rule है।",
+            "उसमें temporary Central Government employee की regular continuous service तीन साल से कम हो, तो transfer टी ए नहीं मिलता। Permanent या provisionally permanent State employee के लिए भी paragraph की अलग wording देखें।",
+            "Example: temporary Central employee की ऐसी service दो साल है, तो वो इस stated exclusion में आता है। बाकी cases में appointment और service status check करना जरूरी है।"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Retirement grant: the 2022 amendment",
+      "source": "DoE OM 6 Jan 2022 · 2017 retirement TA order · 2021 claim OM",
+      "audio": "16-retirement-ctg.mp3",
+      "beats": [
+        {
+          "heading": "DOE AMENDMENT  /  RETIREMENT CTG",
+          "cards": [
+            [
+              "From",
+              "6 January 2022"
+            ],
+            [
+              "General CTG",
+              "80% of last basic pay"
+            ],
+            [
+              "Residence",
+              "Actual change required"
+            ],
+            [
+              "Evidence",
+              "Prescribed declaration"
+            ]
+          ],
+          "rule": "For retirement settlement, the 2022 OM removes the 20 km condition, subject to an actual change of residence and other conditions.",
+          "example": "Last basic pay Rs 50,000: qualifying full CTG is Rs 40,000, subject to the applicable rules.",
+          "trap": "Do not treat old one-third or distance wording as the current general retirement CTG rule.",
+          "key": "The 2022 order applies from its date of issue and requires a prescribed self-declaration.",
+          "lines": [
+            "Retirement Composite Transfer Grant, यानी सी टी जी, के लिए DoE का six January twenty twenty two amendment important है।",
+            "Retirement के बाद settlement में twenty kilometre वाली condition हटाई गई, लेकिन residence का actual change और prescribed declaration जरूरी है। General rate last month's basic pay का eighty percent है, बाकी applicable conditions के साथ।",
+            "Example: last basic pay fifty thousand rupees हो, तो eligible full सी टी जी forty thousand rupees बनता है। Order अपनी issue date से effective है।"
+          ]
+        },
+        {
+          "heading": "DOE AMENDMENT  /  ISLANDS AND CLAIM CLOCK",
+          "cards": [
+            [
+              "A&N / Lakshadweep",
+              "To or from: 100%"
+            ],
+            [
+              "Subject to",
+              "Applicable order terms"
+            ],
+            [
+              "Claim clock",
+              "180 days after journey"
+            ],
+            [
+              "Separate",
+              "Journey eligibility"
+            ]
+          ],
+          "rule": "The OM preserves 100% CTG for qualifying settlement to or from A&N and Lakshadweep; the claim clock is a separate question.",
+          "example": "For qualifying island settlement and Rs 50,000 last basic, check the 100% rate and all conditions.",
+          "trap": "The time to undertake a retirement move is not the same thing as the claim-submission clock.",
+          "key": "Rate, settlement conditions, journey timing and filing deadline must each be checked.",
+          "lines": [
+            "Andaman and Nicobar या Lakshadweep island territories से या वहाँ qualifying settlement पर order के मुताबिक सी टी जी last basic pay का one hundred percent है, applicable terms के साथ।",
+            "Example: eligible island case में fifty thousand basic pay पर इस rate से fifty thousand rupees check होंगे।",
+            "Retirement journey का टी ए claim normally journey के बाद one hundred eighty days में देने वाली rule, move करने की eligibility period से अलग है।"
+          ]
+        }
+      ]
+    },
+    {
+      "audio": "17-delay-and-wrap.mp3",
+      "title": "Delayed claims & next steps",
+      "source": "DoE 2018 claim OM · para 5; Batch 1 ledger",
+      "beats": [
+        {
+          "heading": "18A  |  Claims kept in abeyance",
+          "cards": [
+            [
+              "> 1 YEAR",
+              "HoD investigates"
+            ],
+            [
+              "GENUINE",
+              "Support documents"
+            ],
+            [
+              "REASONS",
+              "Delay explained"
+            ],
+            [
+              "PAYMENT",
+              "Usual checks"
+            ]
+          ],
+          "rule": "A claim in abeyance over one year is investigated by the Head of Department.",
+          "example": "A long-pending claim goes with supporting papers for genuineness and delay review.",
+          "trap": "This is not automatic condonation of every late claim.",
+          "key": "Genuineness + valid reasons + usual checks are all important.",
+          "lines": [
+            "अगर टी ए claim एक साल से ज्यादा abeyance, यानी pending, रखा गया है, Head of Department को इसे investigate करना चाहिए।",
+            "Example: long pending claim में tickets, papers और delay का reason दें; department genuineness और valid reasons check करके बाकी formal checks करेगा।",
+            "इसका मतलब हर late claim automatically approve होगा, ऐसा नहीं है।"
+          ]
+        },
+        {
+          "heading": "18B  |  What this batch does—and does not—cover",
+          "cards": [
+            [
+              "BATCH 01",
+              "Foundations + claims"
+            ],
+            [
+              "NEXT",
+              "Daily allowance"
+            ],
+            [
+              "LATER",
+              "Transfer / retirement"
+            ],
+            [
+              "VERIFY",
+              "Latest orders"
+            ]
+          ],
+          "rule": "Batch 1 introduces foundations, domestic travel, claims and selected official FAQs and amendments.",
+          "example": "A Level 7 trainee checks air entitlement, booking, certification and claim date.",
+          "trap": "Full Daily Allowance and road tables and detailed transfer conditions remain pending.",
+          "key": "Hypothetical examples • further batches require source-by-source audit.",
+          "lines": [
+            "Batch One में हमने basics, domestic travel, booking, claim deadlines और कुछ verified FAQ और amendments देखे।",
+            "Example: Level Seven का trainee flight लेने से पहले entitlement और booking check करेगा, और trip के बाद certificate और claim की deadline।",
+            "Daily Allowance और road rates के full tables, transfer, retirement और technical resignation की बाकी conditions आगे के batches में आएंगी; complete course अभी finish नहीं हुआ है।",
+            "Detailed examples और official source links साथ वाले guide में हैं। Thanks for watching!"
+          ]
+        }
+      ]
+    }
+  ],
+  "narration_lines_status": "The lines are the exact inputs sent to the selected text-to-speech voice for each section, including replacement recordings for sections 2 and 10. Captions were automatically aligned to the audio; the text was checked with automatic speech recognition but not human-verbatim reviewed."
+}
