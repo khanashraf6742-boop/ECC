@@ -1,0 +1,135 @@
+No.  19024/03/2021-E.lV
+Govemment  of lndia
+Ministry  of Finance
+Department  ol, Expenditure
+
+North Block, New  Delhi.
+Dated  the  31"rDecember,  2021
+
+OFFICE  MEMORANDUM
+Subject: Modification o{ instructions  regarding Booking of Air Tickets on Government
+
+account.
+
+The  unde.signed  is directed  to refer to extant  orders  of this Department  whereby  in all cases
+of air lravel  where  the Governmenl  of lndia  bears the  cost  of air passaqe,  the officials  concerned  are
+to travel  by Air lndia  only and  air tickets  are to be purchased  drrectly  from Air  lndia  or by  utilizing the
+services  of the three Authorized Travel Agents  viz. M/s Balmer  Lawrie  & Company Limiled (8LCL),
+Ivl/s Ashok Travels & Tours  (ATT) and lndian  Railways  Catering and  Tourism Corporation  Ltd.
+(rRcTC).
+
+2.
+ln view  of the decision  of the Governmeal  for disinvestment  of Air  lndia,  it has been decrded
+that  in all cases  of air travel  where  the Government  of lndia  bears lhe cost  of air passage,  air tickets
+shall  be purchased  from the  three Althorized  TravelAgents  viz.
+i) M/s Balmer  Lawrie & Company  Limited (BLCL),
+ii) l\4/s Ashok  Travels  & Tolrs (ATT)
+iii) lndian  Railways  Catering  and  Tourism Corporation  Ltd. (IRCTC)
+
+The travel agents are  expected  to provide  10 the  Govt.  employees  lhe 'Best  available fare'
+
+3.
+on the date of booking  on the  basis oftour  programme  as per their  entitlemenl.
+4.
+The choice of the lravel  agenl for booking  of licket  from lhose  in Para  2 is left open  to the
+lllinislry/Depa(meni  Tickets  may  be arranged  by the office  or may be booked  by the employee
+himself  No agency charges will be paid  to booking  agency  i.e.  any  of the  lhree  Authorized  Travel
+Agents  viz.  M/s Balmer  Lawrie  & Company  Limited,  M/s Ashok  Travels  & Tours  and lndian Railways
+Catering and Tourism  Corporation  Ltd.
+5.
+All l4ileage Poinls earned by Government  employees  on tickets purchased  for official  travel
+shall  continue to be utilized  by the concerned  Department  for other official travel  by their ofilcers.
+Any  usage of these  mileage  points for purpose of private kavel  by an officer  will  atkact  Departmental
+action. This  is to ensure that  the  benefits  out of omcial  kavel which  is funded  by  the  Govelnmenl
+should  accaue to the Government  The travel  agents shall  inform about  accrued  mileage  pornts  to the
+ivlinistry/Department  on quarterly  basis.
+
+6.
+ln case of unavoidable  circumstances,  where  the  booking  of ticket  is done from  unauthorized
+travel  agenvwebsite,  the  Financial  Advisors of the Minislry/Department  and Head  of Department  not
+below  the  rank  of Joint  Secretary  in subordinate/attached  offices are authorized  to grant  relaxation.
+7
+To ensure iimely payment  of air ticket lo the  lravel  agenls,  to confirm  the performance  of
+iourney, the  employee has to submit  a certificate/undertaking  in prescribed proforma (enclosed as
+Annexure-1)  wilhin 7 days  of completion  ofjourney.  TA  bill  may be submitted  later as  per the  existing
+nrles.
+
+-2-
+
+8.
+All Ministries/Departmenls  are  directed  to ensure  strict  compliance  of the order  and  to widely
+circulate this O.M.  in all offices  including attached/subordinate  offices/  autonomous  bodies under  their
+conkol.
+9.
+10.  This is issued with the  approval  of the Finance Secretary  & Secretary Gxpeadilwe)
+
+These  orders  shall be effective  from  01.01.2022.
+
+nl|
+--:--
+(Nirmala  Dev)
+
+To,
+
+All Ministries/Departments  ofthe  Government  of lndia  as per standard  distribution  list.
+
+Copy : O/o  C&AG, UPSC etc- as per standard endorsement list.
+
+Self-declaration  certificate for completion  of Journev
+
+(Annexure  to O.M.  No. 19024/03/2021-E.lV  dated  31st  December.2O2l)
+
+1.
+hereby  declare and  certify that  :
+
+I (Name  of the employee....
+
+... ..........  .....)
+
+2.
+from.........................................to..
+the purpose  of Tour/Training.
+
+lhaveactually performed  the onwardjourneyfrom.....-.....  ... . . .. . ... .. . . to
+...........on......................(date)  and  return journey
+......... on..................  tor
+
+.
+
+OR
+
+lrue  have  actually performed  the  onward iourney
+3.
+from...  ... ......  ...  ... ...  . -....  ...  ... ..
+to
+.............on......................(date)  and  return journey
+from..........................................to......  ...........on..................for
+the  purpose of Transfer/LTc/Retirement. The particulars of the  self and family  members
+who  have performed  journey  either with  the Government  servant  or separately  are as
+under:-
+
+S. No.
+
+t
+
+Relationship  with Govt.  servant
+
+4
+ln case the above  declaration  given by me is not found true at any stage,  I shall
+be liable to disciplinary action under  Central Civit Services  (Classification,  Control  and
+Appeal)  Rules,  1965,  as amended from time to time.
+
+(Signature)
+
+Name of the Government  seruant
+
+Designation
+
+Name  of the Ministry/Department.
+
+To
+
+Adm  n/Establishment  Section
+
+Ministry/Department...
+
