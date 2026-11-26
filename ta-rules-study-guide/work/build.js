@@ -2,7 +2,7 @@
 const fs=require('fs'),path=require('path');
 const {build,strip}=require('./classify');
 const TABLES=require('./tables'),SVGS=require('./svgs');
-const OFF=require('./official'),OFF2=require('./official2'),EXTRA=require('./extra');
+const OFF=require('./official'),OFF2=require('./official2'),EXTRA=require('./extra'),META=require('./meta');
 const OUT=path.join(__dirname,'..','TA_Rules_Study_Guide.html');
 const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const data=build();
@@ -16,6 +16,7 @@ function clean(h,type){
   if(type==='cover'||type==='part-ii-update')h=h.replace(/<h2\b/g,'<h3').replace(/<\/h2>/g,'</h3>');
   h=h.replace(/<h1\b/g,'<h2').replace(/<\/h1>/g,'</h2>');
   h=h.replace(/<a class="back-top"[^>]*>[^<]*<\/a>/g,'');
+  h=h.replace(/<div class="simple"><span class="lbl">/g,'<div class="simple"><span class="lbl" role="button" tabindex="0" aria-expanded="false">');
   h=h.replace(/target="_blank"/g,'target="_blank" rel="noopener noreferrer"');
   h=h.replace(/<table\b/g,'<div class="tablewrap" tabindex="0" role="region" aria-label="Table (scrollable)"><table').replace(/<\/table>/g,'</table></div>');
   return h;
@@ -149,6 +150,17 @@ const calcHtml=`<section class="chapter" id="sec-calc" aria-labelledby="calc-h">
 <h3>Personal effects by road</h3>${sel('c-elevel','Level',[['L6','Level 6 and above'],['L5','Level 5'],['L4','Level 4 and below']])}${num('c-ekm','Kilometres',400)}<p id="o-eff" aria-live="polite"></p>
 <h3>Claim deadline</h3>${sel('c-claim','Claim',[['tour','Tour / transfer / training (60 days)'],['ret','Retirement (180 days)']])}<p><label for="c-date">Journey completed on</label> <input id="c-date" type="date" value="2027-01-10"></p><p id="o-dead" aria-live="polite"></p></div></section>`;
 offIdx.push({seg:'off',id:'sec-calc',head:'Calculators (offline learning aids)',type:'card',sl:'study aid'});
+// ---------- paths, facts, cheat sheets, log ----------
+const pathsHtml=`<section class="chapter" id="sec-paths" aria-labelledby="paths-h"><h2 id="paths-h">Reading paths</h2><div class="front-grid">${META.PATHS.map(pp=>`<div class="fcard"><h3>${esc(pp[0])}</h3><ol>${pp[1].map(x=>`<li><a href="#${x[0]}">${esc(x[1])}</a></li>`).join('')}</ol></div>`).join('')}</div></section>`;
+const BADGE=st=>/^Official-checked/.test(st)?'tb-order':/Source only/.test(st)?'tb-explanation':/Conflict|Not in/.test(st)?'tb-exception':'tb-proviso';
+const factsHtml=`<section class="chapter" id="sec-facts" aria-labelledby="facts-h"><h2 id="facts-h">Key-facts register — what is verified and what is not</h2><p class="secmeta">Status is for the fact as stated; it tells you how far to trust it. “Official-checked” = read in the official PDF on 26.11.2026.</p><div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Verification badges</span><div class="tablewrap" tabindex="0" role="region" aria-label="Key facts"><table><thead><tr><th scope="col">Fact</th><th scope="col">Status</th><th scope="col">Where</th></tr></thead><tbody>${META.FACTS.map(f=>`<tr><th scope="row">${esc(f[0])}</th><td><span class="tb ${BADGE(f[1])}">${esc(f[1])}</span></td><td>${esc(f[2])}</td></tr>`).join('')}</tbody></table></div></div>
+<div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Corrected answer sheet (where the guide and the official text differ)</span><div class="tablewrap" tabindex="0" role="region" aria-label="Corrected answers"><table><thead><tr><th scope="col">Topic</th><th scope="col">Memorise this</th></tr></thead><tbody>${META.CORR.map(c=>`<tr><th scope="row">${esc(c[0])}</th><td>${esc(c[1])}</td></tr>`).join('')}</tbody></table></div></div></section>`;
+const tb=(t)=>`<div class="cheat"><div class="tablewrap" tabindex="0" role="region" aria-label="${esc(t.title)}"><table><caption>${esc(t.title)} <small>— ${esc(t.cite)}</small></caption><thead><tr>${t.head.map(c=>`<th scope="col">${esc(c)}</th>`).join('')}</tr></thead><tbody>${t.rows.map(r=>`<tr>${r.map((c,i)=>i?`<td>${esc(c)}</td>`:`<th scope="row">${esc(c)}</th>`).join('')}</tr>`).join('')}</tbody></table></div></div>`;
+const pick=k=>TABLES.find(t=>t.title.startsWith(k));
+const cheatHtml=`<section class="chapter" id="sec-cheat" aria-labelledby="cheat-h"><h2 id="cheat-h">Cheat sheets (printable)</h2><p class="noprint"><button class="btn" id="printcheat">Print / save cheat sheets as PDF</button> <span class="secmeta">Prints only this section, one topic per page. Study aid, built from the verified tables above.</span></p>
+<div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Cheat sheets</span>${[OFF2.TABLES[0],OFF2.TABLES[1],pick('Food DA by absence'),pick('CTG at a glance'),OFF2.TABLES[3],OFF2.TABLES[2]].map(tb).join('')}<div class="cheat"><p><b>Five-step audit (from the source’s AO module):</b> Sanction → Entitlement → DA and hotel → Transfer/retirement → Settlement (60/180 days).</p><p><b>Always check:</b> pay level; date of journey completion; advance vs claim clock; official order number; Official-text check boxes for that rule.</p></div></div></section>`;
+const logHtml=`<section class="chapter" id="sec-log" aria-labelledby="log-h"><h2 id="log-h">Change log and currency check</h2><div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Change log</span><ul>${META.LOG.map(l=>`<li><b>${esc(l[0])}:</b> ${esc(l[1])}</li>`).join('')}</ul></div><div class="study-aid unc" data-chrome="1"><span class="aid-label">Re-check before relying on this file</span><ul>${META.RECHECK.map(r=>`<li>${esc(r)}</li>`).join('')}</ul></div></section>`;
+[['sec-paths','Reading paths'],['sec-facts','Key-facts register'],['sec-cheat','Cheat sheets (printable)'],['sec-log','Change log and currency check']].forEach(x=>offIdx.push({seg:'off',id:x[0],head:x[1],type:'card',sl:'study aid'}));
 // ---------- front matter ----------
 const abbr=JSON.parse(fs.readFileSync(path.join(__dirname,'abbr.json'),'utf8'));
 const tk=data.find(s=>s.key==='tk').pieces.find(p=>/id="glossary"/.test(p.html));
@@ -170,7 +182,7 @@ const masterIdx=`<section class="chapter" id="toc" aria-labelledby="toc-h"><h2 i
 const xrefKeys=Object.keys(XR).sort((a,b)=>XR[a].n-XR[b].n||a.localeCompare(b));
 const xrefSec=`<section class="chapter" id="sec-xref" aria-labelledby="xref-h"><h2 id="xref-h">Cross-reference index — where each SR is cited</h2><p class="secmeta">Generated at build time from the source text; each “SR n” in the text above links here. See also Appendix C (<a class="xref" href="#index">Reverse-Lookup Index</a>).</p><ul>${xrefKeys.map(k=>`<li id="xref-${k}"><b>${esc(XR[k].label)}</b> — ${XR[k].cites.map(c=>`<a href="#${c.id}">${esc((c.head||c.id).slice(0,70))}</a> <small>(${c.id})</small>`).join('; ')}</li>`).join('')}</ul></section>`;
 // ---------- assemble ----------
-const sideLinks=[['sec-start','Front matter'],['toc','Master index'],['sec-official','Official verification (read first)'],['sec-traps','Exam traps'],['sec-calc','Calculators']].concat(data.map(s=>[SECID(s.key),s.title.replace(/ — .*$/,m=>m.length>46?m.slice(0,44)+'…':m)]),[['sec-xref','Cross-reference index']]);
+const sideLinks=[['sec-start','Front matter'],['sec-paths','Reading paths'],['toc','Master index'],['sec-official','Official verification (read first)'],['sec-facts','Key-facts register'],['sec-traps','Exam traps'],['sec-cheat','Cheat sheets'],['sec-calc','Calculators']].concat(data.map(s=>[SECID(s.key),s.title.replace(/ — .*$/,m=>m.length>46?m.slice(0,44)+'…':m)]),[['sec-xref','Cross-reference index'],['sec-log','Change log & currency']]);
 const css=fs.readFileSync(path.join(__dirname,'assets/style.css'),'utf8');let js=fs.readFileSync(path.join(__dirname,'assets/app.js'),'utf8');
 const deckJson=JSON.stringify(deck).replace(/</g,'\\u003c');
 const doc=`<!DOCTYPE html>
@@ -186,12 +198,15 @@ ${['proviso','exception','om','order','faq','explanation'].map(t=>`<label><input
 <div id="layout"><nav id="side" aria-label="Table of contents"><h2>Contents</h2><div id="prog" role="progressbar" aria-label="Review progress" aria-valuemin="0" aria-valuenow="0"><i></i></div><div class="secmeta"><span id="progtxt"></span> · <button id="progreset" class="btn" style="padding:2px 8px;font-size:.75rem">Reset</button></div>
 <ol>${sideLinks.map(l=>`<li><a href="#${l[0]}">${esc(l[1])}</a></li>`).join('')}</ol></nav>
 <main id="main" tabindex="-1"><h1>Travelling Allowance Rules — Exam Study Guide</h1><p class="secmeta">Complete verbatim conversion of “TA Rules Master v4 — 22 November 2026”, with clearly labelled study aids.</p>
-${front}${masterIdx}
+${front}${pathsHtml}${masterIdx}
 ${offHtml}
+${factsHtml}
 ${trapsHtml}
+${cheatHtml}
 ${calcHtml}
 ${data.map(s=>frags[s.key]).join('\n')}
-${xrefSec}</main></div>
+${xrefSec}
+${logHtml}</main></div>
 <div id="ov" role="dialog" aria-modal="true"><div id="ovbox"></div></div><div id="toast" role="status"></div>
 <script type="application/json" id="deckdata">${deckJson}</script>
 <script>${js}

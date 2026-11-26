@@ -70,4 +70,11 @@ var el=$('#c-elevel').value,ek=+$('#c-ekm').value||0;$('#o-eff').innerHTML=ek+' 
 var dv=$('#c-date').value,ty=$('#c-claim').value;if(dv){var d=new Date(dv+'T00:00:00'),days=ty==='ret'?180:60,a=new Date(d.getTime()+days*DAY),b=new Date(d.getTime()+(days+1)*DAY),f=function(x){return x.toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'})};
 $('#o-dead').innerHTML='Journey completed '+f(d)+'. O.M. reading (“within '+days+' days succeeding the date of completion”): last day <b>'+f(a)+'</b>. GFR 290 reading (due the next day, then '+days+' days): '+f(b)+'. Plan to the earlier date. This does not cover advance adjustment, LTC or family/effects triggers.'}else $('#o-dead').textContent='Enter the date the journey was completed.'}
 $$('#sec-calc input,#sec-calc select').forEach(function(e){e.addEventListener('input',calc);e.addEventListener('change',calc)});calc();
+/* print cheat sheets, collapsible Hinglish blocks */
+var pc=$('#printcheat');if(pc)pc.addEventListener('click',function(){document.body.classList.add('print-cheat');window.print()});window.addEventListener('afterprint',function(){document.body.classList.remove('print-cheat')});
+function tg(l){var d=l.parentNode;var o=d.classList.toggle('open');l.setAttribute('aria-expanded',o)}
+document.addEventListener('click',function(e){var l=e.target.closest&&e.target.closest('.simple>.lbl');if(l)tg(l)});
+document.addEventListener('keydown',function(e){if((e.key==='Enter'||e.key===' ')&&e.target.matches&&e.target.matches('.simple>.lbl')){e.preventDefault();tg(e.target)}});
+var ea=$('#expall'),ca=$('#colall');if(ea)ea.addEventListener('click',function(){$$('.simple').forEach(function(d){d.classList.add('open');$('.lbl',d).setAttribute('aria-expanded','true')})});if(ca)ca.addEventListener('click',function(){$$('.simple').forEach(function(d){d.classList.remove('open');$('.lbl',d).setAttribute('aria-expanded','false')})});
+var qq=$('#q');if(qq)qq.addEventListener('input',function(){setTimeout(function(){$$('.simple').forEach(function(d){if($('mark.sm',d)){d.classList.add('open')}})},450)});
 })();
