@@ -1,0 +1,347 @@
+
+### [ch03-002] chapter-banner L937-937 TA on Tour & Daily Allowance
+Chapter 3
+TA on Tour & Daily Allowance
+
+
+
+### [ch03-003] study-map L938-947 
+
+Chapter study map PARTIAL / OPEN
+
+
+Focus Separate fare, hotel/local-travel and food Daily Allowance; identify time bands, facilities and local-journey rules.
+
+Source review Base DA structure/current input has targeted coverage, but voucher conditions are partly pending; local-journey/GIO sources and SR 164 training claims remain open.
+
+Study move For each example, state the journey type, time band and facility facts; keep SR 164 schedules/options on hold.
+
+
+
+
+
+
+
+### [ch03-004] card L948-983 Very High-Yield The lump-sum DA system (replacing old reimbursement)
+
+Very High-Yield The lump-sum DA system (replacing old reimbursement)
+
+Exact-Source Fact Card
+Tour Daily Allowance is divided into three components. The table separates the payment method from the documentation conditions:
+
+
+Tour DA components and documentation
+
+Component | Payment method | Documentation / scope note |
+
+
+Hotel / staying accommodation | Reimbursement of eligible charges up to the applicable ceiling. | For Levels 8 and below, the 13.07.2017 O.M. provides a self-certified route up to the ceiling. It separately states a Class-X ceiling of ₹1,000/day for these levels against relevant vouchers. The interaction for a Class-X claim within the ordinary ceiling remains unresolved in this guide. |
+
+Local travelling charges | Reimbursement up to the applicable Pay-Level ceiling. | Levels 8 and below may use the stated self-certification route. A separate 22.12.2020 O.M. covers Level 9–11 local-travel documentation under its conditions; it does not itself change vehicle entitlement or ceiling. |
+
+Food | Lump sum; it replaced the earlier food-bill reimbursement approach. | No separate food vouchers are required under the cited 2017 O.M. |
+
+
+
+Class-X caution: Do not state that every Level 8-and-below Class-X hotel claim necessarily requires a voucher—or that none does—based on this summary. The ₹1,000/day Class-X ceiling is voucher-backed, but the overlap with the general self-certification route within the ordinary ceiling is unresolved; MCQ-TA-06 is therefore unscored.
+
+
+
+[Hinglish block omitted from dump]
+
+Class-X scope caution: The ₹1,000/day Class-X hotel ceiling for Levels 8 and below is voucher-backed. The interaction with the ordinary self-certification route for claims within the ordinary ceiling remains unresolved; do not present a universal exception as settled.
+
+
+Memory Hook " H-T-F — Hotel, Travel, Food: three components; food is a lump sum; keep the Class-X voucher ceiling separate from the unresolved self-certification overlap."
+
+
+
+
+
+
+### [ch03-005] card L984-1008 Very High-Yield Daily Allowance on Tour — Disturbances, Curfews, Sundays, and Holiday Rules (SR 51, SR 72, SR 73)
+
+Very High-Yield Daily Allowance on Tour — Disturbances, Curfews, Sundays, and Holiday Rules (SR 51, SR 72, SR 73)
+
+Exact-Source Fact Card
+Under Swamy's Compilation of FR & SR (Part-II, Travelling Allowances) and GIOs under SR 51, SR 72, and SR 73 , the admissibility of Daily Allowance (DA) during extraordinary situations and halts on tour is strictly regulated:
+
+
+1. DA during Disturbances/Imposition of Curfew (GIO (4)(b), SR 51):
+If an employee's stay on tour is involuntarily extended due to natural disasters, civil disturbances, blockades, or the imposition of a curfew, and their absence is regularized as Special Casual Leave (SCL) , Daily Allowance (Food & Hotel) is fully admissible for the entire period of such Special Casual Leave.
+
+2. DA for Sundays and Holidays (GIO (1), SR 72):
+Daily Allowance is admissible for Sundays and public holidays falling during a tour ONLY if the employee is actually on camp (at the tour station) on those days and not merely constructively on camp. No DA is allowed if the employee leaves the tour station to visit their family or headquarters on weekends.
+
+3. DA during Leave/Restricted Holidays (GIO (1), SR 72):
+NO Daily Allowance is admissible for any kind of leave (Casual Leave, Earned Leave, etc.) or Restricted Holidays (RH) availed of by the employee while on tour.
+
+4. The 180-Day Continuous Halt Limit (GIO (1), SR 73):
+A 180-day continuous-halt limit appears in the referenced secondary material, but the current primary text and its application to a particular training course have not been verified. Do not use this general tour note to decide training DA; see the source-status card and check the current SR/GIO and facility terms.
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch03-006] card L1009-1052 Very High-Yield Local-Journey TA & DA — SR 71 Clarification and Source Status
+
+Very High-Yield Local-Journey TA & DA — SR 71 Clarification and Source Status
+
+Targeted signed-source check · 12.09.2018
+The signed Department of Expenditure letter No. 904302/2018-E.IV dated 12.09.2018 ( scan of the signed letter, hosted by a secondary site ) says local-journey TA is admissible when the temporary duty point is beyond 8 km from the normal place of duty, whether the journey is made from residence or from the normal place of duty. For that journey it states mileage allowance plus 50% of DA. The letter does not reproduce current SR 71/GIO text and does not settle journeys at/below 8 km, general public-fare/private-vehicle rules, or a DFPR election. A separate official DoE O.M. dated 22.01.2009 allowed a historical complete-package choice between the 23.09.2008 and 17.04.1998 daily-allowance-on-tour schedules for a particular tour; it concerns tour DA, not local journeys or DFPR conveyance-hire, and its continuing status was not traced here. The DoE 13.07.2017 O.M. states that it supersedes the 23.09.2008 O.M. in respect of TA. The official DFPR 2024 Gazette , Annexure-II (see Rule 12), “General Conditions for incurring Expenditures,” para (8), only refers conveyance-hire financial limits/guidelines to extant Finance Ministry instructions; it sets no local-journey threshold, rate, election, or DA consequence.
+
+
+1. Local-journey DA components in the signed clarification:
+For the qualifying journey beyond 8 km from the normal duty point, hotel accommodation is not applicable. The letter sets local food DA at 50% of the tour food lump sum by absence band. The 13.07.2017 O.M. reckons absence midnight-to-midnight:
+
+Length of Absence | Local Journey Food DA Rate |
+
+Less than 6 hours (< 6 hrs) | 15% of the tour food lump sum (50% of the 30% tour band) |
+
+Between 6 to 12 hours (6–12 hrs) | 35% of the tour food lump sum (50% of the 70% tour band) |
+
+More than 12 hours (> 12 hrs) | 50% of the tour food lump sum (50% of the 100% tour band) |
+
+
+
+
+2. Mileage / conveyance treatment — verified and open issues:
+The signed 12.09.2018 letter states mileage allowance plus 50% of DA for the qualifying local journey.
+
+Not stated in that letter: a DFPR alternative, binding election, or “no DA” consequence.
+
+DFPR 2024 Annexure-II, para. (8): refers conveyance-hire financial limits/guidelines to extant Finance Ministry instructions; the operative instruction has not been verified.
+
+
+
+
+3. Journeys at or below 8 km — treatment not established:
+The signed letter measures the qualifying distance from the normal place of duty , even when travel starts at residence; it does not decide trips at or below 8 km.
+
+No reviewed primary text here establishes a general public-conveyance-fare entitlement for those trips.
+
+No reviewed primary text here establishes a blanket taxi/auto/own-car ban or “no reimbursement of any kind.”
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch03-007] card L1053-1068 Fact/Date/Number Heavy Currently Payable Daily Allowance Rates — Hotel / Local Travel / Food lump sum, by Pay Level
+
+Fact/Date/Number Heavy Currently Payable Daily Allowance Rates — Hotel / Local Travel / Food lump sum, by Pay Level
+
+Exact-Source Fact Card
+The table below reproduces the 25%-enhanced Daily Allowance figures associated with DA crossing 50% w.e.f. 01.01.2024. The current DA is 63% w.e.f. 01.07.2026; that fact alone does not recalculate these fixed ceilings. The listed values are based on the cited 2024 reproduction and have not all been independently revalidated for this update.
+
+
+
+
+Pay Level | Hotel ceiling (per day) | Travel-within-city ceiling (per day) | Food — lump sum (per day) |
+
+14 and above | Up to ₹9,375 | AC taxi — actual expenditure | Not exceeding ₹1,500 |
+
+12 & 13 | Up to ₹5,625 | AC taxi up to 50 km/day | Not exceeding ₹1,250 |
+
+9 to 11 | Up to ₹2,812.50 | Up to ₹422.50/day | Not exceeding ₹1,125 |
+
+6 to 8 | Up to ₹937.50 | Up to ₹281.25/day | Not exceeding ₹1,000 |
+
+5 and below | Up to ₹562.50 | Up to ₹141.25/day | Not exceeding ₹625 |
+
+
+Analogy Think of these three ceilings like a travel per-diem "wallet" split into three labelled envelopes — Hotel, Local-Taxi, Food — each with its own cap; you can't overspend one envelope by underspending another.
+
+
+
+
+
+
+### [ch03-008] card L1069-1091 High-Yield Timing rules — how much DA for how long you were away
+
+High-Yield Timing rules — how much DA for how long you were away
+
+Exact-Source Fact Card
+Absence from headquarters is reckoned on a midnight-to-midnight (calendar day) basis under the 13.07.2017 O.M. The tour food-DA scale is <6 hours: 30%; 6–12 hours: 70%; >12 hours: 100%. The signed DoE letter No. 904302/2018-E.IV dated 12.09.2018 states that, for qualifying local journeys (temporary duty point beyond 8 km from normal place of duty), local food DA is 50% of the tour amount: 15% / 35% / 50%. The complete current SR 71/GIO and at/below-8-km treatment remain unverified.
+
+
+
+
+Length of absence from HQ | % of lump-sum DA payable |
+
+Less than 6 hours | 30% |
+
+6 to 12 hours | 70% |
+
+More than 12 hours | 100% |
+
+
+Trap note: keep the 30/70/100% tour-food-DA scale separate from the signed 12.09.2018 DoE local-journey clarification, which states 15/35/50% of the tour amount for journeys beyond 8 km from the normal place of duty. The full current SR 71/GIO text remains open.
+
+Worked Example
+Scenario: An officer in Level 9 tours from 9:00 AM to 4:00 PM the same day (7 hours), headquartered in a non-X city.
+Given: Level 9 lump-sum food DA = ₹1,125/day (current rate).
+Step 1: Absence duration = 7 hours → falls in the "6–12 hours" band.
+Step 2: Applicable percentage = 70%.
+Step 3: DA payable = 70% × ₹1,125 = ₹787.50 .
+Result: ₹787.50 is the food-component lump sum; hotel/travel components are claimed separately if actually incurred.
+Counter-example: If the same officer's tour lasted 5 hours 45 minutes instead, they'd drop into the "<6 hours" band and receive only 30% (₹337.50) — a 40-percentage-point cliff for a 15-minute difference. This cliff-edge is a favourite trap in exams.
+
+
+
+
+
+
+
+### [ch03-009] card L1092-1105 Moderate-Yield · source status Training DA — distinct facility scenarios and unresolved authority
+
+Moderate-Yield · source status Training DA — distinct facility scenarios and unresolved authority
+
+Targeted source review · 22.11.2026
+Use this as a warning, not as a ready-to-calculate schedule. DoE O.M. No. 19030/1/2017-E.IV dated 13.07.2017 sets the current tour-DA components, and DoE O.M. dated 01.02.2018 addresses free boarding and lodging. The current official SR 164/GIO text and its order history were not retrieved. Historical/secondary transcriptions describe different training scenarios; they are research leads, not proof that a schedule remains operative for every course.
+
+
+Training arrangement | What the checked material supports |
+
+No boarding/lodging provided | Secondary SR 164 transcription: full DA for the first 180 days and nil thereafter. Current primary text/status not verified. |
+
+Institute has boarding/lodging facilities | Secondary SR 164 transcription: first 30 days full DA and next 150 days half DA. Do not relabel this as the free-facilities rule. |
+
+Boarding and lodging are free | Official DoE O.M. 01.02.2018: only admissible local travel may be claimed under Para 2E(i)/(iii); the related Hotel/Food components are not payable. The O.M. discontinues the earlier flat 25% DA treatment. |
+
+Compulsory residential programme with boarding/lodging at fixed rates | A separate special allowance is described in secondary transcriptions (outstation: actual boarding/lodging expenditure plus one-quarter of full DA; local: actual boarding/lodging expenditure only). Its primary text, present status, scope, and interaction with the 2018 O.M. remain unresolved; do not use this as a current claim formula. |
+
+
+Before calculating: distinguish free facilities from compulsory facilities charged at fixed rates; verify the current rule/order, programme sanction, trainee status, and actual costs. See workspace file TA_Rules_Source_Matrix_Training_SR164.csv .
+
+
+
+
+
+
+### [ch03-010] card L1106-1126 High-Yield Split Duty & Combined Absence — DA Calculation Rule
+
+High-Yield Split Duty & Combined Absence — DA Calculation Rule
+
+Exact-Source Fact Card
+Under the TA Rules, Daily Allowance is calculated on a calendar-day (midnight-to-midnight) basis . This means that if an official is required to leave headquarters for a task, return mid-day, and then go out again the same day (a "split duty" scenario), the total absence from headquarters within that single calendar day is aggregated for DA calculation:
+
+
+Split Duty Example: An official leaves HQ at 9:00 AM, returns at 1:00 PM (4 hours absent), then goes out again at 3:00 PM and returns at 7:00 PM (4 hours absent). Total absence on that calendar day = 4 + 4 = 8 hours . This falls in the 6–12 hours band → 70% DA is payable.
+
+Key Principle: The periods are not treated as two separate journeys each attracting 30% DA. Instead, the combined total absence determines the applicable percentage band for the entire day.
+
+Local-journey scope: The signed 12.09.2018 letter gives the 15/35/50 food-DA scale for qualifying local journeys (temporary duty point beyond 8 km from normal place of duty). It does not address split-trip aggregation; do not extend the ordinary-tour aggregation statement to local journeys without the controlling current SR/GIO.
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch03-011] micronote L1127-1136 
+
+Transit DA for Overnight Journeys — Calendar-Day Calculation
+
+When a train or flight spans across midnight, the DA for each calendar day is calculated separately based on the actual hours of absence on that specific day. This is not a "full day" just because you were travelling.
+
+Worked Example: A Level 9 officer (Food DA ceiling: ₹1,125/day) boards a train departing at 8:00 AM on Day 1 and arrives at the destination at 2:00 AM on Day 2 .
+
+• Day 1: Absence from 8:00 AM to midnight (24:00) = 16 hours → >12 hours band → 100% DA = ₹1,125.
+• Day 2: Absence from midnight (00:00) to 2:00 AM = 2 hours → <6 hours band → 30% DA = ₹337.50.
+• Total DA for this transit: ₹1,125 + ₹337.50 = ₹1,462.50 .
+
+Key Insight: Day 2's absence is only 2 hours (midnight to 2 AM), NOT a "full travel day." Many candidates wrongly claim 100% DA for both days — a classic trap!
+
+
+
+
+
+### [ch03-012] micronote L1137-1145 
+
+Duty Pass vs TA — Railway Employees' Special Rule
+
+Indian Railway employees are entitled to Duty Passes (free rail travel on official duty) issued under Railway Board rules. This is a separate entitlement from the Travelling Allowance (TA) system covered in this guide.
+
+• If a Railway employee uses a Duty Pass for a journey, they cannot simultaneously claim TA (travel fare) for that same leg of the journey.
+• If a Railway employee is eligible for a Duty Pass but does not use it (e.g., travels by air because rail is not feasible), they cannot claim TA for that leg unless a specific relaxation is granted by the competent authority.
+• Non-Railway Ministries: Employees of all other Central Government Ministries/Departments have no Duty Pass system — they claim TA as per the rules in this guide.
+
+Exam Trap: "A Railway employee eligible for a Duty Pass chooses to travel by air on personal expense and claims TA." → Not admissible without specific relaxation.
+
+
+
+
+
+### [ch03-013] mfs L1146-1159 Master Fact-Sheet — Chapter 3
+Master Fact-Sheet — Chapter 3
+
+
+Item | Value (2017 base) | Reference |
+
+DA components | Hotel + Travel-within-city + Food (lump sum) | O.M. 13.07.2017 |
+
+Self-certification / Class-X hotel | Levels 8 and below: self-certification up to the applicable ceiling; separate Class-X ₹1,000/day ceiling is voucher-backed. Overlap within ordinary ceiling unresolved. | O.M. 13.07.2017 |
+
+DA timing scale | <6h=30%, 6–12h=70%, >12h=100% | O.M. 13.07.2017 |
+
+Training DA / boarding-lodging | Secondary SR 164 transcriptions describe facility-specific schedules; the current primary text/status is not verified. DoE O.M. 01.02.2018 separately addresses free boarding/lodging. The fixed-rate special-allowance interaction remains open. | SR 164/GIOs (pending [D]); DoE O.M. 01.02.2018 |
+
+Max DA period generally | 180 days of absence from HQ | O.M. 13.07.2017 |
+
+Absence reckoned | Midnight to midnight | O.M. 13.07.2017 |
+
+Split Duty DA | Combined absence within a calendar day determines the DA band | FR/SR calendar-day rule |
+
+Overnight transit DA | Each calendar day calculated separately (midnight-to-midnight) | O.M. 13.07.2017 |
+
+Duty Pass (Railway employees) | Cannot claim TA if eligible for Duty Pass (unless relaxation granted) | Railway Board rules |
+
+
+
+
+
+### [ch03-014] review L1160-1160 Review Protocol
+Review Protocol
+If shaky on the 30/70/100% scale, drill the worked example again with a different pay level. Active recall: (1) Which DA component never needs a voucher, and why? (2) At what absence duration do you cross from 30% to 70%? (3) Which official order addresses free boarding/lodging, and what remains unresolved for fixed-rate residential training? (4) In a split duty (4h + 4h same day), what DA band applies? (5) Can a Railway employee claim TA if eligible for a Duty Pass?
+
+
+
+### [ch03-015] recap L1161-1174 Rapid-Revision Recap — Chapter 3
+Rapid-Revision Recap — Chapter 3
+
+
+DA = Hotel + Travel-within-city + Food(lump sum, no voucher needed).
+
+Level ≤8: self-certification applies up to the stated ceiling; the separate Class-X ₹1,000/day hotel voucher ceiling is not enough to settle the overlap for claims within the ordinary ceiling.
+
+Timing: <6h→30%, 6–12h→70%, >12h→100% of lump sum.
+
+Training DA: separate absent, free, and compulsory fixed-rate facilities. The SR 164 schedules remain secondary-source leads; DoE O.M. 01.02.2018 governs its stated free-facility scenario. Verify the current order before calculating.
+
+DA generally payable for max 180 days of continuous absence.
+
+Absence measured midnight-to-midnight (calendar-day basis).
+
+Split Duty: Combined absence in a single day determines DA band (e.g., 4h + 4h = 8h → 70% DA).
+
+Overnight transit: Each calendar day's DA calculated separately (midnight to midnight).
+
+Duty Pass (Railways): If eligible for Duty Pass, cannot claim TA for that leg without relaxation.
+
+
+
+
+

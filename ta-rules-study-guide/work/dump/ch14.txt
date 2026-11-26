@@ -1,0 +1,492 @@
+
+### [ch14-001] chapter-banner L3367-3367 15 Case Studies — Facts, Conditions & Escalation (Not Rulings)
+Chapter 14
+15 Case Studies — Facts, Conditions & Escalation (Not Rulings)
+
+
+
+### [ch14-002] study-map L3368-3377 
+
+Chapter study map CASE STUDIES / NOT RULINGS
+
+
+Focus Use case studies to identify facts, applicable rules, missing information and escalation points.
+
+Source review The scenarios are not claimant-specific decisions and were not individually validated against every source/fact pattern.
+
+Study move For each case, separate stated facts from assumptions and list what must be verified before deciding.
+
+
+
+
+
+
+
+### [ch14-004] case-box L3379-3384 Core Question Case 1 — Confirmed Employee, 2.5 Years Service
+
+Core Question Case 1 — Confirmed Employee, 2.5 Years Service
+
+Facts: Mr. Sharma joined as Section Officer (Level 8) through UPSC CSS Exam in July 2022. His probation period was 2 years. He was confirmed in July 2024 (confirmation order issued). In January 2025, he was selected for the post of Deputy Secretary (Level 11) through a competitive interview open to Government servants. He submitted technical resignation to join the new post. Total service = 2 years 6 months (confirmed).
+
+Question: Is Mr. Sharma eligible for Transfer Travelling Allowance (TTA) and Joining Time Pay on technical resignation?
+
+
+
+
+
+### [ch14-005] verdict L3385-3389 
+
+⚠️ No TTA / Joining Time Pay conclusion is made here.
+
+Technical-resignation status may be assessed separately under DoPT's conditions. For TTA / Joining Time Pay, these facts raise the unresolved interaction between substituted Rule 4(4) (2015) and DoPT O.M. para 3.6.3 (2022). Confirmation and 2.5 years' service do not, by themselves, resolve that issue in this guide. Check the rule conditions and any later clarification; obtain a written decision from the competent authority.
+
+
+
+
+
+### [ch14-007] case-box L3391-3396 Probation Scenario Case 2 — Probationer, 1.5 Years Service (Not Yet Confirmed)
+
+Probation Scenario Case 2 — Probationer, 1.5 Years Service (Not Yet Confirmed)
+
+Facts: Ms. Patel joined as Inspector (Level 6) through SSC CGL in March 2023. Her probation period is 2 years (until March 2025). In September 2024 (1.5 years of service, still on probation), she was selected for a post in another Central Government department through proper channel. She submitted technical resignation.
+
+Question: Is Ms. Patel eligible for TTA and Joining Time Pay?
+
+
+
+
+
+### [ch14-008] verdict L3397-3401 
+
+⚠️ No TTA / Joining Time Pay conclusion is made here.
+
+The 2022 DoPT consolidation states a restriction for temporary Central Government employees with less than three years' regular continuous service. The 2015 substituted Rule 4(4) may also be relevant if this is a qualifying competitive appointment and its conditions are met. The interaction was not resolved in this audit; the facts given do not support a categorical yes/no answer here. Technical-resignation status is separate.
+
+
+
+
+
+### [ch14-010] case-box L3403-3408 Threshold Case Case 3 — Temporary Employee with Exactly 3 Years Service
+
+Threshold Case Case 3 — Temporary Employee with Exactly 3 Years Service
+
+Facts: Mr. Kumar joined as LDC (Level 2) on ad-hoc basis in January 2021. His service was regularized in June 2021 (after departmental process). He has not been confirmed (no probation prescribed for this post, but also no confirmation order issued — service is "temporary" in nature). In June 2024, he was selected for another post through proper channel. Total regular continuous service = exactly 3 years (June 2021 to June 2024, counting from regularization).
+
+Question: Is Mr. Kumar eligible for TTA and Joining Time Pay?
+
+
+
+
+
+### [ch14-011] verdict L3409-3413 
+
+⚠️ This example does not decide TTA / Joining Time Pay.
+
+DoPT O.M. para 3.6.3 and the 2015 substituted Rule 4(4) must be checked against the actual appointment, service record, and conditions. The guide does not make an individual entitlement ruling from the three-year threshold alone.
+
+
+
+
+
+### [ch14-013] case-box L3415-3420 Lien Scenario Case 4 — Confirmed Employee Joining State Government Post
+
+Lien Scenario Case 4 — Confirmed Employee Joining State Government Post
+
+Facts: Mr. Singh is a confirmed Section Officer (Level 8, Central Government) with 4 years of service. He is selected for a post in a State Government through proper channel. He submits technical resignation.
+
+Question: Does he get TTA? Can he retain lien?
+
+
+
+
+
+### [ch14-014] verdict L3421-3430 
+
+⚠️ TTA is not decided here. The lien statement is a separate topic and remains subject to the applicable DoPT conditions.
+
+Reasoning:
+
+
+TTA: No individual entitlement decision is made here. Check the applicable 2015 Rule 4(4) conditions and DoPT O.M. para 3.6.3, including any later clarification.
+
+Lien (Para 3.1): A permanent Government servant appointed in another Central Government Department/State Government retains lien on parent post for 2 years . He must revert within 2 years (or 3 years in exceptional cases — e.g., if not confirmed in new department within 2 years). An undertaking to this effect is taken at the time of forwarding his application.
+
+Important — Lien will cease if: He does not revert within 2/3 years, OR he is permanently absorbed in the State Government. In that case, lien terminates from the date of absorption.
+
+
+
+
+
+
+### [ch14-016] case-box L3432-3437 Applied Before Joining Case 5 — Employee Applied for Another Post BEFORE Joining Current Service
+
+Applied Before Joining Case 5 — Employee Applied for Another Post BEFORE Joining Current Service
+
+Facts: Ms. Gupta applied for UPSC IAS exam in February 2024 (while in private sector). She joined as Section Officer (Central Govt) through SSC in April 2024. In August 2024, she got selected for IAS and was asked to resign from the SO post. She had NOT applied "through proper channel" since the application was made before joining.
+
+Question: Is this a valid technical resignation? Does she get TTA?
+
+
+
+
+
+### [ch14-017] verdict L3438-3449 
+
+⚠️ CONDITIONAL — This may be treated as technical resignation if DoPT O.M. para 2.5 conditions are met. TTA / Joining Time Pay are separate and not decided here.
+
+Reasoning:
+
+
+DoPT O.M. Para 2.5 (special provision): This benefit is specifically available to Government servants "who have applied before joining the Government service and on that account the application was not routed through proper channel." Conditions:
+(i) The Government servant should intimate the details of such application immediately on joining .
+(ii) At the time of resignation, should specifically request that the resignation be treated as technical resignation.
+(iii) The authority should satisfy itself that "had the employee been in service on the date of application, the application would have been forwarded through proper channel."
+
+TTA / Joining Time Pay: Not determined by this example. Check whether the competitive appointment falls within substituted Rule 4(4) and its conditions, read with DoPT O.M. para 3.6.3; obtain a written decision. Do not infer entitlement or non-entitlement from confirmation status alone.
+
+
+
+
+
+
+### [ch14-019] case-box L3451-3456 Common Trap Case 6 — Direct Resignation Without Proper Channel
+
+Common Trap Case 6 — Direct Resignation Without Proper Channel
+
+Facts: Mr. Verma is a confirmed Level 7 officer (4 years service). He applied for another department's post directly (without informing his current office, without NOC, without forwarding through proper channel). He got selected and submitted a plain resignation to join the new post. He did NOT intimate his current office about the application.
+
+Question: Is this a technical resignation? Does he get TTA and past service benefits?
+
+
+
+
+
+### [ch14-020] verdict L3457-3473 
+
+❌ NO — This is NOT a technical resignation. He gets NO TTA and NO past service benefits.
+
+Reasoning:
+
+
+DoPT O.M. Para 2.1: "Resignation in other cases including where competent authority has not allowed the Government servant to forward the application through proper channel will not be treated as a technical resignation and benefit of past service will not be admissible."
+
+Consequences:
+• ❌ NO leave carry-forward (EL/HPL/CCL lapses)
+• ❌ NO LTC continuity (treated as fresh recruit in new department)
+• ❌ NO pay protection
+• ❌ NO past service counted for increment
+• ❌ NO pension continuity (if pre-2004 appointee)
+• ❌ NO TTA (since it's not a technical resignation, joining time rules don't apply in the same way)
+• ❌ NO Lien on old post
+
+Lesson: ALWAYS apply through proper channel. Even if the process is slow, get the NOC and forwarding letter. This single step protects ALL your service benefits.
+
+
+
+
+
+
+### [ch14-022] case-box L3475-3480 Pension Scenario Case 7 — Pre-2004 Employee (Old Pension Scheme)
+
+Pension Scenario Case 7 — Pre-2004 Employee (Old Pension Scheme)
+
+Facts: Mr. Iyer joined Central Government service in 2001 (pre-01.01.2004, hence covered under Old Pension Scheme — CCS Pension Rules, 1972). He has 23 years of service (confirmed). He is selected for another Central Government post through proper channel and submits technical resignation.
+
+Question: Will his past 23 years of service count towards pension?
+
+
+
+
+
+### [ch14-023] verdict L3481-3490 
+
+✅ YES — Full 23 years of past service counts towards pension.
+
+Reasoning:
+
+
+DoPT O.M. Para 2.7: "In cases where Government servants, who had originally joined government service prior to 01.01.2004, apply for posts in the same or other Departments and on selection they are asked to tender technical resignation, the past services are counted towards pension under CCS (Pension) Rules, 1972...if the new post is in a pensionable establishment."
+
+Continuity of service: "As a consequence, continuity of service benefits should be allowed to such employees in the matter of pension, leave, LTC, etc."
+
+Total pensionable service: 23 years (old) + service in new post. At retirement, pension will be calculated on the combined service.
+
+
+
+
+
+
+### [ch14-025] case-box L3492-3497 NPS Scenario Case 8 — Post-2004 Employee (NPS)
+
+NPS Scenario Case 8 — Post-2004 Employee (NPS)
+
+Facts: Ms. Reddy joined Central Government service in 2015 (post-01.01.2004, hence covered under National Pension System — NPS). She has 9 years of service (confirmed). She is selected for another Central Government post through proper channel.
+
+Question: What happens to her NPS account on technical resignation?
+
+
+
+
+
+### [ch14-026] verdict L3498-3507 
+
+✅ NPS account (PRAN + balance) is carried forward to the new office.
+
+Reasoning:
+
+
+DoPT O.M. Para 2.8: "In case of Technical Resignation of Government servant covered under National Pension System (NPS), the balance standing to their Personal Retirement Account (PRA) along with their PRAN, will be carried forward to the new office."
+
+Process: The old office DDO transfers the PRAN to the new office. Contributions continue uninterrupted. Service continuity is maintained for NPS purposes.
+
+No withdrawal: The employee should NOT withdraw from NPS on technical resignation — the account is simply transferred.
+
+
+
+
+
+
+### [ch14-028] case-box L3509-3514 Contract Staff Case 9 — Contract Employee Selected for Regular Post
+
+Contract Staff Case 9 — Contract Employee Selected for Regular Post
+
+Facts: Mr. Das has been working on a contractual basis in a Central Government department for 4 years. He is selected for a regular Central Government post through proper channel. He resigns from the contract post to join the regular post.
+
+Question: Is this a technical resignation? Does he get TTA?
+
+
+
+
+
+### [ch14-029] verdict L3515-3524 
+
+❌ NO — Contract employees are NOT covered under technical resignation rules.
+
+Reasoning:
+
+
+Contract vs Regular: Technical resignation applies to employees holding regular posts (permanent or temporary). Contract employees are engaged on a fixed-term basis and do not have a "lien" or permanent right to the post.
+
+No past service benefits: The contract period does NOT count as "regular service" for purposes of technical resignation. When Mr. Das joins the regular post, he starts fresh — no leave carry-forward, no pay protection, no LTC continuity from the contract period.
+
+TTA: Since he was not a regular employee, he does not get TTA. He must bear his own travel expenses to join the new post.
+
+
+
+
+
+
+### [ch14-031] case-box L3526-3531 Deputation Case Case 10 — Employee on Deputation Selected for Another Post
+
+Deputation Case Case 10 — Employee on Deputation Selected for Another Post
+
+Facts: Ms. Nair is a confirmed Central Government employee (Level 9) currently on deputation to a PSU for 2 years. While on deputation, she applies for and is selected for another Central Government post through proper channel (application forwarded by parent department, not the PSU).
+
+Question: Does she get TTA from the deputation station or parent department station?
+
+
+
+
+
+### [ch14-032] verdict L3532-3542 
+
+✅ YES — She gets TTA, calculated from the deputation station (current place of duty).
+
+Reasoning:
+
+
+Lien remains with parent department: While on deputation, her lien is with the parent department. The technical resignation is from the parent department post.
+
+TTA calculation: TTA is calculated based on the distance from her current place of duty (deputation station) to the new post, not from the parent department station. This is because she is physically posted at the deputation station.
+
+Deputation period: Her deputation is terminated early (with proper approval) to enable her to join the new post. The PSU releases her, and she joins the new Central Government post.
+
+Joining time: Calculated from deputation station to new post.
+
+
+
+
+
+
+### [ch14-034] case-box L3544-3549 Same Station Case 11 — New Post in Same City (No Change of Station)
+
+Same Station Case 11 — New Post in Same City (No Change of Station)
+
+Facts: Mr. Joshi is a confirmed Section Officer in Delhi (Ministry A). He is selected for a Deputy Secretary post in Delhi (Ministry B) through proper channel. Both offices are in Delhi — no change of station.
+
+Question: Does he get TTA? What about joining time?
+
+
+
+
+
+### [ch14-035] verdict L3550-3564 
+
+⚠️ PARTIAL — He gets joining time but limited/no TTA (since no change of station).
+
+Reasoning:
+
+
+Joining Time: He gets joining time (typically 5-7 days for same station transfers as per CCS Joining Time Rules).
+
+Joining Time Pay: Yes, he gets joining time pay (full pay + DA for the joining time period).
+
+TTA: Since there is no change of station (Delhi to Delhi), no travel is involved . Therefore:
+• No fare reimbursement (no travel needed)
+• No CTG (Composite Transfer Grant) — CTG is for transfer involving change of station
+• No baggage transportation allowance
+• However, if he needs to shift residence within Delhi (different locality), he may claim limited local transportation charges as per TA rules
+
+Other benefits: All other benefits (leave carry-forward, pay protection, LTC continuity, lien) apply as normal.
+
+
+
+
+
+
+### [ch14-037] case-box L3566-3571 Family Joins Later Case 12 — Employee Joins Alone, Family Joins Later
+
+Family Joins Later Case 12 — Employee Joins Alone, Family Joins Later
+
+Facts: Mr. Mehta (confirmed, Level 10) is transferred from Mumbai to Chennai on technical resignation. He joins alone in January 2025 and takes family later in March 2025 (within permissible time limit).
+
+Question: Does he get full TTA for family? Can he claim joining time for the period when family joins?
+
+
+
+
+
+### [ch14-038] verdict L3572-3585 
+
+✅ YES — He gets full TTA for family (if claimed within time limit). No additional joining time for family's travel.
+
+Reasoning:
+
+
+TTA for family: As per TA Rules, family can join later within the permissible time limit (usually 6 months from date of employee's joining). Mr. Mehta can claim:
+• Family fare (spouse + dependent children) from Mumbai to Chennai
+• CTG (Composite Transfer Grant) — already claimed when he joined
+• Baggage transportation for family's belongings
+• All claims must be submitted within the prescribed time limit
+
+Joining time: Mr. Mehta already availed joining time when he joined in January. There is no additional joining time when family joins later. The family travels at their own time (within the 6-month window).
+
+Important: Family fare must be claimed within the time limit prescribed under TA Rules (usually within 6 months of family's actual journey).
+
+
+
+
+
+
+### [ch14-040] case-box L3587-3592 Multiple Applications Case 13 — Employee Applied for Multiple Posts, Selected for One
+
+Multiple Applications Case 13 — Employee Applied for Multiple Posts, Selected for One
+
+Facts: Ms. Khan (confirmed, Level 7) applied for 3 different posts through proper channel: (1) UPSC IAS, (2) SSC CGL (higher post), (3) Departmental promotion. She got selected for the SSC CGL post first and submitted technical resignation.
+
+Question: Is this a valid technical resignation? What about the other applications?
+
+
+
+
+
+### [ch14-041] verdict L3593-3602 
+
+✅ YES — Valid technical resignation for the post she's joining. Other applications become void.
+
+Reasoning:
+
+
+Technical resignation is post-specific: The technical resignation is for the specific post she's joining (SSC CGL post). The fact that she had applied for multiple posts does not invalidate the technical resignation.
+
+Other applications: Once she resigns and joins the new post, her other applications (UPSC IAS, departmental promotion) become void. She would need to apply afresh from the new department if she wants to pursue those opportunities.
+
+Important: She should inform the new department about any pending applications/results at the time of joining, as this may have implications if she's selected for another post shortly after joining.
+
+
+
+
+
+
+### [ch14-043] case-box L3604-3609 Disciplinary Case Case 14 — Employee Under Disciplinary Proceedings
+
+Disciplinary Case Case 14 — Employee Under Disciplinary Proceedings
+
+Facts: Mr. Rao (confirmed, Level 8) is selected for another post through proper channel. However, disciplinary proceedings are pending against him in the current department. The department is reluctant to issue NOC/forward the resignation.
+
+Question: Can he still submit technical resignation? What happens to the disciplinary proceedings?
+
+
+
+
+
+### [ch14-044] verdict L3610-3623 
+
+⚠️ CONDITIONAL — Depends on department's decision. Disciplinary proceedings continue.
+
+Reasoning:
+
+
+Department's discretion: If disciplinary proceedings are pending, the department may refuse to forward the application/resignation. This is at the discretion of the competent authority.
+
+If forwarded: If the department does forward the resignation (with or without conditions), it can be treated as technical resignation. The employee gets all benefits.
+
+Disciplinary proceedings: The proceedings do NOT automatically get transferred to the new department. The old department can:
+(a) Continue the proceedings and impose penalty (which may affect the employee's record)
+(b) Transfer the proceedings to the new department (with the new department's consent)
+(c) Close the proceedings (if minor)
+
+Important: The employee should disclose the pending proceedings to the new department at the time of joining. Concealment may lead to disciplinary action in the new department.
+
+
+
+
+
+
+### [ch14-046] case-box L3625-3630 Reversion Case Case 15 — Employee Reverts to Parent Department After 1 Year
+
+Reversion Case Case 15 — Employee Reverts to Parent Department After 1 Year
+
+Facts: Ms. Sharma (confirmed, Level 8) submitted technical resignation and joined another Central Government department (Level 9) in January 2024. She retained lien on her old post. In January 2025 (after 1 year), she decides to revert to her parent department.
+
+Question: Can she revert? What happens to her seniority and service in the new department?
+
+
+
+
+
+### [ch14-047] verdict L3631-3646 
+
+✅ YES — She can revert (within lien period). Service in new department counts for some purposes but not for seniority in old department.
+
+Reasoning:
+
+
+Lien valid: She retained lien for 2 years (extendable to 3). Since she's reverting within 1 year, her lien is valid. She can revert to her old post (or equivalent post if old post is not available).
+
+Service in new department: As per DoPT O.M. Para 2.4: "in case of a Government servant deciding to rejoin his substantive post, the period spent in another department which he had joined after submitting his technical resignation will not count for minimum qualifying service for promotion in the higher post."
+
+What counts:
+• ✅ Service counts for pension (continuous service)
+• ✅ Service counts for leave accrual
+• ✅ Service counts for increment (if pay was protected)
+• ❌ Service does NOT count for seniority in the old department
+• ❌ Service does NOT count for promotion eligibility in the old department
+
+Reversion process: She submits a reversion request to the new department, which releases her. She joins the parent department, and her lien is exercised. She resumes her old seniority position.
+
+
+
+
+
+
+### [ch14-048] recap L3647-3649 Rapid-Revision Recap — Chapter 14: case-study method
+Rapid-Revision Recap — Chapter 14: case-study method
+
+Separate stated facts from assumptions; list the missing fact before choosing an outcome.
+For technical-resignation/TTA cases, check application channel, selection, resignation requirement, service category, destination, Joining Time condition and the applicable dates.
+For each benefit, write the source and paragraph independently; one status (e.g., technical resignation) does not prove every related benefit.
+Label each result conditional / unresolved / supported for this fact pattern ; scenarios are study exercises, not rulings.
+
+
+

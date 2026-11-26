@@ -1,0 +1,183 @@
+
+### [apB-002] chapter-banner L3026-3026 Exam-Format Drill
+Appendix B
+Exam-Format Drill
+
+
+
+### [apB-003] study-map L3027-3035 
+
+Appendix study map UNVERIFIED / HOLD
+
+
+Focus Use the exam-format questions for discussion and retrieval, not validated scoring.
+
+Source review All 38 packages remain unverified. MCQ-TA-10, -14, -21 and MCQ-TR-09 are unscored with no validated key; every package still needs separate item-by-item review.
+
+Study move Keep disputed items unscored until their stem, options, key and rationale are checked against primary text.
+
+
+
+
+
+
+### [apB-004] card L3036-3166 MCQ Set
+
+MCQ Set
+
+Q1. The O.M. No.19030/1/2017-E.IV dated 13.07.2017 is effective from which date?
+(a) 13.07.2017 (b) 01.07.2017 (c) 01.01.2017 (d) 01.04.2017
+Answer: (b) — the O.M. is explicitly backdated to 01.07.2017; (a) is a trap using the issue date instead of the effective date; (c) and (d) are generic fiscal-year-start distractors with no textual basis.
+
+Q2. Under the current (post DA-50%) rates, what is the Mileage Allowance for own car where no state rate is prescribed?
+(a) ₹24/km (2017 base) (b) ₹27/km (c) ₹30/km (d) ₹36/km
+Answer: (c) — ₹30/km is the currently applicable rate since DA &ge; 50%; (a) is the 2017 base rate (₹24/km); (b) and (d) are arithmetic distractors.
+
+Q3. For a station-to-station transfer of 18 km with no actual change of residence, Composite Transfer Grant is:
+(a) 100% of basic pay (b) 80% of basic pay (c) Nil (d) 50% of basic pay
+Answer: (c) — 18 km is below the 20 km threshold and the stem specifies no actual change of residence, so CTG is nil; (b) is the trap for candidates who forget the 20 km cutoff.
+
+Q4. Was a fresh Office Memorandum required to raise TA/DA rates by 25% when DA crossed 50% in January 2024?
+(a) Yes, O.M. dated 01.01.2024 (b) Yes, O.M. dated 13.07.2024 (c) No — automatic under the 2017 O.M.'s standing clause (d) No revision occurred
+Answer: (c) — this is the single most important nuance of Chapter 8; (a) and (b) invent plausible-sounding but non-existent dedicated TA O.Ms; (d) is factually wrong.
+
+Q5 (Assertion-Reason). Assertion (A): Levels 6–8 officials cannot travel by air on tour. Reason (R): Only Level 9 and above were given air entitlement under the 7th CPC.
+(a) Both A and R are true, R explains A (b) Both A and R are true, R does not explain A (c) A is false, R is false (d) A is true, R is false
+Answer: (c) — both statements are false: Levels 6–11 (not just 9+) are entitled to Economy air travel under 7th CPC.
+
+Q6 (Statement-based). Consider the following statements about DA on tour: (1) Food component requires a voucher. (2) Hotel stays in Class-X cities always need a voucher for Level ≤8. (3) DA is reckoned midnight-to-midnight. How many statements are correct?
+(a) Only one (b) Only two (c) All three (d) None
+No validated key — unscored. Statement (1) is false: the food component is a lump sum, not a separate voucher claim. Statement (3) is supported: absence from Headquarters is reckoned midnight-to-midnight on a per-day basis. Statement (2) remains unresolved: the 13.07.2017 DoE O.M. allows Level 8 and below to self-certify hotel claims up to the ceiling, while separately setting a Class-X ceiling of ₹1,000/day against relevant vouchers. The exact interaction for a Level 8-or-below Class-X claim within the ordinary ceiling is not established by this targeted review. The source-snapshot key (b) is withdrawn; do not score this item until the applicable instruction and voucher scope are confirmed.
+
+Q7. If an employee draws a Tour TA Advance and returns to headquarters on 10th July 2026, the final adjustment bill must be submitted on or before:
+(a) 25th July 2026 (b) 10th August 2026 (c) 10th September 2026 (d) 31st July 2026
+Correction: This question cannot be treated as a current-rule answer key on the reviewed sources. GFR Rules 224/290 do not establish the asserted advance adjustment rule. The inspected 2005 Compendium Rule 51 says 15 days for tour advances, but its currency is unverified; obtain the current departmental instruction before calculating a deadline.
+
+Q8. A Level 8 employee is transferred within the same city, which involves an actual change of residence. Their entitlement for Composite Transfer Grant (CTG) is:
+(a) Nil (b) 80% of Basic Pay (c) 1/3 of the normal rate (26.67% of Basic Pay) (d) 50% of Basic Pay
+Answer: (c) — For same-station transfers involving change of residence, the CTG is restricted to 1/3 of the normal rate (which is 1/3 of 80% = 26.67%). If there was no change of residence, it would be Nil (Option a).
+
+Q9. Which department bears the Travelling Allowance expenses for the onward and return journeys of a Government servant going on deputation?
+(a) Onward by Lending Department, Return by Borrowing Department
+(b) Both Onward and Return by Borrowing Department
+(c) Both Onward and Return by Lending Department
+(d) Onward by Borrowing Department, Return by Lending Department
+Verification status: UNVERIFIED — do not score; no key assigned. The proposed key (b) is withdrawn. The DoPT consolidated deputation guidance surfaced in the official record says Travelling Allowance and Transfer TA are regulated by mutual consent of the lending and borrowing organizations; it does not establish a universal borrowing-organization-only rule. Check the specific deputation terms and applicable instructions before deciding who bears each leg.
+
+Q10. A Level 9 Divyang (disabled) employee travels on official tour. Regarding local conveyance within the tour city, they are entitled to:
+(a) Non-AC taxi / auto charges up to ₹423 per day (under normal Level 9 ceiling)
+(b) Only public bus fare reimbursement
+(c) AC Taxi/hired taxi charges as per actuals/official engagements, irrespective of their normal Level 9 ceiling
+(d) No local conveyance reimbursement of any kind
+Verification status: UNVERIFIED — do not score; no key assigned. The proposed key (c) and its categorical rationale are withdrawn. The official 2017 DoE O.M. sets pay-level local-travel entitlements; the 22.12.2020 O.M. changes receipts/self-certification for Levels 9–11, not taxi class or ceiling. The 17.02.2015 escort O.M. does not establish an unrestricted local-AC-taxi benefit for the employee. The separate DoPT disability-related taxi exception located is limited to LTC and has conditions. Seek a specific applicable Central primary order before restoring any key.
+
+Q11. A retiring Level 10 officer settles in a city 1,500 km away from their last headquarters, while their declared home town is only 600 km away. Their retirement TA (fares and transportation) is restricted to:
+(a) The actual expenses incurred for the 1,500 km journey
+(b) Nil — retirement TA is only allowed when settling in the declared home town
+(c) The notional expenses that would have been admissible for the 600 km journey to their home town
+(d) 50% of the actual Chennai journey expenses
+Verification status: UNVERIFIED — do not score; no key assigned. The proposed key (c) depends on current SR 147 and the applicable retirement-TA instructions, which were not obtained in this review. The guide has not validated the home-town cap, the notional-cost comparison, or how the stated fares and personal-effects components apply to these facts.
+
+
+Q12. A Pay Level 7 employee is planning their travel. Under the 7th CPC rules, what is their air travel (Economy Class) entitlement on official tour versus Leave Travel Concession (LTC)?
+(a) Entitled to Air travel on both Tour and LTC
+(b) Entitled to Air travel on Tour, but restricted to AC-II Tier Rail on LTC
+(c) Entitled to Air travel on LTC, but restricted to Rail on Tour
+(d) Not entitled to Air travel on either Tour or LTC
+Answer: (b) — Under DoPT O.M. dated 19.09.2017, the guide’s stated contrast is that Pay Levels 6–8 may have economy-air entitlement for official tour/transfer but have a different normal LTC mode entitlement, subject to special-dispensation or later orders. This MCQ’s key and rationale have not been independently verified as part of the full bank audit; do not score it as verified.
+
+
+Q13. Under the LTC rules, if a Government servant travels by private taxi on a stretch not connected by any public transport, what is the maximum distance for which they can claim reimbursement?
+(a) 50 km each side
+(b) 100 km each side (to-and-fro combined 200 km)
+(c) No limit, actual distance is reimbursed
+(d) Private taxi is completely prohibited under all circumstances on LTC
+Answer: (b), subject to the order’s scope. DoPT O.M. 31011/3/2015-Estt.(A-IV), 04.02.2021, clarifies that the 100-km cap in the unconnected-stretch LTC route is each side (200 km to-and-fro). The underlying exception is conditional: the journey is to the declared LTC place after using authorized transport to the nearest airport/railway station/bus terminal, no public transport is available on the relevant stretch, and the prescribed self-certification and entitled-transfer-journey rate cap apply. This targeted source check does not verify the whole MCQ package.
+
+
+Q14. If a Central Government employee undergoes a training programme divided into theoretical training at Station A and practical training at Station B, how is the continuous halt limit of 180 days for Daily Allowance calculated?
+(a) The 180 days limit continues continuously across both stations combined
+(b) The 180 days limit commences afresh at Station B, regardless of the days of DA drawn at Station A
+(c) No DA is allowed at either station since it is a training programme
+(d) DA is restricted to 30 days only for both stations combined
+Verification status: UNVERIFIED — do not score or assign a key pending primary-source review. The previous key (b) is withdrawn. Secondary transcriptions of P&T 1982/1984 orders describe a fresh-course treatment at the practical-training station in a limited in-service/refresher setting; the original letters, current status, and applicability to this general Central Government question were not verified. This item does not establish a universal 180-day reset.
+
+
+Q15. To claim transportation charges of a personal motor car on transfer, what is the strict ownership requirement for registration under SR 116?
+(a) The car can be registered in the name of the officer or their spouse
+(b) The car must be registered strictly in the name of the Government servant themselves
+(c) The car can be registered in the name of any dependent family member
+(d) There is no registration or ownership requirement, only possession must be shown
+Verification status: UNVERIFIED — do not score; no key assigned. The proposed key (b) and the categorical “only in the employee’s name” rationale are not validated against the current complete SR 116 text. Check the operative rule and any applicable DoE clarification before deciding whether spouse/dependent registration disqualifies the claim.
+
+
+Q16. Which of the following temporary employees' families is eligible to draw Travelling Allowance concessions on Death-in-Service under SR 148?
+(a) Family of a temporary employee with 1 year of continuous service
+(b) Family of a temporary employee with 2 years of continuous service
+(c) Family of a temporary employee with 3 years or more of regular continuous service
+(d) Families of temporary employees are completely excluded, regardless of service length
+Verification status: UNVERIFIED — do not score; no key assigned. The proposed key (c) and the three-year eligibility condition have not been checked against the current complete SR 148/GIO text. Verify the exact employee category, service definition, threshold and benefit scope before scoring.
+
+
+Q17. An officer is posted from Delhi to Gurugram (within the same Urban Agglomeration) for an indefinite period, and changes residence. Their Composite Transfer Grant (CTG) entitlement is:
+(a) Nil — same city, no TA
+(b) Full CTG (80% of Basic Pay) — it is a permanent transfer
+(c) 1/3rd of normal CTG (26.67% of Basic Pay) — same UA with change of residence
+(d) 50% of normal CTG
+Answer: (c) — A transfer within the same Urban Agglomeration involving an actual change of residence attracts a restricted CTG of 1/3rd of the normal rate (1/3 × 80% = 26.67% of Basic Pay). Option (a) would apply only if there was no change of residence. Option (b) applies only for inter-station transfers ≥20 km.
+
+
+Q18. A Level 7 officer travels 12 km by own car for an official tour in an area with no state-notified rate. The Mileage Allowance payable is:
+(a) ₹360 (12 × ₹30)
+(b) ₹330 (11 × ₹30)
+(c) ₹180 (12 × ₹15)
+(d) ₹165 (11 × ₹15)
+Verification status: UNVERIFIED — do not score; no key assigned. The own-car rate component (₹30/km under the checked rate update) is separate from the asserted “first kilometre not payable” rule. The current Central primary authority and applicability of the dead-kilometre deduction were not established in this review; do not calculate 11 × ₹30 without that source.
+
+
+Q19. Under SR 172, a non-Government candidate (General category) called for a UPSC interview is entitled to travel fare reimbursement only if the one-way distance from their residence to the venue exceeds:
+(a) 25 km
+(b) 50 km
+(c) 80 km
+(d) 100 km
+Verification status: UNVERIFIED — do not score; no key assigned. The current SR 172 text and applicable UPSC/recruiting-body instruction were not retrieved. The 80-km threshold, distance measurement and asserted SC/ST exception therefore remain unverified.
+
+
+Q20. A TA bill was originally passed and paid in September 2022. In October 2025, the Accounts section discovers an arithmetic error and wishes to revise the bill. Is this revision admissible?
+(a) Yes — within the 3-year revision window
+(b) No — the 60-day claim limit has expired
+(c) No — the 3-year revision window has expired (September 2022 to October 2025 = over 3 years)
+(d) Yes — TA bills can be revised at any time
+Verification status: UNVERIFIED — do not score; no key assigned. No current applicable Central authority was located for the asserted three-year revision period or its starting date. The 60-day initial claim-submission rule does not by itself establish a bill-revision limitation. Verify the governing correction/revision instruction and trigger before answering.
+
+
+Q21. An officer is sent on temporary duty to another station for a period of 5 months (150 days). Which of the following statements is correct?
+(a) This is a Transfer — full CTG and baggage transport are admissible
+(b) This is a Tour — only travel fare and Daily Allowance are admissible; no CTG
+(c) This is a Transfer because 150 days exceeds 120 days
+(d) This qualifies for 50% CTG as a semi-permanent posting
+Verification status: UNRESOLVED — do not score; no answer key assigned. The earlier proposed answer (b) and its duration-only rationale are withdrawn. The official DoE 13.07.2017 O.M. confirms that SR 114 general admissibility conditions continue to apply to transfer TA, but does not reproduce the current SR 114 text; the governing order conditions and any relevant amendments remain unverified. Duration alone does not settle this item. See Chapter 5’s source-status note.
+
+Withdrawn draft rationale (retained for audit trail; not a key)
+The earlier draft treated “under 180 days” as sufficient to classify the case as a Tour with no CTG or baggage transport. That conclusion is not validated here. It must not be used as a rule or scoring key.
+
+
+
+Q22. A retired Level 12 officer is summoned by a CBI court to depose as a witness in a corruption case. For the 3-day visit, they are entitled to:
+(a) No TA — they are no longer a Government employee
+(b) TA/DA as per Level 12 (their retirement pay level), including travel fare and Daily Allowance
+(c) TA/DA as per Level 1 (lowest level, since they have no current pay)
+(d) Only bus fare reimbursement, no DA
+Verification status: UNVERIFIED — do not score; no key assigned. The current FR/SR or specific order governing a retired employee summoned by a CBI court as a witness, including the admissible rate/pay-level basis and DA, was not retrieved. Do not generalize from a different inquiry, medical-board or witness category.
+
+
+Q23. In a split-duty scenario, an officer leaves HQ at 9:00 AM and returns at 1:00 PM, then leaves again at 3:00 PM and returns at 7:00 PM. Their DA for the day is calculated as:
+(a) 30% DA for each trip separately (total 60%)
+(b) 70% DA — based on the combined 8-hour absence
+(c) 100% DA — since two separate tours were performed
+(d) No DA — split duty is not recognized under TA Rules
+Verification status: UNVERIFIED — do not score; no key assigned. The current primary rule for aggregating two separated headquarters absences and applying a 70% DA band to this split-duty pattern was not established in this review. Keep this as a discussion prompt pending the exact rule/GIO and source-backed calculation.
+
+
+
+

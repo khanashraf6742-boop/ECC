@@ -1,0 +1,243 @@
+
+### [ch05-002] chapter-banner L1259-1259 TA on Transfer
+Chapter 5
+TA on Transfer
+
+
+
+### [ch05-003] study-map L1260-1269 
+
+Chapter study map PARTIAL / OPEN
+
+
+Focus Classify tour versus transfer and separate CTG, baggage, conveyance and family components.
+
+Source review The 2017 CTG base and 06.01.2022 retirement CTG change were checked; personal-effects, vehicle and family-scaling conditions remain pending.
+
+Study move Write the transfer trigger, residence facts and each component separately before calculating.
+
+
+
+
+
+
+
+### [ch05-004] card L1270-1284 Very High-Yield Composite Transfer Grant (CTG)
+
+Very High-Yield Composite Transfer Grant (CTG)
+
+Exact-Source Fact Card
+Composite Transfer Grant is payable at 80% of the last month's basic pay for an eligible transfer involving a change of station located 20 km or more apart. For a transfer below 20 km or within the same city/station, the 13.07.2017 O.M. allows one-third of the normal CTG only if an actual change of residence is involved ; otherwise CTG is nil. For transfer to/from the Island territories of Andaman & Nicobar and Lakshadweep , CTG is paid at the enhanced rate of 100% of last month's basic pay . Where both spouses (both Central Govt servants) are transferred from the same station to the same station within 6 months — but the second transfer is after 60 days of the first — full CTG is paid to the spouse transferred earlier and 50% CTG to the spouse transferred later. CTG on retirement was separately clarified admissible vide O.M. dated 06.01.2022 .
+
+
+
+
+Scenario | CTG rate |
+
+Transfer ≥ 20 km, general case | 80% of last month's basic pay |
+
+Transfer < 20 km / same city | One-third of normal CTG if an actual residence change occurs; otherwise nil |
+
+Transfer to/from A&N / Lakshadweep | 100% of last month's basic pay |
+
+Both spouses transferred, same O-D, within 6 months (2nd after 60 days) | Full CTG to earlier-transferred spouse; 50% to later-transferred spouse |
+
+
+RED-FLAG TRAP Flag: "CTG is always 80% regardless of distance." Fix: For an eligible transfer at 20 km or more , ordinary CTG is 80%; below 20 km or within the same city/station, one-third of normal CTG applies only if an actual residence change occurs , otherwise CTG is nil. Specified A&N/Lakshadweep transfers have the 100% rate. Fix-phrase: "Below 20 km: residence change matters; the islands have a separate 100% rate."
+
+
+
+
+
+
+### [ch05-005] card L1285-1304 Very High-Yield — source status open Transfer vs Tour — apply the order and current SR 114 conditions
+
+Very High-Yield — source status open Transfer vs Tour — apply the order and current SR 114 conditions
+
+Primary-source boundary
+Transfer TA and tour TA are distinct categories, but a duration-only “180-day switch” is not established by the primary text retrieved here. The official DoE O.M. dated 13.07.2017 says the general admissibility conditions prescribed in SR 114 continue to apply to transfer TA; it does not reproduce SR 114. The current complete Central SR 114 text, its applicable orders/amendments, and the exact transfer-order conditions remain unverified in this review.
+
+
+When a transfer order is involved: Read its purpose, stated temporary/permanent nature and period, any extension/revision, station and residence facts, and the operative TA rule before deciding which components are admissible. If classed as a transfer, fare, CTG, personal-effects and conveyance components each retain their own conditions.
+
+When duty is described as temporary or a tour: Do not infer the full TA package—or the absence of CTG/personal-effects transport—solely from the number of days. Apply the current rule and the order that actually authorized the movement.
+
+Training is a separate question: Secondary transcriptions report training-specific options and schedules, but current SR 164/GIO text and their status are unresolved. Do not merge a training rule into a general SR 114 conclusion.
+
+
+
+
+[Hinglish block omitted from dump]
+RED-FLAG TRAP Flag: “Under 180 = Tour; over 180 = Transfer.” Fix: This duration-only shorthand was not verified in the current Central primary text retrieved. Do not classify a case or grant/deny CTG, baggage or family travel from duration alone; check the actual order and applicable SR 114 conditions.
+
+
+
+
+
+### [ch05-006] micronote L1305-1316 
+
+Same City / Urban Agglomeration (UA) — Transfer Within the Same Station
+
+What happens when an officer is moved from one office building to another within the same city (e.g., from North Block to South Block in Delhi, or from one campus to another in Bengaluru)?
+
+When an officer is moved between offices in the same city or Urban Agglomeration (UA), keep the residence fact distinct from the station boundary:
+
+
+No change of residence: If the move is within the same UA and does not involve an actual change of residence, the guide states no TA is payable (CTG nil; no fare reimbursement).
+
+With change of residence within the same UA: The move is treated as a transfer within the same station. The cited rule gives one-third of normal CTG (1/3 × 80% = 26.67% of last basic pay), plus actual transportation charges for personal effects within the city.
+
+Station boundary: The guide describes “station” for TA purposes as the entire Census-defined UA, not merely the municipal boundary; its example is Delhi UA including Noida, Gurugram, Faridabad and Ghaziabad.
+
+
+Exam illustration: A North Block-to-South Block move (3 km) in Delhi with a residence change is shown as one-third CTG, not nil or full CTG, because both offices are within the same UA. Verify the case facts and applicable order before applying.
+
+
+
+
+
+### [ch05-007] card L1318-1349 Very High-Yield Transfer TA — Spousal Scaling, Multiple Road Mileages, and Tax Reimbursements (SR 116)
+
+Very High-Yield Transfer TA — Spousal Scaling, Multiple Road Mileages, and Tax Reimbursements (SR 116)
+
+Exact-Source Fact Card
+Under Swamy's Handbook-2024 and GIOs below SR 116 , several critical administrative and financial nuances govern Travelling Allowance on Transfer:
+
+
+1. Multiple Road Mileages for Road Travel (GIO (5), Para IV, SR 116):
+If the transfer journey is performed between places not connected by rail otherwise than by public bus (e.g. by private car or hired vehicle), road mileage is payable at scaled rates based on the number of family members travelling:
+
+One Road Mileage: For self, or self and one additional family member.
+
+Two Road Mileages: If exactly two family members accompany the Government servant.
+
+Three Road Mileages: If more than two family members accompany the Government servant.
+
+
+
+
+2. Reimbursement of Service Tax, GST, and Cess (GIO (10), SR 116):
+All elements of Service Tax, GST, and Education Cess charged by transport operators in the bill for the transportation of personal effects are fully reimbursable up to the employee's maximum entitlement ceiling.
+
+3. Conveyance Transport "Public Interest" Exemption (Item V, GIO (1), SR 116):
+For claiming the cost of transporting a personal vehicle (car/scooter) on transfer, the possession of the conveyance at the old or new station need not be in the public interest (reimbursable as long as it is owned strictly by the employee).
+
+4. Department of Posts Choice Posting Concession (SR 114):
+Under postal-specific GIOs, a posting to a place of choice on the completion of a full tenure is not treated as a transfer on own request . Consequently, such officials are fully entitled to Transfer TA and CTG under SR 114.
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch05-008] card L1350-1363 High-Yield Transportation of personal effects (packing grant) & conveyance
+
+High-Yield Transportation of personal effects (packing grant) & conveyance
+
+Exact-Source Fact Card
+Transportation of personal effects by road is reimbursed at currently applicable (25%-enhanced) rates of ₹62.50/km (Level 6 and above) , ₹31.25/km (Level 5) , and ₹18.75/km (Level 4 and below) . By train/steamer, entitlement is by weight: Level 12 and above / Level 6–11 → 6,000 kg (by goods train/4-wheeler wagon/1 container — double container for Level 12+, single container for Level 6–11); Level 5 → 3,000 kg ; Level 4 and below → 1,500 kg . Separately, transportation of a conveyance (motor car, motor cycle, scooter, moped, bicycle) is reimbursed: Level 6 and above may transport 1 motor car/similar or 1 motor cycle/scooter; Level 5 and below may transport 1 motorcycle/scooter/moped/bicycle (SR 116). Possession of the conveyance at the old or new station need not be shown to be in the public interest.
+
+
+
+
+Pay Level | By Train/Steamer | By Road (Current Rate) |
+
+12 and above | 6,000 kg (double container) | ₹62.50/km |
+
+6 to 11 | 6,000 kg (single container) | ₹62.50/km |
+
+5 | 3,000 kg | ₹31.25/km |
+
+4 and below | 1,500 kg | ₹18.75/km |
+
+
+Analogy Think of the personal-effects entitlement like an airline baggage allowance that scales with "class of ticket" (Pay Level) — senior levels get a bigger "container," junior levels get a smaller weight cap.
+
+
+
+
+
+
+### [ch05-009] card L1364-1371 Moderate-Yield Special-region transfers & TA entitlement basis on transfer
+
+Moderate-Yield Special-region transfers & TA entitlement basis on transfer
+
+Exact-Source Fact Card
+In case of transfer from one post to another, TA entitlement is determined on the basis of the pay of the lower of the two posts/grades (i.e., old vs new). Special provisions for TA on transfer to/from the North-Eastern Region, Union Territories of Andaman & Nicobar, Lakshadweep Islands and Ladakh were clarified/enhanced vide O.M. No.19030/1/2017-E.IV dated 16.06.2022 .
+
+
+
+Memory Hook "On transfer, you're paid like the junior of your two posts — never the senior."
+
+
+
+
+
+
+### [ch05-010] mfs L1372-1388 Master Fact-Sheet — Chapter 5
+Master Fact-Sheet — Chapter 5
+
+
+Item | Value | Reference |
+
+CTG general | 80% of last basic pay (≥20 km) | O.M. 13.07.2017 |
+
+CTG, <20 km / same city | 1/3 of normal CTG if actual residence change; otherwise nil | O.M. 13.07.2017 |
+
+CTG, A&N/Lakshadweep | 100% of last basic pay | O.M. 13.07.2017 |
+
+Spouse-transfer CTG split | 100% earlier / 50% later (within 6 months, 2nd after 60 days) | O.M. 13.07.2017 |
+
+CTG on retirement | Admissible | O.M. 19030/1/2017-E.IV, 06.01.2022 |
+
+Personal effects road rate (Level 6+) | ₹62.50/km | O.M. 13.07.2017 (Revised) |
+
+Personal effects road rate (Level 5) | ₹31.25/km | O.M. 13.07.2017 (Revised) |
+
+Personal effects road rate (Level ≤4) | ₹18.75/km | O.M. 13.07.2017 (Revised) |
+
+NE/A&N/Lakshadweep/Ladakh clarification | Special transfer TA provisions | O.M. 19030/1/2017-E.IV, 16.06.2022 |
+
+Transfer vs Tour | Apply the order and current SR 114 conditions; duration alone is not a verified classification rule | DoE O.M. 13.07.2017 preserves SR 114 conditions; full current SR 114 text remains open |
+
+Same UA / Same City transfer (no residence change) | CTG = Nil | O.M. 13.07.2017 |
+
+Same UA / Same City transfer (with residence change) | CTG = 1/3rd of normal rate (26.67% of Basic Pay) | O.M. 13.07.2017 |
+
+
+
+
+
+### [ch05-011] review L1389-1389 Review Protocol
+Review Protocol
+Active recall: (1) What CTG % applies for an eligible transfer of 15 km with and without a residence change? Of 500 km? Of Delhi-to-Port Blair? (2) What weight is a Level-9 officer entitled to transport by goods train? (3) On transfer, is TA based on the old post's pay or the new post's pay? (4) Which transfer-order facts and current rule determine Transfer versus Tour? Do not infer from duration alone. (5) What CTG applies for a same-city transfer with change of residence?
+
+
+
+### [ch05-012] recap L1390-1402 Rapid-Revision Recap — Chapter 5
+Rapid-Revision Recap — Chapter 5
+
+
+CTG: 80% for eligible transfers ≥20 km; below 20 km/same station, 1/3 of normal CTG only if residence actually changes, otherwise nil; 100% for the specified A&N/Lakshadweep transfers.
+
+Spouse-transfer rule: full CTG to first-mover, 50% to second (within 6 months, gap >60 days).
+
+Personal effects by road: ₹62.50/₹31.25/₹18.75 per km (Level 6+/5/≤4, Current).
+
+By train: 6,000 kg (Level 6+), 3,000 kg (Level 5), 1,500 kg (Level ≤4).
+
+TA on transfer = pay of the lower of old/new post.
+
+Special enhanced provisions for NE Region/A&N/Lakshadweep/Ladakh (O.M. 16.06.2022).
+
+Transfer vs Tour: Check the actual order and current SR 114 conditions; 180 days alone is not a verified universal classification rule.
+
+Same UA transfer: No residence change → CTG Nil; With residence change → 1/3rd CTG (26.67% of Basic Pay).
+
+
+
+
+

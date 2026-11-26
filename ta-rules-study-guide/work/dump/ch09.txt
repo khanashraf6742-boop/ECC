@@ -1,0 +1,112 @@
+
+### [ch09-002] chapter-banner L2061-2061 Worked Illustrations & TA-Bill Practice
+Chapter 9
+Worked Illustrations & TA-Bill Practice
+
+
+
+### [ch09-003] study-map L2062-2071 
+
+Chapter study map ILLUSTRATION ONLY
+
+
+Focus Practise the arithmetic while separating assumptions from legal eligibility.
+
+Source review The worked arithmetic can be checked as examples; the governing inputs, claimant facts and entitlement conditions are not thereby verified.
+
+Study move Before calculating, list assumptions and cite the rule that supplies each input.
+
+
+
+
+
+
+
+### [ch09-004] card L2072-2083 High-Yield Illustration 1 — Composite Transfer Grant calculation
+
+High-Yield Illustration 1 — Composite Transfer Grant calculation
+
+Worked Example
+Scenario: A Level 10 officer with last basic pay ₹56,100 is transferred from Chennai to Coimbatore (over 400 km apart).
+Step 1: Distance ≥ 20 km → CTG applicable.
+Step 2: Destination is not A&N/Lakshadweep → standard 80% rate applies.
+Step 3: CTG = 80% × ₹56,100 = ₹44,880 .
+Result: ₹44,880 payable as CTG, in addition to travel fare and personal-effects transportation cost.
+Counter-example: If the same officer were transferred instead from Chennai HQ to a suburban office 12 km away, CTG would be nil — only actual conveyance charges (if any) would be considered.
+
+
+
+
+
+
+
+### [ch09-005] card L2084-2094 High-Yield Illustration 2 — Mixed-mode Mileage Allowance
+
+High-Yield Illustration 2 — Mixed-mode Mileage Allowance
+
+Worked Example
+Scenario: A Level 4 official travels 15 km by auto-rickshaw (no state rate notified) then walks the last 2 km to a remote field office.
+Step 1: Auto-rickshaw leg: 15 km × current rate ₹15/km = ₹225 .
+Step 2: On-foot leg: 2 km × current rate ₹15/km = ₹30 .
+Step 3: Total Mileage Allowance = ₹225 + ₹30 = ₹255 .
+Takeaway: Mixed-mode journeys are billed leg-by-leg at each mode's applicable rate — they are not averaged.
+
+
+
+
+
+
+
+### [ch09-006] card L2095-2105 High-Yield Illustration 3 — Short tour, DA timing-band edge case
+
+High-Yield Illustration 3 — Short tour, DA timing-band edge case
+
+Worked Example
+Scenario: A Level 13 officer leaves HQ at 8:00 AM and returns the same day at 1:45 PM (5 hours 45 minutes away), on a same-day tour with no hotel stay.
+Step 1: Duration = 5h45m → falls in the "<6 hours" band.
+Step 2: Applicable % = 30% of the lump-sum food component. Current Level-12/13 food rate = ₹1,250/day.
+Step 3: DA = 30% × ₹1,250 = ₹375 .
+Counter-example: Had the officer returned 20 minutes later (6h05m), the absence would cross into the "6–12 hours" band, paying 70% × ₹1,250 = ₹875 — more than double, for 20 extra minutes. This edge-case is a favourite in numerical MCQs.
+
+
+
+
+
+
+
+### [ch09-007] mfs L2106-2113 Master Fact-Sheet — Chapter 9
+Master Fact-Sheet — Chapter 9
+
+
+Illustration | Key answer |
+
+CTG, Chennai→Coimbatore, basic ₹56,100 | ₹44,880 (80%) |
+
+Mixed auto+foot, 15km+2km | ₹255 (billed leg-by-leg) |
+
+5h45m tour, Level 12/13 | ₹375 (30% band) |
+
+
+
+
+
+### [ch09-008] review L2114-2114 Review Protocol
+Review Protocol
+Redo all three illustrations with your own pay level and distances — that's the fastest way to internalise the formulas before an exam.
+
+
+
+### [ch09-009] recap L2115-2122 Rapid-Revision Recap — Chapter 9
+Rapid-Revision Recap — Chapter 9
+
+
+CTG = 80%/100%/0% of last basic pay depending on distance/destination.
+
+Mixed-mode mileage journeys are billed leg-by-leg, never averaged.
+
+DA timing bands create sharp cliff-edges (30%→70%→100%) — minutes can double your claim.
+
+
+
+
+

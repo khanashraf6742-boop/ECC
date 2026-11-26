@@ -1,0 +1,182 @@
+
+### [ch06-002] chapter-banner L1405-1405 TA on Retirement, Death-in-Service & Re-employment
+Chapter 6
+TA on Retirement, Death-in-Service & Re-employment
+
+
+
+### [ch06-003] study-map L1406-1415 
+
+Chapter study map PARTIAL
+
+
+Focus Distinguish retirement, death-in-service and re-employment rules and their different triggers.
+
+Source review The retirement claim window and retirement CTG were checked; other death-in-service and re-employment provisions need exact FR/SR/OM text.
+
+Study move Record claimant category and trigger date first; do not transfer one deadline to another.
+
+
+
+
+
+
+
+### [ch06-004] card L1416-1429 Very High-Yield Time limits — general vs retirement vs death-in-service
+
+Very High-Yield Time limits — general vs retirement vs death-in-service
+
+Exact-Source Fact Card
+Ordinary tour/transfer/training TA claims must be submitted within 60 days succeeding the applicable trigger under GFR Rule 290 and DoE O.M. 13.03.2018, whether or not an advance was drawn ; para 2 sets separate triggers for relevant family journeys and delivered personal effects/conveyances. TA on retirement has a distinct 180-day window under DoE O.M. 15.06.2021. These are claim-submission limits, not advance-adjustment deadlines. Where a Government servant dies in service, SR 148 separately addresses a family TA advance; do not import the ordinary tour-advance rules.
+
+
+
+Claim type | Time limit | Reference |
+
+Ordinary TA claim submission (tour/transfer/training) | 60 days succeeding the applicable trigger, whether or not an advance was drawn | GFR Rule 290; DoE O.M. 13.03.2018 (para 2 has separate triggers) |
+
+TA on Retirement | 180 days | O.M. 19030/1/2017-E.IV, 15.06.2021 |
+
+Advance to family on death-in-service | Up to 75% of likely TA claim | Secondary compilation, cross-checked |
+
+
+RED-FLAG TRAP Flag: "All TA claims must be filed within 60 days, no exceptions." Fix: Retirement TA claims get a specific relaxed window of 180 days — three times longer than the general rule, recognising the disruption of retirement. Fix-phrase: "60 is the rule, 180 is the retirement relief."
+
+
+
+
+
+
+### [ch06-005] card L1431-1453 Very High-Yield Retirement TA Exclusions & Station Boundaries (SR 147, SR 148)
+
+Very High-Yield Retirement TA Exclusions & Station Boundaries (SR 147, SR 148)
+
+Exact-Source Fact Card
+Under Swamy's Handbook-2024 and GIOs below SR 147 and SR 148 , Travelling Allowance on Retirement is governed by strict boundary and eligibility rules:
+
+
+1. Strict Forfeiture on Resignation, Dismissal, or Removal:
+The retirement TA concession is admissible only to employees who retire on retiring pension, superannuation, invalid, or compensation pension.
+The Restriction: It is strictly NOT admissible to employees who quit service by resignation , or who are dismissed or removed from service as a disciplinary penalty.
+
+2. Last Station of Duty Boundary Definition:
+For the purpose of determining "same-station" or "change-of-residence" boundaries on transfer or retirement, the "last station of duty" strictly means and includes all areas falling within the Urban Agglomeration (UA) of that station. Moving within the UA without a change of residence does not attract CTG.
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch06-006] card L1454-1460 High-Yield Re-employed persons & other retirement-adjacent clarifications
+
+High-Yield Re-employed persons & other retirement-adjacent clarifications
+
+Exact-Source Fact Card
+Concessions to persons re-employed in Central Government service regarding payment of TA were clarified vide O.M. No.19030/4/2020-E.IV dated 24.01.2022 . TA/DA for Attendant/Escort accompanying a Government servant with disabilities during tour/training was separately provided for vide O.M. No.19030/3/2013-E.IV dated 17.02.2015 . Government servants participating as players/athletes/managers/coaches/masseurs/doctors in sporting events of national/international importance within India are allowed to travel by Rail in First Class (or Economy Class by Air if travelling outside India), regardless of their ordinary pay-level entitlement.
+
+
+
+Memory Hook " R-A-S : Re-employed (2022), Attendant/Escort (2015), Sportspersons (First Class rail) — three special-category clarifications."
+
+
+
+
+
+
+### [ch06-007] micronote L1461-1469 
+
+Revision of TA Bills — The 3-Year Limit (GFR Procedural Rule)
+
+After a TA bill has been passed and payment made, it may still be revised under certain circumstances:
+
+• Grounds for Revision: A passed TA bill can be revised for (a) arithmetic errors discovered post-payment, (b) subsequent increase in DA that retrospectively affects the rates applicable at the time of the journey, or (c) supplementary claims that were inadvertently omitted from the original bill.
+
+• Time Limit: Under GFR provisions, a revised/supplementary TA claim can be processed within three (3) years from the date of the original claim. Beyond 3 years, no revision or supplementary claim is entertained.
+
+• Supplementary Claim: An official who has already drawn TA on a bill may draw a supplementary claim even after the original bill has been passed — for example, if a DA rate revision occurred after the original bill was settled, or if a component was missed in the original claim.
+
+Exam Trap: "A TA bill passed in March 2023 can be revised in June 2026 for a DA enhancement." → Yes , because 3 years and 3 months have passed, this would be time-barred . But if the revision is sought in February 2026 (within 3 years), it is admissible.
+
+
+
+
+
+### [ch06-008] micronote L1470-1481 
+
+TA for Pensioners / Retired Employees Called Back for Duty
+
+When a retired Government employee (pensioner) is summoned by a Central Government office — not for re-employment, but for specific purposes like:
+
+• Testifying in a departmental inquiry or vigilance case ,
+• Appearing before a Medical Board for disability reassessment,
+• Providing evidence or deposition in a court case related to their official service,
+
+they are entitled to TA and DA as per their original pay level at the time of retirement for the duration of the visit. The travel fare (by the class they were entitled to at retirement) and Daily Allowance for the journey and halt days are reimbursable.
+
+Important: This entitlement is distinct from re-employment (covered under O.M. 24.01.2022). A pensioner called for a one-off inquiry is not "re-employed" — they are summoned as a witness/deponent and are reimbursed accordingly.
+
+Note: Pensioners do NOT get LTC (Leave Travel Concession) — LTC is a benefit for serving employees only.
+
+Exam Trap: "A retired Level 11 officer is called to depose in a CBI inquiry. What TA do they get?" → Answer: TA/DA as per Level 11 (their retirement pay level), not as per any re-employment scale.
+
+
+
+
+
+### [ch06-009] mfs L1482-1494 Master Fact-Sheet — Chapter 6
+Master Fact-Sheet — Chapter 6
+
+
+Item | Value | Reference |
+
+Ordinary TA claim-submission limit | 60 days succeeding the applicable trigger for tour/transfer/training, whether or not an advance was drawn | GFR R.290; DoE O.M. 13.03.2018 |
+
+Retirement TA claim limit | 180 days | O.M. 15.06.2021 |
+
+TA bill revision / supplementary claim limit | 3 years from date of original claim | GFR procedural provisions |
+
+Death-in-service TA advance ceiling | 75% of likely claim | Cross-verified secondary source |
+
+Re-employed persons' TA concession | Clarified | O.M. 19030/4/2020-E.IV, 24.01.2022 |
+
+TA for Pensioners (called for inquiry/deposition) | TA/DA as per retirement pay level | FR/SR provisions; secondary compilation |
+
+Attendant/Escort TA (disability) | Provided | O.M. 19030/3/2013-E.IV, 17.02.2015 |
+
+Sportspersons' rail entitlement | First Class (Economy Air if abroad) | Secondary compilation |
+
+
+
+
+
+### [ch06-010] review L1495-1495 Review Protocol
+Review Protocol
+Active recall: (1) How long after retirement can you still submit your TA claim? (2) What % TA advance can a deceased employee's family draw? (3) What's special about sportspersons' rail entitlement?
+
+
+
+### [ch06-011] recap L1496-1507 Rapid-Revision Recap — Chapter 6
+Rapid-Revision Recap — Chapter 6
+
+
+Ordinary tour/transfer/training TA claim submission: 60 days, whether or not an advance was drawn. Retirement TA: separate 180-day window (O.M. 15.06.2021). Advance adjustment is not this claim clock.
+
+Death-in-service: family can draw TA advance up to 75% of likely claim.
+
+Re-employed persons' TA concession clarified 24.01.2022.
+
+Attendant/Escort for disabled employee's TA: O.M. 17.02.2015.
+
+Sportspersons get First Class rail regardless of pay level.
+
+TA bill revision / supplementary claims: Admissible within 3 years of the original claim (GFR provisions).
+
+TA for Pensioners: Retired employees summoned for inquiries/depositions get TA/DA at their retirement pay level .
+
+
+
+
+

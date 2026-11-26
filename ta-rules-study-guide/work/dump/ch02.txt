@@ -1,0 +1,130 @@
+
+### [ch02-002] chapter-banner L861-861 Travel Entitlements by Mode & Pay Level
+Chapter 2
+Travel Entitlements by Mode & Pay Level
+
+
+
+### [ch02-003] study-map L862-871 
+
+Chapter study map PARTIAL
+
+
+Focus Select a travel mode/class by Pay Level and keep tour entitlement separate from LTC rules.
+
+Source review The domestic entitlement table was checked; some train-specific, sea and international details still need their exact primary orders.
+
+Study move Rebuild the Pay-Level table from memory, then check every exception against its own order.
+
+
+
+
+
+
+
+### [ch02-004] card L872-897 Very High-Yield Entitlement table — Rail / Air / Steamer by Pay Level
+
+Very High-Yield Entitlement table — Rail / Air / Steamer by Pay Level
+
+Exact-Source Fact Card
+Table A of the O.M. dated 13.07.2017 fixes travel entitlement by 5 pay-level bands. Level 13A (Grade Pay ₹8900, added later) was clarified vide O.M. of even number dated 04.09.2017 to carry the same entitlement as Level 13 .
+
+
+
+
+Pay Level | Travel by Air | Travel by Train |
+
+14 and above | Business/Club class | AC-I |
+
+12 & 13 (incl. 13A) | Economy class | AC-I |
+
+9 to 11 | Economy class | AC-II |
+
+6 to 8 | Economy class | AC-II |
+
+5 and below | Not entitled (except specific relaxations) | AC-III / AC Chair Car |
+
+
+RED-FLAG TRAP Flag: "Levels 6–8 are too junior for air travel." Fix: Under the 7th CPC rules, Levels 6 to 11 are entitled to Economy Class air travel on tour — a major liberalisation from the 6th CPC regime. Fix-phrase: "6 through 13 all fly economy or better; only 5-and-below stays on the ground (by air)."
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch02-005] card L898-910 High-Yield Premium / Special trains & international travel
+
+High-Yield Premium / Special trains & international travel
+
+Exact-Source Fact Card
+Officials may travel by Premium Trains/Premium Tatkal Trains/Suvidha Trains , with reimbursement of Premium Tatkal charges. Dynamic/Flexi-fare in Shatabdi/Rajdhani/Duronto trains is reimbursable while on official tour/training. Tatkal Seva Charges (fixed fare) continue to be allowed. The 12.09.2022 Tejas O.M. allows Tejas travel for tour, training, transfer and retirement , with class entitlement as for Shatabdi trains. For international air travel, the entitlement cited here is based on SR 48-B and remains outside this targeted source check; confirm the operative primary text before use.
+
+
+
+
+Train type | Pay Level entitlement |
+
+Rajdhani / Shatabdi / Duronto / Tejas (dynamic-fare) | All eligible levels, as per their base class entitlement (12 & above → Executive/AC-I; 6–11 → AC-II/Chair Car; 5 & below → AC-III/Chair Car) |
+
+
+Analogy Think of "dynamic fare" trains like Uber's surge pricing — the government doesn't cap your reimbursement to the "normal" fare; it reimburses whatever the surge price was, since you had no choice on an official tour.
+
+
+Exam Angle / PYQ Trap: Tatkal Seva Charge (fixed, small fee) vs Premium Tatkal (dynamic, can be large) — both are reimbursable, but examiners test whether you know both exist and are treated alike (reimbursable), unlike ordinary "convenience fee" add-ons which are not.
+
+
+
+
+
+
+### [ch02-006] mfs L911-923 Master Fact-Sheet — Chapter 2
+Master Fact-Sheet — Chapter 2
+
+
+Item | Value/Limit | Reference |
+
+Level 14+ air/rail | Business/Club; AC-I | Table A, O.M. 13.07.2017 |
+
+Level 12–13 (13A) air/rail | Economy; AC-I | Table A + O.M. 04.09.2017 (13A) |
+
+Level 6–11 air/rail | Economy; AC-II | Table A |
+
+Level 5 & below | No air; AC-III/Chair car | Table A |
+
+Tejas Express clarification | Allowed on official tour | O.M. 19030/1/2017-E.IV, 12.09.2022 |
+
+International air — Level 17+ | First Class | SR 48-B |
+
+International air — Level 14-16 | Business/Club Class | SR 48-B |
+
+International air — Level 13 & below | Economy Class | SR 48-B |
+
+
+
+
+
+### [ch02-007] review L924-924 Review Protocol
+Review Protocol
+Active recall: (1) Which levels first get air-eligibility under 7th CPC? (2) What class does Level 13A get, and why? (3) Name 3 premium train categories whose dynamic fare is reimbursable.
+
+
+
+### [ch02-008] recap L925-934 Rapid-Revision Recap — Chapter 2
+Rapid-Revision Recap — Chapter 2
+
+
+5 pay-band structure for travel class; Level 13A = same as Level 13 (O.M. 04.09.2017).
+
+Levels 6–11: Economy air + AC-II train — the 7th CPC's biggest liberalisation.
+
+Level 5 & below: no air, AC-III/Chair car only.
+
+Dynamic fare (Rajdhani/Shatabdi/Duronto) + Tatkal + Tejas (2022) all reimbursable.
+
+International air scale (SR 48-B): 17+ First, 14-16 Business, ≤13 Economy.
+
+
+
+
+

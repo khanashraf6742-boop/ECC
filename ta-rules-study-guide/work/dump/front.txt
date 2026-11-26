@@ -1,0 +1,247 @@
+
+### [front-001] cover L532-560 Travelling Allowance (TA) Rules — 7th CPC
+
+Ultra-Granular Study Guide &middot; SO LDCE / In-Service Exams
+
+Travelling Allowance (TA) Rules — 7th CPC
+
+Entitlements, Daily Allowance, Mileage, Transfer TA, Retirement TA, key amendment OMs and worked illustrations. Updated 22 November 2026 with targeted corrections and explicit verification caveats; this is a study aid, not a full legal audit or an individual entitlement decision.
+
+This study guide is based on the Department of Expenditure's O.M. No.19030/1/2017-E.IV dated 13.07.2017 and selected subsequent materials. It contains explanatory material and examples that have not all been independently verified. The update register below records targeted corrections made on 22.11.2026; it is not a line-by-line legal validation.
+
+
+
+Provenance & coverage note. Primary source requested: YouTube playlist "Travelling Allowance Rules — TA Rules" by Just Crack It (6 parts, ~5.5 hrs; Part 1 based on DoE O.M. dated 13.07.2017, Parts 2–4 on Swamy's Handbook, Part 5 on important amendment O.Ms, Part 6 on worked illustrations). YouTube did not expose a machine-readable transcript/caption track for this series (transcript panel returned no text on repeated attempts) — so no sentence from the spoken narration is quoted here. The guide is intended to use (a) the official DoE O.M. No.19030/1/2017‑E.IV dated 13.07.2017 and selected amendment O.Ms, and (b) Dearness-Allowance-linked rate-revision materials. This provenance is not a certification that every fact card, rate, or citation has been rechecked; see the targeted correction register above. Chapter topics mirror the video series' own stated structure (from its descriptions/titles) so the guide can still be used alongside the videos. Explanatory analogies, memory hooks, and exam notes should be treated as study aids, not authority.
+
+
+
+Current Dearness Allowance correction (updated 22.11.2026): The Department of Expenditure O.M. No. 1/2(i)/2026-E.II(B) , dated 29.10.2026 , revises Central Government employees' Dearness Allowance (DA) to 63% of Basic Pay w.e.f. 01.07.2026 . Terminology guard: this 63% pay-linked figure is Dearness Allowance , not the Daily Allowance claimed for eligible official travel. This corrects the stale 60% / 01.01.2026 statements below. The 2024 crossing of 50% (effective 01.01.2024) is a separate trigger; 63% Dearness Allowance remains below the next stated 100% trigger. The 25%-enhanced Daily Allowance rate tables reproduced from the 2024 source are not recalculated by a 3-point change in Dearness Allowance; Dearness-Allowance-linked Transport Allowance examples are corrected below. This targeted update does not certify every rate, formula, claim, or entitlement in the guide.
+
+
+
+Targeted correction register — 22.11.2026 (not a whole-guide verification)
+
+Dearness Allowance (DA): Updated to 63% from 01.07.2026; the pay-linked figure is distinguished from tour Daily Allowance. DA-dependent disability Transport Allowance examples recalculated.
+
+16.07.2026 DoPT LTC circular: A Government-hosted DGT copy of F.No. G-14019/02/2026-Cash was retrieved. It is addressed to DoPT officers/officials and concerns LTC air booking and LTC advances only: the 21-day booking lead is encouragement, and air-entitled employees may apply for an LTC advance at least 30 days ahead with the specified printout from the authorized travel agency webpage showing suitable flight/fare details. It does not establish a general TA or rail-booking deadline. A direct DoPT-hosted copy was not obtained in this pass; the cited PDF is hosted by DGT.
+
+TA advances: Removed the unsupported general 90% cap and general 30-day transfer-advance deadline; corrected the GFR 224/290 citations. The inspected 2005 Advances Compendium has not been verified as current; its 15-day tour-advance text is labelled accordingly.
+
+Joining Time / TTA on competitive appointment: The 2015 Rule 4(4) amendment and DoPT's 2022 consolidation create an unresolved interaction about the three-year limitation. The categorical entitlement table, flowchart and answers are replaced/qualified. Technical-resignation status remains distinct from TTA and Joining Time Pay.
+
+Training TA (SR 164): Removed the categorical second-station 180-day reset, blanket >180-day transfer wording, and Urban-Agglomeration extension. Current SR/GIO and historical order status remain unresolved; see the targeted source matrix. MCQ-TA-14 has no validated key.
+
+Local-journey source update: The signed 12.09.2018 DoE letter supports the beyond-8-km-from-normal-duty-point test (regardless of journey origin) and mileage plus 50% DA. It does not settle at/below-8-km fares/vehicle treatment or the DFPR election. Full current SR 71/GIO and operative conveyance-hire instructions remain open; other unrevised material and all MCQs remain unverified.
+
+
+Key source links: DoE Dearness Allowance update · G.S.R. 229(E), 27.03.2015 · DoPT Joining Time consolidation · DoPT Technical Resignation OM · GFR updated to 31.01.2026 · 2005 Advances Compendium copy reviewed (currency unverified) .
+
+
+
+
+⚠ Scope Disclaimer — Civilian vs Defence Personnel. This guide covers Civilian Central Government Ministries/Departments governed by the Department of Expenditure (DoE) O.M. No.19030/1/2017-E.IV. Defence Personnel (Army, Navy, Air Force) and personnel of CISF, Assam Rifles, and other Central Armed Police Forces (CAPFs) are governed by separate orders issued by the PCDA (Principal Controller of Defence Accounts), Pune — not by the civilian DoE O.M. While the broad rationale (Pay-Level-based entitlements, Dearness-Allowance-linked rate revisions, CTG structure) is similar, the specific rates, class entitlements, and Road Mileage Allowance (RMA) tables may differ in Defence orders. For competitive exams like CDS, AFCAT, or NDA that test Defence-specific TA, always refer to the latest PCDA(O) Pune circulars. This guide's RMA state-wise table (Chapter 4) is included only as an illustration of the "state-specific rate" concept — it does not constitute the governing rate for civilian employees.
+
+
+
+
+
+
+### [front-002] study-hub L561-677 Start here: choose a route
+
+
+Study dashboard · exam preparation and claim reference
+
+Start here: choose a route
+
+This guide is substantial, so use a route instead of reading every section in one sitting. The core rule chapters come first; amendments, exceptions, appendices and AO tools are later passes. Check the source status before memorising a rule and use the links below to return to the right material quickly.
+
+
+
+
+
+Verification gate — targeted updates only. This HTML has not had a whole-guide legal verification. All 38 MCQ answer/rationale packages have now been screened individually and remain unverified as a bank; the companion review log records each disposition. No score or fully validated answer key is authorized. MCQ-TA-06, -07, -09, -10, -11, -14, -15, -16, -18, -19, -20, -21, -22, -23 and MCQ-TR-01, -02, -08, -09, -11, -13, -14, -15 are unscored with no key assigned ; other displayed answers are proposals only, not validated keys. The official DoE 13.07.2017 O.M. confirms that SR 114’s general admissibility conditions continue to apply, but does not reproduce the current SR 114 text; duration-only Transfer/Tour classification remains unresolved. Official DoE 2020 voucher and boarding-pass O.M.s and the 2025 double-Transport-Allowance category amendment have been retrieved and their limited scope reflected below. A Government-hosted DGT copy of the 16.07.2026 DoPT LTC circular was checked for scope: it is DoPT-staff/LTC-air only, not a general TA or rail rule. Per-chapter cards below show review coverage, not legal conclusions. Read each caveat; do not treat a secondary lead or held item as a confirmed entitlement or answer. Open the MCQ verification tracker .
+
+
+
+
+Priority verification holds — do not state firm outcomes on open questions until checked against current primary authority.
+
+Local journeys: Confirm the current SR 71/GIO and operative Finance Ministry conveyance-hire instructions. Treatment for journeys at or below 8 km and the conveyance-hire/DFPR interaction remain explicitly unresolved; do not infer a fare, vehicle, election, or no-DA outcome. See Chapter 3 .
+
+Transfer, training and advances: Verify the complete current SR 114 and SR 164 text and current TA advance-adjustment instructions before stating firm outcomes on unresolved transfer-classification, training-entitlement, or advance-adjustment questions. Keep individually checked points within their stated scope. See Chapter 5 , Chapter 11 , and the source-check log .
+
+
+
+
+
+
+Targeted primary-source check log — 22 November 2026 (open)
+
+These are instrument-level checks, not whole-chapter validation. “Checked” means the named text was fetched/read from the host shown; it does not validate every summary, claimant fact, later amendment or entitlement in this guide.
+
+
+Instrument / source | Point checked | Boundary / remaining work |
+
+
+DoE 7th-CPC TA O.M., 13.07.2017 Official DoE PDF | Base civilian TA structure and effective date; transfer para 3(i)(a) says the general admissibility conditions prescribed in SR 114 continue to apply. CTG: 80% for eligible transfers at 20 km or more; under-20-km/same-city one-third CTG requires actual residence change. | The O.M. does not reproduce the full current SR 114 text. It does not verify a duration-only 180-day classification or every later rate/order. |
+
+DoE O.M. 19030/2/2020-E.IV, 22.12.2020 Official DoE PDF | For tour local-travel charges under DA, Level 9–11 may claim without receipts/vouchers on self-certification indicating travel period and vehicle number. | Changes the documentation rule, not the pay-level travel mode or ceiling; the entire city-travel section has not been revalidated. |
+
+DoE O.M. 19030/3/2014-E.IV, 23.06.2020 Official DoE PDF | If a Central Government employee on tour is unable to submit a boarding pass with the TA bill, the annexed self-declaration may be submitted in lieu; below-Under-Secretary/Pay Level 10-and-below cases require Controlling Officer countersignature. | The text does not require an airline “Certificate of Travel” or a fee; applies to tour journeys and stated conditions. |
+
+DoE O.M. 19030/3/2013-E.IV, 17.02.2015 — escort TA for employees with disabilities Government-hosted DoE O.M. | Conditional attendant/escort fare for eligible tour/training; medical certification and official inability to provide escort are material; no escort DA. | Does not establish unrestricted local AC taxi for the employee or 500 kg extra baggage. |
+
+DoPT LTC FAQ, 01.07.2025, Q30; see also O.M. 31011/3/2009-Estt(A), 28.10.2009 Official DoPT FAQ / O.M. | Conditional own/hired-taxi exception for an LTC journey due to disability: medical certificate, undertaking/actual journey, and cap by entitled rail/air journey on shortest route. | LTC only; not local official-tour/training taxi or transfer/retirement baggage. |
+
+DoPT FR/SR Compilation Part-I page and attached scan | Official Part-I record and attachment retrieved; the attachment is a 296-page image-only scan with no extractable text in this check. | Part-I is not the required TA Part-II text; PDF version currency and its relevance to current SR 114 remain unestablished. |
+
+DoE O.M., 01.02.2018 — free boarding/lodging Official DoE PDF | The earlier flat 25% DA arrangement and 5th-CPC rate option are discontinued; if local-travel expenditure is incurred, it may be claimed under Para 2E(i)/(iii) of the 2017 O.M. | The text addresses free boarding and lodging. It does not authenticate the distinct fixed-rate residential-training allowance or a universal formula for every partial/free-facility scenario. |
+
+DoE TA claim O.M., 13.03.2018 Official DoE PDF | Ordinary TA claim period is 60 days succeeding the applicable trigger; para 2 separately reckons family journeys and delivery of personal effects/conveyance. Para 5 is a narrow investigation route for claims kept in abeyance over one year, not blanket condonation. | Claim-submission clocks are not advance-adjustment deadlines. |
+
+DoE GST/hotel O.M., 29.06.2018 Official DoE PDF | Hotel/guest-house entitlement is exclusive of taxes; GST is reimbursable over the prescribed entitlement for actual charges paid within that entitlement. | Does not remove the underlying hotel ceiling or validate every hotel/tax claim. |
+
+DoE retirement TA claim O.M., 15.06.2021 Official DoE PDF | Retirement TA submission window is 180 days; tour, transfer and training remain 60 days. | Retirement-specific change only; apply the proper journey trigger. |
+
+DoE retirement CTG O.M., 06.01.2022 Official DoE PDF | For retirement settlement, full 80% CTG is available subject to actual change of residence; the 20-km condition is removed. | Retirement rule only; do not import it into transfer CTG. |
+
+DoE air O.M., 31.12.2021 and DoE air O.M., 16.06.2022 Official DoE PDFs | Government-funded air travel uses the three ATAs within the order’s scope; 16.06.2022 sets best-fare/time-slot and booking conditions, encourages early booking, and names an authorized relaxation route for unavoidable unauthorized-channel bookings. | These are air-ticket instructions, not an ATA-only rule for every rail ticket. Check the exact order and relaxation for a real claim. |
+
+DoE special-region transfer O.M., 16.06.2022 Official DoE PDF | When family does not accompany on transfer to/from NER, A&N, Lakshadweep or Ladakh, personal effects up to one-third entitlement may be carried without receipts/vouchers; where family accompanies, vouchers remain mandatory for the admissible cost. | This is a specific exception, not a general receipts waiver. |
+
+DoE re-employment TA O.M., 24.01.2022 Official DoE PDF | Read the appointment/retirement history, residence/station conditions, entitlement basis and which organization bears each permitted leg separately. | Does not create one blanket rule for all pensioners or all re-employment cases. |
+
+DoE Tejas O.M., 12.09.2022 Official DoE PDF | Tejas is permitted for tour, training, transfer and retirement journeys; entitlement matches the Shatabdi class provision in the 2017 O.M. | Check the pay-level class and journey facts against the cited table. |
+
+DoPT LTC-air O.M., 29.08.2022 DoPT-hosted PDF | LTC air booking channel, fare/time-slot evidence, 21-day encouragement and the specified advance process for air-entitled employees (application at least 30 days before travel with the relevant ATA webpage printout). | LTC scope; not ordinary official-tour claim submission or a rail deadline. |
+
+DoE double Transport Allowance compendium + 29.07.2025 amendment Official DoE PDF | The 29.07.2025 O.M. substitutes para B(1) of the 15.09.2022 compendium, listing nine RPwD Act benchmark-disability categories; spinal deformity/injury are sub-categories of locomotor disability. Double normal Transport Allowance is subject to the other 2022 conditions and valid disability certification. | Daily home-to-office Transport Allowance only; not tour local-conveyance, escort TA or transfer/retirement baggage. Railway employees have separate orders. |
+
+DoE Dearness Allowance O.M., 29.10.2026 Official DoE PDF | Dearness Allowance increases from 60% to 63% effective 01.07.2026. | Current input only; it does not independently validate every DA-linked table or claimant category in this guide. |
+
+G.S.R. 229(E), 27.03.2015 and DoPT 24.11.2022 consolidation — Government-hosted NESTS reproduction | The Gazette substitutes Joining Time Rule 4(4) with conditional language and no express three-year cutoff in that text; the 2022 reproduction separately states a three-year condition for temporary employees’ TTA. | The direct DoPT archive copy was not obtained; the Rule 4(4)/para 3.6.3 interaction remains unresolved. No individual TTA/Joining Time Pay decision is made. |
+DoE signed clarification letter No. 904302/2018-E.IV, 12.09.2018 Signed source scan hosted by a secondary site | Paras (i)–(ii): qualifying local-journey threshold is beyond 8 km from normal place of duty irrespective of journey origin; mileage allowance plus 50% DA; no hotel component; local food fractions 15/35/50 by absence band. | Not a full current SR 71/GIO consolidation; no under-threshold fare/vehicle rule or DFPR election is stated. Direct DoE-hosted copy not found; check applicability and current SR/GIO. |
+DFPR 2024 e-Gazette, Annexure-II (See Rule 12), para (8), p.30 Official primary Gazette | General Conditions for incurring Expenditures: conveyance-hire financial limits/guidelines follow extant Finance Ministry instructions. | Does not itself state a local-journey threshold, rate, election, or DA consequence. Rule 21 is repeal and savings; do not cite Rule 21(8). The operative instruction remains open. |
+DoE city-travel O.M. 19030/3/2008-E.IV, 14.10.2008 Official DoE PDF | Specified taxi/auto charges between residence and railway station/airport, and between tour-station railway station/airport and place of stay, continue in addition to within-city taxi/travel charges. | Specific station/airport and tour-station scope only; does not establish the general under-8-km claim or DFPR election; later interaction should be checked instrument by instrument. |
+DoE O.M. 19030/3/2008-E.IV, 23.09.2008, Annexure paras 2(D), 3 Official DoE scan; historical Sixth-CPC instrument | Para 2(D) sets grade-pay-specific public-bus/taxi/auto road-journey entitlements and default rates when no State/neighboring-State rate is prescribed; para 3 sets tour hotel, within-city travel and food ceilings. | No general local 8-km threshold or DFPR hire-versus-TA election in the reviewed text. The 13.07.2017 TA O.M. supersedes the 2008 O.M. in respect of TA; do not apply these historical rates as current. |
+DoE O.M. 19030/3/2008-E.IV, 22.01.2009, paras 2–4 Official DoE two-page scan | Para 2 allows a historical complete-package choice for tour DA between the 23.09.2008 and pre-existing 17.04.1998 schedules for a particular tour; para 3 maps old pay ranges; settled claims are not reopened. | This is not a local-journey DFPR option and states no no-DA consequence for conveyance hire. The 2017 O.M. supersedes the 2008 O.M. in respect of TA; the 2009 option’s standalone continuing status was not traced. |
+
+
+
+Still open after these checks: current complete Central SR 71/SR 89/TA Part-II and SR 114/SR 164 texts; the operative Finance Ministry conveyance-hire instruction and local at/below-8-km fare/vehicle treatment; the current 2005 Advances Compendium status; claimed disability-related local AC-taxi and 500 kg extra-baggage entitlements; other unverified O.M.s and claimant-specific conditions; all 2,453 baseline non-MCQ atoms and all 38 MCQ packages. The signed 2018 letter, 2008 city-travel O.M. and DFPR Gazette clauses have only the narrow scopes recorded above. Whole-guide verification remains STOP .
+
+Separate scope note: the 16.07.2026 LTC circular was reviewed from a Government-hosted DGT reproduction addressed to DoPT officers/officials; keep its 21-day encouragement and at-least-30-day LTC advance request within that copy’s stated DoPT-staff/LTC-air scope. DGT-hosted reproduction ; direct DoPT-hosted copy not obtained.
+
+
+
+
+
+
+Route 1 · Exam study
+
+Understand → retrieve → apply
+
+
+Chapters 1–2: build the rule framework and travel-entitlement map.
+
+Chapters 3–4: study tour/DA and mileage, then work the examples.
+
+Chapters 5–6: study transfer and retirement components, keeping their separate CTG and deadline rules apart.
+
+Chapters 7–8: use Chapter 7 as a selected historical amendment chronology, then study the current-rate mechanism; do not treat every old entry as current.
+
+Chapters 9–11: practise calculations, definitions, deadlines and exceptions; keep source holds visible.
+
+Chapters 12–17: use the technical-resignation, joining-time, case-study, comparison, MCQ and FAQ material as a specialist extension.
+
+Finish with Appendices A–D: use flashcards and reference indexes for retrieval; keep unverified MCQs unscored, then consult the source-check log and optional claim toolkit.
+
+
+
+
+
+Route 2 · Claim / audit desk
+
+Classify → verify → calculate → document
+
+
+Classify the journey: identify the claim type and the facts that trigger the rule.
+
+Separate the clocks: check the deadline matrix; do not merge claim-submission and advance-adjustment periods.
+
+Assemble the evidence: use the practical checklist and record missing documents or approvals.
+
+Check the arithmetic: review assumptions, inputs and calculations before preparing a bill.
+
+Resolve conflicts: use the consistency sweep and TA/LTC comparison, then confirm the controlling primary order and competent authority.
+
+
+This is a navigation aid, not an authority or individual entitlement decision. A workflow cannot upgrade an unverified rule.
+
+
+
+
+
+
+Suggested seven-session study plan
+
+
+Session 1 · Foundations: Chapters 1–2 .
+
+Session 2 · Tour and road travel: Chapters 3–4 .
+
+Session 3 · Transfer and retirement: Chapters 5–6 .
+
+Session 4 · History and current rates: Chapters 7–8 ; learn the effect/scope of checked orders, not an unverified chronology by rote.
+
+Session 5 · Apply the rules: Chapters 9–11 .
+
+Session 6 · Specialist material: Chapters 12–15 .
+
+Session 7 · Retrieval and verification: Chapters 16–17 , then Appendices A–D and the source-check log . Keep held items unscored.
+
+
+
+
+
+
+How to use repeated summaries and historical material
+
+Fact-sheets, rapid-revision recaps, flashcards and the AO quick-reference sheet intentionally repeat selected rules for recall. They are summaries, not separate authority; if a number or shorthand differs, return to the full chapter and the source-status entry. Chapter 7 is a selected historical chronology , not a current-rule list. Check issue date, effective date, scope and later amendments before using an old O.M.
+
+
+
+
+
+Use the same loop in every chapter
+
+
+State the rule: identify the trigger, scope, exception and effective date.
+
+Check the source status: distinguish a primary-source finding from a secondary lead or an unresolved point.
+
+Apply it: work the illustration or case without looking at the explanation.
+
+Retrieve it: close the section, answer its questions, then check the source. Mark each point know / unsure / source check and revisit it the next day and again about a week later; never turn “unsure” into an assumed rule.
+
+
+
+
+
+
+Source-status key
+
+Status applies only to the specific proposition, authority, date and scope described in that card—not automatically to the whole chapter.
+
+
+Primary source reviewed Use only within the wording, scope and effective period actually checked; look for later amendments.
+
+Government-hosted reproduction / secondary lead Useful for locating text; a reproduction is not automatically the issuer’s signed record or proof of current/general applicability.
+
+UNVERIFIED / HOLD Do not score or apply as a settled rule until the relevant primary authority and scope are checked.
+
+
+
+
+
+

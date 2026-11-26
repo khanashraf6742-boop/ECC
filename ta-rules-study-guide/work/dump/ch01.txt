@@ -1,0 +1,210 @@
+
+### [ch01-002] chapter-banner L732-732 Foundations: Legal Basis, Definitions & Kinds of TA
+Chapter 1
+Foundations: Legal Basis, Definitions & Kinds of TA
+
+
+
+### [ch01-003] study-map L733-742 
+
+Chapter study map PARTIAL
+
+
+Focus Explain the civilian TA framework, journey categories, Pay-Level basis and separate claim-submission clocks.
+
+Source review The DoE 13.07.2017 base order and selected 2018/2021 claim-window points were checked. Definitions and cross-rule claims are not fully covered; TA-COV-13 remains pending.
+
+Study move Trace each date to its order; separate submission deadlines from advance adjustment.
+
+
+
+
+
+
+
+### [ch01-004] card L743-776 Very High-Yield Legal basis & supersession chain
+
+Very High-Yield Legal basis & supersession chain
+
+Exact-Source Fact Card
+Use this source map to separate the governing framework, rate-setting orders and claim-processing clocks:
+
+
+Legal framework, source role and boundary
+
+Topic | Rule / authority | Effect and boundary |
+
+
+TA framework | Fundamental Rules (FR) and Supplementary Rules (SR) , specifically SR 17–SR 246, as revised by Department of Expenditure (DoE), Ministry of Finance Office Memoranda. | The O.M.s revise and supplement the underlying rules; check the current instrument for the issue at hand. |
+
+7th CPC base order | DoE O.M. No. 19030/1/2017-E.IV dated 13.07.2017 . | Superseded O.M. No. 19030/3/2008-E.IV dated 23.09.2008 and applies from 01.07.2017 . |
+
+Pay-Level basis | CCS (Revised Pay) Rules, 2016 Pay Matrix. | The Pay Level shown in that matrix determines TA/DA entitlement; the guide’s rate and entitlement tables are not all independently revalidated. |
+
+GFR role | General Financial Rules (GFR) 2017; Rule 290 and DoE O.M. 13.03.2018. | GFR does not separately prescribe TA rates; its role here is procedural/financial-propriety. Rule 290 and the O.M. provide the ordinary claim-submission framework. |
+
+Ordinary TA claim | Tour, transfer and training TA: 60 days succeeding the applicable trigger , whether or not an advance was drawn. | DoE O.M. 13.03.2018 para 2 provides separate triggers for relevant family journeys and delivered personal effects/conveyances. |
+
+Retirement TA claim | 180 days under DoE O.M. 15.06.2021. | This is a separate claim-submission clock, not an advance-adjustment period. |
+
+Claim kept in abeyance | DoE O.M. 13.03.2018 para 5. | Provides a specific review route where a claim is kept in abeyance for more than one year; it is not blanket condonation. |
+
+Advance adjustment | Separate issue from the above submission clocks. | Do not infer an advance-adjustment deadline from the 60-day or 180-day claim-submission periods. |
+
+
+
+Source boundary: This is a navigation summary, not a complete validation of current SR 114, SR 164, later amendments or advance-adjustment instructions.
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " 2017 beats 2008 , Pay Level beats Grade Pay , GFR-290 = ordinary TA claim clock ."
+
+
+Exam Angle / PYQ Examiners love to test the exact O.M. number ( 19030/1/2017-E.IV ) and date ( 13.07.2017 ), the superseded order ( 19030/3/2008-E.IV, 23.09.2008 ), and the effective date ( 01.07.2017 — note this is before the issue date, a classic trap). Also frequently tested: confusing the GFR 60-day general limit with the 180-day special limit for retirement TA claims (Chapter 6).
+
+
+
+
+
+
+### [ch01-005] card L777-804 High-Yield Kinds of Travelling Allowance
+
+High-Yield Kinds of Travelling Allowance
+
+Exact-Source Fact Card
+Four broad kinds of Travelling Allowance are recognised. Compare their purpose and main components:
+
+
+Four broad TA categories
+
+Kind | When it applies | Main elements / scope |
+
+
+TA on Tour | Official journey away from headquarters. | Travel fare plus Daily Allowance (DA). |
+
+TA on Transfer | Change of headquarters. | Travel fare, Composite Transfer Grant (CTG), and transportation of personal effects/conveyance, each subject to its own conditions. |
+
+TA on Retirement | Eligible one-way journey after retirement. | Journey entitlement to the declared home town or place of settlement, subject to the applicable retirement rules. |
+
+Permanent / Fixed TA and Mileage Allowance | Local journeys and journeys by own conveyance where no specific State rate is prescribed. | Fixed-allowance or per-kilometre treatment, as applicable; do not assume a default rate where a state-specific rate applies. |
+
+
+
+Related component, not a fifth kind: DA on Tour is a lump-sum/reimbursement mechanism and a component of tour TA, covering hotel, local travel and food.
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " T-T-R-M : Tour, Transfer, Retirement, Mileage — ye 4 pillars hain TA ke."
+
+
+
+
+
+
+### [ch01-006] micronote L805-827 
+
+6th CPC Grade Pay → 7th CPC Pay Level Quick Mapping (for practical reference & exam traps)
+
+Many employees and exam candidates still think in terms of the old 6th CPC "Grade Pay" system. Here is the official correspondence under the CCS (Revised Pay) Rules, 2016 Pay Matrix:
+
+
+6th CPC Grade Pay (₹) | 7th CPC Pay Level | Typical Post / Remarks |
+
+GP 1800 & 1900 | Level 1 | Multi-Tasking Staff (MTS), Peon |
+
+GP 2000 | Level 2 | Lower Division Clerk (LDC) |
+
+GP 2400 | Level 4 | Upper Division Clerk (UDC) |
+
+GP 2800 | Level 5 | Senior Secretariat Assistant |
+
+GP 4200 | Level 6 | Inspector / Assistant Section Officer |
+
+GP 4600 | Level 7 | Section Officer (Entry) |
+
+GP 4800 | Level 8 | Section Officer (Senior) |
+
+GP 5400 (PB-2) | Level 9 | Under Secretary |
+
+GP 5400 (PB-3) | Level 10 | Deputy Secretary |
+
+GP 6600 | Level 11 | Senior Time Scale / Deputy Secretary (Sr.) |
+
+GP 7600 | Level 12 | Director / Joint Secretary (Jr.) |
+
+GP 8700 | Level 13 | Director / Joint Secretary |
+
+GP 8900 | Level 13A | Director (Sr.) / Addl. Secretary (Jr.) |
+
+GP 10000 | Level 14 | Additional Secretary / Secretary (Jr.) |
+
+
+Exam Trap: Examiners may ask "What is the TA entitlement of a GP 4200 officer?" — you must map this to Level 6 first, then look up the Level 6 entitlement (Economy air, AC-II train). The concept of "Grade Pay" no longer exists in the 7th CPC TA framework.
+
+
+
+
+
+### [ch01-007] mfs L828-841 Master Fact-Sheet — Chapter 1
+
+Master Fact-Sheet — Chapter 1
+
+
+Item | Value | Authority / Reference |
+
+Master O.M. (7th CPC TA Rules) | No.19030/1/2017-E.IV, dated 13.07.2017 | DoE, MoF, GoI |
+
+Superseded O.M. (6th CPC) | No.19030/3/2008-E.IV, dated 23.09.2008 | DoE, MoF, GoI |
+
+Effective date of 2017 O.M. | 01.07.2017 | Para 1, O.M. 13.07.2017 |
+
+Governing service rules | Fundamental Rules (FR) & Supplementary Rules (SR 17–246) | FR/SR, DoPT/DoE |
+
+Ordinary TA claim-submission window | 60 days succeeding the applicable journey/delivery trigger for tour, transfer and training, whether or not an advance was drawn; retirement has a separate 180-day window. | GFR 2017, Rule 290; DoE O.Ms 13.03.2018 and 15.06.2021 |
+
+Basis of entitlement | "Pay Level" per CCS (Revised Pay) Rules 2016 Pay Matrix | CCS(RP) Rules 2016 |
+
+Kinds of TA | Tour, Transfer, Retirement, Mileage/Fixed TA (4 kinds) | SR 17 onward |
+
+6th CPC Grade Pay → 7th CPC Pay Level | GP 1800→L1; GP 2800→L5; GP 4200→L6; GP 5400→L10; GP 6600→L11; GP 7600→L12; GP 8700→L13; GP 8900→L13A; GP 10000→L14 | CCS (RP) Rules 2016 Pay Matrix |
+
+
+
+
+
+### [ch01-008] review L842-845 Review Protocol
+Review Protocol
+
+If you can recall the O.M. number, both dates (issue vs effective), and the 4 kinds of TA without looking — you're solid. Remember: ordinary tour/transfer/training claim submission is 60 days whether or not an advance was drawn; retirement TA is a separate 180-day window. Neither number supplies a TA-advance adjustment deadline.
+
+Active recall: (1) What O.M. did the 13.07.2017 order supersede? (2) From which date is the 2017 O.M. effective? (3) Which rule fixes the general 60-day TA claim limit? (4) Name the 4 kinds of TA.
+
+
+
+
+### [ch01-009] recap L846-858 Rapid-Revision Recap — Chapter 1
+Rapid-Revision Recap — Chapter 1
+
+
+Master order: O.M. 19030/1/2017-E.IV dated 13.07.2017, effective 01.07.2017.
+
+Supersedes the 2008 (6th CPC) O.M. No.19030/3/2008-E.IV.
+
+Entitlement basis = "Pay Level" in the 2016 Pay Matrix, not Grade Pay.
+
+GFR Rule 290 concerns the ordinary tour/transfer/training claim-submission clock: 60 days, whether or not an advance was drawn. Retirement TA has a separate 180-day order; advance adjustment is separate.
+
+4 kinds of TA: Tour, Transfer, Retirement, Mileage/Fixed.
+
+GFR ≠ TA rate-setting authority — common exam trap.
+
+GP → Level mapping: GP 1800→L1, GP 2800→L5, GP 4200→L6, GP 5400→L10, GP 6600→L11, GP 7600→L12, GP 8700→L13, GP 8900→L13A, GP 10000→L14.
+
+Scope: Civilian Ministries only — Defence/CAPF personnel governed by PCDA(Pune) orders.
+
+
+
+
+

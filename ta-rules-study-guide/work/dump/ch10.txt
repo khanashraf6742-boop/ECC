@@ -1,0 +1,449 @@
+
+### [ch10-002] chapter-banner L2127-2127 Definitions, City Classification, Booking Rules & TA Advances
+Chapter 10
+Definitions, City Classification, Booking Rules & TA Advances
+
+
+
+### [ch10-003] study-map L2128-2137 
+
+Chapter study map MIXED / OPEN
+
+
+Focus Separate definitions, booking channels, TA advances, LTC rules and claim/advance clocks.
+
+Source review DoE 2021/2022 Government-account air instructions and the 2022 LTC-air scope were checked. The DGT-hosted 16.07.2026 circular is limited to DoPT staff/LTC air. Definitions and current TA-advance authority remain open.
+
+Study move Keep TA/LTC, air/rail, claim submission and advance request/adjustment in separate columns.
+
+
+
+
+
+
+
+### [ch10-004] card L2138-2180 Very High-Yield Key definitions — Headquarters, Tour, Family (which dependents qualify)
+
+Very High-Yield Key definitions — Headquarters, Tour, Family (which dependents qualify)
+
+Exact-Source Fact Card
+Under Supplementary Rules (SR) and DoPT/DoE guidelines, key definitions for Travelling Allowance (TA) purposes are strictly defined:
+
+
+Headquarters (SR 8, SR 116): The station declared to be such for a Government servant by the competent authority (usually where their office is located). TA on tour/transfer is reckoned from this notified station. The signed 12.09.2018 DoE letter uses a beyond-8-km test from the normal place of duty for the stated local-journey TA, irrespective of journey origin; it does not settle every fare/vehicle claim at or below that distance.
+
+Tour (SR 61): A journey performed on public duty away from headquarters under proper sanction/authorization by a competent authority. A tour begins when the employee leaves headquarters and ends when they return.
+
+Family (SR 2(8)): For TA purposes, "family" comprises the following members who are residing with and wholly dependent on the Government servant:
+
+Spouse: Wife or husband of the Government servant. Note that only one spouse is recognized for TA claims. If both husband and wife are Government servants and are transferred from the same old station to the same new station within 6 months, only one can claim TA for the family, and the other will be treated as a dependent family member.
+
+Children: Legitimate children and step-children.
+
+Sons: Up to the age of 25 years , or until they get married, or until they start earning, whichever is earliest . However, for sons with physical or mental disabilities, there is no age limit , provided they are wholly dependent.
+
+Daughters: Until they get married or start earning, whichever is earlier , regardless of age.
+
+Divorced/Abandoned/Widowed Daughters: Residing with and wholly dependent, regardless of age.
+
+
+
+
+Parents: Dependent parents (including step-parents) residing with the Government servant.
+
+Brothers: Dependent minor brothers (under 18 years ) residing with the Government servant.
+
+Sisters: Dependent unmarried, widowed, or divorced sisters residing with the Government servant, regardless of age.
+
+
+
+
+
+Dependency Income Ceiling: A family member (other than the spouse) is deemed wholly dependent if their total monthly income from all sources (including pension, temporary increase in pension, and other earnings) does not exceed ₹9,000/- per month plus Dearness Relief (DR) thereon (as per latest 7th CPC standards). If the income exceeds this ceiling, they do not qualify as "family" for TA/LTC/Medical reimbursement.
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " Son-25-Cutoff : Sons leave the TA nest at 25, daughters only upon marriage or earning. Parents are family only if their pocket is under ₹9,000+DR."
+
+
+Exam Angle / PYQ Examiners frequently design questions around the dependency age and income limits. Watch out for the ₹9,000/- plus DR ceiling — questions often omit the "plus DR" or use outdated 6th CPC figures (₹3,500). Also, remember that a disabled son has no age limit , which is a common MCQ trap.
+
+
+
+
+
+
+### [ch10-005] card L2181-2227 High-Yield City classification for HRA & TA (The Actual X/Y/Z List)
+
+High-Yield City classification for HRA & TA (The Actual X/Y/Z List)
+
+Exact-Source Fact Card
+Under the 7th CPC, Indian cities are classified into X, Y and Z tiers based on population criteria. TA hotel ceilings are determined by Pay Level, not by city tier. The 13.07.2017 O.M. separately states a voucher-backed ₹1,000/day hotel ceiling for employees up to Level 8 staying in Class-X cities. Its interaction with the general self-certification route for claims within the ordinary ceiling is unresolved in this guide; do not treat a universal Class-X voucher rule as settled.
+
+
+Class X (8 Cities - Population > 50 Lakh):
+These are the 8 mega-metropolises of India: (1) Delhi (UA, including NCR), (2) Mumbai (Greater Mumbai UA), (3) Kolkata (UA), (4) Chennai (UA), (5) Bengaluru (UA), (6) Hyderabad (UA), (7) Ahmedabad (UA), and (8) Pune (UA).
+
+Class Y (approx. 97 Cities - Population 5 Lakh to 50 Lakh):
+Major urban centers and state capitals. Prominent examples include:
+
+Andhra Pradesh: Visakhapatnam, Vijayawada, Guntur, Nellore, Kurnool.
+
+Bihar: Patna.
+
+Chhattisgarh: Raipur, Durg-Bhilai, Bilaspur.
+
+Gujarat: Surat, Vadodara, Rajkot, Bhavnagar, Jamnagar.
+
+Haryana: Faridabad, Gurugram.
+
+Jammu & Kashmir: Srinagar, Jammu.
+
+Jharkhand: Ranchi, Dhanbad, Jamshedpur, Bokaro Steel City.
+
+Karnataka: Mysuru, Mangaluru, Belagavi, Hubli-Dharwad, Kalaburagi.
+
+Kerala: Kochi, Thiruvananthapuram, Kozhikode, Thrissur, Kannur, Kollam.
+
+Madhya Pradesh: Bhopal, Indore, Jabalpur, Gwalior, Ujjain.
+
+Maharashtra: Nagpur, Nashik, Aurangabad, Solapur, Amravati, Kolhapur, Sangli.
+
+Odisha: Bhubaneswar, Cuttack.
+
+Punjab: Ludhiana, Amritsar, Jalandhar, Patiala.
+
+Rajasthan: Jaipur, Jodhpur, Kota, Bikaner, Ajmer.
+
+Tamil Nadu: Coimbatore, Madurai, Tiruchirappalli, Salem, Tiruppur, Erode, Vellore.
+
+Uttar Pradesh: Lucknow, Kanpur, Ghaziabad, Noida, Varanasi, Prayagraj, Agra, Meerut, Bareilly, Aligarh, Moradabad, Gorakhpur, Jhansi.
+
+Uttarakhand: Dehradun.
+
+West Bengal: Asansol, Siliguri, Durgapur.
+
+Union Territories: Chandigarh, Puducherry.
+
+
+
+
+Class Z (All Remaining Stations - Population < 5 Lakh):
+All other unclassified towns, small districts, and rural areas (e.g. Tokūru or typical sub-divisional postings).
+
+
+
+
+[Hinglish block omitted from dump]
+RED-FLAG TRAP Flag: "TA Daily Allowance rates are determined by city tiers X/Y/Z." Fix: Under the 7th CPC, the Hotel, Food and Local Travel ceilings are determined by Pay Level , not the X/Y/Z tier. The Class-X hotel clause is a separate voucher-backed ceiling for employees up to Level 8; its overlap with self-certification within the ordinary ceiling is unresolved here. Fix-phrase: "TA ceilings follow Pay Level; check the separate Class-X voucher clause without assuming its unresolved overlap."
+
+
+
+
+
+
+### [ch10-006] card L2228-2258 Moderate-Yield Sea/river steamer travel entitlements (Andaman & Nicobar, Lakshadweep)
+
+Moderate-Yield Sea/river steamer travel entitlements (Andaman & Nicobar, Lakshadweep)
+
+Exact-Source Fact Card
+Journeys performed by sea or river steamer are regulated under SR 58 and SR 107. The entitlement is graded strictly by Pay Matrix Level (PML) under the 7th CPC:
+
+
+Class/Location Type | Pay Matrix Level (PML) | Steamer Entitlement Class |
+
+General Journeys (Other than A&N and Lakshadweep Islands) | PML 9 and above | Highest Class |
+
+PML 6 to 8 | Lower Class (if there be only two classes) or Middle Class (if there be three classes) |
+
+PML 4 & 5 | Lower Class (if two classes), Middle/Second Class (if three classes), or Third Class (if four classes) |
+
+PML 1 to 3 | Lowest Class |
+
+Island Journeys (Between Mainland and Andaman & Nicobar / Lakshadweep Group of Islands by ships operated by the Shipping Corporation of India Ltd.) | PML 9 and above | Deluxe Class |
+
+PML 6 to 8 | First Class / 'A' Cabin Class |
+
+PML 4 & 5 | Second Class / 'B' Cabin Class |
+
+PML 1 to 3 | Bunk Class |
+
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " SCI Ships Cabin Crew : 9+ gets Deluxe, 6-8 gets 'A', 4-5 gets 'B', 1-3 sleeps in Bunks."
+
+
+
+
+
+
+### [ch10-007] card L2259-2287 Very High-Yield Authorized travel agents (ATAs) & scope of the July 2026 LTC reminder
+
+Very High-Yield Authorized travel agents (ATAs) & scope of the July 2026 LTC reminder
+
+Exact-Source Fact Card
+The Department of Expenditure O.M. No. 19024/03/2021-E.IV dated 16.06.2022 governs Government-account air-ticket booking; DoPT O.M. No. 31011/12/2022-Estt.A-IV dated 29.08.2022 gives the LTC-air instructions. A Government-hosted DGT reproduction of DoPT Cash Section Circular F.No. G-14019/02/2026-Cash dated 16.07.2026 was retrieved. It is addressed to DoPT officers/officials and concerns LTC air booking and LTC advance only. It reiterates the 21-day booking encouragement (not a compulsory claim deadline) and the at-least-30-day advance request, with the specified authorized-travel-agency webpage printout showing suitable flight/fare details, for air-entitled employees under the 29.08.2022 instructions. A direct DoPT-hosted copy was not obtained in this pass; do not extend this reminder to general TA or rail bookings.
+
+
+Air-ticket channels: Under the cited Government-account air-travel orders, use the three Authorized Travel Agents (ATAs) for air tickets within scope. This is not a blanket ATA-only rule for every rail booking. For LTC rail, follow the separate CCS (LTC) rules; DoPT’s 2025 FAQ allows eligible e-ticketing through the Indian Railways website.
+
+1. M/s Balmer Lawrie & Company Limited (BLCL) ( govemp.balmerlawrietravelapp.com )
+
+2. M/s Ashok Travels & Tours (ATT) / ITDC ( www.attitdc.in )
+
+3. Indian Railways Catering and Tourism Corporation Ltd. (IRCTC) ( www.air.irctc.co.in )
+
+
+
+
+Correctly scoped timing: DoPT O.M. 29.08.2022 and the 2025 FAQ support the LTC-air 21-day booking encouragement (not a compulsory claim deadline); the O.M. also sets an at-least-30-day LTC-advance request for employees entitled to air travel, with the specified authorized-travel-agency webpage printout showing suitable flight/fare details. The DGT-hosted 16.07.2026 DoPT circular reproduces those instructions for DoPT officers/officials; it does not expand them to general TA or rail. DoE O.M. 16.06.2022 concerns Government-account air-ticket channels/fees, not the LTC 21-day lead.
+
+Air India / AITTSL: The airline may be selected as the carrier, but that does not authorize booking directly on an airline website. Under the cited 2022 Government-account instructions, air tickets are booked through the three ATAs; AITTSL is not an ATA. Any departure from the prescribed channel requires a relaxation from the competent authority under the applicable order.
+
+Non-Compliance Consequence: A Government-account air ticket booked outside the prescribed ATA channel may be disallowed unless an authorized relaxation is granted under the applicable order for unavoidable circumstances. The 29.08.2022 order identifies the competent authority for its scope. This is an air-ticket rule, not a blanket rail-ticket rule; do not describe it as automatic “100% forfeiture” in every case.
+
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " I-B-A = air-booking agents : IRCTC, Balmer Lawrie, Ashok Travels. Use the prescribed ATA channel for air tickets within scope; this mnemonic is not a rail-booking rule."
+
+
+
+
+
+
+### [ch10-008] card L2288-2345 Very High-Yield The Crucial LTC vs. TA/DA Entitlement Contrasts (High-Yield Exam Distinctions)
+
+Very High-Yield The Crucial LTC vs. TA/DA Entitlement Contrasts (High-Yield Exam Distinctions)
+
+Exact-Source Fact Card
+Under DoPT and Department of Expenditure circulars (clarified via DoPT O.M. F. No. 31011/8/2017-Estt.A-IV dated 19th September 2017 and O.M. dated 04.02.2021 ), the entitlements for Leave Travel Concession (LTC) and Travelling Allowance (TA) on Tour/Transfer exhibit critical, heavily tested differences:
+
+
+1. Air Entitlement Difference for Pay Levels 6 to 8 (Classic Exam Trap):
+
+On Tour/Training/Transfer: Government servants in Pay Levels 6 to 8 are entitled to travel by Air (Economy Class) within India.
+
+On LTC: Government servants in Pay Levels 6 to 8 are NOT entitled to travel by Air! Their normal LTC entitlement is restricted to rail as specified in CCS (LTC) Rule 12, subject to any current special-dispensation or later order.
+
+Exception: Air travel is allowed for Levels 6 to 8 only under the "Special Dispensation Scheme" (for travel to Northeast Region, J&K, Ladakh, and Andaman & Nicobar) from designated railheads, or with special relaxation.
+
+
+
+
+2. Daily Allowance (DA) & Incidentals:
+
+On Tour: Daily Allowance (Hotel, Food, Local conveyance) is fully admissible under standard ceilings.
+
+On LTC: No Daily Allowance (DA) of any kind is admissible. Incidental expenses and local journeys (stay, boarding, taxis within the city) are non-reimbursable under the cited LTC rule.
+
+
+
+
+3. Travel in Private/Hired Vehicles (Own Car / Hired Taxi):
+
+On Tour/Transfer: Road mileage is fully reimbursable for journeys performed in own car, hired taxi, or public transport.
+
+On LTC: Travel is admissible only in vehicles operated by the Government or Public Sector Corporations (Central/State/Local body) , subject to the stated exceptions. Private transport is not admissible except where a specific rule or exception applies.
+
+Exceptions on LTC:
+
+Disability exception (LTC only): DoPT’s 01.07.2025 LTC FAQ, Q30, says own/hired taxi may be used where disability of the employee or dependent makes authorized modes infeasible, subject to a competent-authority medical certificate, an undertaking that authorized travel is not feasible and the claimant actually used the own/hired vehicle, and a reimbursement cap no higher than entitled rail/air fare by the shortest route. Do not extend this to local official-tour travel.
+
+Unconnected Places (DoPT O.M. dated 04.02.2021): If the relevant places are not connected by public transport, the stated private-transport exception is limited to a maximum of 100 km each side , subject to the applicable order and evidence requirements.
+
+
+
+
+
+
+
+4. Tour Packages:
+
+On LTC: Tour packages run by private travel operators are not allowed . Only the tour packages permitted by the applicable CCS (LTC) instructions may be claimed; verify the allowed operator and fare component.
+
+Reimbursement Scale: Only the travel fare component is reimbursable. The organizing agency must separately indicate and certify the fare component from the boarding/lodging package.
+
+
+
+
+5. Claim Submission Timelines (Contrast with TA):
+
+If LTC advance is drawn: The claim for reimbursement is normally due within one month after completion of the return journey (CCS (LTC) Rule 15(vi)). A later, limited relaxation may allow up to three months with FA concurrence if the entire advance plus penal interest is refunded in one lump sum.
+
+If no LTC advance is drawn: The claim is normally due within three months after completion of the return journey (Rule 14). A later, limited FA-concurred relaxation may admit it within six months .
+
+TA Contrast: The ordinary 60-day TA claim-submission limit applies whether or not a TA advance was drawn; advance adjustment is separate. The inspected 2005 Compendium states 15 days for tour advances, but its currency is unverified and no general 30-day transfer deadline was located.
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " LTC is Government-Only, Train-Only (for Level 6-8) . No DA, no private taxi (unless <100km unconnected), and no private tour packages!"
+
+
+
+
+
+
+### [ch10-009] card L2346-2369 High-Yield Cancellation-charge reimbursement rules
+
+High-Yield Cancellation-charge reimbursement rules
+
+Exact-Source Fact Card
+Under the TA/DA rules, cancellation and rescheduling charges for air/rail/bus tickets booked on Government account are reimbursable subject to strict conditions:
+
+
+Official Exigency: The cancellation or postponement of the official tour, training, or transfer must be necessitated by public/official interest under the order of the competent authority.
+
+Supporting Certificates: The claim for reimbursement must be accompanied by:
+
+A certificate from the Controlling Officer stating that the cancellation/postponement was due to official exigencies of service.
+
+Receipts/vouchers issued by the authorized travel agents (or airlines/railways) indicating the actual cancellation fee or deduction made.
+
+
+
+
+Personal Reasons: If the ticket is cancelled due to personal reasons of the employee, the cancellation charges must be borne by the employee themselves, unless specifically condoned under emergency medical circumstances by the Head of Department.
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch10-010] card L2370-2399 High-Yield Rules on journeys by a longer / circuitous route
+
+High-Yield Rules on journeys by a longer / circuitous route
+
+Exact-Source Fact Card
+Under SR 30 and SR 31 , Travelling Allowance must be calculated based on the shortest and cheapest route usually open to the public:
+
+
+Shortest Route Rule (SR 30): The shortest route is that by which the traveler can most speedily reach their destination. If two routes are equally short, but one is cheaper, the cheaper route must be used.
+
+Personal Convenience (SR 31): If a Government servant performs a journey by a longer or circuitous route for personal reasons or convenience:
+
+Their TA/fare reimbursement is strictly restricted to the fare and road mileage of the shortest route .
+
+The excess time spent on travel via the longer route is treated as leave (Casual Leave/Earned Leave) and cannot be treated as duty.
+
+
+
+
+Public Interest Exception: A journey by a longer/circuitous route may be allowed with full TA reimbursement and treated as duty ONLY IF:
+
+The longer route is specifically prescribed or approved by the competent authority in public interest.
+
+The shortest route is blocked or disrupted due to natural disasters (landslides, floods), civil unrest, or suspension of train/road services, and proof of such blockage is furnished.
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch10-011] card L2400-2425 Moderate-Yield DDO & Controlling Officer certificates required on a TA bill
+
+Moderate-Yield DDO & Controlling Officer certificates required on a TA bill
+
+Exact-Source Fact Card
+To ensure financial propriety and prevent double billing under Treasury Rules and G.A.R. 14-A (Tour) / G.A.R. 14-B (Transfer), specific certificates must be recorded and signed by the Drawing and Disbursing Officer (DDO) and the Controlling Officer before passing a TA bill:
+
+
+1. Proper Sanction: "Certified that the journeys/mileage claims made in this bill were performed under proper sanction and strictly in the interest of public service."
+
+2. Class & Fare Verification: "Certified that I have checked the claimant’s travel class and, where the claim includes an air ticket, compliance with the applicable Government-account ATA instructions."
+
+3. Shortest Route: "Certified that the journeys were performed by the shortest and most economical route usually open to the public."
+
+4. No Free Transport: "Certified that the claimant was not provided with free Government transport/conveyance for any part of the journey for which road mileage has been claimed." (Or if provided, the mileage has been proportionately deducted/not claimed).
+
+5. Original Order Endorsement: "Certified that the original tour/transfer/LTC order has been produced and a note of this TA claim has been endorsed thereon to prevent duplicate claims."
+
+6. Scrutiny of Vouchers (Transfer/Retirement): "Certified that the details of actual expenditure for the transportation of personal effects and conveyance have been scrutinized and found to be correct, reasonable, and supported by authentic vouchers."
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch10-012] mfs L2426-2439 Master Fact-Sheet — Chapter 10
+Master Fact-Sheet — Chapter 10
+
+
+Item / Concept | Rule / Rate / Classification | Authority / Reference |
+
+Dependency Income Limit | ₹9,000/- per month + Dearness Relief (DR) thereon | DoPT / 7th CPC standard |
+
+Sons age cutoff for TA/LTC | Up to 25 years (No limit for disabled sons) | SR 2(8) / DoPT orders |
+
+Class X Cities (8 Cities) | Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Ahmedabad, Pune | DoE HRA City Classification |
+
+Class Y Cities (~97 Cities) | Population 5 Lakh to 50 Lakh (e.g. Patna, Lucknow, Kochi) | DoE HRA City Classification |
+
+Government-account air-ticket channel | Three ATAs (BLCL, ATT, IRCTC) for air tickets within the applicable orders; do not generalize to every rail ticket. | DoE O.M. No. 19024/03/2021-E.IV dated 16.06.2022; DoPT LTC-air O.M. 29.08.2022 |
+
+Steamer: Mainland to A&N / Lakshadweep | PML 9+: Deluxe; PML 6-8: 1st/'A'; PML 4-5: 2nd/'B'; PML 1-3: Bunk Class | Shipping Corp of India rates / SR 107 |
+
+Unauthorized air-ticket channel | Airfare may be disallowed if booked outside the required ATA channel, subject to relaxation by the authorized authority for unavoidable circumstances; this is not a blanket rail-ticket rule. | DoE O.M. 19024/03/2021-E.IV dated 16.06.2022; DoPT LTC-air O.M. 29.08.2022 |
+
+Longer route restriction | restricted to the fare of the shortest route | SR 30 and SR 31 |
+
+
+
+
+
+
+### [ch10-013] review L2440-2443 Source-first Review Protocol — Chapter 10
+Source-first Review Protocol — Chapter 10
+
+Close the reference table and answer from memory; then check each cited source:
+
+Which booking instructions concern Government-funded air, and which LTC rail rules are separate?
+What does the 16.07.2026 DGT-hosted LTC notice cover—and what does it not establish?
+Separate the ordinary TA 60-day claim clock, retirement 180-day claim clock, LTC periods in months, and any advance-adjustment rule. Which one remains unresolved?
+Which definitions, city list, family conditions and current advance authority still require a primary-source check?
+
+
+
+
+### [ch10-014] recap L2444-2455 Rapid-Revision Recap — Chapter 10
+Rapid-Revision Recap — Chapter 10
+
+
+Family includes dependent parents, minor brothers, and unmarried/widowed/divorced sisters if their monthly income is under ₹9,000 + DR .
+
+Sons are excluded from TA once they reach 25 years , get married, or earn. Disabled sons have no age limit .
+
+8 Class-X cities are Delhi, Mumbai, Kolkata, Chennai, Bengaluru, Hyderabad, Ahmedabad and Pune. The 2017 O.M. sets a separate voucher-backed ₹1,000/day hotel ceiling for Levels 8 and below in these cities; the overlap with the ordinary self-certification ceiling is unresolved here.
+
+Government-account air tickets use the required ATA channel, subject to authorized relaxation. This rule is about air tickets, not every rail ticket; LTC rail follows separate instructions and eligible rail e-ticketing through Indian Railways is allowed.
+
+Steamer travel cabin class for SCI island ships is Deluxe (PML 9+), First/'A' (PML 6-8), Second/'B' (PML 4-5), and Bunk (PML 1-3).
+
+Circuitous route journeys are capped at the shortest route fare, and excess time is treated as leave, unless authorized in public interest.
+
+
+
+
+
+

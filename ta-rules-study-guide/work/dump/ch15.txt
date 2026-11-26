@@ -1,0 +1,76 @@
+
+### [ch15-001] chapter-banner L3651-3651 Master Benefits Comparison Table
+Chapter 15
+Master Benefits Comparison Table
+
+
+
+### [ch15-002] study-map L3652-3661 
+
+Chapter study map REFERENCE ONLY
+
+
+Focus Compare benefit components without transferring eligibility across rules or categories.
+
+Source review The comparison table has not been line-by-line source-verified for every component.
+
+Study move Use the table as an index; verify each component, category and effective date independently.
+
+
+
+
+
+
+
+### [ch15-003] card L3662-3683 Complete Reference All Benefits — Category-wise Comparison
+
+Complete Reference All Benefits — Category-wise Comparison
+
+
+Benefit | Confirmed Employee (any service length) | Temporary + ≥3 yrs service | Temporary + <3 yrs service |
+
+Technical Resignation status | Depends on DoPT conditions; not determined by service category alone | Depends on DoPT conditions; not determined by service category alone | Depends on DoPT conditions; not determined by service category alone |
+
+Joining Time (days off to join) | ✅ 10-15 days | ✅ 10-15 days | ✅ 10-15 days |
+
+Joining Time Pay | Not decided by this table. Read substituted Rule 4(4) (2015) with DoPT O.M. para 3.6.3 (2022); interaction unresolved here. |
+
+Transfer TA (TTA) — Fare | Not decided by this table. Check the 2015 Rule 4(4) conditions, DoPT O.M. para 3.6.3 (2022), and any later clarification. |
+
+Transfer TA — CTG (80% basic) | Not decided here; apply the governing TTA / Joining Time rules and current DoE instructions to the facts. |
+
+Transfer TA — Baggage | Not decided here; apply the governing TTA / Joining Time rules and current DoE instructions to the facts. |
+
+Pay Protection (FR 26) | ✅ Yes | ✅ Yes | ✅ Yes |
+
+Past service for increment | ✅ Counted | ✅ Counted | ✅ Counted |
+
+Leave carry-forward (EL/HPL/CCL) | ✅ Full balance | ✅ Full balance | ✅ Full balance |
+
+LTC continuity | ✅ Carried forward | ✅ Carried forward | ✅ Carried forward |
+
+GPF transfer | ✅ Under Rule 35 | ✅ Under Rule 35 | ✅ Under Rule 35 |
+
+NPS account transfer | ✅ PRAN + PRA balance | ✅ PRAN + PRA balance | ✅ PRAN + PRA balance |
+
+Pension continuity (pre-2004) | ✅ Counted | ✅ Counted | ✅ Counted |
+
+Seniority protection | ✅ On substantive post | ✅ On substantive post | ⚠️ Limited |
+
+Lien on old post | ✅ 2 years (3 exceptional) | ⚠️ If confirmed on old post | ❌ No lien |
+
+
+
+
+
+
+### [ch15-004] recap L3684-3686 Rapid-Revision Recap — Chapter 15: comparison table
+Rapid-Revision Recap — Chapter 15: comparison table
+
+Use the table as a locator only; several non-TTA benefit rows are not line-by-line verified.
+Compare each component separately: eligibility trigger, covered person, source, effective date, procedure and paying organization.
+Do not transfer a conclusion across confirmation/probation, Central/State destination, TTA/Joining Time Pay or one benefit category to another.
+Where a row says “not decided here,” keep it that way until the primary source and case facts are checked.
+
+
+

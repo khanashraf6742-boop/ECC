@@ -1,0 +1,648 @@
+
+### [ch11-002] chapter-banner L2458-2458 Extended Tour, Transfer, Retirement, Exam-TA & Disability Provisions
+Chapter 11
+Extended Tour, Transfer, Retirement, Exam-TA & Disability Provisions
+
+
+
+### [ch11-003] study-map L2459-2468 
+
+Chapter study map PARTIAL / OPEN
+
+
+Focus Sort exception cases by employee category, journey type, authority and trigger.
+
+Source review The 2015 escort O.M., 2025 double-TPTA category update and 63% illustrative arithmetic have targeted checks; local-tour taxi and 500 kg transfer-baggage claims remain unverified. Local-journey, exam (SR 110–113/172), training, definition and other exception rules still need primary-source review.
+
+Study move For each case, identify service category and the exact special rule before using the answer.
+
+
+
+
+
+
+
+### [ch11-004] card L2469-2484 Correction & source-status note TA Advances — what the reviewed authorities do and do not establish
+
+Correction & source-status note TA Advances — what the reviewed authorities do and do not establish
+
+Correction to the earlier version: Do not rely on its general 90% tour/transfer advance cap, its general 30-day transfer-advance deadline, or its citation of GFR Rule 224 for TA advances. In the GFR updated to 31.01.2026, Rule 224 concerns contract management; Rule 290 concerns TA claim submission. The inspected 2005 Advances Compendium copy is not verified as current.
+
+
+Issue | What the reviewed text says | Status / use |
+
+Ordinary TA claim submission (advance or no advance) | GFR Rule 290 and DoE O.M. dated 13.03.2018 set 60 days succeeding completion of journey for tour/transfer/training claims; O.M. para 2 gives separate family-journey and delivery triggers. | Claim submission is distinct from adjustment of an advance. |
+
+Tour advance adjustment | Rule 51 of the inspected 2005 Advances Compendium copy says 15 days for a tour advance. | Compendium currency not verified; check current departmental instructions before treating this as operative. |
+
+Transfer advance | Rule 43 of the inspected 2005 Compendium copy requires recovery/adjustment on submission of the transfer TA bill; the inspected text gives no general 30-day deadline. | No general 30-day period is asserted in this updated guide. |
+
+90% figure | Rule 52 of the inspected 2005 Compendium copy places a 90% ceiling in the LTC-advance context. | Not established as a general tour/transfer TA cap; Compendium currency not verified. |
+
+GFR Rule 224 / Rule 290 | Rule 224: contract management. Rule 290: TA claim submission/time limit. | Neither is cited here as authority for a general TA advance percentage or a 15-day adjustment rule. |
+
+Penal interest / second advance | Advance-specific provisions may address recovery, interest, or additional advances. | Their current scope and application were not established in this audit; no universal rule is asserted. |
+
+
+Practical note: Use the current applicable DoE/departmental order and the sanction terms. Do not infer an advance ceiling or adjustment deadline from the claim-submission limit.
+
+
+
+
+
+
+### [ch11-005] card L2485-2503 Source-status warning SR 164 training claims — do not apply an unverified universal rule
+
+Source-status warning SR 164 training claims — do not apply an unverified universal rule
+
+Targeted primary/secondary-source review · 22.11.2026
+Verification gate: STOP. The current official SR 164/GIO compilation and the original historical orders beneath SR 164 were not retrieved in verifiable primary form. Secondary compilations and reproduced copies identify issues to check, but they do not support a categorical current claim or exam answer. Official DoE O.M. 01.02.2018 is a separate instruction for free boarding/lodging; it does not, by itself, resolve the distinct fixed-rate residential-training allowance.
+
+
+Ordinary training DA schedules: Secondary transcriptions describe full DA for the first 180 days where boarding/lodging are not provided, and first 30 days full plus next 150 days half where institute facilities exist. The current primary text, conditions, and status were not verified.
+
+Compulsory fixed-rate residential programmes: A separate historical special allowance is transcribed as actual boarding/lodging expenditure plus one-quarter of full DA for outstation participants, and actual boarding/lodging expenditure only for local participants. A secondary ISTM record cites DoPT O.M. dated 12.01.1988 (reported as No. 14011/5/87-T.N.P.); the signed primary order and its current status were not located. Its interaction with DoE O.M. 01.02.2018 remains open.
+
+Courses exceeding 180 days / option: Some secondary compilations report an option between a transfer-TA route and a tour-TA/DA route for qualifying courses. Do not convert that into an automatic transfer classification or assume full family, baggage, conveyance, or CTG entitlements without the governing primary text and sanction. The purported DoP memo dated 21.05.2024 is a secondary-hosted copy; it cites “Decision No. 4 below Rule 164” for a course not exceeding 180 days, and does not resolve the >180-day option. The GIO/Decision labels in secondary sources are not consistent and must not be treated as interchangeable.
+
+Theory and practical training at different stations: Secondary transcriptions of P&T orders from 1982/1984 describe a fresh-course treatment at the practical-training station in a limited in-service/refresher setting. The original letters, exact conditions, current status, and applicability to other departments/candidates were not verified. Do not generalize this to a fresh 180-day limit at every station change.
+
+Tour during training: A secondary transcription associates a 17.10.1979 order with a tour to another station not terminating the halt at the training station for DA determination. This does not, without the original text, establish a general full-DA entitlement at the tour station or a universal rule for counting days away.
+
+Training at headquarters / Urban Agglomeration: Secondary training material describes no TA/DA for training at the headquarters station. The current primary wording was not verified. The separate claim that this extends to the entire Urban Agglomeration is not established ; no UA-wide ban is stated here.
+
+
+Exam and claim use: Do not score a general second-station reset or apply a universal 30/150 schedule. Verify the current primary SR/GIO, relevant department/cadre order, training sanction, and facility/cost facts; refer disputed claims to the competent authority. TA-COV-17 remains pending [D].
+
+Sources: DoE TA O.M., 13.07.2017 · DoE O.M., 01.02.2018 · purported DoP 21.05.2024 memo, secondary reproduction only .
+
+
+
+Exam-safe takeaway
+Training status is not established by duration or station change alone. Keep ordinary schedules, free boarding/lodging, the reported fixed-rate special allowance, and the limited P&T theory/practical orders separate. No general station-reset answer is verified.
+
+
+
+
+
+
+### [ch11-006] card L2504-2555 Very High-Yield The Absolute Spousal Rules under CCS TA & LTC (When Both are Central Government Servants)
+
+Very High-Yield The Absolute Spousal Rules under CCS TA & LTC (When Both are Central Government Servants)
+
+Exact-Source Fact Card
+Under the Central Civil Services (CCS) TA and LTC rules (governed by Supplementary Rules (SR) and DoPT guidelines), the entitlements when both husband and wife are Central Government servants are subject to highly specific restrictions and concessions to prevent double billing while protecting individual rights:
+
+
+1. Transfer TA — Composite Transfer Grant (CTG) Split (The 60-day / 6-Month Rules):
+If both spouses are transferred from the same old station to the same new station within six (6) months :
+
+Transfers ordered more than 60 days apart: The spouse transferred earlier gets full CTG (80% of Basic Pay) , and the spouse transferred later gets half (50% of the normal grant, which equals 40% of Basic Pay) .
+
+Transfers ordered within 60 days of each other: NO Composite Transfer Grant is admissible to the spouse transferred later! Only the first spouse receives the grant.
+
+Note: If the transfers take place after a period of 6 months or more, both are treated as independent, and both get full CTG.
+
+
+
+
+2. Transfer TA — Baggage & Family Fares Double-Dipping Ban:
+
+The cost of travel for dependent family members and the transportation of personal effects can be claimed only once by either husband or wife.
+
+Combined Weight Ceiling: If they are transferred at different times, they can transport their share, but the total weight of personal effects transported by both combined cannot exceed the maximum entitlement of the senior-most spouse (e.g., restricted to a maximum of 6,000 kg).
+
+The Double Car Exception: If both spouses own a personal car separately (registered in their respective individual names), they are entitled to claim transportation charges for both cars if they travel separately!
+
+
+
+
+3. Retirement TA — Settle at Same vs. Different Stations (SR 147):
+
+Settle at the Same Place: They can claim fares for themselves separately. However, for family members, only one can claim, and the combined personal effects weight must be restricted to the senior spouse's limit (e.g. 6,000 kg).
+
+Settle at Different Places: If they choose to settle at different stations, they can claim TA for their respective journeys and personal effects separately , up to their respective individual entitlements.
+
+
+
+
+4. Leave Travel Concession (LTC) Spousal Rules:
+
+Separate Home Towns: They can, at their option, declare separate Home Towns and claim LTC separately under the normal provisions of CCS (LTC) Rules.
+
+The Dependent Double-Dipping Ban: A family member/child can be claimed as dependent only by one spouse in a particular block year. A child cannot avail of LTC twice in a block (once as the husband's dependent and once as the wife's).
+
+Claiming Spouse as Dependent: A spouse can be claimed as a dependent family member by the other spouse, provided that the spouse being claimed does not claim LTC for themselves separately during that same block .
+
+Leave Encashment (10 days): Both spouses are entitled to 10 days of earned leave encashment at the time of availing LTC separately, subject to a career maximum of 60 days each.
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " Separate but No Double-Dipping . Husband and wife can act independently (separate cars, separate retirement cities, separate LTC home towns), but they cannot claim the same child, same family member, or same baggage weight twice!"
+
+
+
+
+
+
+### [ch11-007] card L2556-2592 Very High-Yield TA to Family on Death-in-Service — Absolute Eligibility, Surety and Recovery Rules (SR 148)
+
+Very High-Yield TA to Family on Death-in-Service — Absolute Eligibility, Surety and Recovery Rules (SR 148)
+
+Exact-Source Fact Card
+In the tragic event of a Government servant dying while in service, the concessions and advance of Travelling Allowance for the family to settle at their normal place of residence or home town are governed under SR 148 with very strict financial rules:
+
+
+1. Absolute Eligibility Exclusions (Rule 6, SR 148):
+The death-in-service TA concession is strictly NOT admissible to the families of:
+
+(a) Employees who die while on leave preparatory to retirement .
+
+(b) Retired employees who are re-employed in government service.
+
+(c) Temporary employees who have not rendered at least three (3) years of regular continuous service .
+
+
+
+
+2. Surety Requirement for TA Advance (GIO (3), SR 148):
+The family can draw a TA advance up to three-fourths (75%) of the probable amount of travel expenses.
+The Security Rule: To draw this advance, the family must provide a surety of a permanent Central Government employee of comparable or higher status! Only one family member can receive the advance on behalf of all, and an undertaking for recovery must be signed.
+
+3. Strictly Enforced Journey & Recovery Timelines:
+The journey of the family to the settlement place must be completed within one year (365 days) from the date of the employee's death .
+The Adjustment Deadline (Bada Trap):
+
+If the family travels in one batch: The final adjustment claim must be submitted within one month of the completion of the journey.
+
+If the family travels in more than one batch: The final adjustment claim must be submitted within one month of the completion of the journey by the last batch .
+
+If the account is not rendered within one month of the journey, the entire advance must be refunded immediately .
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch11-008] card L2593-2619 Very High-Yield DoE O.M. No. 12(1)/2016-E.II(A) — Immediate Relief Advance on Demise of Government Servant
+
+Very High-Yield DoE O.M. No. 12(1)/2016-E.II(A) — Immediate Relief Advance on Demise of Government Servant
+
+Exact-Source Fact Card
+Under Ministry of Finance, Department of Expenditure O.M. No. 12(1)/2016-E.II(A) dated 20th June, 2018 (read with Controller General of Accounts O.M. No. TA-2-03002(01)/6/2021 TA-II/383 dated 30th April 2021 ), the immediate financial assistance provided to the family of a Government servant who dies while in service is strictly regulated under the Compendium of Rules on Advances:
+
+
+1. The Legal Authority:
+The advance is granted under Rule 79 and Rule 80 of the Compendium of Rules on Advances to Government Servants, 2005 to meet immediate funeral, medical, and emergency expenditures of the family upon the sudden demise of the employee.
+
+2. The Amount of Immediate Relief:
+The immediate relief advance is a fixed sum of ₹25,000 (enhanced significantly under the 7th CPC from the legacy limit of ₹1,000 or 3 months' pay, whichever was less).
+
+3. Expeditious Cash Disbursement (O.M. dated 30.04.2021):
+To ensure that the family gets financial assistance without bureaucratic or bank-clearance delays, Drawing and Disbursing Officers (DDOs) are permitted to draw and disburse this ₹25,000 in CASH immediately, utilizing the office Imprest, other internal office resources, or by directly drawing cash from the bank.
+
+4. Strict Recovery and Adjustment:
+This immediate relief of ₹25,000 is an advance and must be strictly adjusted and recovered by the DDO against the first available settlement arrears of pay and allowances, leave salary, Death Gratuity, GPF/CPF balances, or any other final terminal payments due in respect of the deceased Government servant.
+
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " Funeral is Fast, Cash is ₹25K . When tragedy strikes, the DDO bypasses bank transfers and hands ₹25,000 in cash to the family, adjusting it later against the gratuity or GPF settlement."
+
+
+
+
+
+
+### [ch11-009] card L2620-2651 Very High-Yield Effect of free transport / boarding / lodging on Daily Allowance (7th CPC Reduction Rules)
+
+Very High-Yield Effect of free transport / boarding / lodging on Daily Allowance (7th CPC Reduction Rules)
+
+Exact-Source Fact Card
+Under the 7th CPC (clarified via Department of Expenditure O.M. No. 19030/1/2017-E.IV dated 01.02.2018 ), the old concept of flat-rate Daily Allowance is replaced by three independent reimbursement components: (1) Hotel Accommodation, (2) Food Bills, and (3) Local Travel/Conveyance. Consequently, when an employee avails free facilities, the DA is scaled down component-wise:
+
+
+1. Free Lodging Provided: If the employee is provided free stay (e.g. Government Guest House, Circuit House, or Host accommodation), the Hotel Accommodation component is reduced to NIL (no claim allowed).
+
+2. Free Boarding Provided: If the employee is provided free meals (e.g. by the Government, Host Organization, or during residential training), the Food Bill component is reduced to NIL (no claim allowed).
+
+3. Free Transport Provided: If the employee is provided free local transport (official vehicle/pool car), the Local Travel/Conveyance component is reduced to NIL .
+
+4. When BOTH Free Boarding & Lodging are Provided:
+
+Both Hotel and Food components are reduced to NIL .
+
+The employee can only claim actual/capped local travel charges (as per Para 2E(i) & (iii) of the 13.07.2017 OM) for local journeys actually performed on official duty (e.g., travel from airport/railway station to guest house) which were not covered by free transport.
+
+CRITICAL UPDATE: The old 6th CPC system of granting a flat 25% of the Daily Allowance when boarding and lodging were free has been completely discontinued . There is no flat percentage anymore; if stay and food are free, those components are zeroed out.
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+RED-FLAG TRAP Flag: "If both boarding and lodging are provided free, the employee gets 25% of the Daily Allowance." Fix: This is an outdated 6th CPC rule. Under the latest 7th CPC orders (DoE O.M. dated 01.02.2018), the 25% flat DA is completely discontinued . If boarding and lodging are free, the Hotel and Food DA components are reduced to NIL , and only actual local travel expenses under Para 2E are admissible. Fix-phrase: "Free stay + food = Zero stay/food DA; only local travel is payable."
+
+
+
+
+
+
+### [ch11-010] card L2652-2684 High-Yield DA admissibility for the day of departure/return on overnight journeys
+
+High-Yield DA admissibility for the day of departure/return on overnight journeys
+
+Exact-Source Fact Card
+Under Para 2E(v) of the 13.07.2017 O.M., the lump-sum Daily Allowance (Food component) is regulated strictly based on the length of absence from headquarters , calculated on a calendar-day basis (midnight to midnight):
+
+
+Length of Absence (on a calendar day) | Food DA Percentage Admissible |
+
+Less than 6 hours (< 6 hrs) | 30% of the lump-sum ceiling |
+
+Between 6 to 12 hours (6–12 hrs) | 70% of the lump-sum ceiling |
+
+More than 12 hours (> 12 hrs) | 100% of the lump-sum ceiling |
+
+
+For overnight train or air journeys, the day of departure and the day of return are calculated strictly based on these time-slab percentages according to the exact departure/arrival times:
+
+
+Day of Departure (Overnight Journey): Since the journey starts on a calendar day, the absence starts from the actual departure time of the train/flight until midnight (24:00 hours) of that day.
+
+Day of Return (Overnight Journey): The absence is counted from midnight (00:00 hours) of the return day until the actual arrival time of the train/flight at headquarters.
+
+
+
+
+Worked Example
+Scenario: A Level 11 Officer (Food DA ceiling: ₹1,125/day ) travels on official tour. They board an overnight train departing at 20:00 (8:00 PM) on Monday , spend all of Tuesday at the tour station, and arrive back at headquarters at 08:30 AM on Wednesday .
+Step 1: Calculate Monday (Day of Departure)
+Absence on Monday is from 20:00 to 24:00 (midnight) = 4 hours .
+Since 4 hours is < 6 hours, Monday's DA is restricted to 30% of ₹1,125.
+Monday DA = ₹1,125 × 30% = ₹337.50 .
+Step 2: Calculate Tuesday (Full Day on Tour)
+The officer is away for the entire 24 hours on Tuesday (> 12 hours) = 100% of ₹1,125.
+Tuesday DA = ₹1,125.00 .
+Step 3: Calculate Wednesday (Day of Return)
+Absence on Wednesday is from midnight (00:00) to 08:30 AM = 8.5 hours .
+Since 8.5 hours is between 6 and 12 hours, Wednesday's DA is 70% of ₹1,125.
+Wednesday DA = ₹1,125 × 70% = ₹787.50 .
+Total Food DA Claimed: ₹337.50 (Mon) + ₹1,125 (Tue) + ₹787.50 (Wed) = ₹2,250.00 .
+
+
+
+
+
+
+
+### [ch11-011] card L2685-2717 High-Yield TA for departmental exams / LDCE & recruitment interviews
+
+High-Yield TA for departmental exams / LDCE & recruitment interviews
+
+Exact-Source Fact Card
+Travel entitlements for appearing in examinations and recruitment interviews are distinctly categorized based on employment status:
+
+
+1. Serving Government Employees appearing in Departmental Exams / LDCE (SR 110, SR 111):
+
+Obligatory Exams (SR 110): If appearing in an obligatory departmental exam (mandatory for confirmation/promotion), the journey is treated as on duty. Full TA as on tour (travel fare per their Pay Level + DA for the journey days) is admissible.
+
+Selection/Promotion Exams / LDCE (SR 111): If appearing in a competitive departmental exam (e.g. SO LDCE) with proper authorization, TA is also admissible as on tour.
+
+CRITICAL LIMITATION (SR 113): No Daily Allowance (DA) is admissible for halts at the examination center. Only travel fare and DA for the journey days (days of transit) are paid.
+
+Attempt Limit: TA is restricted to a maximum of two attempts for any particular examination. No TA is paid for third or subsequent attempts.
+
+
+
+
+2. Candidates called for Recruitment Interviews (Outsiders/Unemployed):
+
+Serving Employees: Sponsoring/serving employees summoned for interview by UPSC/SSC or other departments are treated as on duty and get TA as on tour (travel fare + journey and halt DA) paid by their parent department.
+
+Unemployed / Outsider Candidates (especially SC/ST): Candidates called for written test/interview by UPSC, SSC, or Central Ministries are entitled to second-class / sleeper-class train fare (or bus fare) by the shortest route, provided the distance exceeds a specified limit (usually 80 km) and they are not already employed in government service. For Group-A recruitments, UPSC may allow AC 3-Tier rail fare to all called candidates.
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch11-012] micronote L2718-2731 
+
+SR 172 — TA for Non-Government Candidates Called for UPSC/SSC Interviews
+
+Source status — unverified / do not score: Current SR 172/GIO text and applicable recruiting-body instructions were not retrieved in this review. The 80-km threshold, SC/ST exception, Group-A enhancement and fare-only scope below remain claims to verify; MCQ-TA-19 remains unscored.
+Secondary descriptions of Supplementary Rule 172 (SR 172) concern non-Government candidates called for tests or interviews by UPSC, SSC or other Central Government recruiting bodies. The following points are retained as an unverified study lead, not a settled entitlement:
+
+
+Claimed fare entitlement: Second Class (Mail/Express) train fare or ordinary bus fare by the shortest route.
+
+Claimed distance condition: One-way distance from the candidate's ordinary residence to the venue must exceed 80 km.
+
+Claimed SC/ST exception: Fare irrespective of the 80-km minimum.
+
+Claimed UPSC Group-A enhancement: AC 3-Tier rail fare may be allowed for candidates called for the Personality Test, subject to UPSC instructions.
+
+Claimed DA scope: Fare only, with no DA for halts at the examination/interview station.
+
+
+Study caution, not an answer key: The 60-km example depends on the unverified threshold and exception. Do not score it or use it to decide a claim until the current SR 172 text and applicable instructions are checked.
+
+
+
+
+
+### [ch11-013] card L2732-2761 Very High-Yield CTG on Transfer vs Retirement — Same-Station & <20km Rules (The 2022 Shift)
+
+Very High-Yield CTG on Transfer vs Retirement — Same-Station & <20km Rules (The 2022 Shift)
+
+Exact-Source Fact Card
+Composite Transfer Grant (CTG) on transfer and retirement exhibits a pivotal structural difference since the issuance of Department of Expenditure O.M. No. 19030/1/2017-E.IV dated 6th January 2022 . This is one of the most heavily tested, high-yield zones for administrative exams:
+
+
+CTG on transfer vs retirement — residence change is the key fact
+
+Case | Distance / station | Actual residence change? | CTG treatment | Source / condition |
+
+
+Transfer | Below 20 km or within the same city/station | No | Nil | DoE O.M. 13.07.2017, para 3(ii)(b). |
+
+Transfer | Below 20 km or within the same city/station | Yes | One-third of normal CTG (26.67% of Basic Pay, based on the 80% normal rate). | DoE O.M. 13.07.2017, para 3(ii)(b). |
+
+Transfer | Eligible change of station at 20 km or more | Subject to the transfer facts and other conditions | Ordinary CTG 80%; specified A&N/Lakshadweep transfers have a separate 100% rate. | DoE O.M. 13.07.2017, para 3(ii)(a); verify remaining admissibility conditions. |
+
+Retirement | Any eligible settlement location, including last station or within 20 km | No | Nil | DoE O.M. 06.01.2022 requires an actual residence change. |
+
+Retirement | Any eligible settlement location, including last station or within 20 km | Yes | Full eligible CTG at 80%; no one-third reduction based solely on distance. | DoE O.M. 06.01.2022; prescribed Annexure-I declaration is required. |
+
+
+
+Boundary: The 2022 retirement change does not replace the transfer rule. Confirm the actual residence change and all other eligibility conditions.
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " Transfer is 1/3rd, Retirement is Full . If you move within the same city on transfer, you get 1/3rd CTG. But if you retire and move within the same city, you get FULL 80% CTG!"
+
+
+Exam Angle / PYQ This is a major examiner trap! Questions will ask: "An officer retires and settles at the last station of duty involving a change of residence. What is their CTG entitlement?" — many candidates select 1/3rd of CTG based on old rules or confusing it with transfer rules. Since the 06.01.2022 O.M. , the answer is 80% of Basic Pay (Full CTG).
+
+
+
+
+
+
+### [ch11-014] card L2762-2793 High-Yield TA on Deputation, Absorption Rules & Probationer Training Durations
+
+High-Yield TA on Deputation, Absorption Rules & Probationer Training Durations
+
+Exact-Source Fact Card
+Transfer TA on deputation, absorption, and probationer training is governed under standard DoPT and Supplementary Rules (SR) with very precise cost-bearing and tenure rules:
+
+
+1. TA on Deputation (DoPT OM No. 6/8/2009-Estt.(Pay-II) dated 15.02.2012 / 08.09.2022):
+
+Onward Journey (Joining): The Transfer TA (self/family fare, CTG, and baggage transport) is borne and paid entirely by the borrowing department/organization .
+
+Return Journey (Reversion): Upon repatriation/reversion back to the parent department, the Transfer TA is also borne and paid entirely by the borrowing department/organization . This is a standard mandatory condition.
+
+The Absorption Exception (No Return TA): If a deputationist is permanently absorbed in the borrowing department/organization during or at the end of their deputation, NO return TA is payable upon absorption, as there is no repatriation involved.
+
+
+
+
+2. Probationer / trainee training claims — use the programme-specific order:
+
+Do not infer a universal “under 180 days = Tour / over 180 days = Transfer” rule, or full family/baggage/CTG entitlement, from the duration alone. The current SR 164/GIO text and the relevant training orders remain unverified.
+
+A DoPT Training Division O.M. dated 21.01.2016 (T-25014/1/2016-TRG) is reproduced in ISTM-hosted material for Foundation Training of specified newly recruited ASO/Stenographer probationers. Its limits must not be generalized to every cadre or Postal Training Centre course.
+
+For PTC/RAKNPA and other residential courses, verify the cadre-specific order, sanction, trainee status, and whether facilities are free or compulsory at fixed rates. The ordinary SR 164 schedule and the separate fixed-rate special-allowance question remain open; see the source-status note below.
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch11-015] card L2794-2800 Moderate-Yield Transfer TA for probationers/trainees on first appointment
+
+Moderate-Yield Transfer TA for probationers/trainees on first appointment
+
+Exact-Source Fact Card
+A person joining Government service for the first time (e.g. a direct-recruit probationer reporting to their first place of training or posting) is NOT entitled to any Transfer TA , fares, or baggage transport allowance. The cost of reporting for the first appointment must be borne by the candidate themselves. Exception: Serving Government employees who are selected for another post through direct recruitment and are appointed without a break in service are treated as transferred in public interest, and full Transfer TA is admissible.
+
+
+
+
+
+
+
+### [ch11-016] card L2801-2840 Very High-Yield TA on Retirement — family travel scale, settlement capping, and death before journey
+
+Very High-Yield TA on Retirement — family travel scale, settlement capping, and death before journey
+
+Exact-Source Fact Card
+TA on Retirement is governed under SR 147 and provides the same entitlements as Transfer TA (Ch. 5), but is subject to unique capping and family rules:
+
+
+Family Travel Scale: Eligible family members (as defined in Ch. 10) are entitled to travel fare reimbursement according to the retiree's Pay Matrix Level at the time of retirement, along with full CTG (80% of Basic Pay) and the transportation of personal effects/conveyance.
+
+Settlement Location and Capping Rule: A retiring employee may choose to settle at their last headquarters, their declared home town, or any other place of their choice in India.
+
+If settling at a place other than the last headquarters or home town, the reimbursement (fares + baggage/car transport) is strictly restricted/capped at what would have been admissible had they settled at their declared home town , or the actual expenditure incurred, whichever is less .
+
+
+
+
+Time-Limit for Journey: The retirement journey and baggage transportation must be completed within one year (365 days) from the date of retirement. The final TA claim must be submitted within 180 days succeeding the date of completion of the journey.
+
+Death after Retirement before Journey: If a retired Government servant dies after retirement but before actually performing the retirement journey :
+
+Their eligible family members retain the full entitlement to draw TA on Retirement (fares, CTG, and transportation) to the declared home town or place of settlement.
+
+The journey must be performed within the original one-year window from the retirement date.
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " Home Town is the Ceiling . You can settle in Paris or Chennai, but your cash limit stops at Patna (Home Town). If a retiree leaves us too soon, the family still gets the ticket to tune."
+
+
+Worked Example
+Scenario: A Level 12 officer retires from Delhi. Their declared home town is Srinagar (distance: 800 km). They decide to settle in Chennai (distance: 2,200 km). They incur an actual travel and baggage transportation cost of ₹95,000 for the Chennai journey. The calculated notional cost to settle in their home town (Srinagar) is ₹45,000.
+Step 1: Apply the Capping Principle
+Retirement TA is capped at the lesser of the actual cost incurred (Chennai, ₹95,000) or the notional cost to the declared home town (Srinagar, ₹45,000).
+Step 2: Comparison
+Notional Srinagar Cost (₹45,000) < Actual Chennai Cost (₹95,000).
+Result: The officer's reimbursement is strictly restricted to ₹45,000 . The additional ₹50,000 must be borne personally by the retiree.
+
+
+
+
+
+
+
+### [ch11-017] card L2841-2879 Source-status review Disability-related TA claims — separate verified and unresolved routes
+
+Source-status review Disability-related TA claims — separate verified and unresolved routes
+
+Exact-Source Fact Card
+The DoE escort O.M. and the DoPT LTC exception address different benefits. Neither source supports an unrestricted local AC-taxi benefit or an extra baggage-weight allowance for transfer/retirement.
+
+
+1. Attendant / Escort TA (O.M. No. 19030/3/2013-E.IV dated 17.02.2015):
+
+The O.M. creates a conditional fare claim for an escort accompanying a Government servant with disabilities on tour/training, etc.; it is not a blanket right to a privately arranged escort in every case. Ordinarily, the destination office or institute is to provide an escort.
+
+When a fare claim may arise: the destination office/institute (or Indian Mission for foreign travel) must officially express inability to provide the escort; the competent medical authority must certify that the employee compulsorily requires assistance for travel; the competent authority must approve the need, and the tour/training must meet the O.M.’s stated conditions.
+
+Fare / DA: admissible escort travel is reimbursed at the same rate and in the same class as the employee, subject to concessions and applicable travel restrictions. No DA is admissible to the escort. For road conveyance, no separate escort mileage is payable except where travel is by public bus.
+
+
+
+
+2. Local AC taxi during official tour/training:
+The 2017 TA O.M. sets local-travel entitlements by pay level; the 22.12.2020 O.M. changes the receipt/voucher rule for Levels 9–11, not the vehicle class or level ceiling. The 17.02.2015 escort O.M. does not create an employee local-AC-taxi exemption. A general Divyang AC-taxi entitlement regardless of pay level was not verified in the Central primary sources checked; keep it on hold.
+
+3. Additional baggage on transfer/retirement:
+The claimed additional 500 kg for assistive devices has not been verified in a current Central primary source. Do not assert it or calculate it into a claim without the operative signed order. The 13.07.2017 DoE O.M. lists the ordinary personal-effects limits but does not establish this claimed supplement.
+
+4. Double Transport Allowance (daily commute, not tour TA):
+The official DoE O.M. No. 21/1/2018-E.II(B), 29.07.2025 substituted category B(1) of the 15.09.2022 compendium. Central Government employees with benchmark disabilities in the listed RPwD Act categories may receive Transport Allowance at double the normal rate, subject to the compendium’s conditions and valid disability certification: (i) locomotor disability (including leprosy-cured, cerebral palsy, dwarfism, muscular dystrophy and acid-attack victims; spinal deformity/injury are sub-categories); (ii) blindness and low vision; (iii) deaf and hard of hearing; (iv) speech and language disability; (v) intellectual disability, including specific learning disabilities and autism spectrum disorder; (vi) mental illness; (vii) chronic neurological conditions such as multiple sclerosis and Parkinson’s disease; (viii) specified blood disorders—haemophilia, thalassemia and sickle-cell disease; and (ix) multiple disabilities, including deaf-blindness. Railway employees have separate orders. This daily home-to-office allowance is not a local-tour AC-taxi or transfer-baggage entitlement.
+Illustrative 2026 arithmetic (with 63% DA): In higher-TPTA cities, the following totals are before any payroll rounding; apply the relevant normal rate and all eligibility/absence conditions:
+
+Level 9 & above: (₹7,200 × 2) = ₹14,400 + 63% DA = ₹23,472 per month (regular base-rate calculation: ₹11,736).
+
+Level 3 to 8: (₹3,600 × 2) = ₹7,200 + 63% DA = ₹11,736 per month (regular base-rate calculation: ₹5,868).
+
+Level 1 to 2 (Basic &ge; ₹24,200): (₹3,600 × 2) = ₹7,200 + 63% DA = ₹11,736 per month .
+
+Level 1 to 2 (Basic < ₹24,200): (₹1,350 × 2) = ₹2,700 + 63% DA = ₹4,401 per month (before payroll rounding).
+
+
+
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch11-018] mfs L2880-2896 Master Fact-Sheet — Chapter 11
+Master Fact-Sheet — Chapter 11
+
+
+Item / Concept | Current Rate / Rule (Applicable Today) | Authority / Reference |
+
+TA advance — general ceiling | No general tour/transfer 90% ceiling established by the reviewed current sources; 90% is stated in the inspected 2005 Compendium for LTC only (currency unverified). | Compendium Rule 52; current status unverified |
+
+Advance adjustment | 15 days for tour in inspected 2005 Compendium Rule 51 (currency unverified); no general 30-day transfer period located in inspected Rule 43. | 2005 Compendium Rules 43, 51; current status unverified |
+
+Ordinary TA claim-submission limit | 60 days succeeding completion of journey, whether or not an advance was drawn | GFR 2017 Rule 290; DoE O.M. 13.03.2018 |
+
+Interest on overdue TA Advance | GPF Rate + 2% per annum penal interest | Compendium of Rules on Advances |
+
+Free Boarding & Lodging DA | Food & Hotel DA = NIL (Only actual local travel Para 2E) | DoE O.M. dated 01.02.2018 |
+
+Same-City Transfer (No residence change) | CTG = Nil | DoE O.M. 13.07.2017 |
+
+Same-City Transfer (With residence change) | 1/3 of Normal CTG (26.67% of Basic Pay) | DoE O.M. 13.07.2017 |
+
+Deputation Transfer TA Cost | Borne entirely by Borrowing Department (both ways) | DoPT OM dated 15.02.2012 |
+
+First Appointment TA | CTG & Fares = NIL (Exception for continuous service) | SR 116 |
+
+Retirement TA Settlement Cap | Capped at Shorter of actual or home-town distance/fare | SR 147 |
+
+Claimed 500 kg extra baggage for assistive devices | Unverified ; no current Central primary source located in this pass. Do not include in an entitlement calculation. | Primary source sought; hold pending signed order |
+
+
+
+
+
+
+### [ch11-019] review L2897-2909 Review Protocol
+Review Protocol
+
+Active recall questions:
+(1) What is the ordinary TA claim-submission window, and how is it distinct from advance adjustment?
+(2) Which current authority governs the adjustment terms for the advance in the case being studied? If none is located, mark the point unresolved.
+(3) Under 7th CPC, if both lodging and boarding are free on tour, what percentage of Daily Allowance is payable?
+(4) How is the Daily Allowance (Food component) calculated on the day of departure for an overnight journey starting at 21:30?
+(5) When is CTG payable for a transfer within the same city, and at what rate?
+(6) Who bears the TA cost when an employee goes on deputation and subsequently returns to their parent department?
+(7) What is the maximum age limit for a dependent son to be eligible for retirement TA? What if the son is disabled?
+(8) What primary source, scope, and conditions support any disability-related local-taxi claim for official tour versus LTC?
+
+
+
+
+
+
+### [ch11-020] recap L2910-2927 Rapid-Revision Recap — Chapter 11
+Rapid-Revision Recap — Chapter 11
+
+
+TA advances: Do not apply a general 90% tour/transfer cap based on the inspected material. A 15-day tour-advance adjustment appears in the 2005 Compendium copy (current currency unverified); no general 30-day transfer deadline is established here.
+
+Ordinary tour/transfer/training TA claim submission is due within 60 days whether or not an advance was drawn. Do not infer an advance-adjustment deadline from GFR Rule 290.
+
+Free meals + stay on tour reduces Hotel and Food DA components to NIL . No flat 25% allowance exists anymore under 7th CPC. Only actual local travel is reimbursable.
+
+Overnight journey DA is calendar-day-wise (midnight-to-midnight): <6h = 30% , 6-12h = 70% , >12h = 100% of the daily lump-sum food ceiling.
+
+Departmental exams/LDCE give tour TA but no DA for halts at the exam station, and is capped at 2 attempts .
+
+Same-city transfer CTG is Nil unless residence changes, which allows a reduced 1/3 CTG (26.67% of Basic Pay) .
+
+Deputation TA (both onward and reversion) is borne and paid entirely by the borrowing department .
+
+Probationers get Nil TA on first joining.
+
+Retirement TA to an alternate settlement place is capped at the declared home-town distance and fare . Family of a retiree who dies before the journey remains fully eligible within 1 year of retirement.
+
+Disability-related TA: the 17.02.2015 DoE O.M. provides a conditional escort-fare route, not an escort DA entitlement. A general local AC-taxi exemption for official tour/training and a 500 kg transfer/retirement baggage supplement were not established by the primary sources checked. Keep both claims unverified; the separate LTC own/hired-taxi exception has its own conditions.
+
+SR 172: Non-Government candidates called for UPSC/SSC interviews get Second Class train fare if distance >80 km (SC/ST exempt from 80 km minimum). No DA for halts.
+
+Transfer vs Tour: Apply the transfer order and current SR 114 conditions; do not infer category or CTG solely from duration.
+
+TA bill revision: Supplementary/revised claims admissible within 3 years of original claim.
+
+
+
+
+

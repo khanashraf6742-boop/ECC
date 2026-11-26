@@ -1,0 +1,170 @@
+
+### [apC-002] chapter-banner L3168-3168 Reverse-Lookup Index
+Appendix C
+Reverse-Lookup Index
+
+
+
+### [apC-003] study-map L3169-3177 
+
+Appendix study map REFERENCE ONLY
+
+
+Focus Use the reverse index to locate a rule or order quickly.
+
+Source review An index entry is a locator, not proof of current status or correct interpretation.
+
+Study move Follow the locator to the primary instrument and check amendments before using it.
+
+
+
+
+
+
+### [apC-004] card L3178-3237 SR / O.M. Number → Topic
+
+SR / O.M. Number → Topic
+
+
+Reference | Topic | Chapter |
+
+SR 17–246 | General TA/DA framework | Ch 1 |
+
+SR 19 | Employee in transit ranks in the lower of two posts | Ch 5 |
+
+SR 25 | Conveyance Allowance | Ch 4 |
+
+SR 46 | TA on Tour | Ch 3 |
+
+SR 48-B | Journey by Air / International travel | Ch 2 |
+
+SR 51 | Reimbursement of taxes/GST, travel charges, DA admissibility | Ch 3 |
+
+SR 58 | General Steamer Travel Entitlements | Ch 10 |
+
+SR 61 | Definition of "Tour" | Ch 1, Ch 10 |
+
+SR 71 | Local-journey threshold (see DoE letter 904302/2018-E.IV); current full SR71/GIO text remains open | Ch 3, Ch 10 |
+
+SR 89 | Competent authority for TA sanction | Ch 1 |
+
+SR 107 | Mainland to Island Steamer Travel Entitlements | Ch 10 |
+
+SR 110 | TA for appearing in Obligatory Departmental Examinations | Ch 11 |
+
+SR 111 | TA for appearing in Selection/Promotion Examinations / LDCE | Ch 11 |
+
+SR 113 | No Daily Allowance (DA) for halts at exam centers | Ch 11 |
+
+SR 116 | Transportation of personal effects and conveyance (Transfer TA) / Probationer limits | Ch 5, Ch 11 |
+
+SR 147 | TA on Retirement / Family scale / Capping / Death-before-journey rules | Ch 6, Ch 11 |
+
+GFR Rule 224 | Contract management; not a general TA-advance authority in the reviewed GFR | Correction note |
+
+GFR Rule 290 | General TA claim submission/time-limit; not the 15-day adjustment authority | Ch 1, Ch 6, Ch 11 |
+
+O.M. 19030/1/2017-E.IV, 13.07.2017 | Base 7th CPC TA Rules Master OM | Ch 1–5, Ch 10, Ch 11 |
+
+O.M. dated 04.09.2017 | Pay Level 13A = Level 13 | Ch 2 |
+
+O.M. No. 19030/1/2017-E.IV, 01.02.2018 | DA Clarification: Free Boarding and Lodging DA reduction rules | Ch 11 |
+
+O.M. dated 13.03.2018 | Time-limit for submission of TA claims (restricted to 60 days) | Ch 7, Ch 11 |
+
+O.M. dated 04.08.2021 | No fresh O.M. needed for DA-triggered hikes | Ch 7, Ch 8 |
+
+O.M. dated 15.06.2021 | Retirement TA claim submission timeline extended to 180 days | Ch 6, Ch 11 |
+
+O.M. dated 06.01.2022 | CTG on retirement - 20 km condition abolished (FULL 80% paid for same-station moves) | Ch 5, Ch 7, Ch 11 |
+
+O.M. dated 24.01.2022 | Re-employed persons' TA concessions | Ch 6 |
+
+O.M. No. 19024/03/2021-E.IV, 16.06.2022 | Government-account air-ticket booking channels/fees (three ATAs); do not generalize to every rail ticket | Ch 10 |
+
+O.M. dated 16.06.2022 | NE/A&N/Lakshadweep/Ladakh transfer TA special provisions | Ch 5, Ch 7 |
+
+O.M. No. 21/1/2018-E-IIB, 15.09.2022 | Double Transport Allowance for disabled (Divyang) employees | Ch 11 |
+
+O.M. dated 12.09.2022 | Tejas Express travel admissibility allowed on official tour | Ch 2, Ch 7 |
+
+O.M. No. 31011/17/2023-Estt-IV, 20.10.2023 | DoPT LTC ticket-booking and screenshot simplification order | Ch 10 |
+
+DoPT Cash Section Circular F.No. G-14019/02/2026-Cash, 16.07.2026 | Government-hosted DGT reproduction retrieved; addressed to DoPT officers/officials; LTC-air reminder only. Direct DoPT archive page not retrieved. No general TA or rail rule. | Ch 10 note |
+
+DoPT O.M. No. 31011/8/2017-Estt.A-IV, 19.09.2017 | Air Travel Entitlement Exclusion for Levels 6 to 8 on LTC vs Tour | Ch 10 |
+
+CCS (Joining Time) Rules, 1979 (Rule 7) | Joining Time Pay and salary responsibility borne by the new administrative authority | Ch 7 |
+
+DoPT Deputation & Foreign Service Rules (SR 206) | TA and pay responsibilities on deputation and foreign service | Ch 7 |
+
+DoPT O.M. No. 31011/3/2015-Estt.A-IV, 04.02.2021 | 100 km Private Transport Capping in Unconnected Stretches on LTC | Ch 10 |
+
+DoE O.M. No. 12(1)/2016-E.II(A), 20.06.2018 | Immediate Relief Advance of ₹25,000 to family of deceased employee | Ch 11 |
+
+CGA O.M. No. TA-2-03002(01)/6/2021 TA-II/383, 30.04.2021 | Cash disbursement of ₹25,000 Immediate Relief from Imprest or Bank | Ch 11 |
+
+SR 71 / DoE letter 904302/2018-E.IV | Beyond-8-km normal-duty-point test and 15/35/50 local food-DA scale; full SR71/GIO and under-threshold vehicle rules remain open | Ch 3 |
+
+SR 51 / SR 72 / SR 73 | DA during SCL, Sunday/Holiday camp requirements, and 180-day halt limit | Ch 3 |
+
+SR 164 / training GIOs | Training schedules, fixed-rate allowance, >180-day option, station sequence, and headquarters claims — source status open; no universal reset asserted | Ch 3, Ch 11 |
+
+SR 148 (GIO (1) & (3)) | Death-in-service family TA eligibility exclusions, surety, and 1-month adjustment | Ch 11 |
+
+O.M. 1/1/2024-E.II(B), 12.03.2024 | Dearness Allowance crosses 50%, trigger for 25% hike in TA/Daily Allowance rates | Ch 8 |
+
+O.M. 19030/3/2014-E.IV, 08.10.2014 / 23.06.2020 | Boarding pass submission with TA bills (and alternative proof) | Ch 7, Ch 10 |
+
+O.M. 19030/2/2020-E.IV, 22.12.2020 | Vouchers for travel-within-city DA component | Ch 3, Ch 7, Ch 10 |
+
+SR 172 | TA for non-Government candidates called for UPSC/SSC interviews (80 km minimum, SC/ST exempt) | Ch 11 |
+
+FR/SR — Dead Kilometre Rule | First kilometre not payable for own car/taxi road mileage | Ch 4 |
+
+SR 114 — transfer admissibility / temporary transfer | DoE O.M. 13.07.2017 preserves SR 114 general conditions; current full SR 114 text and duration-only classification remain unverified | Ch 5, Q21 |
+
+FR/SR — Split Duty DA Rule | Aggregated calendar-day absence for split journeys | Ch 3 |
+
+FR/SR — TA for Pensioners (Inquiry/Deposition) | TA/DA at retirement pay level for summoned pensioners | Ch 6 |
+
+GFR — 3-Year TA Bill Revision Limit | Revised/supplementary TA claims admissible within 3 years | Ch 6 |
+
+PCDA (Pune) Orders | Separate TA rules for Defence Personnel, CISF, AR (not civilian DoE) | Cover (Disclaimer) |
+
+Railway Duty Pass Rules | Railway employees' Duty Pass vs TA — cannot claim both | Ch 3 |
+
+
+
+
+
+
+### [apC-005] card L3238-3249 Pay Level → Entitlement quick-jump
+
+Pay Level → Entitlement quick-jump
+
+
+Pay Level | Air/Rail | Hotel (current) | Food (current) | See |
+
+14+ | Business/Club; AC-I | ₹9,375 | ₹1,500 | Ch 2, 3, 8 |
+
+12–13 | Economy; AC-I | ₹5,625 | ₹1,250 | Ch 2, 3, 8 |
+
+9–11 | Economy; AC-II | ₹2,812.50 | ₹1,125 | Ch 2, 3, 8 |
+
+6–8 | Economy; AC-II (No Air on LTC) | ₹937.50 | ₹1,000 | Ch 2, 3, 8, Ch 10 |
+
+5 & below | None; AC-III/Chair | ₹562.50 | ₹625 | Ch 2, 3, 8 |
+
+
+
+
+
+
+### [apC-006] text L3250-3255 
+Built as a study aid from selected DoE/DoPT materials; targeted corrections dated 22.11.2026 do not constitute full verification. Confirm current primary orders with the competent authority before filing a claim.
+
+
+
+&uarr; Top
+

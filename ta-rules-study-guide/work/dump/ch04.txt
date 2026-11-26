@@ -1,0 +1,150 @@
+
+### [ch04-002] chapter-banner L1177-1177 Mileage Allowance for Road Journeys
+Chapter 4
+Mileage Allowance for Road Journeys
+
+
+
+### [ch04-003] study-map L1178-1187 
+
+Chapter study map PARTIAL / OPEN
+
+
+Focus Identify the governing road-mileage rate and conditions for each vehicle, route and jurisdiction.
+
+Source review The 2017 base rates were checked for the audit; the dead-kilometre authority and some applications remain open. The Defence RMA example is outside civilian scope and was flagged inconsistent.
+
+Study move Use the applicable civilian/State rate source; do not memorize the Defence illustration as a civilian rule.
+
+
+
+
+
+
+
+### [ch04-004] card L1188-1201 Very High-Yield Own car/taxi/scooter — default rates where no state rate exists
+
+Very High-Yield Own car/taxi/scooter — default rates where no state rate exists
+
+Exact-Source Fact Card
+At places where no specific rate has been prescribed either by the Directorate of Transport of the concerned State or of a neighbouring State, Mileage Allowance for road journeys by own car/taxi/auto-rickshaw/own scooter is payable at currently applicable (25%-enhanced) rates of ₹30 per km (own car/taxi) and ₹15 per km (auto/own scooter etc.). Where a state-specific Road Mileage Allowance (RMA) rate does exist (e.g., defence services use PCDA-notified state-wise RMA rates), that state rate governs instead.
+
+
+
+
+Mode | Current Rate (Applicable Today) |
+
+Own car / taxi | ₹30 per km |
+
+Auto-rickshaw / own scooter | ₹15 per km |
+
+Journey on foot | ₹15 per km (additional allowance) |
+
+
+Trap note: "on foot" and "auto/scooter" share the same default rate (₹15/km) — easy to mix up in MCQs, but they are conceptually different entitlements (one is a mode of local travel reimbursement, the other a foot-travel-specific add-on).
+
+
+
+
+
+### [ch04-005] micronote L1202-1212 
+
+The "First Kilometre" Rule — Dead Kilometre for Road Mileage
+
+Under the FR/SR rules (carry-over from the 6th CPC regime, still applicable in most departments), no mileage is payable for the first kilometre of a road journey performed by own car or hired taxi. The calculation of Mileage Allowance begins from the 2nd kilometre onward.
+
+Worked Example: An officer travels 10 km by own car for an official tour.
+• Billable distance: 10 − 1 = 9 km (the first km is a "dead kilometre").
+• Mileage Allowance: 9 km × ₹30/km = ₹270 (NOT ₹300).
+• Trap: If the question says "10 km by own car at ₹30/km" — don't blindly compute 10 × 30 = ₹300. Deduct the dead kilometre first!
+
+Exception: This rule applies to own car and hired taxi journeys. For journeys by auto-rickshaw (metered fare) or public bus, the actual fare paid is reimbursed without this deduction.
+
+Exam Note: While the Department of Expenditure's 2017 O.M. does not explicitly restate the dead-km rule in its main text, it continues to be applied by most Ministries' Accounts sections as an inherited FR/SR practice. Verify with your Ministry's internal TA manual for departmental applicability.
+
+
+
+
+
+### [ch04-006] card L1213-1227 Moderate-Yield State-wise Road Mileage Allowance (RMA) — illustrative defence-services example
+
+Moderate-Yield State-wise Road Mileage Allowance (RMA) — illustrative defence-services example
+
+Exact-Source Fact Card
+Where the concerned State Directorate of Transport has notified a rate, that state figure is used instead of the ₹30/₹15 default. Illustrative example — PCDA(O) Pune Circular No.1 of 2024 dated 25.01.2024 fixed Road Mileage Allowance for Officers at state-specific rates ranging from ₹15/km (Punjab) to ₹30/km (several states incl. Andhra Pradesh, Assam, Bihar, Jharkhand, Manipur, Mizoram, Nagaland, Sikkim, Tamil Nadu), with intermediate rates such as Delhi ₹27.50/km, Karnataka ₹28.75/km, Maharashtra ₹25/km, Kerala ₹25/km, Telangana ₹21.25/km, Tripura ₹18.75/km (all adjusted w.e.f. 01.01.2024).
+
+
+
+
+State (sample) | RMA (₹/km) | State (sample) | RMA (₹/km) |
+
+Punjab | 12 | Delhi | 22 |
+
+Tripura | 15 | Karnataka | 23 |
+
+Telangana | 17 | Andhra Pradesh, Assam, Bihar | 24 |
+
+Chandigarh, Goa, Gujarat, Odisha | 18 | Jharkhand, Manipur, Mizoram, Nagaland, Sikkim, Tamil Nadu | 24 |
+
+
+[Editor's note] This RMA table is a defence-accounts illustration of the "state-specific rate" concept, not itself part of the core civilian 2017 O.M. — included to make the "no specific state rate" clause concrete.
+
+
+
+
+
+### [ch04-007] worked L1228-1236 
+Worked Example
+Scenario: A Level 6 officer travels 40 km by own car in a state with no Directorate-of-Transport-notified rate, on official tour.
+Given: The current road mileage rate is ₹30/km.
+Step 1: Identify applicable rate — no state rate exists, so use the default.
+Step 2: Distance × rate = 40 × ₹30 = ₹1,200 .
+Result: ₹1,200 payable as Mileage Allowance for that road journey.
+Counter-example: If this journey were in Punjab (state RMA ₹15/km, illustrative defence table), the state-specific rate would override the default — always check for a state rate first.
+
+
+
+
+
+### [ch04-008] mfs L1237-1246 Master Fact-Sheet — Chapter 4
+Master Fact-Sheet — Chapter 4
+
+
+Item | Current Rate (Applicable Today) | Reference |
+
+Own car/taxi (no state rate) | ₹30/km | O.M. 13.07.2017 (Revised) |
+
+Auto/own scooter (no state rate) | ₹15/km | O.M. 13.07.2017 (Revised) |
+
+Journey on foot | ₹15/km | O.M. 13.07.2017 (Revised) |
+
+Priority order | State DoT rate > neighbouring-state rate > default ₹30/₹15 | O.M. 13.07.2017 |
+
+First Kilometre (Dead km) | Not payable for own car/taxi journeys | FR/SR (carry-over rule) |
+
+
+
+
+
+### [ch04-009] review L1247-1247 Review Protocol
+Review Protocol
+Active recall: (1) What's the default own-car mileage rate (current)? (2) What overrides that default? (3) What's the on-foot rate and how is it conceptually different from auto/scooter reimbursement? (4) Is any mileage payable for the first km of an own-car journey?
+
+
+
+### [ch04-010] recap L1248-1256 Rapid-Revision Recap — Chapter 4
+Rapid-Revision Recap — Chapter 4
+
+
+Default (no state rate): ₹30/km car/taxi; ₹15/km auto/scooter; ₹15/km on foot.
+
+State/neighbouring-state Directorate-of-Transport rate, if it exists, always overrides the default.
+
+Defence RMA illustrates the state-rate concept: ranges ₹15–30/km depending on state (2024 circular).
+
+Dead Kilometre: First km is NOT payable for own car/taxi. Calculation begins from the 2nd km.
+
+
+
+
+

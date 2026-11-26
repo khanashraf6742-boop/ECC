@@ -1,0 +1,190 @@
+
+### [ch08-002] chapter-banner L1953-1953 Dearness Allowance Crosses 50%: The 25% TA Rate Revision (2024 onward)
+Chapter 8 — Targeted Dearness Allowance Update
+Dearness Allowance Crosses 50%: The 25% TA Rate Revision (2024 onward)
+
+
+
+### [ch08-003] study-map L1954-1962 
+
+Chapter study map PARTIAL
+
+
+Focus Understand how Dearness Allowance triggers the rate revision and use the current rate only for the relevant period.
+
+Source review The 63% Dearness Allowance rate effective 01.07.2026 and the corrected 2024 trigger date were checked; the full rate-application chain and every linked table were not revalidated.
+
+Study move Recompute only after checking the current rate, effective date and employee/component eligibility.
+
+
+
+
+
+
+### [ch08-004] flag L1963-1964 
+Scope note: This chapter summarizes the post-2017 Dearness-Allowance-linked rate change. It is not part of the original O.M.; the DA figure is updated to the DoE order dated 29.10.2026, but not every reproduced table value has been re-audited.
+
+
+
+### [ch08-005] card L1965-1982 Very High-Yield The trigger mechanism — why rates rose automatically
+
+Very High-Yield The trigger mechanism — why rates rose automatically
+
+Exact-Source Fact Card
+The 7th CPC's TA Rules (O.M. 13.07.2017) carry a standing instruction: rates of Mileage Allowance and all Daily Allowance components (hotel, travelling, food) will increase by 25% each time Dearness Allowance rises by 50 percentage points . Dearness Allowance crossed 50% effective 01.01.2024 (confirmed vide DoE, MoF O.M. No.1/1/2024-E.II(B) dated 12.03.2024 ). Per the precedent set for HRA on 04.08.2021 — where the Department of Expenditure clarified that "this Department's O.M...is very clear and no separate order is being issued" — no fresh dedicated O.M. was necessary to activate the TA/Daily Allowance rate revision either; it took effect automatically by operation of the 2017 O.M.'s own clause. As of 22.11.2026, Dearness Allowance stands at 63% effective 01.07.2026 (DoE O.M. No. 1/2(i)/2026-E.II(B), dated 29.10.2026) — below the next stated 100% trigger. The rate table below reflects the 25% enhancement triggered when Dearness Allowance crossed 50%; verify each underlying rate against the latest applicable order before use.
+
+
+
+[Hinglish block omitted from dump]
+Memory Hook " DA 50 → rates +25%, automatically — no separate order, just like HRA in 2021."
+
+
+Exam Angle / PYQ Very high-probability question: "Was a separate O.M. required to enhance TA/DA rates when DA crossed 50%?" — Answer: No . This is the single most-tested nuance in this chapter; examiners try to trick candidates into thinking a specific 2024 TA O.M. exists (it doesn't — the mechanism is self-executing).
+
+
+
+
+
+
+### [ch08-006] card L1983-2004 Fact/Date/Number Heavy Current (DA≥50%) Daily Allowance rates — Hotel / Travel / Food, by Pay Level
+
+Fact/Date/Number Heavy Current (DA≥50%) Daily Allowance rates — Hotel / Travel / Food, by Pay Level
+
+Exact-Source Fact Card
+The table below shows the 2017 base rate against the 25%-enhanced rate reproduced in the UT Ladakh Finance Department's order (No.131-F of 2024, dated 01.05.2024). These figures have not all been independently revalidated in the 22.11.2026 update; check the applicable current order before use.
+
+
+
+
+Pay Level | Hotel Ceiling (Current) | Travel-within-city Ceiling (Current) | Food Lump Sum (Current) |
+
+14 and above | ₹9,375 | AC taxi actual expenditure | ₹1,500 |
+
+12 & 13 | ₹5,625 | AC taxi up to 50 km/day | ₹1,250 |
+
+9 to 11 | ₹2,812.50 | ₹422.50/day | ₹1,125 |
+
+6 to 8 | ₹937.50 | ₹281.25/day | ₹1,000 |
+
+5 and below | ₹562.50 | ₹141.25/day | ₹625 |
+
+
+Worked Example
+Scenario: A Level 9 officer (Delhi HQ) tours to Mumbai for 2 nights, staying at a hotel actually charging ₹2,600/night (voucher produced), takes local taxis totalling ₹400/day for 3 days, and is away >12 hours each day.
+Step 1 — Hotel: Ceiling for Level 9-11 (current) = ₹2,812.50/night. Actual ₹2,600 < ceiling → reimbursed ₹2,600 × 2 = ₹5,200 (voucher-based, actual expenditure within ceiling).
+Step 2 — Travel-within-city: Ceiling (current) = ₹422.50/day. Actual ₹400 < ceiling → reimbursed ₹400 × 3 = ₹1,200 .
+Step 3 — Food (lump sum): ₹1,125/day (current) × 100% (each day >12 hrs away) × 3 days = ₹3,375 .
+Result: Total DA on tour = ₹5,200 + ₹1,200 + ₹3,375 = ₹9,775 (plus separately claimable air/rail fare).
+
+
+
+
+
+
+
+### [ch08-007] card L2005-2016 Fact/Date/Number Heavy Current Mileage & Transfer-related rates (25%-enhanced)
+
+Fact/Date/Number Heavy Current Mileage & Transfer-related rates (25%-enhanced)
+
+
+Item | Current Rate (Applicable Today) |
+
+Own car/taxi (no state rate) | ₹30/km |
+
+Auto/own scooter (no state rate) | ₹15/km |
+
+Personal effects by road, Level 6+ | ₹62.50/km |
+
+Personal effects by road, Level 5 | ₹31.25/km |
+
+Personal effects by road, Level ≤4 | ₹18.75/km |
+
+
+
+
+
+
+### [ch08-008] card L2017-2035 Moderate-Yield Cross-reference — other DA-50%-linked allowances (not TA, but same trigger mechanism)
+
+Moderate-Yield Cross-reference — other DA-50%-linked allowances (not TA, but same trigger mechanism)
+
+Exact-Source Fact Card
+The same DA-50% trigger simultaneously revised several related, non-TA allowances — useful for "which allowance is NOT part of TA Rules" trap questions.
+
+
+
+
+Allowance | Current Rate (Applicable Today) | Reference |
+
+House Rent Allowance — X cities | 30% of Basic Pay | O.M. 2/5/2017-E.II(B), 07.07.2017 |
+
+House Rent Allowance — Y cities | 20% of Basic Pay | O.M. 2/5/2017-E.II(B) |
+
+House Rent Allowance — Z cities | 10% of Basic Pay | O.M. 2/5/2017-E.II(B) |
+
+Children Education Allowance | ₹2,812.50/month | DoPT O.M. 25.04.2024 |
+
+CEA for Divyang child | ₹5,625/month | DoPT O.M. 25.04.2024 |
+
+Hostel Subsidy | ₹8,437.50/month | DoPT O.M. 25.04.2024 |
+
+Special Allowance, child care (women with disabilities) | ₹3,750/month | DoPT O.M. 25.04.2024 |
+
+Gratuity ceiling | ₹25 lakh | DA-50% standing provision |
+
+
+RED-FLAG TRAP Flag: "HRA, CEA, Gratuity revisions in 2024 came from a special TA-rules O.M." Fix: These are revised under separate O.Ms of DoPT/DoE for those specific allowances — HRA under O.M. 2/5/2017-E.II(B), CEA/Hostel Subsidy/Special Allowance under DoPT O.M. dated 25.04.2024. Only Mileage Allowance and the 3 DA-on-tour components are revised under the TA Rules O.M. 19030/1/2017-E.IV . Fix-phrase: "Same trigger (DA 50%), different order-numbers per allowance family."
+
+
+
+
+
+
+### [ch08-009] mfs L2036-2048 Master Fact-Sheet — Chapter 8
+Master Fact-Sheet — Chapter 8
+
+
+Item | Value | Reference |
+
+Dearness Allowance crossed 50% effective | 01.01.2024 | DoE O.M. 1/1/2024-E.II(B), 12.03.2024 |
+
+Enhancement mechanism | Automatic 25% increase, no fresh TA O.M. needed | O.M. 13.07.2017 standing clause; precedent O.M. 04.08.2021 |
+
+Current Dearness Allowance rate (updated 22.11.2026) | 63%, effective 01.07.2026 | DoE O.M. 1/2(i)/2026-E.II(B), 29.10.2026 |
+
+Next trigger point | Dearness Allowance = 100% (not yet reached) | Standing clause |
+
+Hotel ceiling, Level 14+ | ₹9,375/day | UT Ladakh order 01.05.2024 (replicating DoE table) |
+
+Own-car mileage | ₹30/km | UT Ladakh order 01.05.2024 |
+
+Personal effects road, Level 6+ | ₹62.50/km | UT Ladakh order 01.05.2024 |
+
+Gratuity ceiling (current) | ₹25 lakh | DA-50% standing provision |
+
+
+
+
+
+### [ch08-010] review L2049-2049 Review Protocol
+Review Protocol
+If you can state the trigger date, the mechanism (no fresh order needed), and reproduce the Level-9 DA table from memory, you're solid. Active recall: (1) What date did Dearness Allowance cross 50%? (2) Did DoE issue a dedicated new O.M. for the TA/Daily Allowance rate revision? (3) What's the current own-car mileage rate? (4) Is HRA revised under the same O.M. as TA?
+
+
+
+### [ch08-011] recap L2050-2058 Rapid-Revision Recap — Chapter 8
+Rapid-Revision Recap — Chapter 8
+
+
+Dearness Allowance crossed 50% w.e.f. 01.01.2024 → automatic 25% hike to Mileage Allowance + all three Daily Allowance components, no fresh TA O.M. needed (precedent: HRA, 04.08.2021).
+
+Current Dearness Allowance (updated 22.11.2026) = 63% w.e.f. 01.07.2026. It remains below 100%; the 25%-enhanced rates shown trace to the 2024 threshold crossing, but verify all underlying rates before use.
+
+Level 14+ hotel ceiling now ₹9,375/day; own-car mileage now ₹30/km; personal effects (Level 6+) now ₹62.50/km.
+
+HRA/CEA/Hostel Subsidy/Gratuity ceiling also rose under the same DA-50% trigger, but via their own separate O.Ms — not the TA Rules O.M.
+
+
+
+
+

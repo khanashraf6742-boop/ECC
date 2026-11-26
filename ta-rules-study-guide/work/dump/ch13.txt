@@ -1,0 +1,71 @@
+
+### [ch13-001] chapter-banner L3325-3325 Joining Time & TTA — 2015 Amendment and 2022 Consolidation
+Chapter 13
+Joining Time & TTA — 2015 Amendment and 2022 Consolidation
+
+
+
+### [ch13-002] study-map L3326-3335 
+
+Chapter study map UNRESOLVED
+
+
+Focus Read 2015 Rule 4(4) and 2022 paras 3.6.1–3.6.3 separately.
+
+Source review The Official Gazette 27.03.2015 text was fetched and confirms the substituted Rule 4(4) conditions. The 2022 DoPT text was reviewed from a Government-hosted reproduction; the interaction for temporary Central Government employees under three years and TTA is not reconciled here.
+
+Study move Do not memorize a categorical three-year answer; check all conditions and seek a written competent-authority decision.
+
+
+
+
+
+
+
+### [ch13-003] card L3336-3344 Authority comparison Joining Time Pay and TTA — do not use a categorical three-year answer
+
+Authority comparison Joining Time Pay and TTA — do not use a categorical three-year answer
+
+Unresolved interaction: This replaces the earlier table and flowchart that treated confirmation status or a three-year service threshold as determinative. The audit did not locate an authoritative clarification reconciling the texts for every qualifying case.
+
+
+Authority | Reviewed provision | Safe conclusion for this guide |
+
+CCS (Joining Time) Rules, Rule 4(4), as substituted by G.S.R. 229(E), 27.03.2015 | Provides for qualifying competitive appointments, subject to stated conditions including an option to count past service for all purposes in Central Government; the substituted wording contains no express three-year cutoff. | Check whether the appointment and all conditions fall within the substituted rule; do not infer coverage from service length alone. |
+
+DoPT O.M. No. DOPT-1669266628362 (NESTS-hosted Government reproduction; direct DoPT record not retrieved), 24.11.2022, para 3.6.3 | States that temporary Central Government employees with less than three years of regular continuous service are not entitled to TTA. | Read with the 2015 amendment and any subsequent clarification; the interaction is not settled by this guide. |
+
+Technical resignation status | DoPT technical-resignation provisions concern whether a resignation is treated as technical and related service continuity. | It does not itself decide entitlement to TTA or Joining Time Pay. |
+
+
+
+
+
+### [ch13-004] micronote L3345-3362 
+
+Use this decision aid instead of the old yes/no chart:
+
+1. First assess technical-resignation status under the applicable DoPT conditions (including proper-channel / prior-application rules where relevant).
+
+2. Separately check whether the appointment is within Rule 4(4) as substituted in 2015, including its conditions and service-counting option.
+
+3. Separately read DoPT O.M. para 3.6.3 and check for later binding clarification or department-specific instructions.
+
+4. If the two provisions affect the case, obtain a written decision from the competent authority. This study aid does not decide an employee's TTA or Joining Time Pay.
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+### [ch13-005] recap L3363-3365 Rapid-Revision Recap — Chapter 13: keep both authorities visible
+Rapid-Revision Recap — Chapter 13: keep both authorities visible
+
+The 2015 Gazette substitutes CCS (Joining Time) Rule 4(4) with conditions for qualifying competitive appointments, including the option concerning past service; its substituted text contains no express three-year cutoff.
+DoPT’s 24.11.2022 consolidation para 3.6.3 separately states a three-year condition for temporary Central Government employees’ TTA through Joining Time Pay.
+Interaction unresolved: do not infer a categorical answer from confirmation, probation or years served alone; ask the competent authority to apply both texts to the actual facts.
+Keep the Official Gazette text distinct from the Government-hosted NESTS reproduction; the direct DoPT record was not retrieved. This recap is not an individual ruling.
+
+
+

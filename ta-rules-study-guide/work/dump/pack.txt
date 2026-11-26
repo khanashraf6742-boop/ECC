@@ -1,0 +1,115 @@
+
+### [pack-001] aside L4083-4083 
+Optional practical reference — intentionally repetitive. This AO quick sheet repeats selected figures and workflows from Chapters 1–11. Use it for retrieval/file preparation, not as an independent rule source; the full chapter and the targeted source-check log control. Unverified items remain on hold.
+
+### [pack-002] title L4084-4086 AO Examination Mastery Module — Travelling Allowance (TA) Rules (Cut-off 22 Nov 2026)
+AO Examination Mastery Module — Travelling Allowance (TA) Rules (Cut-off 22 Nov 2026)
+
+Baseline: SR 17–195 · DoE OM 13.07.2017 (7th CPC) · Level 6–8 Air Allowed in TA · Tour/Transfer Claim 60 days · Retirement Claim 180 days · CTG 80% .
+
+
+
+### [pack-003] section L4087-4098 1. Night-Before-Exam TA Cheat Sheet (Critical Figures & Deadlines)
+1. Night-Before-Exam TA Cheat Sheet (Critical Figures & Deadlines)
+
+
+Parameter | Official Rule / Figure | Authority |
+
+
+Air Travel Entitlement (TA) | Level 14+: Business · Level 6–13: Economy ( Level 6–8 allowed in TA! ) | DoE OM 13.07.2017 |
+
+TA claim-submission windows | Tour / Transfer / Training: 60 days whether or not an advance was drawn · Retirement: 180 days under the specific 2021 O.M. | GFR 290; DoE O.Ms 13.03.2018 and 15.06.2021 |
+
+TA Advance Adjustment | Inspected 2005 Compendium Rule 51 says 15 days for tour advances; currency unverified. No general 30-day transfer deadline located. | Compendium Rules 43, 51; verify current order |
+
+Composite Transfer Grant (CTG) | 80% for eligible transfers at 20 km or more (100% for specified A&N/Lakshadweep transfers); below 20 km/same station, one-third of normal CTG only if residence actually changes, otherwise nil. | DoE OM 13.07.2017 |
+
+Daily Allowance (DA) & Absence | <6 hrs: 30% · 6–12 hrs: 70% · >12 hrs: 100% (Food + Hotel + Local Travel) | DoE OM 13.07.2017 |
+
+
+
+
+
+### [pack-004] section L4099-4107 2. 5-Step TA Audit & Claim Settlement Flowchart
+2. 5-Step TA Audit & Claim Settlement Flowchart
+
+
+Sanction: Confirm the tour/transfer order issued by the Controlling Officer.
+
+Entitlement: Check Pay Level, mode entitlement and (if air) the applicable booking channel.
+
+DA and hotel: Apply the absence band (30%/70%/100%) and check hotel, food and local-travel documentation separately.
+
+Transfer/retirement: Check CTG conditions and personal-effects weight/rate separately.
+
+Settlement: Apply the 60-day / 180-day claim-submission window; verify any advance-adjustment deadline from a separate current authority.
+
+
+
+
+### [pack-005] section L4108-4114 3. Common TA Audit Objections & How to Reply
+3. Common TA Audit Objections & How to Reply
+
+
+Objection: Level 7 officer flew on official tour. Reply: Valid! DoE OM 13.07.2017 entitles Level 6–8 to Economy Air on TA (restriction is only on LTC).
+
+Objection: Transfer TA submitted after 75 days. Reply: It is outside the ordinary 60-day window. Do not promise routine HOD/FA condonation; check the applicable DoE O.M. and any valid specific relaxation. The 13.03.2018 O.M. para 5 addresses claims kept in abeyance for more than one year after HOD investigation; it is not a general late-claim extension.
+
+Objection: Same-station transfer CTG claimed at 80%. Reply: Restricted to 1/3rd of CTG only if actual change of residence is proved.
+
+
+
+
+### [pack-006] section L4115-4120 4. TA Numerical & File-Noting Lab
+4. TA Numerical & File-Noting Lab
+
+
+Numerical: Basic Pay ₹60,000, Transfer >20 km (mainland) → CTG = 80% × ₹60,000 = ₹48,000 . If same-station with residence change → 1/3rd × ₹48,000 = ₹16,000 .
+Model Note: "Shri [Name], Level 7, performed official tour from [Date] to [Date] (absence 14 hrs). Claim submitted within 60 days with hotel/food vouchers. Passed for ₹[Amount] under DoE OM 13.07.2017."
+
+
+
+
+### [pack-007] section L4121-4130 5. Cross-Rule Traps: TA Rules vs CCS (LTC) Rules
+5. Cross-Rule Traps: TA Rules vs CCS (LTC) Rules
+
+
+Parameter | TA Rules (SR 17–195) | CCS (LTC) Rules, 1988 |
+
+
+Level 6–8 Air Travel | Allowed (Economy) | Normal LTC entitlement is as specified by CCS (LTC) Rule 12; check any special-dispensation or later order rather than importing TA air entitlement. |
+
+Claim-submission window | Tour/Transfer/Training: 60 days ; Retirement: 180 days . | No advance: 3 months (limited FA relaxation to 6 months). Advance drawn: 1 month (limited FA relaxation to 3 months with full advance + penal interest refunded). See Rules 14/15 and DoPT O.M. 21.12.2023. |
+
+Advance adjustment vs. claim submission | TA: current general adjustment deadline is not established here; the inspected 2005 Compendium’s 15-day tour statement is currency-unverified. | LTC’s one-month/three-month periods are claim-submission clocks, not a general TA-advance adjustment rule. See the separate LTC deadline matrix. |
+
+
+
+
+
+### [pack-008] section L4131-4147 6. Scope Boundaries: Similar-Looking Travel Claims
+6. Scope Boundaries: Similar-Looking Travel Claims
+
+Use this comparison to keep separate benefits in their own rule, journey type and evidence lane:
+
+
+Do not transfer an entitlement from one row to another
+
+Claim / benefit | Applies to / authority checked | What is established here | What it does not establish |
+
+
+Official-tour local conveyance | Tour DA/local-travel rules; DoE O.M. 13.07.2017 and the 22.12.2020 documentation O.M. | Pay-Level ceilings and stated voucher/self-certification conditions apply. The 22.12.2020 O.M. is a documentation route for Level 9–11 under its conditions. | Not an unrestricted disability-specific local AC-taxi entitlement; the 2020 O.M. does not itself change vehicle entitlement or ceiling. |
+
+Escort fare | Eligible tour/training cases; DoE O.M. 17.02.2015. | Conditional escort fare when the destination authority cannot provide the escort, subject to the O.M.’s certification and approval conditions. | Not unrestricted local taxi reimbursement and not an extra baggage allowance. |
+
+Disability-related taxi on LTC | Separate LTC route; DoPT LTC instructions/FAQ. | A conditional, LTC-only route within its stated conditions. | Does not create official-tour local AC-taxi or transfer-TA entitlement. |
+
+Personal-effects baggage | Transfer/retirement TA; applicable weight/rate and documentation rules. | Use the employee’s applicable Pay-Level entitlement and the governing transfer/retirement instructions. | No current Central primary support was located in this review for an additional 500-kg transfer/retirement allowance; keep that claim unverified. |
+
+
+
+Use: This is a scope map, not a new entitlement or a substitute for the cited order. See the source-check log for retrieval limits.
+
+
+
+

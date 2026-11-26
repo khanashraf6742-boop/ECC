@@ -1,0 +1,67 @@
+
+### [ch12-001] chapter-banner L3286-3286 Fundamentals — What is Technical Resignation?
+Chapter 12
+Fundamentals — What is Technical Resignation?
+
+
+
+### [ch12-002] study-map L3287-3296 
+
+Chapter study map PARTIAL / OPEN
+
+
+Focus Apply the technical-resignation conditions without inferring TTA or Joining Time Pay from the label alone.
+
+Source review The 24.11.2022 DoPT consolidation text was reviewed from a Government-hosted NESTS reproduction (identifier DOPT-1669266628362); direct DoPT retrieval returned HTTP 500. Individual benefits are not fully verified.
+
+Study move Check application channel, selection and resignation requirement separately; do not treat technical status as an entitlement decision.
+
+
+
+
+
+
+
+### [ch12-003] card L3297-3311 Core Definition Legal Framework
+
+Core Definition Legal Framework
+
+DoPT O.M. No. DOPT-1669266628362 (NESTS-hosted Government reproduction; direct DoPT record not retrieved) dated 24.11.2022, Para 2.1
+As per the Ministry of Finance O.M. No. 3379-E.III(B)/65 dated 17th June 1965, technical resignation is a resignation treated as a technical formality where a Government servant has applied through proper channel for a post in the same or some other Department, and is on selection, required to resign the previous post for administrative reasons.
+
+Critical Point: The resignation will be treated as technical resignation if these conditions are met, even if the Government servant has not mentioned the word "Technical" while submitting his resignation.
+
+
+
+
+[Hinglish block omitted from dump]
+
+
+
+
+### [ch12-004] micronote L3312-3320 
+
+Three Essential Conditions for Technical Resignation:
+
+1. Applied through proper channel — Application forwarded by current employer with NOC
+
+2. Selected for a Government post — Central/State Government, PSU, or autonomous body
+
+3. Required to resign for administrative reasons — Not voluntary leaving, but necessity to join new post
+
+NO minimum service requirement for technical resignation itself — it can be done at any stage (even during probation).
+
+
+
+
+
+### [ch12-005] recap L3321-3323 Rapid-Revision Recap — Chapter 12: technical-resignation status
+Rapid-Revision Recap — Chapter 12: technical-resignation status
+
+Identify the application channel, selection for the new post, and whether resignation is required for administrative reasons; record evidence for each.
+Under the reviewed 24.11.2022 Government-hosted reproduction, technical-resignation treatment is distinct from Joining Time Pay and TTA. The direct DoPT-hosted record was not obtained.
+Do not infer TTA, Joining Time Pay, lien, pay protection or leave treatment from the phrase “technical resignation” alone.
+For an individual case, verify the operative order, employment category, destination, dates and competent-authority decision.
+
+
+

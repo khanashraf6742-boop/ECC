@@ -1,0 +1,133 @@
+
+### [ch17-001] chapter-banner L3979-3979 Frequently Asked Questions (FAQ)
+Chapter 17
+Frequently Asked Questions (FAQ)
+
+
+
+### [ch17-002] study-map L3980-3989 
+
+Chapter study map EDITORIAL FAQ / OPEN
+
+
+Focus Treat FAQs as prompts for finding the governing rule, not as authority.
+
+Source review These are author-generated FAQs, not official Government FAQs; their legal propositions are not individually source-verified.
+
+Study move Turn each answer into a question: what source, scope, date and exception would prove it?
+
+
+
+
+
+
+
+### [ch17-003] faq L3990-3994 
+
+Q: I'm on probation (1.5 years completed). Can I apply for another post through proper channel?
+
+Applying during probation and technical-resignation status are separate from TTA / Joining Time Pay entitlement. The 2015 substituted Rule 4(4) and DoPT O.M. para 3.6.3 (2022) require case-specific reconciliation; no categorical yes/no is given here. Lien is a separate issue and depends on the applicable rules and facts.
+
+
+
+
+
+### [ch17-004] faq L3995-3999 
+
+Q: My confirmation order is pending (probation completed but order not issued). Am I "confirmed" or "temporary"?
+
+The service-status question must be determined under the applicable service rules; do not assume a pending order automatically settles it. In any event, confirmation status alone does not resolve the interaction between substituted Rule 4(4) (2015) and DoPT O.M. para 3.6.3 (2022). Ask the competent authority for a written decision; this guide does not promise full TTA.
+
+
+
+
+
+### [ch17-005] faq L4000-4004 
+
+Q: I have 2.8 years of service and am confirmed. Will I get TTA?
+
+No categorical answer is given. DoPT O.M. para 3.6.3 and the 2015 substituted Rule 4(4) must be read together, including the latter's conditions. Confirmation alone is not treated here as determinative; request a written decision from the competent authority.
+
+
+
+
+
+### [ch17-006] faq L4005-4009 
+
+Q: What if my department refuses to forward my application through proper channel?
+
+The department can refuse only on valid grounds (e.g., disciplinary proceedings, bond obligation, shortage of staff). If the refusal is arbitrary, you can appeal to higher authorities. If you apply directly without proper channel and get selected, it will NOT be treated as technical resignation — you'll lose all past service benefits.
+
+
+
+
+
+### [ch17-007] faq L4010-4014 
+
+Q: I'm a temporary employee with 2.5 years of service. If I get confirmed next month, will I then be eligible for TTA?
+
+Confirmation by itself does not resolve the 2015 Rule 4(4) / 2022 DoPT O.M. interaction. Apply the relevant conditions and seek a written departmental decision; this guide does not decide entitlement.
+
+
+
+
+
+### [ch17-008] faq L4015-4019 
+
+Q: Does the probation period count towards the 3-year service requirement for temporary employees?
+
+Whether probation counts as regular continuous service depends on the applicable rule and service record. DoPT O.M. para 3.6.3 states a restriction for temporary employees under three years; qualifying competitive appointments may also engage substituted Rule 4(4) (2015). The interaction is unresolved here, so no yes/no entitlement answer is provided.
+
+
+
+
+
+### [ch17-009] faq L4020-4024 
+
+Q: I'm on deputation to a PSU. Can I apply for another Central Government post through proper channel?
+
+Yes. Your application should be forwarded by your parent department (not the PSU). If selected, you submit technical resignation from the parent department post. TTA is calculated from your deputation station (current place of duty) to the new post.
+
+
+
+
+
+### [ch17-010] faq L4025-4029 
+
+Q: What happens to my GPF/NPS account on technical resignation?
+
+Your GPF account is transferred to the new office under Rule 35 of GPF (CS) Rules, 1960. Your NPS account (PRAN + PRA balance) is also transferred to the new office. Both continue uninterrupted.
+
+
+
+
+
+### [ch17-011] faq L4030-4034 
+
+Q: Can I retain lien if I join a State Government post?
+
+Yes. A permanent Central Government employee appointed to a State Government post retains lien on the parent post for 2 years (extendable to 3 in exceptional cases). You must revert within this period or the lien ceases.
+
+
+
+
+
+### [ch17-012] faq L4035-4039 
+
+Q: What if I don't mention "technical resignation" in my resignation letter?
+
+It doesn't matter. Under DoPT O.M. Para 2.1, if all conditions are met (applied through proper channel, selected for Government post, required to resign), the resignation WILL be treated as technical resignation even if you didn't use the word "technical." However, it's advisable to mention it explicitly to avoid confusion.
+
+
+
+
+
+### [ch17-013] recap L4040-4042 Rapid-Revision Recap — Chapter 17: FAQ as a source-finding exercise
+Rapid-Revision Recap — Chapter 17: FAQ as a source-finding exercise
+
+These are author-generated questions, not official Government FAQs; answers are not individually source-verified.
+Convert each answer into: “Which current primary source, paragraph, scope, date and exception would prove this?”
+If the answer depends on the 2015/2022 Joining Time–TTA interaction or an unverified FR/SR/GIO, stop at unresolved rather than guessing.
+
+
+
