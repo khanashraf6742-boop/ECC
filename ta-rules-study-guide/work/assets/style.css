@@ -76,3 +76,5 @@ mark.sm{background:var(--mark);color:var(--markfg);padding:0 1px;border-radius:2
 main p,main li,main td,main th,main summary,main figcaption{overflow-wrap:anywhere}
 @media print{details::details-content{content-visibility:visible!important;display:block!important;height:auto!important}}
 .offcheck{border-color:var(--warn);background:var(--warn-bg)}.offcheck>.aid-label{color:var(--warn)}.offcheck table{background:var(--bg)}
+.exrev li{margin:.7em 0}.exrev li.bad{border-left:4px solid var(--bad);padding-left:8px}#sec-calc label{display:inline-block;min-width:13em}#sec-calc input,#sec-calc select{font:inherit;padding:4px 6px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}#sec-calc [id^=o-]{padding:8px 10px;background:var(--bg2);border-radius:8px}
+@media(max-width:700px){#sec-calc label{min-width:0;display:block}#sec-calc select,#sec-calc input[type=text],#sec-calc input[type=number],#sec-calc input[type=date]{max-width:100%}}
