@@ -77,4 +77,5 @@ document.addEventListener('click',function(e){var l=e.target.closest&&e.target.c
 document.addEventListener('keydown',function(e){if((e.key==='Enter'||e.key===' ')&&e.target.matches&&e.target.matches('.simple>.lbl')){e.preventDefault();tg(e.target)}});
 var ea=$('#expall'),ca=$('#colall');if(ea)ea.addEventListener('click',function(){$$('.simple').forEach(function(d){d.classList.add('open');$('.lbl',d).setAttribute('aria-expanded','true')})});if(ca)ca.addEventListener('click',function(){$$('.simple').forEach(function(d){d.classList.remove('open');$('.lbl',d).setAttribute('aria-expanded','false')})});
 var qq=$('#q');if(qq)qq.addEventListener('input',function(){setTimeout(function(){$$('.simple').forEach(function(d){if($('mark.sm',d)){d.classList.add('open')}})},450)});
+var sb=$('#supbtn');if(sb)sb.addEventListener('click',function(){var o=document.body.classList.toggle('show-sup');sb.setAttribute('aria-pressed',o);sb.textContent=o?'Hide superseded':'Show superseded'});
 })();

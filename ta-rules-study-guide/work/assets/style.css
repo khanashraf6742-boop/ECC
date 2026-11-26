@@ -81,3 +81,6 @@ main p,main li,main td,main th,main summary,main figcaption{overflow-wrap:anywhe
 
 .simple:not(.open)>*:not(.lbl){display:none}.simple>.lbl{cursor:pointer}.simple>.lbl:after{content:" ▸ show";text-transform:none;font-weight:600;color:var(--acc)}.simple.open>.lbl:after{content:" ▾ hide"}
 @media print{.simple>*{display:block!important}body.print-cheat main>section:not(#sec-cheat),body.print-cheat main>h1,body.print-cheat main>p{display:none!important}body.print-cheat #sec-cheat .cheat{break-after:page}}
+
+.sup{display:none!important}body.show-sup .sup{display:revert!important;opacity:.85;background:var(--bad-bg)}body.show-sup .sup:before{content:"SUPERSEDED — " attr(data-sup);display:block;font:700 .72rem/1.3 system-ui;color:var(--bad);margin-bottom:2px}
+@media print{.sup{display:none!important}}

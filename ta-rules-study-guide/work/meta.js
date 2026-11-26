@@ -66,6 +66,7 @@ const PATHS=[
 ['Claim / audit desk',[['svg-claim','Claim clock flowchart'],['svg-air','Air booking flowchart'],['svg-ctg','CTG flowchart'],['tk-006','Deadline & authority matrix'],['tk-007','Claim-classification tree'],['tk-008','Practical checklist']]],
 ['Specialist (technical resignation / TTA)',[['ch12-003','Definition'],['ch13-003','Authority comparison'],['svg-tr-aid','Decision aid'],['ch14-004','Case studies'],['ch17-003','FAQs']]]];
 const LOG=[
+['26 Nov 2026','Five source passages describing rules replaced by later official orders are collapsed and labelled “Superseded” (not deleted); toggle with “Show superseded”.'],
 ['26 Nov 2026','Added: calculators, spaced review, practice exams, exam traps, cheat sheets, key-facts register, reading paths; four more official orders read (22.04.2015, 08.10.2014, 27.10.2021, 15.09.2022).'],
 ['26 Nov 2026','Official verification pass: 28 instruments read from DoE/DGT/NESTS/GFR sources; 15 errata recorded (E1–E15); supplements S1–S11; amber Official-text check boxes added to 22 cards.'],
 ['22 Nov 2026','Source document “TA Rules Master v4” (converted verbatim; unchanged in this file).']];

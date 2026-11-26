@@ -34,6 +34,12 @@ No item in the source carries an “obsolete / omitted / rescinded / superseded-
 |---|---|---|
 ${EXC.sort((a,b)=>a[0]<b[0]?-1:1).map(e=>`| ${e[0]} | ${e[1]} | ${e[2]} | EXCLUDED |`).join('\n')}
 
+## Superseded passages (collapsed and labelled, not deleted)
+- L1743 (ch07-013): old one-third retirement CTG statement — superseded by O.M. 06.01.2022
+- L1628 (ch07-008) and L1635 (Hinglish): flat 25% DA — superseded by O.M. 01.02.2018
+- L1544 (ch07-004): 16.02.2022 air row — superseded by O.M. 16.06.2022 para 16
+- L1849–1850 (ch07-017): 16.02.2022 “Best Available Fare” item — superseded by O.M. 16.06.2022 para 16
+
 ## Totals
 - Top-level pieces: **${nPieces}**; labelled sub-blocks: **${nSubs}**
 - By type: ${Object.entries(tot).sort().map(([k,v])=>k+'='+v).join(', ')}

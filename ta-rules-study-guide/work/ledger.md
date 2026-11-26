@@ -15,6 +15,12 @@ No item in the source carries an “obsolete / omitted / rescinded / superseded-
 | EX-06 | 530, 1317, 1430, 3264 | Layout-only wrapper tags (<div class="wrap"> openers at L530/L3264) and duplicated stray card openers at L1317/L1430 (markup defects, no text) | EXCLUDED |
 | EX-07 | various | 45 HTML comments (<!-- … CHAPTER n … --> section markers; no reader-visible text) | EXCLUDED |
 
+## Superseded passages (collapsed and labelled, not deleted)
+- L1743 (ch07-013): old one-third retirement CTG statement — superseded by O.M. 06.01.2022
+- L1628 (ch07-008) and L1635 (Hinglish): flat 25% DA — superseded by O.M. 01.02.2018
+- L1544 (ch07-004): 16.02.2022 air row — superseded by O.M. 16.06.2022 para 16
+- L1849–1850 (ch07-017): 16.02.2022 “Best Available Fare” item — superseded by O.M. 16.06.2022 para 16
+
 ## Totals
 - Top-level pieces: **261**; labelled sub-blocks: **395**
 - By type: anchor=15, aside=1, card=96, case-box=15, chapter-banner=22, cover=3, faq=10, flag=3, mfs=11, micronote=10, recap=17, review=10, section=6, study-hub=1, study-map=22, sub:analogy=3, sub:comparison-note=5, sub:editor-note=1, sub:faq-a=10, sub:faq-q=10, sub:flag=11, sub:flashcard=84, sub:hook=15, sub:mcq=23, sub:micronote=10, sub:pyq=8, sub:simple=45, sub:solution=15, sub:src=75, sub:table=49, sub:trapx=8, sub:verdict=15, sub:worked=8, text=2, title=1, verdict=15, worked=1
