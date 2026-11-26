@@ -2,7 +2,7 @@
 const fs=require('fs'),path=require('path');
 const {build,strip}=require('./classify');
 const TABLES=require('./tables'),SVGS=require('./svgs');
-const OFF=require('./official'),OFF2=require('./official2'),EXTRA=require('./extra'),META=require('./meta'),LTC=require('./ltc');
+const OFF=require('./official'),OFF2=require('./official2'),EXTRA=require('./extra'),META=require('./meta'),LTC=require('./ltc'),FRSR=require('./frsr');
 const OUT=path.join(__dirname,'..','TA_Rules_Study_Guide.html');
 const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const data=build();
@@ -187,6 +187,18 @@ const ltcHtml=`<section class="chapter" id="sec-ltc" aria-labelledby="ltc-h"><h2
 <div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Practice MCQs</span>${LTC.MCQ.map((m,i)=>`<details class="mcq"><summary>Q${i+1}. ${esc(m.q)}</summary><ol type="a">${m.o.map(o=>`<li>${esc(o)}</li>`).join('')}</ol><p><b>Answer: (${String.fromCharCode(97+m.a)})</b> ${esc(m.o[m.a])} — ${esc(m.w)} <small>Citation: ${esc(m.c)}</small></p></details>`).join('')}</div>
 <div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Flashcards</span>${LTC.CARDS.map(c=>`<div class="fc"><button class="fcflip btn" aria-expanded="false">${esc(c[0])}</button><div class="fcback" hidden>${esc(c[1])} <small>Source: ${esc(c[2])}</small></div></div>`).join('')}</div></div></details></section>`;
 offIdx.push({seg:'off',id:'sec-ltc',head:'TA and LTC — comparison of the common areas',type:'card',sl:'study aid'});
+// ---------- FR/SR Part II (secondary summaries) ----------
+FRSR.MCQ.forEach(m=>deck.mcqs.push({seg:'frsr',segt:'FR/SR Part II (secondary summaries)',q:m.q,o:m.o,a:m.a,w:m.w,c:m.c}));
+FRSR.CARDS.forEach(c=>deck.cards.push({seg:'frsr',segt:'FR/SR Part II (secondary summaries)',f:c[0],b:c[1],c:c[2]}));
+const frBadge=st=>/Gap/.test(st)?'tb-exception':/Conflicting|differs/.test(st)?'tb-exception':'tb-proviso';
+const frsrHtml=`<section class="chapter" id="sec-frsr" aria-labelledby="frsr-h"><h2 id="frsr-h">FR / SR Part II — secondary summaries (from the compilation you supplied)</h2>
+<p class="secmeta">${FRSR.NOTES.map(esc).join(' ')}</p>
+<details class="rule" id="off-frsr" data-types="proviso exception" data-sl="secondary" open><summary><span class="rno" data-chrome="1">off-frsr</span><h3>SR-by-SR summaries (${FRSR.ROWS.length} entries) — not primary text</h3><span class="tb tb-proviso" data-chrome="1">Proviso</span></summary><div class="rbody"><div class="rtools" data-chrome="1"><span>Secondary</span><label><input type="checkbox" class="rv" aria-label="Mark off-frsr as reviewed"> Reviewed</label></div><div class="study-aid unc" data-chrome="1"><span class="aid-label">Secondary summaries — verify before relying on them</span><div class="tablewrap" tabindex="0" role="region" aria-label="FR/SR summaries"><table><thead><tr><th scope="col">SR</th><th scope="col">Summary (paraphrase, not rule text)</th><th scope="col">Status</th><th scope="col">Drawn from</th></tr></thead><tbody>${FRSR.ROWS.map(r=>`<tr id="${r[0]}"><th scope="row">${esc(r[2])}</th><td>${esc(r[3])}</td><td><span class="tb ${frBadge(r[4])}">${esc(r[4])}</span></td><td>${esc(r[5])}</td></tr>`).join('')}</tbody></table></div></div>
+<div class="study-aid" data-chrome="1"><span class="aid-label">Where the compilation and the official orders disagree</span><div class="tablewrap" tabindex="0" role="region" aria-label="FR/SR discrepancies"><table><thead><tr><th scope="col">Point</th><th scope="col">What differs</th><th scope="col">Use</th></tr></thead><tbody>${FRSR.DISCREP.map(d=>`<tr><th scope="row">${esc(d[0])}</th><td>${esc(d[1])}</td><td>${esc(d[2])}</td></tr>`).join('')}</tbody></table></div></div>
+<div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Practice MCQs (secondary summaries — treat as practice only)</span>${FRSR.MCQ.map((m,i)=>`<details class="mcq"><summary>Q${i+1}. ${esc(m.q)}</summary><ol type="a">${m.o.map(o=>`<li>${esc(o)}</li>`).join('')}</ol><p><b>Answer: (${String.fromCharCode(97+m.a)})</b> ${esc(m.o[m.a])} — ${esc(m.w)} <small>Citation: ${esc(m.c)}</small></p></details>`).join('')}</div>
+<div class="study-aid" data-chrome="1"><span class="aid-label">Study aid · Flashcards</span>${FRSR.CARDS.map(c=>`<div class="fc"><button class="fcflip btn" aria-expanded="false">${esc(c[0])}</button><div class="fcback" hidden>${esc(c[1])} <small>Source: ${esc(c[2])}</small></div></div>`).join('')}</div></div></details></section>`;
+offIdx.push({seg:'off',id:'sec-frsr',head:'FR/SR Part II — secondary summaries',type:'card',sl:'secondary'});
+const FRMAP={};FRSR.ROWS.forEach(r=>r[1].forEach(k=>FRMAP[k]=r[0]));
 // ---------- front matter ----------
 const abbr=JSON.parse(fs.readFileSync(path.join(__dirname,'abbr.json'),'utf8'));
 const tk=data.find(s=>s.key==='tk').pieces.find(p=>/id="glossary"/.test(p.html));
@@ -205,12 +217,13 @@ const front=`<section class="chapter" id="sec-start" aria-labelledby="start-h"><
 <h3>Discrepancies noticed inside the source <small>[uncertain — not resolved by this guide]</small></h3><ul>${flagsDisc.map(f=>`<li><b>${esc(f[0])}.</b> ${f[1].replace(/`/g,'')}</li>`).join('')}</ul></section>`;
 allIdx.push(...offIdx);
 const masterIdx=`<section class="chapter" id="toc" aria-labelledby="toc-h"><h2 id="toc-h">Master index of every block</h2><p class="secmeta">${allIdx.length} blocks (cards, notes, fact-sheets, recaps, cases, FAQs, verdicts). IDs are used for search and cross-references.</p><div class="idx">${[{key:'off',title:'Official verification — read first'}].concat(data).map(s=>{const L=allIdx.filter(x=>x.seg===s.key);return L.length?`<h3><a href="#${s.key==='off'?'sec-official':SECID(s.key)}">${esc(s.title)}</a></h3><ul>${L.map(x=>`<li><a href="#${x.id}">${esc(x.head||LABEL[x.type]||x.type)}</a> <small>${x.id} · ${x.sl}</small></li>`).join('')}</ul>`:''}).join('')}</div></section>`;
+Object.keys(FRMAP).forEach(k=>{if(!XR[k]){const m=/^sr-(\d+)/.exec(k);XR[k]={label:'SR '+m[1],cites:[],n:+m[1]}}});
 const xrefKeys=Object.keys(XR).sort((a,b)=>XR[a].n-XR[b].n||a.localeCompare(b));
-const xrefSec=`<section class="chapter" id="sec-xref" aria-labelledby="xref-h"><h2 id="xref-h">Cross-reference index — where each SR is cited</h2><p class="secmeta">Generated at build time from the source text; each “SR n” in the text above links here. See also Appendix C (<a class="xref" href="#index">Reverse-Lookup Index</a>).</p><ul>${xrefKeys.map(k=>`<li id="xref-${k}"><b>${esc(XR[k].label)}</b> — ${XR[k].cites.map(c=>`<a href="#${c.id}">${esc((c.head||c.id).slice(0,70))}</a> <small>(${c.id})</small>`).join('; ')}</li>`).join('')}</ul></section>`;
+const xrefSec=`<section class="chapter" id="sec-xref" aria-labelledby="xref-h"><h2 id="xref-h">Cross-reference index — where each SR is cited</h2><p class="secmeta">Generated at build time from the source text; each “SR n” in the text above links here. See also Appendix C (<a class="xref" href="#index">Reverse-Lookup Index</a>).</p><ul>${xrefKeys.map(k=>`<li id="xref-${k}"><b>${esc(XR[k].label)}</b>${FRMAP[k]?` — <a href="#${FRMAP[k]}">FR/SR summary (secondary)</a>`:''} — ${XR[k].cites.map(c=>`<a href="#${c.id}">${esc((c.head||c.id).slice(0,70))}</a> <small>(${c.id})</small>`).join('; ')}</li>`).join('')}</ul></section>`;
 // ---------- assemble ----------
 const GRP=t=>['~',t];
 const sideLinks=[GRP('Start here'),['sec-start','Front matter'],['sec-paths','Reading paths'],['toc','Master index'],
- GRP('Verified layer and study tools'),['sec-official','Official verification (read first)'],['sec-facts','Key-facts register'],['sec-traps','Exam traps'],['sec-ltc','TA vs LTC (common areas)'],['sec-cheat','Cheat sheets'],['sec-calc','Calculators'],
+ GRP('Verified layer and study tools'),['sec-official','Official verification (read first)'],['sec-facts','Key-facts register'],['sec-frsr','FR/SR Part II (secondary)'],['sec-traps','Exam traps'],['sec-ltc','TA vs LTC (common areas)'],['sec-cheat','Cheat sheets'],['sec-calc','Calculators'],
  GRP('Source chapters (verbatim)')].concat(data.map(s=>[SECID(s.key),s.title.replace(/ — .*$/,m=>m.length>46?m.slice(0,44)+'…':m)]),[GRP('Reference'),['sec-xref','Cross-reference index'],['sec-log','Change log & currency']]);
 const css=fs.readFileSync(path.join(__dirname,'assets/style.css'),'utf8');let js=fs.readFileSync(path.join(__dirname,'assets/app.js'),'utf8');
 const deckJson=JSON.stringify(deck).replace(/</g,'\\u003c');
@@ -230,6 +243,7 @@ ${['proviso','exception','om','order','faq','explanation'].map(t=>`<label><input
 ${front}${pathsHtml}${masterIdx}
 ${offHtml}
 ${factsHtml}
+${frsrHtml}
 ${trapsHtml}
 ${ltcHtml}
 ${cheatHtml}

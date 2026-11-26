@@ -42,6 +42,8 @@ const FACTS=[
 ['Death-in-service advance 75%; journey within 1 year (FA can extend)',SRC+'; extension '+OFFC,'ch11-007; O.M. 21.12.2016'],
 ['Immediate relief advance ₹25,000',SRC,'ch11-008'],
 ['Family definition SR 2(8); ₹9,000 + DR',SRC,'ch10-004'],
+['FR/SR Part II SR 30/31, 46, 51, 61, 71–73, 107, 110–116, 147, 164 summaries','Secondary summary (supplied compilation)','sec-frsr'],
+['SR 148, 172, 206 text','No text available','sec-frsr'],
 ['Class X / Y / Z city lists',SRC,'ch10-005'],
 ['Exams SR 110–113; SR 172 outsiders',SRC+' / '+HOLD,'ch11-011, ch11-012'],
 ['Training SR 164 schedules',HOLD,'ch11-005'],
@@ -66,6 +68,7 @@ const PATHS=[
 ['Claim / audit desk',[['svg-claim','Claim clock flowchart'],['svg-air','Air booking flowchart'],['svg-ctg','CTG flowchart'],['tk-006','Deadline & authority matrix'],['tk-007','Claim-classification tree'],['tk-008','Practical checklist']]],
 ['Specialist (technical resignation / TTA)',[['ch12-003','Definition'],['ch13-003','Authority comparison'],['svg-tr-aid','Decision aid'],['ch14-004','Case studies'],['ch17-003','FAQs']]]];
 const LOG=[
+['26 Nov 2026','Added the FR/SR Part II compilation you supplied as a clearly badged SECONDARY section (SR 30/31, 46, 51, 58, 61, 71–73, 107, 110–116, 147, 148, 164, 172, 206); SR entries in the cross-reference index now link to it; conflicts recorded as E16–E18.'],
 ['26 Nov 2026','TA vs LTC comparison refreshed from the latest DoPT texts (Master Circular 03.09.2025; O.M. 21.12.2023): claim periods corrected to 3 months / 1 month with FA-concurrence relaxation; GFR 292 difference kept as a noted conflict; LTC tour-package and family rows corrected.'],
 ['26 Nov 2026','Added the “TA and LTC” comparison of common areas (LTC itself remains out of scope); sidebar grouped; scope note and back-to-top added.'],
 ['26 Nov 2026','Staff News checked: no TA-rule order newer than 12.09.2022 found; LTC items are out of scope for this guide and were left out. DoPT O.M. 24.11.2022 para 3.6.3 text confirmed.'],
@@ -74,7 +77,7 @@ const LOG=[
 ['26 Nov 2026','Official verification pass: 28 instruments read from DoE/DGT/NESTS/GFR sources; 15 errata recorded (E1–E15); supplements S1–S11; amber Official-text check boxes added to 22 cards.'],
 ['22 Nov 2026','Source document “TA Rules Master v4” (converted verbatim; unchanged in this file).']];
 const RECHECK=['DoPT Joining Time Rules consolidation and G.S.R. 229(E) — hosts unreachable; need files from you.',
- 'FR/SR Part II (SR 114, 116, 147, 148, 164, 172, 110–113) — need the official text.',
+ 'FR/SR Part II primary text (the supplied compilation is secondary only) — need the official text for SR 30/31, 46, 51, 58, 61, 71–73, 107, 110–116, 147, 148, 164, 172, 206.',
  'Any DoE order after 12.09.2022 on TA — none seen on the DoE list; re-check periodically.',
  'Next DA revision and Eighth CPC recommendations: re-check whether the TA O.M. is replaced.',
  'DoE listing and GFR updates: re-run the official check before an exam if more than a few weeks pass.'];
