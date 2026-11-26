@@ -33,7 +33,8 @@ const FACTS=[
 ['Double Transport Allowance rates and categories',OFFC,'O.M.s 15.09.2022, 29.07.2025'],
 ['DA 63% of basic pay from 01.07.2026',OFFC,'O.M. 29.10.2026'],
 ['TA and LTC common air-booking regime (three ATAs, slots, 10% band, no mileage points)',OFFC+' (DoPT copy secondary-hosted)','TA vs LTC table'],
-['LTC claim period: GFR 292 (30/60 days) vs source (1/3 months)',CONF+' (no-advance case)','TA vs LTC table'],
+['LTC claim period: Rules 14/15 (3 months / 1 month) per DoPT Master Circular 03.09.2025',OFFC+' (secondary-hosted text)','TA vs LTC table'],
+['GFR 292 (30 / 60 days) differs from LTC Rules 14/15; no reconciling order found',CONF,'TA vs LTC table'],
 ['Para 3.6.3: TTA for temporary staff under 3 years',OFFC+' (NESTS reproduction)','DoPT O.M. 24.11.2022'],
 ['Rule 4(4) Joining Time Rules as substituted 2015',HOLD+' — G.S.R. 229(E) not retrieved','ch13-003'],
 ['“180-day DA halt limit”',NOT,'E2'],
@@ -65,6 +66,7 @@ const PATHS=[
 ['Claim / audit desk',[['svg-claim','Claim clock flowchart'],['svg-air','Air booking flowchart'],['svg-ctg','CTG flowchart'],['tk-006','Deadline & authority matrix'],['tk-007','Claim-classification tree'],['tk-008','Practical checklist']]],
 ['Specialist (technical resignation / TTA)',[['ch12-003','Definition'],['ch13-003','Authority comparison'],['svg-tr-aid','Decision aid'],['ch14-004','Case studies'],['ch17-003','FAQs']]]];
 const LOG=[
+['26 Nov 2026','TA vs LTC comparison refreshed from the latest DoPT texts (Master Circular 03.09.2025; O.M. 21.12.2023): claim periods corrected to 3 months / 1 month with FA-concurrence relaxation; GFR 292 difference kept as a noted conflict; LTC tour-package and family rows corrected.'],
 ['26 Nov 2026','Added the “TA and LTC” comparison of common areas (LTC itself remains out of scope); sidebar grouped; scope note and back-to-top added.'],
 ['26 Nov 2026','Staff News checked: no TA-rule order newer than 12.09.2022 found; LTC items are out of scope for this guide and were left out. DoPT O.M. 24.11.2022 para 3.6.3 text confirmed.'],
 ['26 Nov 2026','Five source passages describing rules replaced by later official orders are collapsed and labelled “Superseded” (not deleted); toggle with “Show superseded”.'],
