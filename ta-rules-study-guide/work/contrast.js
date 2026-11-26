@@ -1,0 +1,11 @@
+const {chromium}=require('playwright');const path=require('path');
+(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:1280,height:900}});await p.goto('file://'+path.resolve(__dirname,'../TA_Rules_Study_Guide.html'));
+for(const theme of ['light','dark']){await p.evaluate(t=>document.documentElement.setAttribute('data-theme',t),theme);await p.click('#expall');
+const r=await p.evaluate(()=>{const lum=c=>{const [r,g,b]=c.map(v=>{v/=255;return v<=.03928?v/12.92:Math.pow((v+.055)/1.055,2.4)});return .2126*r+.7152*g+.0722*b};
+const parse=s=>{const m=s.match(/rgba?\(([^)]+)\)/);if(!m)return null;const a=m[1].split(',').map(Number);return {c:a.slice(0,3),a:a.length>3?a[3]:1}};
+const bgOf=e=>{let rgb=[255,255,255];const chain=[];for(let n=e;n;n=n.parentElement){const c=parse(getComputedStyle(n).backgroundColor);if(c&&c.a>0)chain.push(c);if(c&&c.a>=1)break}
+ let base=getComputedStyle(document.documentElement).getPropertyValue('--bg').trim();const tmp=document.createElement('i');tmp.style.color=base;document.body.appendChild(tmp);const bc=parse(getComputedStyle(tmp).color).c;tmp.remove();let cur=chain.length&&chain[chain.length-1].a>=1?chain.pop().c:bc;while(chain.length){const x=chain.pop();cur=cur.map((v,i)=>x.c[i]*x.a+v*(1-x.a))}return cur};
+const out={};let n=0;const bad=[];const w=document.createTreeWalker(document.querySelector('main'),NodeFilter.SHOW_TEXT);let t;const seen=new Set();
+while((t=w.nextNode())){if(!t.nodeValue.trim())continue;const e=t.parentElement;if(seen.has(e))continue;seen.add(e);const cs=getComputedStyle(e);if(cs.visibility==='hidden'||e.closest('[hidden]'))continue;const rc=e.getBoundingClientRect();if(!rc.width)continue;const fg=parse(cs.color);if(!fg)continue;const bg=bgOf(e);const fgc=fg.a<1?fg.c.map((v,i)=>v*fg.a+bg[i]*(1-fg.a)):fg.c;const L1=lum(fgc),L2=lum(bg);const ratio=(Math.max(L1,L2)+.05)/(Math.min(L1,L2)+.05);const fs=parseFloat(cs.fontSize),bold=parseInt(cs.fontWeight)>=700;const need=(fs>=24||(fs>=18.66&&bold))?3:4.5;n++;if(ratio<need)bad.push(ratio.toFixed(2)+' '+e.tagName+'.'+String(e.className).slice(0,18)+' "'+t.nodeValue.trim().slice(0,28)+'"')}
+return {n,bad:bad.length,sample:bad.slice(0,14)}});console.log(theme,JSON.stringify(r,null,1))}
+await b.close()})();
