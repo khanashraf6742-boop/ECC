@@ -45,6 +45,7 @@ const FACTS=[
 ['FR/SR Part II SR 30/31, 46, 51, 58, 61, 107 summaries','Secondary summary (supplied compilation)','sec-frsr'],
 ['SR 71–73, 114, 116, 147, 148, 164 text','Reproduced text (non-official hosts); not checked against an official host','sec-frsr'],
 ['SR 172, 206 text','No text available','sec-frsr'],
+['Temporary transfer up to 180 days = tour TA/DA (MCRHRDI Nov 2025)','Secondary (Government-hosted training deck)','sec-frsr'],
 ['Class X / Y / Z city lists',SRC,'ch10-005'],
 ['Exams SR 110–113; SR 172 outsiders',SRC+' / '+HOLD,'ch11-011, ch11-012'],
 ['Training SR 164 schedules',HOLD,'ch11-005'],
@@ -69,6 +70,7 @@ const PATHS=[
 ['Claim / audit desk',[['svg-claim','Claim clock flowchart'],['svg-air','Air booking flowchart'],['svg-ctg','CTG flowchart'],['tk-006','Deadline & authority matrix'],['tk-007','Claim-classification tree'],['tk-008','Practical checklist']]],
 ['Specialist (technical resignation / TTA)',[['ch12-003','Definition'],['ch13-003','Authority comparison'],['svg-tr-aid','Decision aid'],['ch14-004','Case studies'],['ch17-003','FAQs']]]];
 const LOG=[
+['26 Nov 2026','Searched for primary FR/SR Part II text: none is published on the DoE/DoPT hosts reachable here (DoPT carries Part I scans only; ISTM carries notes). Recorded a Government-hosted training deck (MCRHRDI, Nov 2025) as secondary corroboration; SR 30/31, 46, 51, 58, 61, 107 remain summaries, SR 172/206 gaps, SR 164(c) uncertain.'],
 ['26 Nov 2026','Added the reproduced rule text of SR 71–73, 114, 116, 147, 148 and 164 you supplied (sources named in the file are non-official reproductions); SR index entries now link to it; E16 confirmed, E18 updated (180 days = a GIO under SR 73).'],
 ['26 Nov 2026','Added the FR/SR Part II compilation you supplied as a clearly badged SECONDARY section (SR 30/31, 46, 51, 58, 61, 71–73, 107, 110–116, 147, 148, 164, 172, 206); SR entries in the cross-reference index now link to it; conflicts recorded as E16–E18.'],
 ['26 Nov 2026','TA vs LTC comparison refreshed from the latest DoPT texts (Master Circular 03.09.2025; O.M. 21.12.2023): claim periods corrected to 3 months / 1 month with FA-concurrence relaxation; GFR 292 difference kept as a noted conflict; LTC tour-package and family rows corrected.'],

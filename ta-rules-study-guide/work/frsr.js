@@ -54,5 +54,12 @@ const CARDS = [
 ['SR 31 in one line?','A competent authority may, for recorded special reasons, allow mileage on a route other than the shortest/cheapest if actually used.','FR/SR summary (secondary)'],
 ['SR 71 local-journey test?','TA for a local journey if the temporary duty place is beyond 8 km from the normal place of duty; “radius” = 8 km by the shortest practicable route.','FR/SR summary (secondary)'],
 ['Which SRs does the official O.M. 13.07.2017 cite?','SR 114 (transfer conditions), SR 116 (conveyance on transfer), SR 147 (retirement).','O.M. 13.07.2017 paras 3–4']];
+
+const DECK = [
+ ['Temporary transfer','A temporary transfer for a short period not exceeding 180 days: TA/DA as on tour; only actual transit time (no joining time); no advance of pay. If the temporary transfer runs beyond 180 days: issue a transfer order; DA is admitted till the date of issue of the transfer order and TA drawn is adjusted in the TA claim.','Corroborates the “180 days” notion in the guide’s source (Chapter 5) — but the reproduced SR 114 text contains no 180-day rule.'],
+ ['SR 146, SR 114, SR 191','Slides cite SR 114 for transfer, SR 146 for journeys on retirement and SR 191 for the Controlling Officer’s signature on TA bills.','Consistent with the reproduced SR 114 / SR 147 text.'],
+ ['Claim and advance','TA bill within sixty days of completing the journey on tour/training/transfer, else deemed relinquished; delay in settling an advance attracts penal interest; no second advance normally for a tour before the earlier advance is settled.','Matches the 60-day clock; the advance points are secondary and not in the DoE O.M.s read.'],
+ ['Rules listed as applicable','FR 44; SR 17–91, 104–109, 112, 117, 120, 123–128, 130, 132–135, 140, 142–150, 151A, 153–158, 160–162, 164–165 and Government of India decisions quoted in FR/SR Part II.','Gives the range of TA SRs; SR 164–165 are named, with no text.'],
+ ['Local journey food DA','Hotel not applicable; food DA 15% / 35% / 50% of the tour lump sum by absence band.','Matches the guide (signed DoE letter 12.09.2018).']]
 const TEXTMAP = {'sr-71':'frsrt-71','sr-72':'frsrt-72','sr-73':'frsrt-73','sr-114':'frsrt-114','sr-116':'frsrt-116','sr-147':'frsrt-147','sr-148':'frsrt-148','sr-164':'frsrt-164'};
-module.exports = {TEXTMAP, ROWS, NOTES, DISCREP, MCQ, CARDS, SEC, GAP, CONFL, UNRES};
+module.exports = {DECK, TEXTMAP, ROWS, NOTES, DISCREP, MCQ, CARDS, SEC, GAP, CONFL, UNRES};

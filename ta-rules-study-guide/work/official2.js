@@ -1,6 +1,8 @@
 // Supplement blocks, tables, flowcharts, MCQs, flashcards and per-card checks — all from the official PDFs read on 26.11.2026.
 const T=(title,cite,head,rows)=>({title,cite,head,rows});
 const checks={
+'ch05-005':'SR 114 (reproduced text) contains no 180-day rule; the 13.07.2017 O.M. only says SR 114’s general conditions continue. A Government-hosted training deck (MCRHRDI, Nov 2025) states a temporary transfer up to 180 days is TA/DA as on tour — secondary only; see the FR/SR section.',
+'ch11-004':'Secondary only: the MCRHRDI training deck (Nov 2025) says delay in settling an advance attracts penal interest and no second advance is normally given before the first is settled; the advance periods are still not established from a primary text.',
 'ch01-004':'GFR Rule 290 (updated to 31.01.2026): the claim falls due on the date succeeding completion of the journey and must be submitted within sixty days of its becoming due, else it stands forfeited. See E13. Pay Level / “pay” definition: E14.',
 'ch02-004':'Official Table A (para 2A(i)): Level 5 and below shows only “First Class/AC-III/AC Chair car by train” — no air row, no “specific relaxations” wording. See E1. Missing paras 2A(iii)(a)–(d): S2.',
 'ch02-006':'Same as E1 (Level 5 and below). International table (para 2B) matches: 17+ First, 14–16 Business/Club, 13 & below Economy.',
