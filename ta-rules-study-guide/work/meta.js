@@ -32,12 +32,8 @@ const FACTS=[
 ['Level 13A = Level 13',OFFC,'O.M. 04.09.2017'],
 ['Double Transport Allowance rates and categories',OFFC,'O.M.s 15.09.2022, 29.07.2025'],
 ['DA 63% of basic pay from 01.07.2026',OFFC,'O.M. 29.10.2026'],
-['LTC air: 21-day booking encouraged; 30-day advance request (DoPT staff circular)',OFFC+' (DGT-hosted copy)','Circular 16.07.2026'],
-['DoPT LTC-air O.M.s 29.08.2022 and Oct 2023 (21-day, 30-day advance, 24-hour cancellation, 10% band)',OFFC+' (secondary-hosted copy)','S13'],
-['LTC air Special Dispensation extended to 25.09.2028',OFFC+' (secondary-hosted copy)','DoPT O.M. 09.09.2026'],
 ['Para 3.6.3: TTA for temporary staff under 3 years',OFFC+' (NESTS reproduction)','DoPT O.M. 24.11.2022'],
 ['Rule 4(4) Joining Time Rules as substituted 2015',HOLD+' — G.S.R. 229(E) not retrieved','ch13-003'],
-['LTC claim periods (1/3 months vs GFR 30/60 days)',CONF,'E9'],
 ['“180-day DA halt limit”',NOT,'E2'],
 ['Dead-kilometre deduction',NOT,'E3'],
 ['Death-in-service advance 75%; journey within 1 year (FA can extend)',SRC+'; extension '+OFFC,'ch11-007; O.M. 21.12.2016'],
@@ -57,7 +53,6 @@ const CORR=[
 ['16.02.2022 air O.M.','Private airlines allowed via the three ATAs; nothing on time slots.'],
 ['CTG basic pay','Excludes NPA and MSP.'],
 ['Time-limit extension','One-year retirement/death-in-service journey period extendable with FA approval (21.12.2016).'],
-['LTC periods','GFR 292: 30 / 60 days; guide: 1 / 3 months — [uncertain].'],
 ['Tejas classes','As Shatabdi: L12+ Executive/AC1; 6–11 AC2/Chair Car; ≤5 AC3/Chair Car.'],
 ['GFR 290','Due the day after completion; 60 days from becoming due; forfeited if late.'],
 ['Pay Level “pay”','Basic pay in the Level; excludes NPA, MSP, special pay.'],
@@ -68,14 +63,15 @@ const PATHS=[
 ['Claim / audit desk',[['svg-claim','Claim clock flowchart'],['svg-air','Air booking flowchart'],['svg-ctg','CTG flowchart'],['tk-006','Deadline & authority matrix'],['tk-007','Claim-classification tree'],['tk-008','Practical checklist']]],
 ['Specialist (technical resignation / TTA)',[['ch12-003','Definition'],['ch13-003','Authority comparison'],['svg-tr-aid','Decision aid'],['ch14-004','Case studies'],['ch17-003','FAQs']]]];
 const LOG=[
-['26 Nov 2026','Staff News check: read the new DoPT O.M. of 09.09.2026 (LTC air Special Dispensation to 25.09.2028) with its enclosures (29.08.2022, Oct 2023); added S12–S14. Staff News is a secondary host — its own articles are not used as authority.'],
+['26 Nov 2026','Staff News checked: no TA-rule order newer than 12.09.2022 found; LTC items are out of scope for this guide and were left out. DoPT O.M. 24.11.2022 para 3.6.3 text confirmed.'],
 ['26 Nov 2026','Five source passages describing rules replaced by later official orders are collapsed and labelled “Superseded” (not deleted); toggle with “Show superseded”.'],
 ['26 Nov 2026','Added: calculators, spaced review, practice exams, exam traps, cheat sheets, key-facts register, reading paths; four more official orders read (22.04.2015, 08.10.2014, 27.10.2021, 15.09.2022).'],
 ['26 Nov 2026','Official verification pass: 28 instruments read from DoE/DGT/NESTS/GFR sources; 15 errata recorded (E1–E15); supplements S1–S11; amber Official-text check boxes added to 22 cards.'],
 ['22 Nov 2026','Source document “TA Rules Master v4” (converted verbatim; unchanged in this file).']];
-const RECHECK=['DoPT LTC FAQ (01.07.2025), Joining Time Rules consolidation, G.S.R. 229(E) — hosts unreachable; need files from you. (DoPT O.M. 29.08.2022 is now covered via an enclosure.)',
+const RECHECK=['DoPT Joining Time Rules consolidation and G.S.R. 229(E) — hosts unreachable; need files from you.',
  'FR/SR Part II (SR 114, 116, 147, 148, 164, 172, 110–113) — need the official text.',
  'Any DoE order after 12.09.2022 on TA — none seen on the DoE list; re-check periodically.',
  'Next DA revision and Eighth CPC recommendations: re-check whether the TA O.M. is replaced.',
  'DoE listing and GFR updates: re-run the official check before an exam if more than a few weeks pass.'];
 module.exports={FACTS,CORR,PATHS,LOG,RECHECK};
+

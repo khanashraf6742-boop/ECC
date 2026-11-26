@@ -14,7 +14,7 @@ quick:{
 'ch07-015':'OM 10 (16.06.2022): to/from NER, A&N, Lakshadweep, Ladakh — family not accompanying: up to 1/3 weight entitlement, self-certification (no vouchers); family accompanying: full entitlement, vouchers mandatory.',
 'ch07-016':'OM 11 (12.09.2022): Tejas allowed for tour, training, transfer, retirement; class per Shatabdi Para 2A(ii): Level 12+ Executive/AC Chair Car; 6–11 and 5 & below AC Chair Car (as tabulated).',
 'ch07-017':'OM 12 (air): 31.12.2021 — three ATAs only (Balmer Lawrie, Ashok Travels & Tours, IRCTC); 16.02.2022 — best available fare in 3-hour band; 16.06.2022 — free choice among 3 ATAs, no fees, outside-ATA tickets not reimbursable absent relaxation; air only, not rail.',
-'ch07-018':'OM 13: JCM (31.07.2018) — National Council par with Levels 12–13; Departmental/Regional Councils par with Level 11. LTC = tour entitlement with 3 exceptions (different air entitlement for L6–8, no DA, transport mode rule).',
+'ch07-018':'OM 13: JCM (31.07.2018) — National Council par with Levels 12–13; Departmental/Regional Councils par with Level 11.',
 'ch07-019':'Deputation/foreign service: borrowing/host organization bears transfer TA (onward and return) and tour TA/DA; absorption → no return TA; Rule 7 CCS (Joining Time) Rules: new authority pays joining time pay.'},
 hooks:{'ch07-019':'“The Guest Never Pays” — host/borrowing organization bears TA and joining-time pay. (source hook)','ch07-008':'“Free stay + food = Zero stay/food DA; only local travel.” (source fix-phrase)'},
 mcqs:[

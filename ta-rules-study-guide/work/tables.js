@@ -30,12 +30,6 @@ module.exports=[
 ['Ordinary tour/transfer/training','—','Claim within 60 days succeeding trigger (GFR 290; O.M. 13.03.2018)','Adjustment deadline not established in source'],
 ['Retirement TA','Within 1 year (365 days) of retirement','Claim within 180 days of completing the journey (O.M. 15.06.2021)','—'],
 ['Death-in-service family TA (SR 148)','Within 1 year (365 days) of death','Adjustment within 1 month of journey completion (last batch if several); else refund immediately','Up to 75% of probable expenses, with surety']]},
-{seg:'ch10',title:'TA on tour/transfer vs LTC — the contrasts',cite:'ch10-008 (L2288–2345)',head:['Point','TA on tour/training/transfer','LTC'],rows:[
-['Air, Pay Levels 6–8','Entitled (Economy, within India)','Not entitled; normal entitlement rail per CCS (LTC) Rule 12, subject to special dispensation/later order'],
-['Daily Allowance','Admissible under standard ceilings','None of any kind'],
-['Private/hired vehicle','Road mileage for own car, hired taxi, public transport','Government/PSU-operated vehicles only, subject to stated exceptions (disability — FAQ Q30; unconnected places: max 100 km each side)'],
-['Tour packages','—','Private operators’ tour packages not allowed; only fare component reimbursable'],
-['Claim submission','60 days, whether or not an advance was drawn','No advance: 3 months (limited FA relaxation to 6); advance drawn: 1 month (limited relaxation to 3)']]},
 {seg:'ch07',title:'Who bears the cost — deputation, foreign service, joining time',cite:'ch07-019 (L1902–1941)',head:['Situation','Onward journey','Return journey','Tour TA/DA during tenure'],rows:[
 ['Deputation (Central Govt / PSU / autonomous body)','Borrowing organization pays transfer TA','Borrowing organization pays return transfer TA; absorption → no return TA','Borrowing organization'],
 ['Foreign service (SR 206)','Foreign employer','Foreign employer','Foreign employer (its rules, or parent-cadre rules if specified)'],

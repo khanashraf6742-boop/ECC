@@ -26,7 +26,7 @@ const MCQ=[
 {q:'O.M. 27.10.2021 directed that Air India tickets may be purchased:',o:['On credit','In cash till further instructions','Only via IRCTC','Not at all'],a:1,w:'Air India stopped credit facility.',c:'S10'},
 {q:'The boarding-pass rule: O.M. 08.10.2014 required enclosing boarding passes; O.M. 23.06.2020 allows:',o:['Nothing','A self-declaration (countersigned by the Controlling Officer for Level 10 and below) if the boarding pass is missing','A fee instead','Airline certificate'],a:1,w:'As read from both O.M.s.',c:'ch07-011; S10'},
 {q:'Under O.M. 13.03.2018, for an officer who is not his own Controlling Officer, the date of submission is:',o:['Date of presentation at Treasury','Date of submission to the Head of Office/Controlling Officer','Date of sanction','Date of payment'],a:1,w:'Para 3(ii).',c:'S7'},
-{q:'GFR Rule 291 concerns:',o:['LTC claims','Retired servants appearing in court to defend themselves — reference date is the judgment','Overtime','Arrears'],a:1,w:'Rule 291 (GFR updated to 31.01.2026).',c:'E13'},
+{q:'GFR Rule 291 concerns:',o:['Advances','Retired servants appearing in court to defend themselves — reference date is the judgment','Overtime','Arrears'],a:1,w:'Rule 291 (GFR updated to 31.01.2026).',c:'E13'},
 {q:'DoPT O.M. 24.11.2022 para 3.6.3 gives which reason for denying TTA to temporary employees with under 3 years’ regular continuous service?',o:['They are on probation','They are not entitled to joining time pay under the Joining Time Rules','They have no lien','They are on deputation'],a:1,w:'Text as reproduced in the NESTS order.',c:'ch13-003; E9'},
 {q:'Para 2A(iii)(b): road travel between places connected by rail may be by any public transport provided:',o:['Fare ≤ AC-I fare','Total fare does not exceed the train fare by the entitled class','Prior approval is taken','Level is 9+'],a:1,w:'Official text.',c:'S2'},
 {q:'Local non-officials called to a Committee (O.M. 14.09.2017) are entitled to:',o:['Full TA/DA','Mileage Allowance only','Nothing','DA only'],a:1,w:'Para 3(i)–(ii).',c:'E4; official table'},
@@ -34,7 +34,6 @@ const MCQ=[
 {q:'Which is NOT revised by the standing 25% clause of the 13.07.2017 O.M. when DA rises by 50%?',o:['Mileage allowance','Daily Allowance ceilings','Personal-effects road rates','House Rent Allowance'],a:3,w:'HRA is revised under its own O.M.',c:'ch08-008'},
 {q:'The 16.06.2022 air O.M. requires the journey certificate (Annexure-1) within:',o:['7 days','72 hours','30 days','21 days'],a:1,w:'Para 12.',c:'S8'},
 {q:'In the 16.06.2022 air O.M., the 21-day advance booking is:',o:['Compulsory','Encouraged','Prohibited','Required only for Level 14+'],a:1,w:'Para 4: employees are encouraged.',c:'S8'},
-{q:'How long does an employee’s TA claim for LTC take to fall due under GFR 292?',o:['On the date of sanction','On the date succeeding completion of the return journey','After 60 days','At year end'],a:1,w:'GFR text; the guide’s months-based figures conflict (E9).',c:'E9'},
 {q:'Obligatory departmental exam (SR 110): DA for halts at the exam centre?',o:['Admissible','Not admissible; only travel and journey-day DA','Half','Admissible for 3 days'],a:1,w:'SR 113 as stated in the guide.',c:'ch11-011'},
 {q:'Death-in-service family advance (SR 148) — maximum?',o:['50%','75% of probable travel expenses','90%','100%'],a:1,w:'GIO (3) as stated in the guide.',c:'ch11-007'},
 {q:'Immediate relief advance on demise of a Government servant:',o:['₹10,000','₹25,000','₹50,000','₹1,00,000'],a:1,w:'O.M. 12(1)/2016-E.II(A) as stated in the guide.',c:'ch11-008'},
@@ -44,7 +43,7 @@ const TRAPS=[
 ['Superseded order','O.M. 2017/2018','O.M. 19030/3/2008-E.IV dated 23.09.2008','ch01-004'],
 ['60 vs 180 days','60 days for everything','60 days tour/transfer/training; 180 days retirement (15.06.2021); neither is an advance-adjustment deadline','ch01-004, S7'],
 ['Who sets TA rates','GFR','The DoE O.M.; GFR 290 only sets the claim period','ch01-004'],
-['Air for Levels 6–8','Not allowed','Economy air on tour; not on LTC (CCS (LTC) Rule 12 position)','ch02-004, ch10-008'],
+['Air for Levels 6–8','Not allowed','Economy air on tour (Table A, Levels 6 to 11)','ch02-004'],
 ['Level 5 and below','“No air except relaxations”','Official table: First Class/AC-III/AC Chair car; no air row','E1'],
 ['DA time bands','50% / full-day rule','<6 h 30%; 6–12 h 70%; >12 h 100%; midnight to midnight, per day','ch03-008, S3'],
 ['Overnight journey','100% DA for both days','Each calendar day separately (e.g. 16 h → 100%, 2 h → 30%)','ch03-011, ch11-010'],
@@ -64,6 +63,6 @@ const TRAPS=[
 ['Premium trains','Always allowed','Barred by 22.04.2015; allowed by 13.07.2017 para 2A(ii)','S10'],
 ['Escort DA','Escort gets DA','No DA; mileage at the employee’s rate/class','S9'],
 ['Claim vs advance adjustment','60 days also adjusts the advance','Claim submission ≠ advance adjustment','ch06-004'],
-['LTC periods','Same as TA','LTC excluded from O.M. 13.03.2018; GFR 292 says 30/60 days (guide says 1/3 months — unresolved)','E9'],
 ['Technical resignation','Gives TTA automatically','Status ≠ TTA / Joining Time Pay; read Rule 4(4) with para 3.6.3','ch13-003']];
 module.exports={MCQ,TRAPS};
+

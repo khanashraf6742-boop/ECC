@@ -4,7 +4,7 @@ quick:{
 'ch06-005':'Retirement TA only for retiring pension, superannuation, invalid or compensation pension — NOT resignation, dismissal or removal. “Last station of duty” includes the whole Urban Agglomeration; moving within the UA without change of residence attracts no CTG.',
 'ch06-006':'Three special categories: re-employed persons (O.M. 19030/4/2020-E.IV, 24.01.2022); attendant/escort for employees with disabilities (O.M. 19030/3/2013-E.IV, 17.02.2015); sportspersons in national/international events in India — First Class rail (Economy air if outside India) regardless of pay level.',
 'ch06-007':'Passed TA bill may be revised/supplemented for arithmetic errors, retrospective DA increase, or omitted components — within 3 years of the original claim (GFR procedural). [uncertain — see source line 1468: the exam-trap sentence answers “Yes” while calling the June 2026 revision time-barred.]',
-'ch06-008':'Pensioner summoned (inquiry, medical board, court deposition) — not re-employment: TA/DA at the pay level at retirement; no LTC for pensioners.',
+'ch06-008':'Pensioner summoned (inquiry, medical board, court deposition) — not re-employment: TA/DA at the pay level at retirement.',
 'ch06-009':'Fact-sheet: 60 days / 180 days / 3-year revision / 75% advance / re-employed (24.01.2022) / escort (17.02.2015) / sportspersons First Class.'},
 hooks:{'ch06-004':'“60 is the rule, 180 is the retirement relief.” (source fix-phrase)','ch06-006':'R-A-S: Re-employed (2022), Attendant/Escort (2015), Sportspersons. (source hook)'},
 mcqs:[
@@ -18,4 +18,4 @@ cards:[
 {f:'Death-in-service family TA advance ceiling?',b:'Up to 75% of likely TA claim (SR 148; secondary compilation).',c:'ch06-004'},
 {f:'Retirement TA forfeited on…?',b:'Resignation, dismissal or removal as a disciplinary penalty.',c:'ch06-005'},
 {f:'Escort TA for employees with disabilities?',b:'O.M. 19030/3/2013-E.IV dated 17.02.2015.',c:'ch06-006'},
-{f:'Pensioner called for deposition — TA basis?',b:'TA/DA as per pay level at retirement; no LTC.',c:'ch06-008'}]};
+{f:'Pensioner called for deposition — TA basis?',b:'TA/DA as per pay level at retirement.',c:'ch06-008'}]};
